@@ -1,0 +1,320 @@
+{
+    "name": "Fiesta Criolla",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "",
+        "telephone_number": ["52413555"]
+    },
+    "location": {
+        "municipality": "Arroyo Naranjo",
+        "direction": "Calle 100 #1003 (después del puente de calabazar), Arroyo Naranjo",
+        "coordinates": ""
+    },
+    "valoration": {
+        "quality": "",
+        "google": null,
+        "cant_g": null,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["criolla"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": false,
+        "parking": true,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": true,
+        "10%": false
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "toston_criollo": {
+                    "price": 500.0,
+                    "type": "tostones",
+                    "principal_ingredient": "platano"
+                },
+                "toston_relleno_con_jamon_y_queso": {
+                    "price": 600.0,
+                    "type": "tostones",
+                    "principal_ingredient": "platano"
+                },
+                "toston_relleno_con_atun": {
+                    "price": 700.0,
+                    "type": "tostones",
+                    "principal_ingredient": "platano"
+                },
+                "eperlan": {
+                    "price": 1300.0,
+                    "type": "mariscos",
+                    "principal_ingredient": "pescado"
+                },
+                "fajitas_de_pollo": {
+                    "price": 1300.0,
+                    "type": "fajitas",
+                    "principal_ingredient": "pollo"
+                },
+                "caldo_de_mariscos": {
+                    "price": 1000.0,
+                    "type": "sopa",
+                    "principal_ingredient": "mariscos"
+                },
+                "camaron_rebosado": {
+                    "price": 2000.0,
+                    "type": "mariscos",
+                    "principal_ingredient": "camaron"
+                },
+                "tamal_en_hojas": {
+                    "price": 90.0,
+                    "type": "tamal",
+                    "principal_ingredient": "maiz"
+                },
+                "fritura_de_malanga": {
+                    "price": 500.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "malanga"
+                },
+                "platano_frito": {
+                    "price": 350.0,
+                    "type": "frito",
+                    "principal_ingredient": "platano"
+                },
+                "alitas_de_pollo": {
+                    "price": 850.0,
+                    "type": "alitas",
+                    "principal_ingredient": "pollo"
+                }
+            },
+            "main": {
+                "pollo_asado": {
+                    "price": 1150.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "pechuga_grille": {
+                    "price": 1450.0,
+                    "type": "pechuga",
+                    "principal_ingredient": "pollo"
+                },
+                "pechuga_gratinada_jamon_y_queso": {
+                    "price": 1600.0,
+                    "type": "pechuga",
+                    "principal_ingredient": "pollo"
+                },
+                "chuleta": {
+                    "price": 1350.0,
+                    "type": "chuleta",
+                    "principal_ingredient": "cerdo"
+                },
+                "pechuga_salteada_con_vegetales": {
+                    "price": 1550.0,
+                    "type": "pechuga",
+                    "principal_ingredient": "pollo"
+                },
+                "lomo_ahumado": {
+                    "price": 1350.0,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                },
+                "lomo_deshuesado_ahumado": {
+                    "price": 1550.0,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                },
+                "costillas_fritas": {
+                    "price": 1400.0,
+                    "type": "costillas",
+                    "principal_ingredient": "cerdo"
+                },
+                "masa_frita": {
+                    "price": 1550.0,
+                    "type": "carne frita",
+                    "principal_ingredient": "cerdo"
+                },
+                "bistec_grille": {
+                    "price": 1450.0,
+                    "type": "bistec",
+                    "principal_ingredient": "res"
+                },
+                "bistec_gratinado_de_jamon_y_queso": {
+                    "price": 1600.0,
+                    "type": "bistec",
+                    "principal_ingredient": "res"
+                },
+                "ropa_vieja": {
+                    "price": 1500.0,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "res"
+                },
+                "suprema_carnero": {
+                    "price": 1800.0,
+                    "type": "carne",
+                    "principal_ingredient": "carnero"
+                },
+                "fricase_de_carnero": {
+                    "price": 1500.0,
+                    "type": "estofado",
+                    "principal_ingredient": "carnero"
+                },
+                "camaron_grille": {
+                    "price": 1900.0,
+                    "type": "mariscos",
+                    "principal_ingredient": "camaron"
+                },
+                "langosta_grille": {
+                    "price": 1900.0,
+                    "type": "mariscos",
+                    "principal_ingredient": "langosta"
+                },
+                "pulpo_grille": {
+                    "price": 2000.0,
+                    "type": "mariscos",
+                    "principal_ingredient": "pulpo"
+                },
+                "pescado_grille": {
+                    "price": 1300.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "rueda_pescado_grille": {
+                    "price": 1300.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "pescado_grille_gratinado_con_jamon_y_queso": {
+                    "price": 1450.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "don_pedro": {
+                    "price": 2300.0,
+                    "type": "plato_especial",
+                    "principal_ingredient": "varios"
+                },
+                "masa_de_cangrejo": {
+                    "price": 1050.0,
+                    "type": "mariscos",
+                    "principal_ingredient": "cangrejo"
+                },
+                "caldero_de_mariscos": {
+                    "price": 3500.0,
+                    "type": "mariscos",
+                    "principal_ingredient": "mariscos"
+                },
+                "mar_y_tierra": {
+                    "price": 3950.0,
+                    "type": "plato_especial",
+                    "principal_ingredient": "mariscos_y_res"
+                },
+                "paella": {
+                    "price": 2300.0,
+                    "type": "arroz",
+                    "principal_ingredient": "mariscos"
+                },
+                "mariscada": {
+                    "price": 2500.0,
+                    "type": "mariscos",
+                    "principal_ingredient": "mariscos"
+                }
+            },
+            "fittings": {},
+            "pastas": {
+                "spaguetis_napolitanos": {
+                    "price": 1000.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "pasta"
+                },
+                "spaguetis_con_jamon_y_queso": {
+                    "price": 1250.0,
+                    "type": "queso",
+                    "principal_ingredient": "pasta"
+                }
+            },
+            "pizzas": {},
+            "additions": {},
+            "dessert": {
+                "dulce_tres_leches": {
+                    "price": 350.0,
+                    "type": "postre",
+                    "principal_ingredient": "leche"
+                }
+            },
+            "drinks": {
+                "general": {},
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

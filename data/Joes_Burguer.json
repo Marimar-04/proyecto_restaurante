@@ -1,0 +1,215 @@
+{
+    "name": "Joe's Burger",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/explore/locations/405655159980873/burger-joe-la-habana/",
+        "facebook": "",
+        "telephone_number": ["76400715"]
+    },
+    "location": {
+        "municipality": "Diez de Octubre",
+        "direction": "Esquina Mayia Rodriguez y Aranguren, Diez de Octubre",
+        "coordinates": "23.08825647612499, -82.37735038900456"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": 3.6,
+        "cant_g": 30,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": 3.5,
+        "cant_t": 3
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["rapida"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "08:00",
+            "tue": "08:00",
+            "wed": "08:00",
+            "thu": "08:00",
+            "fri": "08:00",
+            "sat": "08:00",
+            "sun": "08:00"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": true
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": false,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {},
+            "main": {
+                "hamburguesa_de_cerdo": {
+                    "price": 500,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "hamburguesa_de_pollo": {
+                    "price": 500,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "pollo"
+                },
+                "hamburguesa_de_res": {
+                    "price": 700,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "res"
+                },
+                "hamburguesa_doble": {
+                    "price": 900,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "res"
+                },
+                "bocadito_de_jamon_y_queso": {
+                    "price": 450,
+                    "type": "bocadillo",
+                    "principal_ingredient": "jamon y queso"
+                }
+            },
+            "fittings": {
+                "queso": {
+                    "price": 120,
+                    "type": "lacteo",
+                    "principal_ingredient": "queso"
+                },
+                "lechuga": {
+                    "price": 100,
+                    "type": "vegetal",
+                    "principal_ingredient": "lechuga"
+                },
+                "jamon": {
+                    "price": 100,
+                    "type": "embutido",
+                    "principal_ingredient": "jamon"
+                },
+                "chorizo": {
+                    "price": 80,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "bacon": {
+                    "price": 150,
+                    "type": "embutido",
+                    "principal_ingredient": "bacon"
+                },
+                "huevo": {
+                    "price": 150,
+                    "type": "proteina",
+                    "principal_ingredient": "huevo"
+                },
+                "cebolla": {
+                    "price": 50,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                },
+                "pepinillo": {
+                    "price": 50,
+                    "type": "vegetal",
+                    "principal_ingredient": "pepinillo"
+                },
+                "tomate": {
+                    "price": 100,
+                    "type": "vegetal",
+                    "principal_ingredient": "tomate"
+                }
+            },
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "limonada_frappe": {
+                        "price": 500,
+                        "type": "jugo",
+                        "principal_ingredient": "limon"
+                    },
+                    "batido_de_helado": {
+                        "price": 700,
+                        "type": "batido",
+                        "principal_ingredient": "helado"
+                    },
+                    "malteada": {
+                        "price": 500,
+                        "type": "batido",
+                        "principal_ingredient": "helado"
+                    },
+                    "potes_de_helado": {
+                        "price": 1000,
+                        "type": "helado",
+                        "principal_ingredient": "leche"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "cerveza": {
+                        "price": 350,
+                        "type": "cerveza",
+                        "principal_ingredient": "malta"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,348 @@
+{
+    "name": "La Mia Pizza",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/lamiapizza_/",
+        "facebook": "https://www.facebook.com/lamiapizzacuba/?locale=es_LA",
+        "telephone_number": ["51469744"]
+    },
+    "location": {
+        "municipality": "La Lisa",
+        "direction": "Avenida 29 entre 202 y 204, La Coronela",
+        "coordinates": "23.071358531564798, -82.45950281599848"
+    },
+    "valoration": {
+        "quality": "regular",
+        "google": 2.8,
+        "cant_g": 28,
+        "web": 2.4,
+        "cant_w": 23,
+        "tripadvisor": 1.5,
+        "cant_t": 6
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["italiana"],
+        "capacity": 30,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "10:30",
+            "tue": "10:30",
+            "wed": "10:30",
+            "thu": "10:30",
+            "fri": "10:30",
+            "sat": "10:30",
+            "sun": "10:30"
+        },
+        "close": {
+            "mon": "02:00",
+            "tue": "02:00",
+            "wed": "02:00",
+            "thu": "02:00",
+            "fri": "02:00",
+            "sat": "02:00",
+            "sun": "02:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": true,
+        "delibery_m": null,
+        "generator": null,
+        "wifi": false,
+        "parking": true,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "entremes_de_jamon_y_queso": {
+                    "price": 1400,
+                    "type": "entremes",
+                    "principal_ingredient": "jamon y queso"
+                },
+                "entremes_de_jamom": {
+                    "price": 500,
+                    "type": "entremes",
+                    "principal_ingredient": "jamon"
+                },
+                "entremes_de_ahumados": {
+                    "price": 440,
+                    "type": "entremes",
+                    "principal_ingredient": "ahumados"
+                },
+                "entremes_de_aceitunas": {
+                    "price": 300,
+                    "type": "entremes",
+                    "principal_ingredient": "aceitunas"
+                },
+                "dados_de_queso": {
+                    "price": 300,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "croquetas_de_embutidos": {
+                    "price": 220,
+                    "type": "croqueta",
+                    "principal_ingredient": "embutidos"
+                },
+                "crema_de_queso": {
+                    "price": 250,
+                    "type": "crema",
+                    "principal_ingredient": "queso"
+                },
+                "crema_aurora": {
+                    "price": 300,
+                    "type": "crema",
+                    "principal_ingredient": "aurora"
+                },
+                "crema_virginia": {
+                    "price": 430,
+                    "type": "crema",
+                    "principal_ingredient": "virginia"
+                },
+                "combinacion_del_menu_peques": {
+                    "price": 650,
+                    "type": "combinacion",
+                    "principal_ingredient": "variado"
+                }
+            },
+            "main": {},
+            "fittings": {},
+            "pastas": {
+                "lasagna_de_jamon": {
+                    "price": 500,
+                    "type": "lasagna",
+                    "principal_ingredient": "jamon"
+                },
+                "lasagna_de_jamon_y_chorizo": {
+                    "price": 610,
+                    "type": "lasagna",
+                    "principal_ingredient": "jamon y chorizo"
+                },
+                "espaghettis_napolitanos": {
+                    "price": 700,
+                    "type": "napolitana",
+                    "principal_ingredient": "espaguetis"
+                },
+                "espaghettis_a_la_carbonara": {
+                    "price": 860,
+                    "type": "carbonara",
+                    "principal_ingredient": "espaguetis"
+                },
+                "espaghettis_junior_napolitano": {
+                    "price": 300,
+                    "type": "napolitana",
+                    "principal_ingredient": "espaguetis"
+                }
+            },
+            "pizzas": {
+                "pizza_junior_napolitana": {
+                    "price": 350,
+                    "type": "napolitana",
+                    "principal_ingredient": "pizza"
+                },
+                "pizza_junior_la_mia": {
+                    "price": 1500,
+                    "type": "la mia",
+                    "principal_ingredient": "pizza"
+                },
+                "pizza_napolitana_de_32_cm": {
+                    "price": 700,
+                    "type": "napolitana",
+                    "principal_ingredient": "pizza"
+                },
+                "pizza_la_mia_de_32_cm": {
+                    "price": 2500,
+                    "type": "la mia",
+                    "principal_ingredient": "pizza"
+                },
+                "pizza_la_mia_de_queso_de_32_cm": {
+                    "price": 1900,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "pizza_tres_quesos_de_32_cm": {
+                    "price": 1700,
+                    "type": "queso",
+                    "principal_ingredient": "quesos"
+                },
+                "pizza_la_mia_familiar": {
+                    "price": 4800,
+                    "type": "la mia",
+                    "principal_ingredient": "pizza"
+                },
+                "pizza_la_mia_familiar_de_queso": {
+                    "price": 4000,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "pizza_familiar_napolitana": {
+                    "price": 2500,
+                    "type": "napolitana",
+                    "principal_ingredient": "pizza"
+                }
+            },
+            "additions": {
+                "queso": {
+                    "price": 320,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "jamon": {
+                    "price": 300,
+                    "type": "jamon",
+                    "principal_ingredient": "jamon"
+                }
+            },
+            "dessert": {
+                "helado_montado_3_bolas": {
+                    "price": 350,
+                    "type": "helado",
+                    "principal_ingredient": "helado"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "limonada_frappe": {
+                        "price": 1500,
+                        "type": "limonada",
+                        "principal_ingredient": "limon"
+                    },
+                    "refrescos": {
+                        "price": 220,
+                        "type": "refresco",
+                        "principal_ingredient": "variado"
+                    },
+                    "refrescos_de_pomo": {
+                        "price": 280,
+                        "type": "refresco",
+                        "principal_ingredient": "variado"
+                    },
+                    "malta": {
+                        "price": 250,
+                        "type": "malta",
+                        "principal_ingredient": "cebada"
+                    },
+                    "agua_natural": {
+                        "price": 160,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "agua_saborizada": {
+                        "price": 170,
+                        "type": "agua",
+                        "principal_ingredient": "sabor artificial"
+                    },
+                    "energizante": {
+                        "price": 250,
+                        "type": "energizante",
+                        "principal_ingredient": "variado"
+                    },
+                    "jugos_de_frutas_naturales": {
+                        "price": 200,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas"
+                    },
+                    "batidos_de_frutas_naturales": {
+                        "price": 250,
+                        "type": "batido",
+                        "principal_ingredient": "frutas"
+                    },
+                    "suero_de_helado": {
+                        "price": 350,
+                        "type": "suero",
+                        "principal_ingredient": "helado"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "ron_havana_club_3_anos": {
+                        "price": 175,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "ron_havana_club_7_anos": {
+                        "price": 225,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "pina_colada": {
+                        "price": 250,
+                        "type": "coctel",
+                        "principal_ingredient": "piña"
+                    },
+                    "cervezas": {
+                        "price": 270,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    },
+                    "michelada": {
+                        "price": 420,
+                        "type": "coctel",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "chelada": {
+                        "price": 340,
+                        "type": "coctel",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "vodka": {
+                        "price": 340,
+                        "type": "vodka",
+                        "principal_ingredient": "vodka"
+                    },
+                    "whisky": {
+                        "price": 340,
+                        "type": "whisky",
+                        "principal_ingredient": "whisky"
+                    }
+                }
+            }
+        }
+    }
+}

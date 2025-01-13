@@ -1,0 +1,484 @@
+{
+    "name": "Amalfi",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/amalfi_havana_restaurant/",
+        "facebook": "https://www.facebook.com/amalfihabana/?locale=es_LA",
+        "telephone_number": ["59495759"]
+    },
+    "location": {
+        "municipality": "Playa",
+        "direction": "calle 3ra, entre 36A y 38, #3612, Miramar, Playa, La Habana, Cuba, Havana, Cuba 11300",
+        "coordinates": "23.118857756567763, -82.42952136001638"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.1,
+        "cant_g": 47,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": 5.0,
+        "cant_t": 102
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["italiana"],
+        "capacity": 20,
+        "areas": {
+            "inside": true,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "22:30",
+            "tue": "22:30",
+            "wed": "22:30",
+            "thu": "22:30",
+            "fri": "22:30",
+            "sat": "22:30",
+            "sun": "22:30"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": 100,
+            "local": 0
+        },
+        "ecological": true
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": true,
+        "generator": true,
+        "wifi": true,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": false
+    },
+    "menu": {
+        "digital_menu": true,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": true,
+        "most_popular": "",
+        "card": {
+            "breakfast": {},
+            "breads": {},
+            "starters": {
+                "bruschetta": {
+                    "principal_ingredient": "pan",
+                    "type": "brusqueta",
+                    "price": 1600.0
+                },
+                "bruschetta_amalfi": {
+                    "principal_ingredient": "pan, jamón",
+                    "type": "brusqueta",
+                    "price": 1920.0
+                },
+                "focaccia_clasica": {
+                    "principal_ingredient": "harina",
+                    "type": "focaccia",
+                    "price": 1280.0
+                },
+                "parmigiana": {
+                    "principal_ingredient": "berenjena",
+                    "type": "parmigiana",
+                    "price": 2240.0
+                },
+                "carpaccio_pulpo": {
+                    "principal_ingredient": "pulpo",
+                    "type": "carpaccio",
+                    "price": 3840.0
+                },
+                "carpaccio_res": {
+                    "principal_ingredient": "res",
+                    "type": "carpaccio",
+                    "price": 4160.0
+                },
+                "carpaccio_atun": {
+                    "principal_ingredient": "atún",
+                    "type": "carpaccio",
+                    "price": 3520.0
+                },
+                "focaccia_500": {
+                    "principal_ingredient": "pan",
+                    "type": "focaccia",
+                    "price": 1280.0
+                },
+                "focaccia_con_prosciutto": {
+                    "principal_ingredient": "jamón",
+                    "type": "focaccia",
+                    "price": 3840.0
+                },
+                "focaccia_pomodoro_e_rucola": {
+                    "principal_ingredient": "tomate",
+                    "type": "focaccia",
+                    "price": 2560.0
+                },
+                "focaccia_salume_del_giorno_e_formaggio": {
+                    "principal_ingredient": "embutido",
+                    "type": "focaccia",
+                    "price": 3200.0
+                }
+            },
+            "main": {
+                "salsiccia_italiana_la_plancha": {
+                    "principal_ingredient": "salchicha italiana, ensalada, tostadas",
+                    "type": "salchicha",
+                    "price": 3840
+                },
+                "fantasia_di_mare": {
+                    "principal_ingredient": "mariscos",
+                    "type": "marisco",
+                    "price": 4800
+                },
+                "gambari_al_limone": {
+                    "principal_ingredient": "gambas",
+                    "type": "marisco",
+                    "price": 3840
+                },
+                "profumo_mediterraneo": {
+                    "principal_ingredient": "pescado",
+                    "type": "pescado",
+                    "price": 5120
+                }
+            },
+            "fittings": {
+                "ensalada_de_estacion": {
+                    "principal_ingredient": "verduras",
+                    "type": "ensalada",
+                    "price": 1280.0
+                },
+                "ensalada_positano": {
+                    "principal_ingredient": "huevo, cebolla, lechuga, mayonesa",
+                    "type": "ensalada",
+                    "price": 1920.0
+                },
+                "ensalada_ravello": {
+                    "principal_ingredient": "pepino, zanahoria, aceitunas, tomate, cebolla, rucula, queso",
+                    "type": "ensalada",
+                    "price": 1920.0
+                },
+                "ensalada_vettica": {
+                    "principal_ingredient": "queso, aceitunas negras, tomate",
+                    "type": "ensalada",
+                    "price": 1920.0
+                }
+            },
+            "pastas": {
+                "pomodoro_fresco": {
+                    "principal_ingredient": "tomate",
+                    "type": "napolitana",
+                    "price": 3520
+                },
+                "carbonara": {
+                    "principal_ingredient": "huevo, bacon",
+                    "type": "carbonara",
+                    "price": 3520
+                },
+                "amatriciana": {
+                    "principal_ingredient": "tomate, cebolla, bacon",
+                    "type": "amatriciana",
+                    "price": 3520
+                },
+                "carbonara_salsiccia": {
+                    "principal_ingredient": "huevo, salchiccia italiana",
+                    "type": "carbonara",
+                    "price": 3840
+                },
+                "puttanesca": {
+                    "principal_ingredient": "tomate, alcaparra, aceitunas",
+                    "type": "puttanesca",
+                    "price": 3840
+                },
+                "ragu_malale": {
+                    "principal_ingredient": "carne de cerdo",
+                    "type": "bolonesa",
+                    "price": 3840
+                },
+                "zucca_e_salsiccia": {
+                    "principal_ingredient": "calabaza, salchiccia italiana",
+                    "type": "zucca",
+                    "price": 3840
+                },
+                "funghi_e_salsiccia": {
+                    "principal_ingredient": "hongos porcini, salchiccia italiana",
+                    "type": "champinon",
+                    "price": 4800
+                },
+                "penne_a_la_sorrentina": {
+                    "principal_ingredient": "tomate, albahaca",
+                    "type": "napolitana",
+                    "price": 3840
+                },
+                "spaghetti_con_bottarga": {
+                    "principal_ingredient": "bottarga",
+                    "type": "pasta",
+                    "price": 3200
+                },
+                "penne_al_salmon": {
+                    "principal_ingredient": "salmón",
+                    "type": "pasta",
+                    "price": 3840
+                },
+                "pasta_amalfi": {
+                    "principal_ingredient": "tomate, camarones, rúcula",
+                    "type": "pasta",
+                    "price": 3840
+                },
+                "spaghetti_cetara": {
+                    "principal_ingredient": "anchoas, alcaparra, aceitunas negras",
+                    "type": "pasta",
+                    "price": 3840
+                },
+                "linguine_con_calamar": {
+                    "principal_ingredient": "calamar",
+                    "type": "pasta",
+                    "price": 5120
+                },
+                "pasta_mediterranea": {
+                    "principal_ingredient": "frutos del mar",
+                    "type": "pasta",
+                    "price": 5120
+                }
+            },
+            "pizzas": {
+                "pizza_margarita": {
+                    "principal_ingredient": "tomate, mozzarella",
+                    "type": "margarita",
+                    "price": 1920.0
+                },
+                "pizza_de_la_casa": {
+                    "principal_ingredient": "variedad",
+                    "type": "pizza",
+                    "price": 3520.0
+                },
+                "pizza_vegetariana": {
+                    "principal_ingredient": "verduras",
+                    "type": "vegetariana",
+                    "price": 2560.0
+                },
+                "pizza_mixta": {
+                    "principal_ingredient": "combinada",
+                    "type": "pizza",
+                    "price": 3200.0
+                },
+                "pizza_de_atun": {
+                    "principal_ingredient": "atun",
+                    "type": "atun",
+                    "price": 3200.0
+                },
+                "pizza_de_brocoli_y_salchicha": {
+                    "principal_ingredient": "brocoli, salchicha",
+                    "type": "pizza",
+                    "price": 2880.0
+                },
+                "pizza_diavola": {
+                    "principal_ingredient": "salami picante",
+                    "type": "pizza",
+                    "price": 3880.0
+                },
+                "pizza_de_serrano": {
+                    "principal_ingredient": "jamon serrano",
+                    "type": "pizza",
+                    "price": 3200.0
+                },
+                "pizza_romana": {
+                    "principal_ingredient": "estilo romano",
+                    "type": "romana",
+                    "price": 3200.0
+                },
+                "pizza_de_jamon_barra": {
+                    "principal_ingredient": "jamón",
+                    "type": "pizza",
+                    "price": 2560.0
+                }
+            },
+            "additions": {},
+            "desserts": {
+                "torta_al_limon": {
+                    "principal_ingredient": "limon",
+                    "type": "pastel",
+                    "price": 1280
+                },
+                "tortino_al_cioccolato": {
+                    "principal_ingredient": "chocolate",
+                    "type": "pastel",
+                    "price": 1600
+                },
+                "profiterol": {
+                    "principal_ingredient": "crema, pasta choux",
+                    "type": "pastel",
+                    "price": 1280
+                },
+                "tiramisu": {
+                    "principal_ingredient": "café, queso mascarpone",
+                    "type": "tiramisu",
+                    "price": 1280
+                },
+                "tiramisu_pan_di_stelle": {
+                    "principal_ingredient": "café, queso mascarpone, galletas",
+                    "type": "tiramisu",
+                    "price": 1600
+                },
+                "delicia_del_dia": {
+                    "principal_ingredient": "variedad",
+                    "type": "dulce",
+                    "price": 1280
+                }
+            },
+            "drinks": {
+                "general": {
+                    "agua_nacional": {
+                        "principal_ingredient": "agua",
+                        "type": "agua",
+                        "price": 500
+                    },
+                    "agua_importada": {
+                        "principal_ingredient": "agua",
+                        "type": "agua importada",
+                        "price": 850
+                    },
+                    "refresco_nacional": {
+                        "principal_ingredient": "refresco",
+                        "type": "refresco",
+                        "price": 420
+                    },
+                    "refresco_importado": {
+                        "principal_ingredient": "refresco",
+                        "type": "refresco importado",
+                        "price": 750
+                    },
+                    "limonada": {
+                        "principal_ingredient": "limón",
+                        "type": "limonada",
+                        "price": 840
+                    },
+                    "jugo_natural": {
+                        "principal_ingredient": "jugo",
+                        "type": "jugo",
+                        "price": 700
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "cerveza": {
+                        "principal_ingredient": "cerveza",
+                        "type": "cerveza",
+                        "price": 980
+                    },
+                    "daiquiri": {
+                        "principal_ingredient": "ron, jugo de lima, azúcar",
+                        "type": "coctel",
+                        "price": 1400
+                    },
+                    "cuba_libre": {
+                        "principal_ingredient": "ron, coca-cola, limón",
+                        "type": "coctel",
+                        "price": 1400
+                    },
+                    "cubanito": {
+                        "principal_ingredient": "ron, cola, limón",
+                        "type": "coctel",
+                        "price": 1400
+                    },
+                    "cubata": {
+                        "principal_ingredient": "ron, cola, limón",
+                        "type": "coctel",
+                        "price": 1400
+                    },
+                    "mojito": {
+                        "principal_ingredient": "ron, hierbabuena, lima, azúcar, soda",
+                        "type": "coctel",
+                        "price": 1400
+                    },
+                    "caipiroska": {
+                        "principal_ingredient": "vodka, limón, azúcar",
+                        "type": "coctel",
+                        "price": 1400
+                    },
+                    "caipirinna": {
+                        "principal_ingredient": "cachaça, limón, azúcar",
+                        "type": "coctel",
+                        "price": 1400
+                    },
+                    "caipirissima": {
+                        "principal_ingredient": "ron blanco, limón, azúcar",
+                        "type": "coctel",
+                        "price": 1400
+                    },
+                    "sangria": {
+                        "principal_ingredient": "vino tinto, frutas, azúcar",
+                        "type": "coctel",
+                        "price": 1400
+                    },
+                    "margarita": {
+                        "principal_ingredient": "tequila, licor de naranja, limón",
+                        "type": "coctel",
+                        "price": 1400
+                    },
+                    "gin_tonic": {
+                        "principal_ingredient": "ginebra, tónica",
+                        "type": "coctel",
+                        "price": 1400
+                    },
+                    "pinna_colada": {
+                        "principal_ingredient": "ron, crema de coco, piña",
+                        "type": "coctel",
+                        "price": 1400
+                    },
+                    "negroni": {
+                        "principal_ingredient": "ginebra, vermú rojo, vermut dulce",
+                        "type": "coctel",
+                        "price": 2240
+                    },
+                    "copa_de_vino": {
+                        "principal_ingredient": "vino",
+                        "type": "vino",
+                        "price": 1260
+                    },
+                    "copa_de_vino_italiano": {
+                        "principal_ingredient": "vino",
+                        "type": "vino",
+                        "price": 1680
+                    }
+                }
+            }
+        }
+    }
+}

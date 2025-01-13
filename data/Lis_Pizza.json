@@ -1,0 +1,369 @@
+{
+    "name": "Dona Lis",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/donalis_pizza/p/DELgyK7Ra6g/",
+        "facebook": "https://www.facebook.com/p/DO%C3%91A-LIS-100092583440020/?locale=mt_MT",
+        "telephone_number": ["5510909"]
+    },
+    "location": {
+        "municipality": "Plaza de la Revolucion",
+        "direction": "",
+        "coordinates": "23.137279754062316, -82.3786801429917"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": 5.0,
+        "cant_g": 1,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["italiana"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "10:00",
+            "tue": "10:00",
+            "wed": "10:00",
+            "thu": "10:00",
+            "fri": "10:00",
+            "sat": "10:00",
+            "sun": "10:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": null,
+        "generator": false,
+        "wifi": null,
+        "parking": false,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "don_hamburgueso_vianda_frita": {
+                    "price": 550.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "Carne de res"
+                },
+                "hamburguesa_dona_lis_vianda_frita": {
+                    "price": 1000.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "Carne de res"
+                },
+                "cheeseburger_vianda_frita": {
+                    "price": 650.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "Carne de res y queso"
+                },
+                "sandwich_atun_vianda_frita": {
+                    "price": 650.0,
+                    "type": "sandwich",
+                    "principal_ingredient": "Atún"
+                },
+                "sandwich_jamon_y_queso_vianda_frita": {
+                    "price": 550.0,
+                    "type": "sandwich",
+                    "principal_ingredient": "Jamon y queso"
+                },
+                "sandwich_pollo_y_vegetales_vianda_frita": {
+                    "price": 650.0,
+                    "type": "sandwich",
+                    "principal_ingredient": "Pollo y vegetales"
+                }
+            },
+            "starters": {
+                "croquetas": {
+                    "price": 400.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "Harina y jamón"
+                },
+                "bolitas_de_queso_jamon": {
+                    "price": 500.0,
+                    "type": "bolita",
+                    "principal_ingredient": "Queso y jamón"
+                },
+                "bolitas_de_pescado": {
+                    "price": 450.0,
+                    "type": "bolita",
+                    "principal_ingredient": "Pescado"
+                },
+                "frituras_malanga": {
+                    "price": 350.0,
+                    "type": "fritura",
+                    "principal_ingredient": "Malanga"
+                },
+                "papas_fritas": {
+                    "price": 500.0,
+                    "type": "papas fritas",
+                    "principal_ingredient": "Papas"
+                },
+                "fajitas_de_pollo": {
+                    "price": 600.0,
+                    "type": "fajita",
+                    "principal_ingredient": "Pollo"
+                },
+                "tostones_rellenos": {
+                    "price": 500.0,
+                    "type": "tostones",
+                    "principal_ingredient": "Plátano"
+                },
+                "nachos": {
+                    "price": 300.0,
+                    "type": "nachos",
+                    "principal_ingredient": "Maíz"
+                },
+                "racion_yuca_mojo": {
+                    "price": 250.0,
+                    "type": "yuca",
+                    "principal_ingredient": "Yuca"
+                }
+            },
+            "main": {
+                "tacos_al_pastor": {
+                    "price": 700.0,
+                    "type": "taco",
+                    "principal_ingredient": "Carne de cerdo"
+                },
+                "tacos_cerdo": {
+                    "price": 800.0,
+                    "type": "taco",
+                    "principal_ingredient": "Cerdo"
+                },
+                "tacos_pollo_vegetales": {
+                    "price": 700.0,
+                    "type": "taco",
+                    "principal_ingredient": "Pollo"
+                },
+                "tacos_de_pescado": {
+                    "price": 750.0,
+                    "type": "taco",
+                    "principal_ingredient": "Pescado"
+                },
+                "pechuga_grille": {
+                    "price": 800.0,
+                    "type": "pechuga",
+                    "principal_ingredient": "Pollo"
+                },
+                "pechuga_empanada": {
+                    "price": 850.0,
+                    "type": "pechuga empanada",
+                    "principal_ingredient": "Pollo"
+                },
+                "fajitas_salteadas": {
+                    "price": 700.0,
+                    "type": "fajita",
+                    "principal_ingredient": "Pollo y vegetales"
+                },
+                "bistec_de_cerdo": {
+                    "price": 900.0,
+                    "type": "bistec",
+                    "principal_ingredient": "Cerdo"
+                },
+                "bistec_de_cerdo_gratinado": {
+                    "price": 1000.0,
+                    "type": "bistec",
+                    "principal_ingredient": "Cerdo"
+                },
+                "filete_de_pescado_grille": {
+                    "price": 900.0,
+                    "type": "filete",
+                    "principal_ingredient": "Pescado"
+                }
+            },
+            "fittings": {},
+            "pastas": {
+                "lasana": {
+                    "price": 800.0,
+                    "type": "lasaña",
+                    "principal_ingredient": "Carne y pasta"
+                },
+                "pasta_napolitana": {
+                    "price": 500.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "Tomate y pasta"
+                },
+                "pasta_vegetariana": {
+                    "price": 650.0,
+                    "type": "vegetariana",
+                    "principal_ingredient": "Verduras y pasta"
+                }
+            },
+            "pizzas": {
+                "pizza_napolitana": {
+                    "price": 650.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "Tomate y queso"
+                },
+                "pizza_margarita": {
+                    "price": 700.0,
+                    "type": "margarita",
+                    "principal_ingredient": "Tomate y queso"
+                },
+                "pizza_hawaiana": {
+                    "price": 900.0,
+                    "type": "hawaiana",
+                    "principal_ingredient": "Jamon y piña"
+                },
+                "pizza_dona_lis": {
+                    "price": 1400.0,
+                    "type": "especial",
+                    "principal_ingredient": "Carne y vegetales"
+                }
+            },
+            "additions": {},
+            "dessert": {
+                "pote_de_helado": {
+                    "price": 750.0,
+                    "type": "helado",
+                    "principal_ingredient": "Leche y azúcar"
+                },
+                "paleta_de_helado": {
+                    "price": 200.0,
+                    "type": "helado",
+                    "principal_ingredient": "Fruta o leche"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "jugo_natural": {
+                        "price": 150.0,
+                        "type": "jugo",
+                        "principal_ingredient": "Fruta"
+                    },
+                    "batido_de_fruta": {
+                        "price": 350.0,
+                        "type": "batido",
+                        "principal_ingredient": "Fruta"
+                    },
+                    "batido_de_trigo": {
+                        "price": 500.0,
+                        "type": "batido",
+                        "principal_ingredient": "Trigo"
+                    },
+                    "malteada": {
+                        "price": 500.0,
+                        "type": "batido",
+                        "principal_ingredient": "Leche y helado"
+                    },
+                    "batido_de_helado": {
+                        "price": 500.0,
+                        "type": "batido",
+                        "principal_ingredient": "Helado"
+                    },
+                    "limonada_frappé": {
+                        "price": 300.0,
+                        "type": "limonada",
+                        "principal_ingredient": "Limón"
+                    },
+                    "malta": {
+                        "price": 300.0,
+                        "type": "malta",
+                        "principal_ingredient": "Cebada"
+                    },
+                    "energizante": {
+                        "price": 250.0,
+                        "type": "energizante",
+                        "principal_ingredient": "Cafeína"
+                    },
+                    "refresco": {
+                        "price": 280.0,
+                        "type": "refresco",
+                        "principal_ingredient": "Azúcar"
+                    },
+                    "agua": {
+                        "price": 180.0,
+                        "type": "agua",
+                        "principal_ingredient": "Agua"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "servicio_michelada": {
+                        "price": 300.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Cerveza y limón"
+                    },
+                    "servicio_chelada": {
+                        "price": 200.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Cerveza y limón"
+                    },
+                    "cerveza_nacional": {
+                        "price": 300.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "Cebada"
+                    },
+                    "cerveza_de_botella": {
+                        "price": 300.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "Cebada"
+                    },
+                    "cerveza_importada": {
+                        "price": 280.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "Cebada"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,367 @@
+{
+    "name": "The Place",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/ThePlaceCuba/",
+        "telephone_number": ["58382601"]
+    },
+    "location": {
+        "municipality": "Boyeros",
+        "direction": "calle 100, pasando Aldabo, Boyeros",
+        "coordinates": "23.052139542676485, -82.38158780306786"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": 1.5,
+        "cant_g": 2,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": 4.0,
+        "cant_t": 27
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": true,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "08:00",
+            "tue": "08:00",
+            "wed": "08:00",
+            "thu": "08:00",
+            "fri": "08:00",
+            "sat": "08:00",
+            "sun": "08:00"
+        },
+        "close": {
+            "mon": "03:00",
+            "tue": "03:00",
+            "wed": "03:00",
+            "thu": "03:00",
+            "fri": "03:00",
+            "sat": "03:00",
+            "sun": "03:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": false,
+        "parking": true,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": false
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "croquetas": {
+                    "price": 600.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "carne"
+                },
+                "eperlan": {
+                    "price": 900.0,
+                    "type": "eperlan",
+                    "principal_ingredient": "pez"
+                },
+                "tostones": {
+                    "price": 500.0,
+                    "type": "tostones",
+                    "principal_ingredient": "plátano"
+                },
+                "frituras_malanga": {
+                    "price": 500.0,
+                    "type": "fritura",
+                    "principal_ingredient": "malanga"
+                },
+                "garbanzos_fritos": {
+                    "price": 1950.0,
+                    "type": "fritura",
+                    "principal_ingredient": "garbanzo"
+                },
+                "sopon_imperial": {
+                    "price": 1300.0,
+                    "type": "sopón",
+                    "principal_ingredient": "mariscos"
+                },
+                "picadera_the_place": {
+                    "price": 2300.0,
+                    "type": "picada",
+                    "principal_ingredient": "mixto"
+                },
+                "papas_fritas": {
+                    "price": 800.0,
+                    "type": "papas fritas",
+                    "principal_ingredient": "papa"
+                }
+            },
+            "main": {
+                "pechuga_pollo_grille": {
+                    "price": 1400.0,
+                    "type": "bistec",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_frito": {
+                    "price": 1200.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "bistec_cerdo_grille": {
+                    "price": 1600.0,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "bistec_uruguayo": {
+                    "price": 1800.0,
+                    "type": "bistec",
+                    "principal_ingredient": "res"
+                },
+                "costilla_cerdo": {
+                    "price": 1700.0,
+                    "type": "costilla",
+                    "principal_ingredient": "cerdo"
+                },
+                "masa_cerdo_frita": {
+                    "price": 1700.0,
+                    "type": "masas",
+                    "principal_ingredient": "cerdo"
+                },
+                "chilindron_cordero": {
+                    "price": 1950.0,
+                    "type": "guiso",
+                    "principal_ingredient": "cordero"
+                },
+                "ropa_vieja": {
+                    "price": 1500.0,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "res"
+                },
+                "bistec_res": {
+                    "price": 1800.0,
+                    "type": "bistec",
+                    "principal_ingredient": "res"
+                },
+                "chuleta_cerdo": {
+                    "price": 1750.0,
+                    "type": "chuleta",
+                    "principal_ingredient": "cerdo"
+                },
+                "chuleton": {
+                    "price": 3000.0,
+                    "type": "chuletón",
+                    "principal_ingredient": "res"
+                },
+                "pescado": {
+                    "price": 1500.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "canciller": {
+                    "price": 1800.0,
+                    "type": "pescado",
+                    "principal_ingredient": "mariscos"
+                },
+                "langosta_en_sus_variedades": {
+                    "price": 1950.0,
+                    "type": "marisco",
+                    "principal_ingredient": "langosta"
+                },
+                "camaron": {
+                    "price": 1500.0,
+                    "type": "marisco",
+                    "principal_ingredient": "camarón"
+                }
+            },
+            "fittings": {},
+            "pastas": {
+                "espaguetis_napolitanos": {
+                    "price": 800.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "tomate"
+                }
+            },
+            "pizzas": {
+                "pizza_napolitana": {
+                    "price": 800.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "tomate"
+                }
+            },
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "malta_bucanero": {
+                        "price": 300.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "malta"
+                    },
+                    "lata_refresco": {
+                        "price": 290.0,
+                        "type": "refresco",
+                        "principal_ingredient": "azúcar"
+                    },
+                    "caja_jugos": {
+                        "price": 260.0,
+                        "type": "jugo",
+                        "principal_ingredient": "fruta"
+                    },
+                    "pomo_agua": {
+                        "price": 200.0,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "energizante": {
+                        "price": 330.0,
+                        "type": "energizante",
+                        "principal_ingredient": "cafeína"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "jarra_cerveza_cristal": {
+                        "price": 300.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "termo_cerveza_cristal": {
+                        "price": 2000.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "cerveza_cristal": {
+                        "price": 300.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "cerveza_importada": {
+                        "price": 250.0,
+                        "type": "cerveza importada",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "caipiroska": {
+                        "price": 500.0,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "caipirisima": {
+                        "price": 500.0,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "mojito": {
+                        "price": 520.0,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "gin_tonic": {
+                        "price": 500.0,
+                        "type": "coctel",
+                        "principal_ingredient": "gin"
+                    },
+                    "sangria": {
+                        "price": 600.0,
+                        "type": "coctel",
+                        "principal_ingredient": "vino"
+                    },
+                    "michelada": {
+                        "price": 900.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "chelada": {
+                        "price": 500.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "margarita": {
+                        "price": 550.0,
+                        "type": "coctel",
+                        "principal_ingredient": "tequila"
+                    },
+                    "red_label": {
+                        "price": 550.0,
+                        "type": "whisky",
+                        "principal_ingredient": "whisky"
+                    },
+                    "old_pard": {
+                        "price": 950.0,
+                        "type": "whisky",
+                        "principal_ingredient": "whisky"
+                    },
+                    "jamerson": {
+                        "price": 600.0,
+                        "type": "whisky",
+                        "principal_ingredient": "whisky"
+                    },
+                    "tequila": {
+                        "price": 450.0,
+                        "type": "tequila",
+                        "principal_ingredient": "tequila"
+                    },
+                    "tequila_reposado": {
+                        "price": 500.0,
+                        "type": "tequila",
+                        "principal_ingredient": "tequila"
+                    },
+                    "seleccion_maestro": {
+                        "price": 1150.0,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "pacto_navio": {
+                        "price": 1150.0,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    }
+                }
+            }
+        }
+    }
+}

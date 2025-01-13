@@ -1,0 +1,274 @@
+{
+    "name": "Jorgito's Pizzas",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/jorgitospizza/",
+        "facebook": "https://www.facebook.com/jorgitospizza/",
+        "telephone_number": ["54031349", "78780156"]
+    },
+    "location": {
+        "municipality": "Cerro",
+        "direction": "Pedroso entre Infanta y Cruz del Pader",
+        "coordinates": "23.121003708630884, -82.3731859620421"
+    },
+    "valoration": {
+        "quality": "",
+        "google": 4.0,
+        "cant_g": 4,
+        "web": 4.2,
+        "cant_w": 5,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["italiana"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "11:00",
+            "tue": "11:00",
+            "wed": "11:00",
+            "thu": "11:00",
+            "fri": "11:00",
+            "sat": "11:00",
+            "sun": "11:00"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": null,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {},
+            "main": {},
+            "fittings": {},
+            "pastas": {
+                "spaghetti_c_queso_gouda": {
+                    "price": 690,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                }
+            },
+            "pizzas": {
+                "pizza_de_queso_gouda_20cm": {
+                    "price": 410,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                },
+                "pizza_de_queso_gouda_32cm": {
+                    "price": 750,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                },
+                "pizza_de_2_quesos_32cm": {
+                    "price": 990,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                },
+                "pizza_hawaiana_32cm": {
+                    "price": 1110,
+                    "type": "hawaiana",
+                    "principal_ingredient": "piña"
+                },
+                "pizza_de_3_quesos_32cm": {
+                    "price": 1320,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                },
+                "pizza_de_4_quesos_32cm": {
+                    "price": 1500,
+                    "type": "4 quesos",
+                    "principal_ingredient": "queso gouda"
+                },
+                "pizza_de_vegetales_32cm": {
+                    "price": 1650,
+                    "type": "vegetales",
+                    "principal_ingredient": "vegetales"
+                },
+                "pizza_familiar_de_queso_gouda_40x50cm": {
+                    "price": 1820,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                },
+                "pizza_familiar_de_2_quesos_40x50cm": {
+                    "price": 2780,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                },
+                "pizza_familiar_hawaiana_40x50cm": {
+                    "price": 3260,
+                    "type": "hawaiana",
+                    "principal_ingredient": "piña"
+                },
+                "pizza_familiar_de_3_quesos_40x50cm": {
+                    "price": 3345,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                },
+                "pizza_familiar_de_4_quesos_40x50cm": {
+                    "price": 3470,
+                    "type": "4 quesos",
+                    "principal_ingredient": "queso gouda"
+                },
+                "pizza_familiar_de_vegetales_40x50cm": {
+                    "price": 5420,
+                    "type": "vegetales",
+                    "principal_ingredient": "vegetales"
+                },
+                "pizza_especial_con_todos_los_agregos_35cm": {
+                    "price": 3800,
+                    "type": "especial",
+                    "principal_ingredient": "varios ingredientes"
+                }
+            },
+            "additions": {
+                "chorizo": {
+                    "price": 170,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "chorizo_familiar": {
+                    "price": 680,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "piña": {
+                    "price": 180,
+                    "type": "fruta",
+                    "principal_ingredient": "piña"
+                },
+                "jamon": {
+                    "price": 180,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "jamon_familiar": {
+                    "price": 720,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "queso_nacional": {
+                    "price": 180,
+                    "type": "queso",
+                    "principal_ingredient": "queso nacional"
+                },
+                "queso_mozzarella": {
+                    "price": 240,
+                    "type": "queso",
+                    "principal_ingredient": "queso mozzarella"
+                },
+                "pimiento": {
+                    "price": 250,
+                    "type": "vegetal",
+                    "principal_ingredient": "pimiento"
+                },
+                "pimiento_familiar": {
+                    "price": 1000,
+                    "type": "vegetal",
+                    "principal_ingredient": "pimiento"
+                },
+                "cebolla": {
+                    "price": 300,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                },
+                "cebolla_familiar": {
+                    "price": 1200,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                },
+                "queso_gouda": {
+                    "price": 300,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                },
+                "queso_gouda_familiar": {
+                    "price": 1200,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                },
+                "queso_parmesano": {
+                    "price": 330,
+                    "type": "queso",
+                    "principal_ingredient": "queso parmesano"
+                },
+                "atun": {
+                    "price": 330,
+                    "type": "atun",
+                    "principal_ingredient": "atún"
+                },
+                "aceituna": {
+                    "price": 350,
+                    "type": "vegetal",
+                    "principal_ingredient": "aceituna"
+                }
+            },
+            "dessert": {},
+            "drinks": {
+                "general": {},
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

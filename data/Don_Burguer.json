@@ -1,0 +1,383 @@
+{
+    "name": "Don Burguer",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/donburguercuba/?hl=es",
+        "facebook": "https://www.facebook.com/donburguerjj/",
+        "telephone_number": ["56073379"]
+    },
+    "location": {
+        "municipality": "Arroyo Naranjo",
+        "direction": "Calzada de 10 de Octubre, entre  Aranguren y Santa Isabel, La Palma, Arroyo Naranjo",
+        "coordinates": "23.075393185964455, -82.35835094670952"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 5.0,
+        "cant_g": 3,
+        "web": 5.0,
+        "cant_w": 1,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["rapida"],
+        "capacity": 20,
+        "areas": {
+            "inside": false,
+            "outside": true,
+            "bar": false,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "10:00",
+            "tue": "10:00",
+            "wed": "10:00",
+            "thu": "10:00",
+            "fri": "10:00",
+            "sat": "10:00",
+            "sun": "10:00"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": false,
+        "parking": true,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "hamburguesa_cerdo": {
+                    "price": 740.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "hamburguesa_pollo": {
+                    "price": 740.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "pollo"
+                },
+                "hamburguesa_res": {
+                    "price": 860.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "res"
+                },
+                "doble_hamburguesa_cerdo": {
+                    "price": 1040.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "doble_hamburguesa_pollo": {
+                    "price": 1040.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "pollo"
+                },
+                "doble_hamburguesa_res": {
+                    "price": 1480.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "res"
+                },
+                "doble_hamburguesa_de_cerdo": {
+                    "price": 2680.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "pan_c_bistec_de_cerdo": {
+                    "price": 840.0,
+                    "type": "pan",
+                    "principal_ingredient": "cerdo"
+                },
+                "pan_c_bistec_de_pollo": {
+                    "price": 810.0,
+                    "type": "pan",
+                    "principal_ingredient": "pollo"
+                },
+                "pan_c_lechon": {
+                    "price": 890.0,
+                    "type": "pan",
+                    "principal_ingredient": "lechon"
+                },
+                "bocadito_de_atun": {
+                    "price": 840.0,
+                    "type": "bocadito",
+                    "principal_ingredient": "atun"
+                },
+                "sandwich_de_jamon_queso_y_chorizo": {
+                    "price": 890.0,
+                    "type": "sandwich",
+                    "principal_ingredient": "jamon queso y chorizo"
+                },
+                "sandwich_cubano": {
+                    "price": 1290.0,
+                    "type": "sandwich",
+                    "principal_ingredient": "lechon"
+                }
+            },
+            "starters": {
+                "ensalada_fria": {
+                    "price": 580.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                },
+
+                "bolitas_de_queso": {
+                    "price": 640.0,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "frituras_de_malanga": {
+                    "price": 510.0,
+                    "type": "fritura",
+                    "principal_ingredient": "malanga"
+                },
+                "croquetas": {
+                    "price": 640.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "jamon"
+                },
+                "papitas": {
+                    "price": 640.0,
+                    "type": "papas",
+                    "principal_ingredient": "papas"
+                },
+                "fajitas_de_pollo": {
+                    "price": 940.0,
+                    "type": "fajitas",
+                    "principal_ingredient": "pollo"
+                },
+                "entremes_surtido": {
+                    "price": 1720.0,
+                    "type": "entremes",
+                    "principal_ingredient": "varios"
+                },
+                "brusquetas": {
+                    "price": 780.0,
+                    "type": "pan",
+                    "principal_ingredient": "pan"
+                },
+                "burritos_de_jamon_y_queso": {
+                    "price": 1260.0,
+                    "type": "burritos",
+                    "principal_ingredient": "jamon y queso"
+                }
+            },
+            "main": {
+                "tacos_de_vegetales": {
+                    "price": 620.0,
+                    "type": "tacos",
+                    "principal_ingredient": "vegetales"
+                },
+                "tacos_de_cerdo": {
+                    "price": 1120.0,
+                    "type": "tacos",
+                    "principal_ingredient": "cerdo"
+                },
+                "tacos_de_pollo": {
+                    "price": 1120.0,
+                    "type": "tacos",
+                    "principal_ingredient": "pollo"
+                },
+                "tacos_de_res": {
+                    "price": 1280.0,
+                    "type": "tacos",
+                    "principal_ingredient": "res"
+                }
+            },
+            "fittings": {},
+            "pastas": {},
+            "pizzas": {},
+            "additions": {
+                "aceitunas": {
+                    "price": 420.0,
+                    "type": "aceitunas",
+                    "principal_ingredient": "aceitunas"
+                },
+                "jamon_vicking": {
+                    "price": 120.0,
+                    "type": "jamon",
+                    "principal_ingredient": "jamon"
+                },
+                "jamon_pierna": {
+                    "price": 190.0,
+                    "type": "jamon",
+                    "principal_ingredient": "pierna"
+                },
+                "bacon": {
+                    "price": 190.0,
+                    "type": "bacon",
+                    "principal_ingredient": "bacon"
+                },
+                "queso": {
+                    "price": 150.0,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "chorizo": {
+                    "price": 120.0,
+                    "type": "chorizo",
+                    "principal_ingredient": "chorizo"
+                },
+                "huevo": {
+                    "price": 190.0,
+                    "type": "huevo",
+                    "principal_ingredient": "huevo"
+                },
+                "cebolla": {
+                    "price": 60.0,
+                    "type": "cebolla",
+                    "principal_ingredient": "cebolla"
+                },
+                "tomate": {
+                    "price": 60.0,
+                    "type": "tomate",
+                    "principal_ingredient": "tomate"
+                },
+                "lechuga": {
+                    "price": 30.0,
+                    "type": "lechuga",
+                    "principal_ingredient": "lechuga"
+                },
+                "pepinillo_encurtido": {
+                    "price": 30.0,
+                    "type": "pepinillo",
+                    "principal_ingredient": "pepinillo"
+                },
+                "pina_glaseada": {
+                    "price": 80.0,
+                    "type": "pina",
+                    "principal_ingredient": "pina"
+                }
+            },
+            "dessert": {
+                "tres_gracias": {
+                    "price": 740.0,
+                    "type": "postre",
+                    "principal_ingredient": "dulce"
+                },
+                "ensalada": {
+                    "price": 1080.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "frutas"
+                },
+                "suero_de_helado": {
+                    "price": 840.0,
+                    "type": "helado",
+                    "principal_ingredient": "leche"
+                },
+                "casquitos_de_guayaba": {
+                    "price": 560.0,
+                    "type": "guayaba",
+                    "principal_ingredient": "guayaba"
+                },
+                "flan": {
+                    "price": 560.0,
+                    "type": "flan",
+                    "principal_ingredient": "huevo"
+                },
+                "dulce_de_coco": {
+                    "price": 460.0,
+                    "type": "coco",
+                    "principal_ingredient": "coco"
+                },
+                "torrejas": {
+                    "price": 680.0,
+                    "type": "pan",
+                    "principal_ingredient": "pan"
+                },
+                "dulce_de_fruta_bomba": {
+                    "price": 460.0,
+                    "type": "fruta",
+                    "principal_ingredient": "papaya"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "agua": {
+                        "price": 150.0,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "refresco": {
+                        "price": 240.0,
+                        "type": "refresco",
+                        "principal_ingredient": "azucar"
+                    },
+                    "batido_de_frutas": {
+                        "price": 390.0,
+                        "type": "batido",
+                        "principal_ingredient": "frutas"
+                    },
+                    "limonada_frape": {
+                        "price": 380.0,
+                        "type": "limonada",
+                        "principal_ingredient": "limon"
+                    },
+                    "limonada_con_hierba_buena": {
+                        "price": 460.0,
+                        "type": "limonada",
+                        "principal_ingredient": "limon y hierba buena"
+                    },
+                    "malta": {
+                        "price": 400.0,
+                        "type": "malta",
+                        "principal_ingredient": "cebada"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

@@ -1,0 +1,251 @@
+{
+    "name": "Magic's Cream & Burguer",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "",
+        "telephone_number": []
+    },
+    "location": {
+        "municipality": "Arroyo Naranjo",
+        "direction": "Calzada de 10 de Octubre, % Santa Amalia y Arnao, Arroyo Naranjo",
+        "coordinates": "23.079459123421234, -82.3615602294958"
+    },
+    "valoration": {
+        "quality": "",
+        "google": 5.0,
+        "cant_g": 2,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["rapida"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": true,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "11:00",
+            "tue": "11:00",
+            "wed": "11:00",
+            "thu": "11:00",
+            "fri": "11:00",
+            "sat": "11:00",
+            "sun": "11:00"
+        },
+        "close": {
+            "mon": "22:00",
+            "tue": "22:00",
+            "wed": "22:00",
+            "thu": "22:00",
+            "fri": "22:00",
+            "sat": "22:00",
+            "sun": "22:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": false,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": true,
+        "10%": false
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "hamburguesas_de_cerdo": {
+                    "price": 430.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "hamburguesas_de_pollo": {
+                    "price": 430.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "pollo"
+                },
+                "hamburguesas_doble": {
+                    "price": 1000.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne"
+                },
+                "hamburguesas_super_magics": {
+                    "price": 1500.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne"
+                }
+            },
+            "starters": {
+                "croquetas_magics": {
+                    "price": 400.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "queso"
+                },
+                "fritura_de_malanga": {
+                    "price": 400.0,
+                    "type": "fritura",
+                    "principal_ingredient": "malanga"
+                },
+                "tacos_de_pollo": {
+                    "price": 700.0,
+                    "type": "tacos",
+                    "principal_ingredient": "pollo"
+                },
+                "tacos_de_cerdo": {
+                    "price": 800.0,
+                    "type": "tacos",
+                    "principal_ingredient": "cerdo"
+                },
+                "fajas_de_pollo": {
+                    "price": 600.0,
+                    "type": "fajitas",
+                    "principal_ingredient": "pollo"
+                },
+                "bolitas_de_queso": {
+                    "price": 500.0,
+                    "type": "bolitas",
+                    "principal_ingredient": "queso"
+                },
+                "papas_fritas": {
+                    "price": 500.0,
+                    "type": "papas",
+                    "principal_ingredient": "papa"
+                }
+            },
+            "main": {},
+            "fittings": {},
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {
+                "bola_de_helado": {
+                    "price": 70.0,
+                    "type": "helado",
+                    "principal_ingredient": "leche"
+                },
+                "jimaguas": {
+                    "price": 195.0,
+                    "type": "helado",
+                    "principal_ingredient": "leche"
+                },
+                "ensalada_de_helado": {
+                    "price": 350.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "helado"
+                },
+                "batido_de_helado": {
+                    "price": 395.0,
+                    "type": "batido",
+                    "principal_ingredient": "helado"
+                },
+                "tres_gracias": {
+                    "price": 245.0,
+                    "type": "postre",
+                    "principal_ingredient": "leche"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "malta": {
+                        "price": 300.0,
+                        "type": "malta",
+                        "principal_ingredient": "malta"
+                    },
+                    "pepsi": {
+                        "price": 300.0,
+                        "type": "refresco",
+                        "principal_ingredient": "cola"
+                    },
+                    "refresco_de_lata": {
+                        "price": 210.0,
+                        "type": "refresco",
+                        "principal_ingredient": "varios"
+                    },
+                    "limonada_frappe": {
+                        "price": 250.0,
+                        "type": "limonada",
+                        "principal_ingredient": "limon"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "cervezas_importadas": {
+                        "price": 220.0,
+                        "type": "cerveza importada",
+                        "principal_ingredient": "malta"
+                    },
+                    "cervezas_nacionales": {
+                        "price": 300.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "malta"
+                    },
+                    "pina_colada_sin_alcohol": {
+                        "price": 500.0,
+                        "type": "coctel",
+                        "principal_ingredient": "pina"
+                    },
+                    "pina_colada_con_alcohol": {
+                        "price": 575.0,
+                        "type": "coctel",
+                        "principal_ingredient": "pina"
+                    },
+                    "cuba_libre": {
+                        "price": 500.0,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "mojito": {
+                        "price": 500.0,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    }
+                }
+            }
+        }
+    }
+}

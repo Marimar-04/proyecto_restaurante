@@ -1,0 +1,195 @@
+{
+    "name": "El Rápido",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "",
+        "telephone_number": []
+    },
+    "location": {
+        "municipality": "Cerro",
+        "direction": "Cruz del Pader entre Pedrosa y Amenidares",
+        "coordinates": "23.105779195738986, -82.38829384115299"
+    },
+    "valoration": {
+        "quality": "",
+        "google": null,
+        "cant_g": null,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "07:30",
+            "tue": "07:30",
+            "wed": "07:30",
+            "thu": "07:30",
+            "fri": "07:30",
+            "sat": "07:30",
+            "sun": "07:30"
+        },
+        "close": {
+            "mon": "19:30",
+            "tue": "19:30",
+            "wed": "19:30",
+            "thu": "19:30",
+            "fri": "19:30",
+            "sat": "19:30",
+            "sun": "19:30"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": null,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "Pan con Tortilla": {
+                    "price": 300,
+                    "type": "pan",
+                    "principal_ingredient": "huevo"
+                },
+                "Pan con Tortilla , Jamón": {
+                    "price": 360,
+                    "type": "pan",
+                    "principal_ingredient": "huevo, jamón"
+                },
+                "Pan con Tortilla, Chorizo": {
+                    "price": 360,
+                    "type": "pan",
+                    "principal_ingredient": "huevo, chorizo"
+                },
+                "Pan con Tortilla, Cebolla": {
+                    "price": 360,
+                    "type": "pan",
+                    "principal_ingredient": "huevo, cebolla"
+                },
+                "Pan con Tortilla , Queso Gouda": {
+                    "price": 400,
+                    "type": "pan",
+                    "principal_ingredient": "huevo, queso gouda"
+                },
+                "Hamburguesa de Cerdo": {
+                    "price": 620,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "Hamburguesa de Res": {
+                    "price": 720,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "res"
+                },
+                "Sandwich Cubano": {
+                    "price": 860,
+                    "type": "pan",
+                    "principal_ingredient": "cerdo, jamón, queso"
+                },
+                "Pan con Bitec de Cerdo": {
+                    "price": 750,
+                    "type": "pan",
+                    "principal_ingredient": "cerdo"
+                }
+            },
+            "starters": {
+                "Croquetas": {
+                    "price": 300,
+                    "type": "croqueta",
+                    "principal_ingredient": "jamón"
+                },
+                "Papas fritas": {
+                    "price": 360,
+                    "type": "tostones",
+                    "principal_ingredient": "papa"
+                }
+            },
+            "main": {
+                "Pollo Chiflado": {
+                    "price": 750,
+                    "type": "lomo",
+                    "principal_ingredient": "pollo"
+                }
+            },
+            "fittings": {},
+            "pastas": {
+                "Espaguetis": {
+                    "price": 850,
+                    "type": "pasta",
+                    "principal_ingredient": "espaguetis"
+                },
+                "Espaguetis Napolitano": {
+                    "price": 380,
+                    "type": "napolitana",
+                    "principal_ingredient": "tomate, espaguetis"
+                },
+                "Espaguetis de chorizo": {
+                    "price": 1000,
+                    "type": "chorizo",
+                    "principal_ingredient": "chorizo, espaguetis"
+                }
+            },
+            "pizzas": {},
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {},
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "name": "La Casona del Cerro",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/la_casona_del_cerro/",
+        "facebook": "",
+        "telephone_number": ["52901805"]
+    },
+    "location": {
+        "municipality": "Cerro",
+        "direction": "Calzada del Cerro entre Alzobispo y Peñón",
+        "coordinates": "23.10922029091804, -82.38204353929372"
+    },
+    "valoration": {
+        "quality": "",
+        "google": null,
+        "cant_g": null,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["criolla"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "10:00",
+            "tue": "10:00",
+            "wed": "10:00",
+            "thu": "10:00",
+            "fri": "10:00",
+            "sat": "10:00",
+            "sun": "10:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": null,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {},
+            "main": {
+                "pollo_asado": {
+                    "price": 1100,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "masa_frita": {
+                    "price": 900,
+                    "type": "masa",
+                    "principal_ingredient": "cerdo"
+                },
+                "bistec_de_cerdo": {
+                    "price": 850,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "fricase_de_cerdo": {
+                    "price": 850,
+                    "type": "fricase",
+                    "principal_ingredient": "cerdo"
+                },
+                "chuleta": {
+                    "price": 1000,
+                    "type": "chuleta",
+                    "principal_ingredient": "cerdo"
+                }
+            },
+            "pastas": {
+                "spaghetti_c_queso_gouda": {
+                    "price": 450,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                },
+                "spaghetti_c_jamon_y_queso_gouda": {
+                    "price": 500,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "spaghetti_doble_queso_gouda": {
+                    "price": 650,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                },
+                "spaghetti_mixto": {
+                    "price": 550,
+                    "type": "mixto",
+                    "principal_ingredient": "varios"
+                }
+            },
+            "pizzas": {
+                "pizza_napolitana_c_queso_gouda": {
+                    "price": 450,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso gouda"
+                },
+                "pizza_doble_queso": {
+                    "price": 650,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "pizza_de_jamon_y_queso_gouda": {
+                    "price": 500,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "pizza_mixta_c_queso_gouda": {
+                    "price": 550,
+                    "type": "mixto",
+                    "principal_ingredient": "varios"
+                },
+                "pizza_familiar_c_queso_gouda": {
+                    "price": 900,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso gouda"
+                },
+                "pizza_familiar_doble_queso": {
+                    "price": 1200,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "pizza_familiar_de_jamon_y_queso_gouda": {
+                    "price": 1000,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "pizza_familiar_mixta_c_queso_gouda": {
+                    "price": 1050,
+                    "type": "mixto",
+                    "principal_ingredient": "varios"
+                }
+            },
+            "fittings": {},
+            "additions": {},
+            "dessert": {
+                "flan": {
+                    "price": 350,
+                    "type": "flan",
+                    "principal_ingredient": "leche"
+                }
+            },
+            "drinks": {
+                "general": {},
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

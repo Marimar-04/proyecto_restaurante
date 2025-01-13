@@ -1,0 +1,208 @@
+{
+    "name": "El Mexicano",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/p/Cafe-Versalles-100063919877586/?locale=es_LA",
+        "telephone_number": ["72635413"]
+    },
+    "location": {
+        "municipality": "Guanabacoa",
+        "direction": "",
+        "coordinates": "23.129305596979922, -82.30835525651501"
+    },
+    "valoration": {
+        "quality": " excelente",
+        "google": 4.7,
+        "cant_g": 3,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "10:00",
+            "tue": "10:00",
+            "wed": "10:00",
+            "thu": "10:00",
+            "fri": "10:00",
+            "sat": "10:00",
+            "sun": "10:00"
+        },
+        "close": {
+            "mon": "22:00",
+            "tue": "22:00",
+            "wed": "22:00",
+            "thu": "22:00",
+            "fri": "22:00",
+            "sat": "22:00",
+            "sun": "22:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": false,
+        "parking": false,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": null
+        },
+        "transfer": false,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            
+                "breakfasts": {},
+                "breads": {},
+                "starters": {},
+                "main": {},
+                "fittings": {},
+                "pastas": {
+                  "Spaguetti Queso Gouda": {
+                    "price": 770.00,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                  }
+                },
+                "pizzas": {
+                  "Pizza Queso Gouda": {
+                    "price": 450.00,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                  }
+                },
+                "additions": {},
+                "dessert": {},
+                "drinks": {
+                  "general": {
+                    "Tigon": {
+                      "price": 300.00,
+                      "type": "energizante",
+                      "principal_ingredient": "energizantes"
+                    },
+                    "Malta 1 Hyper": {
+                      "price": 270.00,
+                      "type": "energizante",
+                      "principal_ingredient": "malta"
+                    },
+                    "Pepsi": {
+                      "price": 270.00,
+                      "type": "refresco",
+                      "principal_ingredient": "azúcar"
+                    },
+                    "Mirinda": {
+                      "price": 280.00,
+                      "type": "refresco",
+                      "principal_ingredient": "cítricos"
+                    },
+                    "Perla negra": {
+                      "price": 270.00,
+                      "type": "malta",
+                      "principal_ingredient": "maltas"
+                    },
+                    "Ironbeer": {
+                      "price": 240.00,
+                      "type": "refresco",
+                      "principal_ingredient": "maltas"
+                    },
+                    "Orange": {
+                      "price": 220.00,
+                      "type": "jugo",
+                      "principal_ingredient": "naranja"
+                    },
+                    "Cola Polo": {
+                      "price": 220.00,
+                      "type": "refresco",
+                      "principal_ingredient": "azúcar"
+                    },
+                    "Limon": {
+                      "price": 220.00,
+                      "type": "jugo",
+                      "principal_ingredient": "limón"
+                    },
+                    "Coca Cola": {
+                      "price": 280.00,
+                      "type": "refresco",
+                      "principal_ingredient": "azúcar"
+                    }
+                  },
+                  "cafes": {},
+                  "alcoholics": {
+                    "Cerveza": {
+                      "price": 200.00,
+                      "type": "cerveza",
+                      "principal_ingredient": "cebada"
+                    },
+                    "Holandia": {
+                      "price": 200.00,
+                      "type": "cerveza",
+                      "principal_ingredient": "cebada"
+                    },
+                    "Cristal Lata": {
+                      "price": 250.00,
+                      "type": "cerveza",
+                      "principal_ingredient": "cebada"
+                    },
+                    "Cristal Botella": {
+                      "price": 200.00,
+                      "type": "cerveza",
+                      "principal_ingredient": "cebada"
+                    },
+                    "Shaka": {
+                      "price": 350.00,
+                      "type": "coctel",
+                      "principal_ingredient": "licor"
+                    }
+                  
+                }
+              }
+              
+        }
+    }
+}

@@ -1,0 +1,273 @@
+{
+    "name": "Mi Terraza",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/miterraza_pizzeria/",
+        "facebook": "https://www.facebook.com/groups/460849118307371/posts/1381123749613232/",
+        "telephone_number": ["76822381"]
+    },
+    "location": {
+        "municipality": "Cotorro",
+        "direction": "Calle 71 % 24 y 26, Las Brisas,  Cotorro",
+        "coordinates": "23.039530053428642, -82.26138479693712"
+    },
+    "valoration": {
+        "quality": "",
+        "google": null,
+        "cant_g": null,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["italiana"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": true,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "11:00",
+            "tue": "11:00",
+            "wed": "11:00",
+            "thu": "11:00",
+            "fri": "11:00",
+            "sat": "11:00",
+            "sun": "11:00"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": true,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": false,
+        "parking": true,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": false
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "sandwich_de_queso": {
+                    "price": 700.0,
+                    "type": "sandwich",
+                    "principal_ingredient": "queso"
+                },
+                "sandwich_de_jamon": {
+                    "price": 650.0,
+                    "type": "sandwich",
+                    "principal_ingredient": "jamon"
+                },
+                "sandwich_de_jamon_y_queso": {
+                    "price": 900.0,
+                    "type": "sandwich",
+                    "principal_ingredient": "jamon y queso"
+                },
+                "sandwich_de_atun": {
+                    "price": 1100.0,
+                    "type": "sandwich",
+                    "principal_ingredient": "atun"
+                },
+                "sandwich_mi_terraza": {
+                    "price": 1100.0,
+                    "type": "sandwich",
+                    "principal_ingredient": "mixto"
+                }
+            },
+            "starters": {
+                "crema_de_queso": {
+                    "price": 850.0,
+                    "type": "crema",
+                    "principal_ingredient": "queso"
+                },
+                "crema_virginia": {
+                    "price": 1100.0,
+                    "type": "crema",
+                    "principal_ingredient": "vegetales"
+                },
+                "tostones_de_jamon_y_queso": {
+                    "price": 1000.0,
+                    "type": "tostones",
+                    "principal_ingredient": "platano"
+                },
+                "tostones_de_atun": {
+                    "price": 1200.0,
+                    "type": "tostones",
+                    "principal_ingredient": "platano"
+                }
+            },
+            "main": {},
+            "fittings": {},
+            "pastas": {
+                "espaguetis_napolitanos": {
+                    "price": 1000.0,
+                    "type": "napolitanas",
+                    "principal_ingredient": "salsa napolitana"
+                },
+                "espaguetis_de_jamon": {
+                    "price": 1250.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamon"
+                },
+                "espaguetis_de_atun": {
+                    "price": 1400.0,
+                    "type": "atun",
+                    "principal_ingredient": "atun"
+                },
+                "espaguetis_a_la_carbonara": {
+                    "price": 1600.0,
+                    "type": "carbonara",
+                    "principal_ingredient": "tocino"
+                },
+                "espaguetis_doble_queso": {
+                    "price": 1500.0,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "canelos": {
+                    "price": 1500.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "carne y vegetales"
+                }
+            },
+            "pizzas": {
+                "pizza_napolitana": {
+                    "price": 1200.0,
+                    "type": "napolitanas",
+                    "principal_ingredient": "salsa napolitana"
+                },
+                "pizza_hawaiana": {
+                    "price": 1700.0,
+                    "type": "mixta",
+                    "principal_ingredient": "piña y jamon"
+                },
+                "pizza_mi_terraza": {
+                    "price": 1800.0,
+                    "type": "especial",
+                    "principal_ingredient": "mixto"
+                }
+            },
+            "additions": {
+                "doble_queso": {
+                    "price": 500.0,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "jamon": {
+                    "price": 300.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamon"
+                },
+                "cebolla": {
+                    "price": 250.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                },
+                "pina": {
+                    "price": 200.0,
+                    "type": "fruta",
+                    "principal_ingredient": "piña"
+                },
+                "atun": {
+                    "price": 400.0,
+                    "type": "atun",
+                    "principal_ingredient": "atun"
+                },
+                "aceitunas": {
+                    "price": 400.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "aceitunas"
+                },
+                "chorizo": {
+                    "price": 200.0,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "bacon": {
+                    "price": 700.0,
+                    "type": "tocino",
+                    "principal_ingredient": "bacon"
+                }
+            },
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "limonada_frappe": {
+                        "price": 350.0,
+                        "type": "refresco",
+                        "principal_ingredient": "limon"
+                    },
+                    "batidos": {
+                        "price": 400.0,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas"
+                    },
+                    "batidos_de_helado": {
+                        "price": 600.0,
+                        "type": "postre",
+                        "principal_ingredient": "helado"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "chelada": {
+                        "price": 550.0,
+                        "type": "coctel",
+                        "principal_ingredient": "cerveza"
+                    }
+                }
+            }
+        }
+    }
+}

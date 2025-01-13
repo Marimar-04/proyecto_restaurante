@@ -1,0 +1,205 @@
+{
+    "name": "Cafe Atardecer",
+    "sector": "estatal",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "",
+        "telephone_number": []
+    },
+    "location": {
+        "municipality": "Regla",
+        "direction": "Martí entre Perdomo y Albuquerque, Regla, La Habana, Cuba",
+        "coordinates": "23.125469635245604, -82.33014753559166"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 5.0,
+        "cant_g": 1,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["criolla"],
+        "capacity": 22,
+        "areas": {
+            "inside": false,
+            "outside": true,
+            "bar": false,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "07:00",
+            "tue": "07:00",
+            "wed": "07:00",
+            "thu": "07:00",
+            "fri": "07:00",
+            "sat": "07:00",
+            "sun": "07:00"
+        },
+        "close": {
+            "mon": "19:00",
+            "tue": "19:00",
+            "wed": "19:00",
+            "thu": "19:00",
+            "fri": "19:00",
+            "sat": "19:00",
+            "sun": "19:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": 40,
+            "local": 60
+        },
+        "ecological": false
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": false,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": false,
+        "10%": false
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+            
+                "breakfasts": {},
+                "breads": {
+                  "croqueta": {
+                    "price": 75,
+                    "type": "croqueta",
+                    "principal_ingredient": "masa"
+                  },
+                  "medallon": {
+                    "price": 90,
+                    "type": "pan",
+                    "principal_ingredient": "harina"
+                  },
+                  "queso": {
+                    "price": 90,
+                    "type": "pan",
+                    "principal_ingredient": "queso"
+                  },
+                  "perro": {
+                    "price": 120,
+                    "type": "pan",
+                    "principal_ingredient": "salchicha"
+                  },
+                  "jamon_queso": {
+                    "price": 150,
+                    "type": "pan",
+                    "principal_ingredient": "queso y jamón"
+                  }
+                },
+                "starters": {},
+                "main": {
+                  "pollo_empanado": {
+                    "price": 450,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                  },
+                  "pollo_fajitas": {
+                    "price": 450,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                  },
+                  "cerdo_escalope": {
+                    "price": 480,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                  },
+                  "cerdo_fajitas": {
+                    "price": 480,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                  },
+                  "cerdo_fricesse": {
+                    "price": 380,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                  },
+                  "pescado_empanado": {
+                    "price": 330,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                  }
+                },
+                "fittings": {},
+                "pastas": {
+                  "spaghetti_napolitano": {
+                    "price": 250,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso"
+                  },
+                  "spaghetti_de_jamon": {
+                    "price": 300,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                  }
+                },
+                "pizzas": {},
+                "additions": {},
+                "dessert": {
+                  "confituras": {
+                    "price": null,
+                    "type": "dulce",
+                    "principal_ingredient": "variable"
+                  }
+                },
+                "drinks": {
+                  "general": {
+                    "refresco": {
+                      "price": 20,
+                      "type": "refresco",
+                      "principal_ingredient": "soda"
+                    }
+                  },
+                  "cafes": {
+                    "cafe": {
+                      "price": 15,
+                      "type": "cafe",
+                      "principal_ingredient": "café"
+                    }
+                  },
+                  "alcoholics": {}
+                }
+              
+              
+        }
+    }
+}

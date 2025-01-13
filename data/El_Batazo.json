@@ -1,0 +1,189 @@
+{
+    "name": "El Batazo",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/eljonron/",
+        "telephone_number": ["58050408"]
+    },
+    "location": {
+        "municipality": "Cerro",
+        "direction": "Primelles 356 entre Santa Teresa y Daois",
+        "coordinates": "23.105779195738986, -82.38829384115299"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": null,
+        "cant_g": null,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": 4.5,
+        "cant_t": 7
+    },
+    "description": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["italiana"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": false,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "11:00",
+            "tue": "11:00",
+            "wed": "11:00",
+            "thu": "11:00",
+            "fri": "11:00",
+            "sat": "11:00",
+            "sun": "11:00"
+        },
+        "close": {
+            "mon": "22:00",
+            "tue": "22:00",
+            "wed": "22:00",
+            "thu": "22:00",
+            "fri": "22:00",
+            "sat": "22:00",
+            "sun": "22:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": true,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": true,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": null,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "Hamburguesa strike": {
+                    "price": 550,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne"
+                },
+                "Hamburguesa doble play": {
+                    "price": 1000,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne"
+                },
+                "Hamburguesa homerun": {
+                    "price": 1300,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne"
+                }
+            },
+            "starters": {},
+            "main": {},
+            "fittings": {},
+            "pastas": {
+                "Espaguetis": {
+                    "price": 600,
+                    "type": "napolitana",
+                    "principal_ingredient": "tomate"
+                },
+                "Espaguetis de jamón": {
+                    "price": 780,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                }
+            },
+            "pizzas": {
+                "Pizza de queso": {
+                    "price": 750,
+                    "type": "4 quesos",
+                    "principal_ingredient": "queso"
+                },
+                "Pizza de chorizo": {
+                    "price": 930,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "Pizza de jamón": {
+                    "price": 930,
+                    "type": "jamón",
+                    "principal_ingredient": "jamón"
+                },
+                "Pizza de hawaiana": {
+                    "price": 1130,
+                    "type": "hawaiana",
+                    "principal_ingredient": "piña"
+                },
+                "Pizza de cebolla": {
+                    "price": 950,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                },
+                "Pizza de ají": {
+                    "price": 950,
+                    "type": "vegetal",
+                    "principal_ingredient": "ají"
+                },
+                "Pizza de atún": {
+                    "price": 1250,
+                    "type": "atún",
+                    "principal_ingredient": "atún"
+                },
+                "Pizza de aceitunas": {
+                    "price": 950,
+                    "type": "vegetal",
+                    "principal_ingredient": "aceitunas"
+                },
+                "Pizza de peperoni": {
+                    "price": 1050,
+                    "type": "embutido",
+                    "principal_ingredient": "peperoni"
+                }
+            },
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {},
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

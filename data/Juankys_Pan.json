@@ -1,0 +1,453 @@
+{
+    "name": "Juanky's Pan",
+    "sector": "privado",
+    "information": {
+        "website": "https://lalisa.juankyspan.com/",
+        "instagram": "https://www.instagram.com/juankys_pan/reel/CxMGDnSpxBe/",
+        "facebook": "https://www.facebook.com/juankyspan/?locale=es_LA",
+        "telephone_number": ["7 2718794"]
+    },
+    "location": {
+        "municipality": "La Lisa",
+        "direction": "23 A entre 202 y 212 Reparto la Coronela la Lisa, La Habana, Cuba",
+        "coordinates": "23.072439724851176, -82.45972268530178"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": 3.8,
+        "cant_g": 61,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": 4.0,
+        "cant_t": 31
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "11:00",
+            "tue": "11:00",
+            "wed": "11:00",
+            "thu": "11:00",
+            "fri": "11:00",
+            "sat": "11:00",
+            "sun": "11:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": null,
+        "delivery": null,
+        "delibery_m": null,
+        "generator": null,
+        "wifi": null,
+        "parking": null,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": null
+        },
+        "transfer": null,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "Hamburguesa A Caballo de Cerdo": {
+                    "price": 733,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "Big Cheese Burger de Cerdo": {
+                    "price": 890,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "Big Tasty Cerdo": {
+                    "price": 870,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "Hanburguesa de Cerdo con Atun": {
+                    "price": 1000,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "Hamburguesa de Cerdo con Bacon": {
+                    "price": 995,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "Hamburguesa de Cerdo con Jamon y Queso": {
+                    "price": 1000,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "Doble Hamburguesa de Cerdo": {
+                    "price": 1050,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "Hamburguesa de Cerdo de Doble queso": {
+                    "price": 895,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "Hamburguesa Don Juan Cerdo": {
+                    "price": 1130,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "Hamburguesa Don Pascual Cerdo": {
+                    "price": 1375,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "Especial de Cerdo": {
+                    "price": 800,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "Hamburguesa Guajira de Cerdo": {
+                    "price": 2715,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "Hamburguesa Sencilla de Cerdo": {
+                    "price": 838,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "Hamburguesa Taquena de Cerdo": {
+                    "price": 230,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "Juankymon": {
+                    "price": 594,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "Media Noche": {
+                    "price": 760,
+                    "type": "sandwich",
+                    "principal_ingredient": "cerdo"
+                },
+                "Media Noche sin queso": {
+                    "price": 780,
+                    "type": "sandwich",
+                    "principal_ingredient": "cerdo"
+                },
+                "Sandwich de Atun": {
+                    "price": 560,
+                    "type": "sandwich",
+                    "principal_ingredient": "atun"
+                },
+                "Sandwich de Queso": {
+                    "price": 1360,
+                    "type": "sandwich",
+                    "principal_ingredient": "queso"
+                },
+                "Sandwich Hawaiano": {
+                    "price": 470,
+                    "type": "sandwich",
+                    "principal_ingredient": "queso"
+                }
+            },
+            "starters": {
+                "Croquetas de Jamon": {
+                    "price": 570,
+                    "type": "croqueta",
+                    "principal_ingredient": "jamon"
+                },
+                "Entremes de Jamon y Queso": {
+                    "price": 765,
+                    "type": "tostones",
+                    "principal_ingredient": "jamon"
+                },
+                "Huevos Rotos": {
+                    "price": 905,
+                    "type": "huevo",
+                    "principal_ingredient": "huevo"
+                },
+                "Mixto de Maria": {
+                    "price": 2200,
+                    "type": "mixto",
+                    "principal_ingredient": "jamon y queso"
+                }
+            },
+            "main": {
+                "Punetazos de Cerdo c/ Queso": {
+                    "price": 895,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "Punetazos de Cerdo c/ Queso y Bacon": {
+                    "price": 1030,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "Punetazos de cerdo c/ Bacon": {
+                    "price": 955,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "Tacos de Ropa Vieja de Carnero": {
+                    "price": 2055,
+                    "type": "tacos",
+                    "principal_ingredient": "carnero"
+                },
+                "Tacos de Ropa Vieja de Cerdo": {
+                    "price": 1400,
+                    "type": "tacos",
+                    "principal_ingredient": "cerdo"
+                },
+
+                "Juanky's Combo de Cerdo con Queso + Jugo": {
+                    "price": 1094,
+                    "type": "combo",
+                    "principal_ingredient": "cerdo"
+                },
+                "Mix sin Pan de Cerdo": {
+                    "price": 830,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                },
+                "Pina Caramelo de Cerdo": {
+                    "price": 1055,
+                    "type": "pan",
+                    "principal_ingredient": "cerdo"
+                },
+                "Premium de Champinon Cerdo": {
+                    "price": 730,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                }
+            },
+            "fittings": {},
+            "pastas": {
+                "Espaguetis de Bacon con Queso": {
+                    "price": 1195,
+                    "type": "napolitana",
+                    "principal_ingredient": "bacon"
+                },
+                "Espaguetis Base": {
+                    "price": 1390,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso"
+                },
+                "Espaguetis con carne de Cerdo": {
+                    "price": 695,
+                    "type": "bolonesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "Espaguetis de Chorizo con Queso": {
+                    "price": 985,
+                    "type": "chorizo",
+                    "principal_ingredient": "chorizo"
+                },
+                "Espaguetis de Jamon con queso": {
+                    "price": 2055,
+                    "type": "jamon",
+                    "principal_ingredient": "jamon"
+                }
+            },
+            "pizzas": {},
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "Jugo de Fruta Bomba": {
+                        "price": 185,
+                        "type": "jugo",
+                        "principal_ingredient": "frutabomba"
+                    },
+                    "Jugo de Guayaba": {
+                        "price": 185,
+                        "type": "jugo",
+                        "principal_ingredient": "guayaba"
+                    },
+                    "Liminada": {
+                        "price": 415,
+                        "type": "limonada",
+                        "principal_ingredient": "limon"
+                    },
+                    "Jugo de Melon": {
+                        "price": 185,
+                        "type": "jugo",
+                        "principal_ingredient": "melon"
+                    },
+                    "Jugo de Platano": {
+                        "price": 185,
+                        "type": "jugo",
+                        "principal_ingredient": "platano"
+                    },
+                    "Batido de Helado": {
+                        "price": 850,
+                        "type": "batido",
+                        "principal_ingredient": "helado"
+                    },
+                    "Batido de Fruta Bomba": {
+                        "price": 300,
+                        "type": "batido",
+                        "principal_ingredient": "frutabomba"
+                    },
+                    "Batido de Guayaba": {
+                        "price": 300,
+                        "type": "batido",
+                        "principal_ingredient": "guayaba"
+                    },
+                    "Helado Montado": {
+                        "price": 580,
+                        "type": "helado",
+                        "principal_ingredient": "helado"
+                    },
+                    "Suero de Helado": {
+                        "price": 950,
+                        "type": "helado",
+                        "principal_ingredient": "helado"
+                    },
+                    "Belga Star": {
+                        "price": 300,
+                        "type": "malt",
+                        "principal_ingredient": "malta"
+                    },
+                    "Refresco de Cola": {
+                        "price": 300,
+                        "type": "refresco",
+                        "principal_ingredient": "cola"
+                    },
+                    "Refresco de Limon": {
+                        "price": 300,
+                        "type": "refresco",
+                        "principal_ingredient": "limon"
+                    },
+                    "Refresco de Naranja": {
+                        "price": 300,
+                        "type": "refresco",
+                        "principal_ingredient": "naranja"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "Cerveza Stella": {
+                        "price": 510,
+                        "type": "cerveza",
+                        "principal_ingredient": "malta"
+                    },
+                    "Caipirisima": {
+                        "price": 600,
+                        "type": "coctel",
+                        "principal_ingredient": "caipirinha"
+                    },
+                    "Caipiroska": {
+                        "price": 520,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "Caipiroska Absolut": {
+                        "price": 680,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "Caipiroska c/ Cirok": {
+                        "price": 950,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "Cuba Libre": {
+                        "price": 530,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "Cubanito": {
+                        "price": 420,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "Cubata c/ 7 anos": {
+                        "price": 600,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "Cubata c/ especial": {
+                        "price": 695,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "Cubata c/ Reserva": {
+                        "price": 580,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "Gin Tonic": {
+                        "price": 795,
+                        "type": "coctel",
+                        "principal_ingredient": "gin"
+                    },
+                    "Gin Tonic Beefeater": {
+                        "price": 940,
+                        "type": "coctel",
+                        "principal_ingredient": "gin"
+                    },
+                    "Gin Tonic c/ Tanqueray": {
+                        "price": 990,
+                        "type": "coctel",
+                        "principal_ingredient": "gin"
+                    },
+                    "sangria": {
+                        "price": 600,
+                        "type": "vino",
+                        "principal_ingredient": "vino"
+                    }
+                }
+            }
+        }
+    }
+}

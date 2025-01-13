@@ -1,0 +1,577 @@
+{
+    "name": "Divino",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/explore/locations/418720891485060/divino/?locale=es",
+        "facebook": "https://www.facebook.com/cubarestaurantedivino/?locale=he_IL",
+        "telephone_number": ["55627175", "76437734"]
+    },
+    "location": {
+        "municipality": "Arroyo Naranjo",
+        "direction": "#50, Calle Raquel entre Esperanza y Lindero, Mantilla",
+        "coordinates": "23.06027207303425, -82.33580151045423"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.4,
+        "cant_g": 24,
+        "web": 4.3,
+        "cant_w": 164,
+        "tripadvisor": 4.5,
+        "cant_t": 150
+    },
+    "description": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["criolla", "internacional"],
+        "capacity": 100,
+        "areas": {
+            "inside": true,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "",
+            "tue": "",
+            "wed": "",
+            "thu": "",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "",
+            "tue": "",
+            "wed": "",
+            "thu": "",
+            "fri": "22:00",
+            "sat": "22:00",
+            "sun": "22:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": true
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": false,
+        "parking": true,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": false,
+        "10%": false
+    },
+    "menu": {
+        "digital_menu": true,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "crema_de_vegetales": {
+                    "price": 450,
+                    "type": "crema",
+                    "principal_ingredient": "vegetales"
+                },
+                "coctel_de_mariscos": {
+                    "price": 1700,
+                    "type": "coctel",
+                    "principal_ingredient": "mariscos"
+                },
+                "croquetas_de_la_casa": {
+                    "price": 1200,
+                    "type": "croqueta",
+                    "principal_ingredient": "mixto"
+                },
+                "tostones_rellenos_mixtos": {
+                    "price": 1500,
+                    "type": "tostones",
+                    "principal_ingredient": "platano"
+                },
+                "canapes_agridulces_de_jamon_y_queso_con_pina": {
+                    "price": 1200,
+                    "type": "canape",
+                    "principal_ingredient": "jamon y queso"
+                },
+                "pulpo_sobre_boniato_a_las_brasas_y_salsa_de_pimiento": {
+                    "price": 2500,
+                    "type": "pulpo",
+                    "principal_ingredient": "pulpo"
+                },
+                "surtido_divino": {
+                    "price": 1800,
+                    "type": "surtido",
+                    "principal_ingredient": "mixto"
+                }
+            },
+            "main": {
+                "pollo_a_la_campesina": {
+                    "price": 1800,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "cerdo_ahumado_al_mangle_rojo": {
+                    "price": 2880,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "langosta_marinera": {
+                    "price": 3000,
+                    "type": "langosta",
+                    "principal_ingredient": "langosta"
+                },
+                "pinchos_de_camaron_aromatizados_con_aceite_de_trufa": {
+                    "price": 3200,
+                    "type": "pinchos",
+                    "principal_ingredient": "camaron"
+                },
+                "suprema_de_pollo_a_la_mostaza": {
+                    "price": 1950,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "pulpo_a_la_gallega": {
+                    "price": 4500,
+                    "type": "pulpo",
+                    "principal_ingredient": "pulpo"
+                },
+                "reino_del_mar": {
+                    "price": 9500,
+                    "type": "mixto",
+                    "principal_ingredient": "mariscos"
+                },
+                "arroz_a_la_cubana": {
+                    "price": 1500,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                }
+            },
+            "fittings": {},
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {
+                "mousse_de_limon": {
+                    "price": 1000,
+                    "type": "mousse",
+                    "principal_ingredient": "limon"
+                },
+                "mousse_de_fruto_del_bosque": {
+                    "price": 1000,
+                    "type": "mousse",
+                    "principal_ingredient": "fruto del bosque"
+                },
+                "copa_de_helado": {
+                    "price": 1300,
+                    "type": "helado",
+                    "principal_ingredient": "helado"
+                },
+                "flan_de_la_casa": {
+                    "price": 600,
+                    "type": "flan",
+                    "principal_ingredient": "huevo"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "refresco": {
+                        "price": 400,
+                        "type": "refresco",
+                        "principal_ingredient": "carbonatada"
+                    },
+                    "agua_natural": {
+                        "price": 200,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "jugo_natural": {
+                        "price": 250,
+                        "type": "jugo",
+                        "principal_ingredient": "fruta"
+                    },
+                    "batido_de_helado": {
+                        "price": 700,
+                        "type": "batido",
+                        "principal_ingredient": "helado"
+                    },
+                    "te": {
+                        "price": 200,
+                        "type": "te",
+                        "principal_ingredient": "te"
+                    },
+                    "limonada_natural": {
+                        "price": 600,
+                        "type": "limonada",
+                        "principal_ingredient": "limon"
+                    },
+                    "limonada_fresh": {
+                        "price": 700,
+                        "type": "limonada",
+                        "principal_ingredient": "limon"
+                    },
+                    "limonada_frappe": {
+                        "price": 600,
+                        "type": "limonada",
+                        "principal_ingredient": "limon"
+                    }
+                },
+                "cafes": {
+                    "cafe_expresso": {
+                        "price": 250,
+                        "type": "espresso",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_tradicional": {
+                        "price": 150,
+                        "type": "tradicional",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_cortado": {
+                        "price": 250,
+                        "type": "cortado",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_con_leche": {
+                        "price": 350,
+                        "type": "leche",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cappuccino": {
+                        "price": 400,
+                        "type": "cappuccino",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_bombon": {
+                        "price": 500,
+                        "type": "bombon",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_americano": {
+                        "price": 200,
+                        "type": "americano",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_al_ron_cubano": {
+                        "price": 300,
+                        "type": "ron",
+                        "principal_ingredient": "cafe"
+                    }
+                },
+                "alcoholics": {
+                    "cerveza_importada": {
+                        "price": 350,
+                        "type": "cerveza",
+                        "principal_ingredient": "alcohol"
+                    },
+                    "cerveza_nacional": {
+                        "price": 500,
+                        "type": "cerveza",
+                        "principal_ingredient": "alcohol"
+                    },
+                    "cubetazo": {
+                        "price": 3000,
+                        "type": "cerveza",
+                        "principal_ingredient": "alcohol"
+                    },
+                    "copa_de_vino_tinto": {
+                        "price": 700,
+                        "type": "vino",
+                        "principal_ingredient": "uva"
+                    },
+                    "mojito": {
+                        "price": 800,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "cubata": {
+                        "price": 750,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "daiquiri_frappe": {
+                        "price": 700,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "pina_colada": {
+                        "price": 800,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "margarita": {
+                        "price": 700,
+                        "type": "coctel",
+                        "principal_ingredient": "tequila"
+                    },
+                    "sangria_espanola": {
+                        "price": 800,
+                        "type": "sangria",
+                        "principal_ingredient": "vino"
+                    },
+                    "sangria_asturiana": {
+                        "price": 850,
+                        "type": "sangria",
+                        "principal_ingredient": "vino"
+                    },
+                    "caipiroska": {
+                        "price": 700,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "ron_collins": {
+                        "price": 500,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "long_island": {
+                        "price": 1000,
+                        "type": "coctel",
+                        "principal_ingredient": "mix"
+                    },
+                    "screwdriver": {
+                        "price": 700,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "michelada": {
+                        "price": 400,
+                        "type": "cerveza",
+                        "principal_ingredient": "alcohol"
+                    },
+                    "chelada": {
+                        "price": 400,
+                        "type": "cerveza",
+                        "principal_ingredient": "alcohol"
+                    },
+                    "olmeca_silver": {
+                        "price": 400,
+                        "type": "tequila",
+                        "principal_ingredient": "agave"
+                    },
+                    "olmeca_reposado": {
+                        "price": 500,
+                        "type": "tequila",
+                        "principal_ingredient": "agave"
+                    },
+                    "santiago_carta_blanca": {
+                        "price": 900,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "santiago_8_anos": {
+                        "price": 1200,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "santiago_11_anos": {
+                        "price": 1900,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "santiago_12_anos": {
+                        "price": 1900,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "havana_club_7_anos": {
+                        "price": 600,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "havana_club_pacto_navio": {
+                        "price": 1900,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "havana_club_smoky": {
+                        "price": 700,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "havana_club_spiced": {
+                        "price": 700,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "havana_club_ritual": {
+                        "price": 450,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "cubay_10_anos": {
+                        "price": 850,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "barcelo": {
+                        "price": 400,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "barcelo_gran_anejo": {
+                        "price": 500,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "legendario_rose": {
+                        "price": 350,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "pazo_pondal": {
+                        "price": 250,
+                        "type": "vino",
+                        "principal_ingredient": "uva"
+                    },
+                    "anis_del_mono": {
+                        "price": 380,
+                        "type": "anis",
+                        "principal_ingredient": "anis"
+                    },
+                    "anisado_pastis": {
+                        "price": 350,
+                        "type": "anis",
+                        "principal_ingredient": "anis"
+                    },
+                    "baileys": {
+                        "price": 800,
+                        "type": "licor",
+                        "principal_ingredient": "crema"
+                    },
+                    "crema_ruavieja_de_chocolate": {
+                        "price": 600,
+                        "type": "licor",
+                        "principal_ingredient": "chocolate"
+                    },
+                    "crema_ruavieja_de_arroz": {
+                        "price": 600,
+                        "type": "licor",
+                        "principal_ingredient": "arroz"
+                    },
+                    "jaggermeister": {
+                        "price": 700,
+                        "type": "licor",
+                        "principal_ingredient": "hierbas"
+                    },
+                    "jb": {
+                        "price": 500,
+                        "type": "whisky",
+                        "principal_ingredient": "cebada"
+                    },
+                    "jw_gold": {
+                        "price": 2500,
+                        "type": "whisky",
+                        "principal_ingredient": "cebada"
+                    },
+                    "jw_red_label": {
+                        "price": 1000,
+                        "type": "whisky",
+                        "principal_ingredient": "cebada"
+                    },
+                    "jameson": {
+                        "price": 500,
+                        "type": "whisky",
+                        "principal_ingredient": "cebada"
+                    },
+                    "ballantines": {
+                        "price": 500,
+                        "type": "whisky",
+                        "principal_ingredient": "cebada"
+                    },
+                    "glen_scalan": {
+                        "price": 850,
+                        "type": "whisky",
+                        "principal_ingredient": "cebada"
+                    },
+                    "pisco_mosto_verde": {
+                        "price": 400,
+                        "type": "pisco",
+                        "principal_ingredient": "uva"
+                    },
+                    "grappa_chanti": {
+                        "price": 350,
+                        "type": "grappa",
+                        "principal_ingredient": "uva"
+                    },
+                    "grappa_prosecco": {
+                        "price": 350,
+                        "type": "grappa",
+                        "principal_ingredient": "uva"
+                    },
+                    "gavi_di_gavi": {
+                        "price": 350,
+                        "type": "vino",
+                        "principal_ingredient": "uva"
+                    },
+                    "vodka_wiborowa": {
+                        "price": 650,
+                        "type": "vodka",
+                        "principal_ingredient": "granos"
+                    },
+                    "beefeater": {
+                        "price": 750,
+                        "type": "gin",
+                        "principal_ingredient": "enebro"
+                    },
+                    "gin_mg": {
+                        "price": 650,
+                        "type": "gin",
+                        "principal_ingredient": "enebro"
+                    },
+                    "gin_mg_rose": {
+                        "price": 700,
+                        "type": "gin",
+                        "principal_ingredient": "enebro"
+                    },
+                    "tanqueray_10": {
+                        "price": 1500,
+                        "type": "gin",
+                        "principal_ingredient": "enebro"
+                    },
+                    "gin_master": {
+                        "price": 800,
+                        "type": "gin",
+                        "principal_ingredient": "enebro"
+                    },
+                    "q_rose": {
+                        "price": 600,
+                        "type": "licor",
+                        "principal_ingredient": "frutas"
+                    }
+                }
+            }
+        }
+    }
+}

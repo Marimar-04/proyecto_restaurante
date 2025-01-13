@@ -1,0 +1,307 @@
+{
+    "name": "Doña Almira",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/explore/locations/2262149627338453/dona-almira/",
+        "facebook": "https://m.facebook.com/2262149627338453/",
+        "telephone_number": ["76472432", "52928671"]
+    },
+    "location": {
+        "municipality": "Arroyo Naranjo",
+        "direction": "Calle Finlay No.979 % Avenida de Los Pinos y Fernandez de Castro, Arroyo Naranjo",
+        "coordinates": "23.064301239847143, -82.37500301230665"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.6,
+        "cant_g": 56,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": 4.5,
+        "cant_t": 37
+    },
+    "description": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["criolla"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": false,
+            "bar": false,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "",
+            "tue": "",
+            "wed": "",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "",
+            "tue": "",
+            "wed": "",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": false,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": false
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "tostones_rellenos": {
+                    "price": 850.0,
+                    "type": "tostones",
+                    "principal_ingredient": "plátano"
+                },
+                "tamal_en_cazuela": {
+                    "price": 785.0,
+                    "type": "tamal",
+                    "principal_ingredient": "maíz"
+                },
+                "vegetales_rellenos": {
+                    "price": 895.0,
+                    "type": "vegetales",
+                    "principal_ingredient": "vegetales"
+                },
+                
+                "ensalada_de_chorizo": {
+                    "price": 1225.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "chorizo"
+                },
+                "ceviche_de_pescado": {
+                    "price": 685.0,
+                    "type": "ceviche",
+                    "principal_ingredient": "pescado"
+                }
+            },
+            "main": {
+                "mignon_de_pescado_grille": {
+                    "price": 1370.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "mignon_de_pescado_a_las_finas_hierbas": {
+                    "price": 1410.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "mignon_de_pescado_dona_almira": {
+                    "price": 1650.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "mignon_de_pescado_gratinado": {
+                    "price": 1585.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "mignon_de_pescado_con_queso_y_bacon": {
+                    "price": 1720.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "bistec_americano": {
+                    "price": 2430.0,
+                    "type": "bistec",
+                    "principal_ingredient": "res"
+                },
+                "nasobuco": {
+                    "price": 1860.0,
+                    "type": "carne",
+                    "principal_ingredient": "res"
+                },
+                "bistec_de_higado": {
+                    "price": 1290.0,
+                    "type": "hígado",
+                    "principal_ingredient": "res"
+                },
+                "higado_a_la_italiana": {
+                    "price": 1380.0,
+                    "type": "hígado",
+                    "principal_ingredient": "res"
+                },
+                "lomo_rostizado": {
+                    "price": 2150.0,
+                    "type": "lomo",
+                    "principal_ingredient": "res"
+                },
+                "pollo_dona_almira": {
+                    "price": 1340.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_barbacoa": {
+                    "price": 1195.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_salsa_agridulce": {
+                    "price": 1295.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_grille": {
+                    "price": 1195.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_en_fricase": {
+                    "price": 1200.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_a_la_pasa": {
+                    "price": 1220.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_grille_con_camarones": {
+                    "price": 1375.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "cerdo_enrrollado_asado": {
+                    "price": 1545.0,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "cerdo_enrollado_salsa_agridulce": {
+                    "price": 1570.0,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "cerdo_enrollado_glaseado": {
+                    "price": 1550.0,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "fricase_de_cerdo": {
+                    "price": 1520.0,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "picada_a_la_habanera": {
+                    "price": 1290.0,
+                    "type": "carne",
+                    "principal_ingredient": "res"
+                },
+                "ropa_vieja": {
+                    "price": 1305.0,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "res"
+                },
+                "vaca_frita": {
+                    "price": 1260.0,
+                    "type": "vaca frita",
+                    "principal_ingredient": "res"
+                }
+            },
+            "fittings": {
+                "arroz_congris": {
+                    "price": 120.0,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "ensalada_estacion": {
+                    "price": 285.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                },
+                "racion_de_chicharrones": {
+                    "price": 300.0,
+                    "type": "chicharrones",
+                    "principal_ingredient": "cerdo"
+                },
+                "aderezo_dona_almira": {
+                    "price": 385.0,
+                    "type": "aderezo",
+                    "principal_ingredient": "varios"
+                },
+                "salsa_agridulce": {
+                    "price": 395.0,
+                    "type": "salsa",
+                    "principal_ingredient": "agridulce"
+                }
+            },
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {
+                "musse_variados": {
+                    "price": 570.0,
+                    "type": "postre",
+                    "principal_ingredient": "crema"
+                }
+            },
+            "drinks": {
+                "general": {},
+                "cafes": {
+                    "cafe_cubano": {
+                        "price": 150.0,
+                        "type": "espresso",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_cortado": {
+                        "price": 180.0,
+                        "type": "cortado",
+                        "principal_ingredient": "cafe"
+                    }
+                },
+                "alcoholics": {}
+            }
+        }
+    }
+}

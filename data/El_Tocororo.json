@@ -1,0 +1,370 @@
+{
+    "name": "El Tocororo",
+    "sector": "estatal",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/explore/locations/690003488/el-tocororo-la-habana-cuba/?hl=es",
+        "facebook": "https://www.facebook.com/p/Restaurante-BAR-Tocororo-100064148438441/?locale=es_LA",
+        "telephone_number": ["72024530 ", "72042209"]
+    },
+    "location": {
+        "municipality": "Playa",
+        "direction": "Calle 18/ 3era y 5ta Miramar, Playa",
+        "coordinates": "23.124905240397386, -82.42134057564077"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": 4.2,
+        "cant_g": 89,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": 4.0,
+        "cant_t": 134
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["criolla"],
+        "capacity": 75,
+        "areas": {
+            "inside": true,
+            "outside": false,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": true
+        },
+        "time_of_service": 36
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+      
+        "full_staff": true,
+        "average_salary": 5000
+    },
+    "sustainability": {
+        "product": {
+            "import": 50,
+            "local": 50
+        },
+        "ecological": false
+    },
+    "experiences": {
+        "live_music": true,
+        "show": ["bailable", "flamenco"],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_M": false,
+        "generator": false,
+        "wifi": false,
+        "parking": true,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": true,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "mariscos",
+        "card": {
+            "breakfast": {},
+            
+            "breads": {
+                "panaderia_de_la_casa": {
+                    "principal_ingrediente": "pan",
+                    "type": "pan",
+                    "price": 75
+                }
+            },
+            "starters": {
+                "coctel_de_langosta": {
+                    "principal_ingrediente": "langosta",
+                    "type": "lagosta",
+                    "price": 550
+                },
+                "coctel_de_pescado": {
+                    "principal_ingrediente": "pescado",
+                    "type": "pescado",
+                    "price": 385
+                },
+                "ensalada_de_pollo_tropical": {
+                    "principal_ingrediente": "pollo",
+                    "type": "ensalada",
+                    "price": 300
+                },
+                "dados_de_queso_en_escabeche": {
+                    "principal_ingrediente": "queso",
+                    "type": "dados",
+                    "price": 425
+                },
+                "entremes_de_jamon": {
+                    "principal_ingrediente": "jamon",
+                    "type": "entremes",
+                    "price": 285
+                },
+                "seviche_caribeno": {
+                    "principal_ingrediente": "pescado",
+                    "type": "pescado",
+                    "price": 450
+                },
+                "picadera_especial_tocororos": {
+                    "principal_ingrediente": "jamon, queso, croquetas, fajitas de pechuga",
+                    "type": "picadera",
+                    "price": 1500
+                },
+                "frituritas_de_la_abuela": {
+                    "principal_ingrediente": "malanga",
+                    "type": "frituras",
+                    "price": 170
+                },
+                "croquetas_del_chef": {
+                    "principal_ingrediente": "croquetas",
+                    "type": "croquetas",
+                    "price": 200
+                },
+                "eperlan_de_pescado": {
+                    "principal_ingrediente": "pescado",
+                    "type": "eperlan",
+                    "price": 675
+                },
+                "mejillones_a_la_diabla": {
+                    "principal_ingrediente": "mejillones",
+                    "type": "mejillones",
+                    "price": 700
+                }
+            },
+            "main": {
+                "pesca_especial_del_dia_con_salsa_de_limon": {
+                    "principal_ingrediente": "pescado",
+                    "type": "pescado",
+                    "price": 1600
+                },
+                "delicias_del_caribe": {
+                    "principal_ingrediente": "pescado, mariscos",
+                    "type": "mariscos",
+                    "price": 1775
+                },
+                "langosta_grille_abrillantada_con_mantequilla_y_olivo": {
+                    "principal_ingrediente": "langosta",
+                    "type": "mariscos",
+                    "price": 1750
+                },
+                "langosta_enchilada": {
+                    "principal_ingrediente": "langosta",
+                    "type": "mariscos",
+                    "price": 1700
+                },
+                "mejillones_a_la_diabla": {
+                    "principal_ingrediente": "mejillones",
+                    "type": "mariscos",
+                    "price": 1250
+                },
+                "pollo_al_horno_al_estilo_del_chef": {
+                    "principal_ingrediente": "pollo",
+                    "type": "pollo",
+                    "price": 820
+                },
+                "suprema_de_pollo_perfumada_al_olivo": {
+                    "principal_ingrediente": "pollo",
+                    "type": "pollo",
+                    "price": 850
+                },
+                "higado_grille_con_aderezo_primavera": {
+                    "principal_ingrediente": "higado",
+                    "type": "higado",
+                    "price": 985
+                },
+                "lonjas_de_cerdo_asado_con_mojo_criollo": {
+                    "principal_ingrediente": "cerdo",
+                    "type": "lonjas",
+                    "price": 1500
+                },
+                "costilla_de_cerdo_asado_a_lo_cubano": {
+                    "principal_ingrediente": "cerdo",
+                    "type": "costillas",
+                    "price": 1425
+                },
+                "ternera_guisada_a_la_campesina": {
+                    "principal_ingrediente": "ternera",
+                    "type": "ternera",
+                    "price": 1550
+                }
+            },
+            "fittings": {
+                "hortalizas_salteadas": {
+                    "principal_ingredient": "hortalizas",
+                    "type": "hortaliza",
+                    "price": 100.0
+                },
+                "arroz_blanco": {
+                    "principal_ingredient": "arroz",
+                    "type": "arroz",
+                    "price": 110.0
+                },
+                "arroz_moro": {
+                    "principal_ingredient": "arroz",
+                    "type": "arroz",
+                    "price": 200.0
+                },
+                "vianda_hervida_aderezada_con_mojo_criollo": {
+                    "principal_ingredient": "vianda",
+                    "type": "vianda",
+                    "price": 100.0
+                },
+                "vianda_frita": {
+                    "principal_ingredient": "vianda",
+                    "type": "vianda",
+                    "price": 100.0
+                },
+                "papas_fritas": {
+                    "principal_ingredient": "papas",
+                    "type": "papas",
+                    "price": 150.0
+                },
+                "ensalada_de_hortalizas_del_dia": {
+                    "principal_ingredient": "verduras",
+                    "type": "ensalada",
+                    "price": 100.0
+                },
+                "sopon_campesino": {
+                    "principal_ingrediente": "carne de cerdo, tuberculos feculentos, platano, calabaza, salsa de tomate especiada",
+                    "type": "sopa",
+                    "price": 80
+                },
+                "frijoles_negros_a_la_criolla": {
+                    "principal_ingrediente": "frijoles negros",
+                    "type": "frijoles",
+                    "price": 180
+                },
+                "caldo_marinero": {
+                    "principal_ingrediente": "pescado, mariscos, vegetales, especias",
+                    "type": "sopa",
+                    "price": 195
+                }
+            },
+            "pastas": {
+                "espaguetis_napolitano": {
+                    "principal_ingrediente": "pastas",
+                    "type": "pastas",
+                    "price": 550
+                },
+                "espaguetis_primavera": {
+                    "principal_ingrediente": "pastas",
+                    "type": "pastas",
+                    "price": 625
+                },
+                "espaguetis_al_olio": {
+                    "principal_ingrediente": "pastas",
+                    "type": "pastas",
+                    "price": 550
+                },
+                "espaguetis_guarnecido_con_jamon": {
+                    "principal_ingrediente": "pastas",
+                    "type": "pastas",
+                    "price": 685
+                },
+                "espaguetis_marinero": {
+                    "principal_ingrediente": "pastas",
+                    "type": "pastas",
+                    "price": 850
+                }
+            },
+            "pizzas": {},
+            "additions": {},
+            "desserts": {
+                "deliciosa_torta_de_la_casa": {
+                    "principal_ingrediente": "torta",
+                    "type": "pastel",
+                    "price": 285
+                },
+                "arroz_con_leche_a_la_canela": {
+                    "principal_ingrediente": "arroz, leche, canela",
+                    "type": "dulce",
+                    "price": 200
+                },
+                "dulces_en_almibar_guarnecido_con_queso": {
+                    "principal_ingrediente": "queso",
+                    "type": "dulce",
+                    "price": 200
+                },
+                "helado_tocororo": {
+                    "principal_ingrediente": "helado",
+                    "type": "helado",
+                    "price": 180
+                }
+            },
+            "drinks": {
+                "general": {},
+                "cafes": {
+                    "cafe_expreso": {
+                        "principal_ingrediente": "cafe",
+                        "type": "cafe",
+                        "price": 90
+                    },
+                    "cafe_cortadito": {
+                        "principal_ingrediente": "cafe",
+                        "type": "cafe",
+                        "price": 100
+                    },
+                    "cafe_rocio_de_gallo": {
+                        "principal_ingrediente": "cafe",
+                        "type": "cafe",
+                        "price": 150
+                    },
+                    "cafe_carajillo": {
+                        "principal_ingrediente": "cafe",
+                        "type": "cafe",
+                        "price": 150
+                    },
+                    "cafe_americano": {
+                        "principal_ingrediente": "cafe",
+                        "type": "cafe",
+                        "price": 100
+                    },
+                    "infusion_de_manzanilla": {
+                        "principal_ingrediente": "manzanilla",
+                        "type": "te",
+                        "price": 100
+                    },
+                    "infusion_de_menta_poleo": {
+                        "principal_ingrediente": "menta",
+                        "type": "te",
+                        "price": 100
+                    }
+                },
+                "alcoholics": {}
+            }
+        }
+    }
+}

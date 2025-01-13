@@ -1,0 +1,307 @@
+{
+    "name": "Kafe DVD",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/kfedvd/?locale=zh_HK",
+        "telephone_number": [""]
+    },
+    "location": {
+        "municipality": "Diez de Octubre",
+        "direction": "San Francisco entre 10 de Octubre y Delicias, Havana, Cuba",
+        "coordinates": "23.096430255895857, -82.35717640060878"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": 3.5,
+        "cant_g": 4,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["criolla"],
+        "capacity": 45,
+        "areas": {
+            "inside": true,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": 12
+    },
+    "schedule": {
+        "24_hours": true,
+        "open": {
+            "mon": "",
+            "tue": "",
+            "wed": "",
+            "thu": "",
+            "fri": "",
+            "sat": "",
+            "sun": ""
+        },
+        "close": {
+            "mon": "",
+            "tue": "",
+            "wed": "",
+            "thu": "",
+            "fri": "",
+            "sat": "",
+            "sun": ""
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": 50,
+            "local": 50
+        },
+        "ecological": false
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": false,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+            
+                "breakfasts": {},
+                "breads": {
+                  "pan_con_perro": {
+                    "price": 300.00,
+                    "type": "pan",
+                    "principal_ingredient": "perro caliente"
+                  },
+                  "pan_con_tortilla": {
+                    "price": 250.00,
+                    "type": "pan",
+                    "principal_ingredient": "tortilla"
+                  },
+                  "pan_hamburguesa": {
+                    "price": 400.00,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne"
+                  },
+                  "pan_hamburguesa_mariquitas": {
+                    "price": 500.00,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne"
+                  }
+                },
+                "starters": {
+                    "alitas_de_pollo": {
+                    "price": 1300.00,
+                    "type": "alitas",
+                    "principal_ingredient": "pollo"
+                  },
+                  "tacos": {
+                    "price": 600.00,
+                    "type": "tacos",
+                    "principal_ingredient": "mixto"
+                  }, 
+                  "croquetas": {
+                    "price": 400.00,
+                    "type": "croqueta",
+                    "principal_ingredient": "mixto"
+                  },
+                  "fajitas_de_pollo": {
+                    "price": 900.00,
+                    "type": "fajitas",
+                    "principal_ingredient": "pollo"
+                  }
+
+                },
+                "main": {
+                  "fricase_de_cerdo": {
+                    "price": 1300.00,
+                    "type": "fricase",
+                    "principal_ingredient": "cerdo"
+                  },
+                  "masa_de_cerdo": {
+                    "price": 1200.00,
+                    "type": "masa",
+                    "principal_ingredient": "cerdo"
+                  },
+                  "chuleta_de_cerdo": {
+                    "price": 1500.00,
+                    "type": "chuleta",
+                    "principal_ingredient": "cerdo"
+                  },
+                  "bistec_de_cerdo": {
+                    "price": 1000.00,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                  },
+                  "bistec_de_pollo": {
+                    "price": 950.00,
+                    "type": "bistec",
+                    "principal_ingredient": "pollo"
+                  },
+                  "higado_con_su_salsa": {
+                    "price": 770.00,
+                    "type": "higado",
+                    "principal_ingredient": "hígado"
+                  },
+                  "higado_a_la_italiana": {
+                    "price": 730.00,
+                    "type": "higado",
+                    "principal_ingredient": "hígado"
+                  },
+                  "higado_encebollado": {
+                    "price": 650.00,
+                    "type": "higado",
+                    "principal_ingredient": "hígado"
+                  },
+                  "arroz_frito": {
+                    "price": 700,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                  }
+                },
+                "fittings": {
+                    "tostones_al_ajillo": {
+                    "price": 350.00,
+                    "type": "tostones",
+                    "principal_ingredient": "plátano"
+                  },
+                  "tostones": {
+                    "price": 300.00,
+                    "type": "tostones",
+                    "principal_ingredient": "plátano"
+                  },
+                  "chicharritas": {
+                    "price": 150.00,
+                    "type": "fritura",
+                    "principal_ingredient": "plátano"
+                  },
+                  "fritura_de_malanga": {
+                    "price": 400.00,
+                    "type": "fritura",
+                    "principal_ingredient": "malanga"
+                  }
+                },
+                "pastas": {
+                    "spaquets": {
+                    "price": 700.00,
+                    "type": "napolitana",
+                    "principal_ingredient": "pasta"
+                  }
+                },
+                "pizzas": {
+                  "pizza_grande": {
+                    "price": 300.00,
+                    "type": "pizza",
+                    "principal_ingredient": "mixto"
+                  },
+                  "pizza_chiquita": {
+                    "price": 200,
+                    "type": "pizza",
+                    "principal_ingredient": "mixto"
+                  }
+                },
+                "additions": {
+                  
+                  "chorizo": {
+                    "price": 100.00,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                  },
+                  "jamon": {
+                    "price": 100.00,
+                    "type": "embutido",
+                    "principal_ingredient": "jamon"
+                  },
+                  "queso": {
+                    "price": 200.00,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                  },
+                  "cebolla": {
+                    "price": 100.00,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                  },
+                  "pimiento": {
+                    "price": 100.00,
+                    "type": "vegetal",
+                    "principal_ingredient": "pimiento"
+                  },
+                  "aceituna": {
+                    "price": 200.00,
+                    "type": "vegetal",
+                    "principal_ingredient": "aceituna"
+                  }
+
+                },
+                "dessert": {},
+                "drinks": {
+                  "general": {
+                    "refresco": {
+                    "price": 220.00,
+                    "type": "refresco",
+                    "principal_ingredient": "mixto"
+                  },
+                  "refresco_pepsi": {
+                    "price": 250.00,
+                    "type": "refresco importado",
+                    "principal_ingredient": "mixto"
+                  },
+                  "jugo_lata": {
+                    "price": 300.00,
+                    "type": "jugo",
+                    "principal_ingredient": "mixto"
+                  },
+                  "enrgizante": {
+                    "price": 300.00,
+                    "type": "energizante",
+                    "principal_ingredient": "mixto"
+                  }
+
+                  },
+                  "cafes": {},
+                  "alcoholics": {
+                    "cerveza": {
+                        "price": 200.00,
+                        "type": "cerveza",
+                        "principal_ingredient": "mixto"
+                      }
+                  }
+                }
+              
+              
+        }
+    }
+}

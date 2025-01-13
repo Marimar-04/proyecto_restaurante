@@ -1,0 +1,186 @@
+{
+    "name": "Diverxo",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/explore/locations/106543805156035/diverxo-restaurant-bar/?locale=zh-hans",
+        "facebook": "https://www.facebook.com/p/Diverxo-Restaurant-Bar-100075778576229/",
+        "telephone_number": ["58594576"]
+    },
+    "location": {
+        "municipality": "Diez de Octubre",
+        "direction": "Calzada de 10 de octubre #904 entre Luz Oeste y Lacret, Havana, Cuba",
+        "coordinates": ""
+    },
+    "valoration": {
+        "quality": "null",
+        "google": null,
+        "cant_g": null,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["criolla"],
+        "capacity": 20,
+        "areas": {
+            "inside": true,
+            "outside": false,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": 1
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": 80,
+            "local": 20
+        },
+        "ecological": true
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": true,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": false,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {},
+            "main": {
+                "lechon_asado": {
+                    "price": 1650.0,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                }
+            },
+            "fittings": {},
+            "pastas": {
+                "espaguetis_napolitana": {
+                    "price": 850.0,
+                    "type": "napolitano",
+                    "principal_ingredient": "salsa napolitana"
+                },
+                "espaguetis_jamon": {
+                    "price": 1100.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "espaguetis_chorizo": {
+                    "price": 1100,
+                    "type": "embutido",
+                    "principal_ingredient": "shpuzo"
+                },
+                "espaguetis_alfredo_de_jamon": {
+                    "price": 1150.0,
+                    "type": "alfredo",
+                    "principal_ingredient": "jamón"
+                }
+            },
+            "pizzas": {
+                "napolitana": {
+                    "price": 850,
+                    "type": "napolitana",
+                    "principal_ingredient": "salsa napolitana"
+                },
+                "diveryo": {
+                    "price": 1950.0,
+                    "type": "embutido",
+                    "principal_ingredient": "diverso"
+                }
+            },
+            "additions": {
+                "jamon": {
+                    "price": 350.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "atun": {
+                    "price": 500.0,
+                    "type": "atun",
+                    "principal_ingredient": "atún"
+                },
+                "chorizo": {
+                    "price": 350.0,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "aceituna": {
+                    "price": 500.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "cretona"
+                },
+                "queso": {
+                    "price": 350.0,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                }
+            },
+            "dessert": {},
+            "drinks": {
+                "general": {},
+                "cafes": {},
+                "alcoholics": {
+                    "termo_de_cerveza": {
+                        "price": 2160.0,
+                        "type": "plato principal",
+                        "principal_ingredient": "cerveza"
+                    }
+                }
+            }
+        }
+    }
+}

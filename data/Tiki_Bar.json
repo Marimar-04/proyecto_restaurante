@@ -1,0 +1,258 @@
+{
+    "name": "Tiki Bar",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/tikibar_parrillada/?hl=es",
+        "facebook": "https://www.facebook.com/p/TIKI-BAR-Parrillada-100064883114524/?locale=es_LA",
+        "telephone_number": ["77991302"]
+    },
+    "location": {
+        "municipality": "Habana del Este",
+        "direction": "Calle 3/ 484 y 486 Guanabo Habana del Este, Havana, Cuba",
+        "coordinates": "23.17292255703672, -82.13040482998994"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": 4.3,
+        "cant_g": 23,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["internacional", "criolla"],
+        "capacity": 50,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "09:00",
+            "tue": "09:00",
+            "wed": "09:00",
+            "thu": "09:00",
+            "fri": "09:00",
+            "sat": "09:00",
+            "sun": "09:00"
+        },
+        "close": {
+            "mon": "22:00",
+            "tue": "22:00",
+            "wed": "22:00",
+            "thu": "22:00",
+            "fri": "22:00",
+            "sat": "22:00",
+            "sun": "22:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": null,
+        "wifi": false,
+        "parking": true,
+        "for_kids": true,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": null
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            
+                "breakfasts": {},
+                "breads": {},
+                "starters": {
+                  "tostones_de_jamon_y_queso": {
+                    "price": 1200,
+                    "type": "tostones",
+                    "principal_ingredient": "jamon y queso"
+                  },
+                  "tostones_de_chorizo_y_queso": {
+                    "price": 1200,
+                    "type": "tostones",
+                    "principal_ingredient": "chorizo y queso"
+                  },
+                  "tostones_de_cangrejo": {
+                    "price": 2300,
+                    "type": "tostones",
+                    "principal_ingredient": "cangrejo"
+                  },
+                  "tostones_de_langosta": {
+                    "price": 4000,
+                    "type": "tostones",
+                    "principal_ingredient": "langosta"
+                  },
+                  "tostones_de_camaron": {
+                    "price": 4000,
+                    "type": "tostones",
+                    "principal_ingredient": "camaron"
+                  },
+                  "taco_de_cangrejo": {
+                    "price": 2500,
+                    "type": "tacos",
+                    "principal_ingredient": "cangrejo"
+                  },
+                  "taco_de_camaron": {
+                    "price": 4000,
+                    "type": "tacos",
+                    "principal_ingredient": "camaron"
+                  },
+                  "taco_de_langosta": {
+                    "price": 4000,
+                    "type": "tacos",
+                    "principal_ingredient": "langosta"
+                  },
+                  "papas_tiki": {
+                    "price": 1300,
+                    "type": "papas",
+                    "principal_ingredient": "papas"
+                  },
+                  "ceviche_de_pescado": {
+                    "price": 2000,
+                    "type": "ceviche",
+                    "principal_ingredient": "pescado"
+                  },
+                  "ceviche_de_langosta": {
+                    "price": 3000,
+                    "type": "ceviche",
+                    "principal_ingredient": "langosta"
+                  },
+                  "coctel_de_camaron": {
+                    "price": 3500,
+                    "type": "coctel marisco",
+                    "principal_ingredient": "camaron"
+                  },
+                  "coctel_de_langosta": {
+                    "price": 2900,
+                    "type": "coctel marisco",
+                    "principal_ingredient": "langosta"
+                  },
+                  "fajita_de_cerdo": {
+                    "price": 2250,
+                    "type": "fajita",
+                    "principal_ingredient": "cerdo"
+                  },
+                  "fajita_de_pollo": {
+                    "price": 2100,
+                    "type": "fajita",
+                    "principal_ingredient": "pollo"
+                  }
+                },
+                "main": {
+                  "camaron_al_gusto": {
+                    "price": 4000,
+                    "type": "camaron",
+                    "principal_ingredient": "camaron"
+                  },
+                  "langosta_al_gusto": {
+                    "price": 4000,
+                    "type": "langosta",
+                    "principal_ingredient": "langosta"
+                  },
+                  "enchilado_de_cangrejo": {
+                    "price": 2500,
+                    "type": "enchilado",
+                    "principal_ingredient": "cangrejo"
+                  },
+                  "bistec_de_cerdo": {
+                    "price": 2500,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                  },
+                  "ribeye": {
+                    "price": 12500,
+                    "type": "ribeye",
+                    "principal_ingredient": "res"
+                  },
+                  "pulpo_al_gusto": {
+                    "price": 3800,
+                    "type": "pulpo",
+                    "principal_ingredient": "pulpo"
+                  }
+                },
+                "fittings": {},
+                "pastas": {},
+                "pizzas": {},
+                "additions": {},
+                "dessert": {},
+                "drinks": {
+                  "general": {
+                    "red_bull": {
+                      "price": 700,
+                      "type": "energizante",
+                      "principal_ingredient": "bebida energetica"
+                    },
+                    "energizante": {
+                      "price": 420,
+                      "type": "energizante",
+                      "principal_ingredient": "bebida energetica"
+                    },
+                    "malta": {
+                      "price": 500,
+                      "type": "malta",
+                      "principal_ingredient": "malta"
+                    },
+                    "refresco": {
+                      "price": 450,
+                      "type": "refresco",
+                      "principal_ingredient": "refresco"
+                    },
+                    "malteada": {
+                      "price": 1000,
+                      "type": "malteada",
+                      "principal_ingredient": "leche"
+                    }
+                  },
+                  "cafes": {},
+                  "alcoholics": {
+                    "cerveza": {
+                      "price": 500,
+                      "type": "cerveza",
+                      "principal_ingredient": "cebada"
+                    }
+                  }
+                
+              }
+              
+        }
+    }
+}

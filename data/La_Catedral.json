@@ -1,0 +1,395 @@
+{
+    "name": "La Catedral",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/lacatedralcuba/?hl=es",
+        "facebook": "https://www.facebook.com/mirestaurantencuba/?locale=es_LA",
+        "telephone_number": ["7 8300793"]
+    },
+    "location": {
+        "municipality": "Plaza de la Revolucion",
+        "direction": "Calle 8 e/ Calzada 5ta, Vedado",
+        "coordinates": "23.135883351647344, -82.40394722948483"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.0,
+        "cant_g": 332,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": 4.0,
+        "cant_t": 963
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "08:00",
+            "tue": "08:00",
+            "wed": "08:00",
+            "thu": "08:00",
+            "fri": "08:00",
+            "sat": "08:00",
+            "sun": "08:00"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": null,
+        "generator": null,
+        "wifi": null,
+        "parking": true,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "bombones_de_queso_y_pescado": {
+                    "price": 499,
+                    "type": "croqueta",
+                    "principal_ingredient": "queso y pescado"
+                },
+                "mariquitas_de_yuca": {
+                    "price": 350,
+                    "type": "tostones",
+                    "principal_ingredient": "yuca"
+                },
+                "brusquetas": {
+                    "price": 350,
+                    "type": "pan",
+                    "principal_ingredient": "pan y tomate"
+                },
+                "garbanzos_fritos": {
+                    "price": 700,
+                    "type": "croqueta",
+                    "principal_ingredient": "garbanzo"
+                },
+                "entremeses_surtido": {
+                    "price": 799,
+                    "type": "embutido",
+                    "principal_ingredient": "variedad de embutidos"
+                },
+                "picadera_obispo": {
+                    "price": 1350,
+                    "type": "tostones",
+                    "principal_ingredient": "variados embutidos"
+                },
+                "fuente_de_eperlan": {
+                    "price": 1400,
+                    "type": "pescado",
+                    "principal_ingredient": "eperlan"
+                },
+                "tabla_de_embutidos": {
+                    "price": 1500,
+                    "type": "embutido",
+                    "principal_ingredient": "embutidos"
+                },
+                "tacos_de_cerdo_y_pollo": {
+                    "price": 1500,
+                    "type": "taco",
+                    "principal_ingredient": "cerdo y pollo"
+                },
+                "fajitas_de_pollo_frito": {
+                    "price": 1500,
+                    "type": "tostones",
+                    "principal_ingredient": "pollo"
+                },
+                "tabla_de_jamon_serrano_chorizo_y_queso": {
+                    "price": 1900,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón serrano, chorizo y queso"
+                }
+            },
+            "main": {
+                "lasana_de_res": {
+                    "price": 1600,
+                    "type": "pasta",
+                    "principal_ingredient": "carne de res"
+                },
+                "ropa_vieja": {
+                    "price": 1800,
+                    "type": "bistec",
+                    "principal_ingredient": "carne de res"
+                },
+                "bistec_de_cerdo_al_mojo_criollo": {
+                    "price": 1500,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "fajita_de_cerdo_al_grill": {
+                    "price": 1500,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "lonjas_de_pierna_ahumado_salsa_agridulce": {
+                    "price": 1700,
+                    "type": "lomo",
+                    "principal_ingredient": "pierna ahumada"
+                },
+                "lonjas_de_pierna_ahumado_con_queso_y_pina": {
+                    "price": 1800,
+                    "type": "lomo",
+                    "principal_ingredient": "pierna ahumada, queso y piña"
+                },
+                "milanesa_de_cerdo_con_espaguettis": {
+                    "price": 1500,
+                    "type": "pasta",
+                    "principal_ingredient": "cerdo y espaguetis"
+                },
+                "arroz_frito": {
+                    "price": 1500,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "arroz_frito_especial_con_camarones": {
+                    "price": 1700,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz y camarones"
+                },
+                "pollo_deshuesado_a_la_plancha": {
+                    "price": 1400,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "fajitas_de_pollo_salteadas": {
+                    "price": 1400,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "milanesa_de_pollo_con_espaguettis": {
+                    "price": 1400,
+                    "type": "pasta",
+                    "principal_ingredient": "pollo y espaguetis"
+                },
+                "arroz_con_pollo_a_la_chorrera": {
+                    "price": 1500,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz y pollo"
+                },
+                "filete_de_pescado_maitre_de_hotel": {
+                    "price": 1700,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "filete_de_pescado_frito": {
+                    "price": 1800,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                }
+            },
+            "fittings": {},
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "refrescos": {
+                        "price": 199,
+                        "type": "refresco",
+                        "principal_ingredient": "agua y azúcar"
+                    },
+                    "limonada_de_fresas": {
+                        "price": 250,
+                        "type": "jugo",
+                        "principal_ingredient": "fresas"
+                    },
+                    "jugos_de_frutas": {
+                        "price": 199,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas"
+                    },
+                    "agua_natural": {
+                        "price": 199,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "malta_perla_negra": {
+                        "price": 350,
+                        "type": "cerveza",
+                        "principal_ingredient": "malta"
+                    },
+                    "cristal_barril_500ml": {
+                        "price": 350,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "cristal_botella": {
+                        "price": 350,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "bucanero_barril_500ml": {
+                        "price": 350,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "bucanero_botella": {
+                        "price": 350,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "cubetazo_4_1": {
+                        "price": 1500,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "michelada_classica": {
+                        "price": 425,
+                        "type": "coctel",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "michelada_al_mojito": {
+                        "price": 425,
+                        "type": "coctel",
+                        "principal_ingredient": "cerveza y mojito"
+                    },
+                    "michelada_vampira": {
+                        "price": 425,
+                        "type": "coctel",
+                        "principal_ingredient": "cerveza y chile"
+                    },
+                    "michelada_salsanera": {
+                        "price": 425,
+                        "type": "coctel",
+                        "principal_ingredient": "cerveza y salsa"
+                    },
+                    "mojito": {
+                        "price": 340,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "daiquiri": {
+                        "price": 340,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "daiquiri_de_fresas": {
+                        "price": 499,
+                        "type": "ron",
+                        "principal_ingredient": "fresas y ron"
+                    },
+                    "cubalibre": {
+                        "price": 340,
+                        "type": "ron",
+                        "principal_ingredient": "ron y cola"
+                    },
+                    "cubanito": {
+                        "price": 399,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "blody_mary": {
+                        "price": 499,
+                        "type": "vodka",
+                        "principal_ingredient": "vodka"
+                    },
+                    "sangria": {
+                        "price": 499,
+                        "type": "vino",
+                        "principal_ingredient": "vino tinto"
+                    },
+                    "screw_driver": {
+                        "price": 599,
+                        "type": "vodka",
+                        "principal_ingredient": "vodka"
+                    },
+                    "caipirinha": {
+                        "price": 599,
+                        "type": "vodka",
+                        "principal_ingredient": "vodka"
+                    },
+                    "pina_colada": {
+                        "price": 599,
+                        "type": "ron",
+                        "principal_ingredient": "ron y piña"
+                    },
+                    "martini": {
+                        "price": 599,
+                        "type": "vodka",
+                        "principal_ingredient": "vodka"
+                    },
+                    "old_fashioned": {
+                        "price": 599,
+                        "type": "whisky",
+                        "principal_ingredient": "whisky"
+                    },
+                    "whiskey_sour": {
+                        "price": 599,
+                        "type": "whisky",
+                        "principal_ingredient": "whisky"
+                    },
+                    "manhattan": {
+                        "price": 599,
+                        "type": "whisky",
+                        "principal_ingredient": "whisky"
+                    },
+                    "negroni": {
+                        "price": 599,
+                        "type": "gin",
+                        "principal_ingredient": "gin"
+                    }
+                }
+            }
+        }
+    }
+}

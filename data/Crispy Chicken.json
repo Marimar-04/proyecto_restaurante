@@ -1,0 +1,204 @@
+{
+    "name": "Crispy Chicken",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/crispy.chicken.monaco/",
+        "facebook": "",
+        "telephone_number": ["50763525"]
+    },
+    "location": {
+        "municipality": "Diez de Octubre",
+        "direction": "Avenida de Acosta y Juan Delgado, Monaco",
+        "coordinates": ""
+    },
+    "valoration": {
+        "quality": "",
+        "google": null,
+        "cant_g": null,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["rapida"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "11:00",
+            "tue": "11:00",
+            "wed": "11:00",
+            "thu": "11:00",
+            "fri": "11:00",
+            "sat": "11:00",
+            "sun": "11:00"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": true
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": false,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "mini_hot_dog": {
+                    "price": 300,
+                    "type": "croqueta",
+                    "principal_ingredient": "salchicha"
+                },
+                "flamenquin": {
+                    "price": 1000,
+                    "type": "embutido",
+                    "principal_ingredient": "jamon"
+                },
+                "san_jacobo": {
+                    "price": 1000,
+                    "type": "croqueta",
+                    "principal_ingredient": "queso"
+                },
+                "tostones_rellenos": {
+                    "price": 800,
+                    "type": "tostones",
+                    "principal_ingredient": "platano"
+                },
+                "entremes_de_jamon_y_queso": {
+                    "price": 1200,
+                    "type": "picada",
+                    "principal_ingredient": "jamon"
+                },
+                "picadera_de_la_casa": {
+                    "price": 2500,
+                    "type": "picada",
+                    "principal_ingredient": "mixto"
+                },
+                "chips_de_boniato": {
+                    "price": 500,
+                    "type": "chips",
+                    "principal_ingredient": "boniato"
+                }
+            },
+            "main": {
+                "pollo_frito": {
+                    "price": 1300,
+                    "type": "bistec",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_chiflado": {
+                    "price": 1600,
+                    "type": "bistec",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_chiflado_sin_hueso": {
+                    "price": 1800,
+                    "type": "bistec",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_relleno_de_jamon_y_queso": {
+                    "price": 2000,
+                    "type": "bistec",
+                    "principal_ingredient": "pollo"
+                },
+                "nuggets_de_pollo": {
+                    "price": 1000,
+                    "type": "nuggets",
+                    "principal_ingredient": "pollo"
+                },
+                "sandwich_de_pollo": {
+                    "price": 900,
+                    "type": "sandwich",
+                    "principal_ingredient": "pollo"
+                }
+            },
+            "fittings": {},
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "jugo_natural": {
+                        "price": 400,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas"
+                    },
+                    "vaca_negra": {
+                        "price": 800,
+                        "type": "refresco",
+                        "principal_ingredient": "refresco"
+                    },
+                    "batido_de_helado": {
+                        "price": 1000,
+                        "type": "coctel",
+                        "principal_ingredient": "helado"
+                    },
+                    "malteada": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "helado"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

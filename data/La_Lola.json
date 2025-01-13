@@ -1,0 +1,541 @@
+{
+    "name": "La Lola",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/explore/locations/240547952473438/bar-cafeteria-lalola/nearby/",
+        "facebook": "",
+        "telephone_number": ["52840986"]
+    },
+    "location": {
+        "municipality": "Cerro",
+        "direction": "Calle Ayestarán entre San Pablo y Pedro Pérez",
+        "coordinates": "23.105205391798584, -82.41874104484687"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": 3.8,
+        "cant_g": 20,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "14:00",
+            "tue": "14:00",
+            "wed": "14:00",
+            "thu": "14:00",
+            "fri": "14:00",
+            "sat": "14:00",
+            "sun": "14:00"
+        },
+        "close": {
+            "mon": "02:00",
+            "tue": "02:00",
+            "wed": "02:00",
+            "thu": "02:00",
+            "fri": "02:00",
+            "sat": "02:00",
+            "sun": "02:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": true,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": null,
+        "parking": true,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "bocadillo_de_jamon_y_queso": {
+                    "price": 500,
+                    "type": "bocadillo",
+                    "principal_ingredient": "jamón"
+                },
+                "sandwich_de_jamon_y_queso_papas": {
+                    "price": 1200,
+                    "type": "sándwich",
+                    "principal_ingredient": "jamón"
+                },
+                "sandwich_cubano": {
+                    "price": 1100,
+                    "type": "sándwich",
+                    "principal_ingredient": "varios"
+                },
+                "sandwich_de_jamon_y_queso": {
+                    "price": 900,
+                    "type": "sándwich",
+                    "principal_ingredient": "jamón"
+                },
+                "hamburguesa": {
+                    "price": 1500,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne"
+                }
+            },
+            "starters": {
+                "brusquetas": {
+                    "price": 700,
+                    "type": "pan",
+                    "principal_ingredient": "pan"
+                },
+                "croquetas_de_jamon": {
+                    "price": 600,
+                    "type": "croqueta",
+                    "principal_ingredient": "jamón"
+                },
+                "papas_fritas": {
+                    "price": 550,
+                    "type": "papas",
+                    "principal_ingredient": "papa"
+                },
+                "papas_gratinadas": {
+                    "price": 800,
+                    "type": "papas",
+                    "principal_ingredient": "papa"
+                },
+                "toston_relleno_de_atun": {
+                    "price": 1100,
+                    "type": "tostón",
+                    "principal_ingredient": "atún"
+                },
+                "toston_relleno_de_jamon_y_queso": {
+                    "price": 800,
+                    "type": "tostón",
+                    "principal_ingredient": "jamón"
+                },
+                "bolitas_de_queso": {
+                    "price": 730,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "frituras_de_malanga": {
+                    "price": 500,
+                    "type": "malanga",
+                    "principal_ingredient": "malanga"
+                },
+                "picadera_lalola": {
+                    "price": 4000,
+                    "type": "mixto",
+                    "principal_ingredient": "varios"
+                },
+                "picadera_sencilla": {
+                    "price": 1500,
+                    "type": "mixto",
+                    "principal_ingredient": "varios"
+                }
+            },
+            "main": {
+                "tacos_de_carne": {
+                    "price": 900,
+                    "type": "tacos",
+                    "principal_ingredient": "carne"
+                },
+
+                "lonjas_de_cerdo": {
+                    "price": 3500,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "nuggets_de_pollo": {
+                    "price": 2000,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "masas_de_cerdo": {
+                    "price": 1750,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                }
+            },
+            "pastas": {
+                "canelones": {
+                    "price": 1350,
+                    "type": "pasta",
+                    "principal_ingredient": "pasta"
+                },
+                "penne_napolitano": {
+                    "price": 1100,
+                    "type": "napolitana",
+                    "principal_ingredient": "pasta"
+                },
+
+                "espagueti_napolitano": {
+                    "price": 1100,
+                    "type": "napolitana",
+                    "principal_ingredient": "pasta"
+                },
+                "espagueti_a_la_carbonara": {
+                    "price": 1970,
+                    "type": "carbonara",
+                    "principal_ingredient": "pasta"
+                }
+            },
+            "pizzas": {
+                "pizza_napolitana": {
+                    "price": 1200,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso"
+                }
+            },
+            "additions": {
+                "aji": {
+                    "price": 150,
+                    "type": "vegetal",
+                    "principal_ingredient": "ají"
+                },
+                "chorizo": {
+                    "price": 300,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "atun": {
+                    "price": 600,
+                    "type": "pescado",
+                    "principal_ingredient": "atún"
+                },
+                "jamon_pierna": {
+                    "price": 300,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "pina": {
+                    "price": 150,
+                    "type": "fruta",
+                    "principal_ingredient": "piña"
+                },
+                "cebolla": {
+                    "price": 250,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                },
+                "queso_de_cabra": {
+                    "price": 600,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "queso_gouda": {
+                    "price": 500,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "queso_parmesano": {
+                    "price": 800,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "aceituna": {
+                    "price": 500,
+                    "type": "vegetal",
+                    "principal_ingredient": "aceituna"
+                }
+            },
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "agua_natural_cool_heaven": {
+                        "price": 350,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "energizante": {
+                        "price": 350,
+                        "type": "energizante",
+                        "principal_ingredient": "energizante"
+                    },
+                    "energizante_tigon_drink": {
+                        "price": 350,
+                        "type": "energizante",
+                        "principal_ingredient": "energizante"
+                    },
+                    "limonada_frape": {
+                        "price": 450,
+                        "type": "jugo",
+                        "principal_ingredient": "limón"
+                    },
+                    "kermato": {
+                        "price": 580,
+                        "type": "kermato",
+                        "principal_ingredient": "tomate"
+                    },
+                    "malta_optimal": {
+                        "price": 370,
+                        "type": "malta",
+                        "principal_ingredient": "malta"
+                    },
+                    "refresco_naranja": {
+                        "price": 300,
+                        "type": "refresco",
+                        "principal_ingredient": "naranja"
+                    },
+                    "refresco_de_limon": {
+                        "price": 300,
+                        "type": "refresco",
+                        "principal_ingredient": "limón"
+                    },
+                    "refresco_cola": {
+                        "price": 300,
+                        "type": "refresco",
+                        "principal_ingredient": "cola"
+                    },
+                    "refresco": {
+                        "price": 300,
+                        "type": "refresco",
+                        "principal_ingredient": "varios"
+                    },
+                    "refresco_pepsi": {
+                        "price": 350,
+                        "type": "refresco importado",
+                        "principal_ingredient": "cola"
+                    },
+                    "jugo_la_estancia": {
+                        "price": 350,
+                        "type": "jugo",
+                        "principal_ingredient": "fruta"
+                    },
+                    "malteada": {
+                        "price": 200,
+                        "type": "malteada",
+                        "principal_ingredient": "leche"
+                    }
+                },
+                "cafes": {
+                    "cafe_bombom": {
+                        "price": 350,
+                        "type": "bombom",
+                        "principal_ingredient": "café"
+                    },
+                    "cafe_cortadito": {
+                        "price": 300,
+                        "type": "cortado",
+                        "principal_ingredient": "café"
+                    },
+                    "cafe_express": {
+                        "price": 200,
+                        "type": "espresso",
+                        "principal_ingredient": "café"
+                    }
+                },
+                "alcoholics": {
+                    "pina_colada": {
+                        "price": 700,
+                        "type": "coctel",
+                        "principal_ingredient": "piña"
+                    },
+                    "ron_collins": {
+                        "price": 450,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "sangria": {
+                        "price": 600,
+                        "type": "coctel",
+                        "principal_ingredient": "vino"
+                    },
+                    "screw_driver": {
+                        "price": 475,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "daiquiri": {
+                        "price": 350,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "gintonic": {
+                        "price": 750,
+                        "type": "coctel",
+                        "principal_ingredient": "ginebra"
+                    },
+                    "john_collins": {
+                        "price": 450,
+                        "type": "coctel",
+                        "principal_ingredient": "ginebra"
+                    },
+                    "mojito": {
+                        "price": 350,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "margarita": {
+                        "price": 950,
+                        "type": "coctel",
+                        "principal_ingredient": "tequila"
+                    },
+                    "blue_hawai": {
+                        "price": 550,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "blue_lagoon": {
+                        "price": 550,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "caipirinha": {
+                        "price": 350,
+                        "type": "coctel",
+                        "principal_ingredient": "cachaça"
+                    },
+                    "caipirisima": {
+                        "price": 350,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "caipiroska": {
+                        "price": 600,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "cuba_libre": {
+                        "price": 350,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "cubanito": {
+                        "price": 450,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "cubata": {
+                        "price": 400,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "chelada": {
+                        "price": 150,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "michelada": {
+                        "price": 350,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "cerveza_bucanero_lata": {
+                        "price": 350,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "cerveza_heineken_botella": {
+                        "price": 574,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "cerveza_cristal_lata": {
+                        "price": 350,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "cerveza_cristal_botella": {
+                        "price": 420,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "cerveza_super_bock_botella": {
+                        "price": 370,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "cerveza_sol": {
+                        "price": 480,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "botella_de_whisky_ballantines": {
+                        "price": 10000,
+                        "type": "whisky",
+                        "principal_ingredient": "whisky"
+                    },
+                    "botella_de_whisky_johnnie_walker_red_label": {
+                        "price": 13000,
+                        "type": "whisky",
+                        "principal_ingredient": "whisky"
+                    },
+                    "botella_de_whisky_johnnie_walker_red_label_1lt": {
+                        "price": 15000,
+                        "type": "whisky",
+                        "principal_ingredient": "whisky"
+                    },
+                    "botella_de_whisky_jamerson": {
+                        "price": 10000,
+                        "type": "whisky",
+                        "principal_ingredient": "whisky"
+                    },
+                    "botella_de_whisky_chivas_regal": {
+                        "price": 15000,
+                        "type": "whisky",
+                        "principal_ingredient": "whisky"
+                    },
+                    "botella_ron_havana_club_smokey": {
+                        "price": 5000,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "botella_ron_havana_club_reserva": {
+                        "price": 5000,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "whisky_chivas_regal_12_anos_4_5l": {
+                        "price": 125440,
+                        "type": "whisky",
+                        "principal_ingredient": "whisky"
+                    }
+                }
+            }
+        }
+    }
+}

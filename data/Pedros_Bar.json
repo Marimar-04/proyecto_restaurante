@@ -1,0 +1,271 @@
+{
+    "name": "Pedro's Bar",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/pedrosbar_boulevard/?locale=nl&hl=af",
+        "facebook": "https://www.facebook.com/p/Pedros-BAR-100070236661259/?locale=es_LA",
+        "telephone_number": ["5510666"]
+    },
+    "location": {
+        "municipality": "Centro Habana",
+        "direction": " San Rafael #209 /Águila y Amistad",
+        "coordinates": "23.136920786311965, -82.36120254114478"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 5.0,
+        "cant_g": 2,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": false,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "14:00",
+            "tue": "14:00",
+            "wed": "14:00",
+            "thu": "14:00",
+            "fri": "14:00",
+            "sat": "14:00",
+            "sun": "14:00"
+        },
+        "close": {
+            "mon": "02:00",
+            "tue": "02:00",
+            "wed": "02:00",
+            "thu": "02:00",
+            "fri": "02:00",
+            "sat": "02:00",
+            "sun": "02:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": true,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": null,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "sandwich_de_jamon_y_queso": {
+                    "price": 1200,
+                    "type": "sandwich",
+                    "principal_ingredient": "jamon"
+                },
+                "sandwich_de_pechuga": {
+                    "price": 1550,
+                    "type": "sandwich",
+                    "principal_ingredient": "pollo"
+                },
+                "sandwich_de_atun": {
+                    "price": 1500,
+                    "type": "sandwich",
+                    "principal_ingredient": "atun"
+                },
+                "sandwich_de_lechon": {
+                    "price": 1550,
+                    "type": "sandwich",
+                    "principal_ingredient": "lechon"
+                }
+            },
+            "starters": {
+                "papas_fritas": {
+                    "price": 1150,
+                    "type": "tostones",
+                    "principal_ingredient": "papas"
+                },
+                "frituras_de_malanga": {
+                    "price": 800,
+                    "type": "tostones",
+                    "principal_ingredient": "malanga"
+                },
+                "croquetas": {
+                    "price": 1050,
+                    "type": "croqueta",
+                    "principal_ingredient": "pescado"
+                },
+                "dados_de_queso": {
+                    "price": 1350,
+                    "type": "aperitivo",
+                    "principal_ingredient": "queso"
+                },
+                "fajitas_de_pollo": {
+                    "price": 1450,
+                    "type": "tacos",
+                    "principal_ingredient": "pollo"
+                },
+                "tabla_mixta": {
+                    "price": 4600,
+                    "type": "aperitivo",
+                    "principal_ingredient": "varios"
+                }
+            },
+            "main": {},
+            "fittings": {},
+            "pastas": {},
+            "pizzas": {
+                "pizza_de_queso": {
+                    "price": 1200,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "pizza_hawaiana": {
+                    "price": 1500,
+                    "type": "hawaiana",
+                    "principal_ingredient": "piña"
+                },
+                "pizza_de_vegetales": {
+                    "price": 1500,
+                    "type": "vegetales",
+                    "principal_ingredient": "vegetales"
+                }
+            },
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "agua_natural": {
+                        "price": 250,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "refresco": {
+                        "price": 500,
+                        "type": "refresco",
+                        "principal_ingredient": "azúcar"
+                    },
+                    "energizante": {
+                        "price": 500,
+                        "type": "energizante",
+                        "principal_ingredient": "cafeína"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "canchanchara": {
+                        "price": 1150,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "mojito": {
+                        "price": 1100,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "caipis": {
+                        "price": 1100,
+                        "type": "coctel",
+                        "principal_ingredient": "cachaça"
+                    },
+                    "daiquiri": {
+                        "price": 1100,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "gin_tonic": {
+                        "price": 1450,
+                        "type": "coctel",
+                        "principal_ingredient": "gin"
+                    },
+                    "margarita": {
+                        "price": 1050,
+                        "type": "coctel",
+                        "principal_ingredient": "tequila"
+                    },
+                    "cubata": {
+                        "price": 1050,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "sangria": {
+                        "price": 1350,
+                        "type": "coctel",
+                        "principal_ingredient": "vino"
+                    },
+                    "piña_colada": {
+                        "price": 1100,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "jarra_de_cerveza": {
+                        "price": 350,
+                        "type": "cerveza",
+                        "principal_ingredient": "malta"
+                    },
+                    "cerveza": {
+                        "price": 600,
+                        "type": "cerveza",
+                        "principal_ingredient": "malta"
+                    },
+                    "vasos_de_ceveza": {
+                        "price": 200,
+                        "type": "cerveza",
+                        "principal_ingredient": "malta"
+                    },
+                    "servicio_de_michelada": {
+                        "price": 300,
+                        "type": "cerveza",
+                        "principal_ingredient": "malta"
+                    },
+                    "servicio_de_chelada": {
+                        "price": 400,
+                        "type": "cerveza",
+                        "principal_ingredient": "malta"
+                    }
+                }
+            }
+        }
+    }
+}

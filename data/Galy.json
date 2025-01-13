@@ -1,0 +1,460 @@
+{
+    "name": "Galy",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/galycafe.habana/?locale=es_LA",
+        "telephone_number": ["78634580"]
+    },
+    "location": {
+        "municipality": "Centro Habana",
+        "direction": "San José entre águila y galeano centro Habana",
+        "coordinates": "23.136040087474914, -82.36213265834621"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.3,
+        "cant_g": 91,
+        "web": 3.7,
+        "cant_w": 104,
+        "tripadvisor": 4.5,
+        "cant_t": 56
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional", "criolla"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": false,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "11:00",
+            "tue": "11:00",
+            "wed": "11:00",
+            "thu": "11:00",
+            "fri": "11:00",
+            "sat": "11:00",
+            "sun": "11:00"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": null,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+"breads": {
+    "sandwich_de_queso": {
+      "price": 1150,
+      "type": "pan",
+      "principal_ingredient": "queso"
+    },
+    "sandwich_de_jamon": {
+      "price": 1150,
+      "type": "pan",
+      "principal_ingredient": "jamón"
+    },
+    "sandwich_de_jamon_y_queso": {
+      "price": 1200,
+      "type": "pan",
+      "principal_ingredient": "jamón y queso"
+    },
+    "sandwich_de_jamon_queso_y_chorizo": {
+      "price": 1250,
+      "type": "pan",
+      "principal_ingredient": "jamón, queso y chorizo"
+    },
+    "sandwich_de_atun_y_cebolla": {
+      "price": 1270,
+      "type": "pan",
+      "principal_ingredient": "atún y cebolla"
+    }
+},
+"starters": {
+    "croquetas_cremosas_galy": {
+      "price": 650,
+      "type": "croqueta",
+      "principal_ingredient": "bechamel"
+    },
+    "eperlan": {
+      "price": 760,
+      "type": "tostones",
+      "principal_ingredient": "eperlan"
+    },
+    "crema_de_queso": {
+      "price": 570,
+      "type": "crema",
+      "principal_ingredient": "queso"
+    },
+    "crema_virginia": {
+      "price": 600,
+      "type": "crema",
+      "principal_ingredient": "queso"
+    },
+    "crema_aurora": {
+      "price": 590,
+      "type": "crema",
+      "principal_ingredient": "tomate"
+    },
+    "crema_de_queso_azul": {
+      "price": 720,
+      "type": "crema",
+      "principal_ingredient": "queso azul"
+    },
+    "fajitas_de_pechuga_de_pollo": {
+      "price": 760,
+      "type": "taco",
+      "principal_ingredient": "pollo"
+    },
+    "coctel_de_camarones": {
+      "price": 1100,
+      "type": "coctel",
+      "principal_ingredient": "camarón"
+    }
+},
+"main": {
+    "bistec_de_cerdo_a_la_plancha": {
+      "price": 2750,
+      "type": "bistec",
+      "principal_ingredient": "cerdo"
+    },
+    "lomo_de_cerdo_ahumado": {
+      "price": 2100,
+      "type": "lomo",
+      "principal_ingredient": "cerdo"
+    },
+    "filetillo_de_res_o_cerdo": {
+      "price": 1550,
+      "type": "bistec",
+      "principal_ingredient": "res"
+    },
+    "bistec_uruguayo": {
+      "price": 2750,
+      "type": "bistec",
+      "principal_ingredient": "res"
+    },
+    "pechuga_a_la_plancha": {
+      "price": 2750,
+      "type": "bistec",
+      "principal_ingredient": "pollo"
+    },
+    "pechuga_empanada": {
+      "price": 3100,
+      "type": "bistec",
+      "principal_ingredient": "pollo"
+    },
+    "pechuga_cordon_bleu": {
+      "price": 2970,
+      "type": "bistec",
+      "principal_ingredient": "pollo"
+    },
+    "pechuga_milanesa": {
+      "price": 2860,
+      "type": "bistec",
+      "principal_ingredient": "pollo"
+    },
+    "bistec_de_palomilla": {
+      "price": 2650,
+      "type": "bistec",
+      "principal_ingredient": "res"
+    },
+    "ropa_vieja": {
+      "price": 2650,
+      "type": "ropa vieja",
+      "principal_ingredient": "res"
+    },
+    "pescado_a_la_plancha": {
+      "price": 3200,
+      "type": "pescado",
+      "principal_ingredient": "pescado"
+    },
+    "pescado_empanado": {
+      "price": 3200,
+      "type": "pescado",
+      "principal_ingredient": "pescado"
+    },
+    "filete_canciller": {
+      "price": 3520,
+      "type": "pescado",
+      "principal_ingredient": "pescado"
+    },
+    "camaron_al_ajillo": {
+      "price": 3200,
+      "type": "camarón",
+      "principal_ingredient": "camarón"
+    },
+    "camaron_enchilado": {
+      "price": 3200,
+      "type": "camarón",
+      "principal_ingredient": "camarón"
+    },
+    "camaron_rebosado": {
+      "price": 3200,
+      "type": "camarón",
+      "principal_ingredient": "camarón"
+    },
+    "camaron_empanado": {
+      "price": 3200,
+      "type": "camarón",
+      "principal_ingredient": "camarón"
+    },
+    "camaron_a_la_plancha": {
+      "price": 3200,
+      "type": "camarón",
+      "principal_ingredient": "camarón"
+    },
+    "pulpo_enchilado": {
+      "price": 3300,
+      "type": "pulpo",
+      "principal_ingredient": "pulpo"
+    },
+    "pulpo_al_ajillo": {
+      "price": 3300,
+      "type": "pulpo",
+      "principal_ingredient": "pulpo"
+    },
+    "paella_melosa_del_mar": {
+      "price": 3100,
+      "type": "arroz",
+      "principal_ingredient": "mariscos"
+    },
+    "mar_y_tierra": {
+      "price": 3300,
+      "type": "mariscos",
+      "principal_ingredient": "carne y mariscos"
+    }
+},
+"fittings": {},
+"pastas": {
+    "spaghetti_de_queso": {
+      "price": 1160,
+      "type": "queso",
+      "principal_ingredient": "queso"
+    },
+    "spaghetti_al_diablo": {
+      "price": 1200,
+      "type": "vegetal",
+      "principal_ingredient": "chile"
+    },
+    "spaghetti_de_jamon": {
+      "price": 1270,
+      "type": "embutido",
+      "principal_ingredient": "jamón"
+    },
+    "spaghetti_de_chorizo": {
+      "price": 1270,
+      "type": "embutido",
+      "principal_ingredient": "chorizo"
+    },
+    "spaghetti_carbonara": {
+      "price": 1450,
+      "type": "carbonara",
+      "principal_ingredient": "huevo y crema"
+    },
+    "spaghetti_de_camarones": {
+      "price": 1550,
+      "type": "camarón",
+      "principal_ingredient": "camarones"
+    },
+    "spaghetti_con_pescado_y_mariscos": {
+      "price": 1700,
+      "type": "mariscos",
+      "principal_ingredient": "pescado y mariscos"
+    }
+},
+"pizzas": {
+    "pizza_de_queso": {
+      "price": 1160,
+      "type": "queso",
+      "principal_ingredient": "queso"
+    },
+    "pizza_de_jamon": {
+      "price": 1270,
+      "type": "embutido",
+      "principal_ingredient": "jamón"
+    },
+    "pizza_de_chorizo": {
+      "price": 1270,
+      "type": "embutido",
+      "principal_ingredient": "chorizo"
+    },
+    "pizza_hawaiana": {
+      "price": 1270,
+      "type": "fruta",
+      "principal_ingredient": "piña"
+    },
+    "pizza_de_cebolla": {
+      "price": 1270,
+      "type": "vegetal",
+      "principal_ingredient": "cebolla"
+    },
+    "pizza_de_pimientos": {
+      "price": 1270,
+      "type": "vegetal",
+      "principal_ingredient": "pimientos"
+    },
+    "pizza_de_camarones": {
+      "price": 1550,
+      "type": "mariscos",
+      "principal_ingredient": "camarones"
+    },
+    "pizza_de_atun_y_cebolla": {
+      "price": 1500,
+      "type": "atun",
+      "principal_ingredient": "atún y cebolla"
+    },
+    "pizza_galy_2_quesos": {
+      "price": 1550,
+      "type": "queso",
+      "principal_ingredient": "queso"
+    }
+},
+"additions": {},
+"dessert": {
+    "tarta_de_chocolate_galy": {
+      "price": 650,
+      "type": "pastel",
+      "principal_ingredient": "chocolate"
+    },
+    "tres_leche_con_hilo_de_chocolate": {
+      "price": 690,
+      "type": "pastel",
+      "principal_ingredient": "leche y chocolate"
+    },
+    "helados_variados": {
+      "price": 610,
+      "type": "helado",
+      "principal_ingredient": "leche y frutas"
+    }
+},
+"drinks": {
+"general": {
+      "agua_natural": {
+        "price": 385,
+        "type": "agua",
+        "principal_ingredient": "agua"
+      },
+      "agua_gaseada": {
+        "price": 300,
+        "type": "agua gaseasa",
+        "principal_ingredient": "agua con gas"
+      },
+      "red_bull": {
+        "price": 500,
+        "type": "energizante",
+        "principal_ingredient": "cafeína"
+      },
+      "malteada": {
+        "price": 500,
+        "type": "malteada",
+        "principal_ingredient": "leche"
+      },
+      "jugos_naturales": {
+        "price": 210,
+        "type": "jugo",
+        "principal_ingredient": "frutas"
+      },
+      "jugo_natural_cajita_200ml": {
+        "price": 320,
+        "type": "jugo",
+        "principal_ingredient": "frutas"
+      },
+      "jugo_importado_enlatado": {
+        "price": 385,
+        "type": "jugo",
+        "principal_ingredient": "frutas"
+      }
+    },
+    "cafes": {
+      "cafe_expresso": {
+        "price": 330,
+        "type": "espresso",
+        "principal_ingredient": "café"
+      },
+      "cafe_cortado": {
+        "price": 305,
+        "type": "cortado",
+        "principal_ingredient": "café"
+      },
+      "cafe_cremoso": {
+        "price": 440,
+        "type": "cremoso",
+        "principal_ingredient": "café"
+      },
+      "cafe_galy": {
+        "price": 500,
+        "type": "cremoso",
+        "principal_ingredient": "café"
+      }
+    },
+    "alcoholics": {
+      "cervezas_nacionales": {
+        "price": 440,
+        "type": "cerveza",
+        "principal_ingredient": "malta"
+      },
+      "cervezas_importadas": {
+        "price": 330,
+        "type": "cerveza importada",
+        "principal_ingredient": "malta"
+      }
+    }
+}
+        }
+    }
+}

@@ -1,0 +1,1311 @@
+{
+    "name": "Lateral",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/lateral.at/?hl=es",
+        "facebook": "https://www.facebook.com/307308194105213",
+        "telephone_number": ["59525677"]
+    },
+    "location": {
+        "municipality": "Diez de Octubre",
+        "direction": "Ave. Acosta #467, esq. Goicuría, Víbora., Diez De Octubre",
+        "coordinates": "23.089556887760573, -82.37654260249164"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 3.6,
+        "cant_g": 78,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": 3.0,
+        "cant_t": 21
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": false,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": 9
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "10:00",
+            "tue": "10:00",
+            "wed": "10:00",
+            "thu": "10:00",
+            "fri": "10:00",
+            "sat": "10:00",
+            "sun": "10:00"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": 70,
+            "local": 30
+        },
+        "ecological": true
+    },
+    "experiences": {
+        "live_music": true,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": true,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": false,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": true,
+        "others_languages": false,
+        "grammage": true,
+        "plate_description": true,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "sandwich_cubano": {
+                    "price": 1200.0,
+                    "type": "sandwich",
+                    "principal_ingredient": "cerdo, jamón y queso"
+                },
+                "hamburguesa_lateral_de_res_king_size": {
+                    "price": 1800.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "res, jamón y bacon"
+                },
+                "sandwich_lateral": {
+                    "price": 850.0,
+                    "type": "sandwich",
+                    "principal_ingredient": "jamón, chorizo y queso"
+                },
+                "sandwich_de_pollo": {
+                    "price": 1000.0,
+                    "type": "sandwich",
+                    "principal_ingredient": "pollo empanizado y queso"
+                },
+                "hamburguesa_de_cerdo": {
+                    "price": 1000.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo y queso"
+                }
+            },
+            "starters": {
+                "croquetas_de_la_casa": {
+                    "price": 600.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "carne"
+                },
+                "bolitas_de_carne": {
+                    "price": 600.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "carne"
+                },
+                "croquetas_de_queso_y_arroz": {
+                    "price": 600.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "queso y arroz"
+                },
+                "empanadas_sandwich_cubano": {
+                    "price": 650.0,
+                    "type": "empanada",
+                    "principal_ingredient": "mixto"
+                },
+                "empanadas_de_la_casa": {
+                    "price": 600.0,
+                    "type": "empanada",
+                    "principal_ingredient": "mixto"
+                },
+                "bolitas_de_queso_gouda": {
+                    "price": 1100.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "queso gouda"
+                },
+                "fajitas_de_pechuga_de_pollo": {
+                    "price": 2200.0,
+                    "type": "fajita",
+                    "principal_ingredient": "pollo"
+                },
+                "fajitas_de_cerdo": {
+                    "price": 2200.0,
+                    "type": "fajita",
+                    "principal_ingredient": "cerdo"
+                },
+                "eperlan_de_pescado": {
+                    "price": 2200.0,
+                    "type": "eperlan",
+                    "principal_ingredient": "pescado"
+                },
+                "ceviche_de_pescado": {
+                    "price": 1700.0,
+                    "type": "ceviche",
+                    "principal_ingredient": "pescado"
+                },
+                "dados_de_pescado_al_curry": {
+                    "price": 2400.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "surtido_de_mariscos": {
+                    "price": 2600.0,
+                    "type": "marisco",
+                    "principal_ingredient": "mariscos"
+                },
+                "pica_pica_lateral": {
+                    "price": 2000.0,
+                    "type": "picadera",
+                    "principal_ingredient": "mixto"
+                },
+                "picada_mixta": {
+                    "price": 5300.0,
+                    "type": "picadera",
+                    "principal_ingredient": "mixto"
+                },
+                "tabla_de_salmon": {
+                    "price": 3000.0,
+                    "type": "tapa",
+                    "principal_ingredient": "salmon"
+                },
+                "tabla_de_jamon_serrano": {
+                    "price": 2700.0,
+                    "type": "tapa",
+                    "principal_ingredient": "jamón serrano"
+                },
+                "choriqueso": {
+                    "price": 1050.0,
+                    "type": "tapa",
+                    "principal_ingredient": "queso y chorizo"
+                },
+                "pulpo_en_salsa_verde": {
+                    "price": 1400.0,
+                    "type": "pulpo",
+                    "principal_ingredient": "pulpo"
+                },
+                "coctel_de_langosta": {
+                    "price": 2000.0,
+                    "type": "coctel marisco",
+                    "principal_ingredient": "langosta"
+                },
+                "coctel_de_camarones": {
+                    "price": 2150.0,
+                    "type": "coctel marisco",
+                    "principal_ingredient": "camarones"
+                },
+                "tabla_mixta_lateral": {
+                    "price": 3700.0,
+                    "type": "tapa",
+                    "principal_ingredient": "mixto"
+                },
+                "tartar_de_atun": {
+                    "price": 5200.0,
+                    "type": "tartar",
+                    "principal_ingredient": "atún"
+                },
+                "burritos_de_cerdo": {
+                    "price": 1000.0,
+                    "type": "burrito",
+                    "principal_ingredient": "cerdo"
+                },
+                "tacos_lateral": {
+                    "price": 1000.0,
+                    "type": "taco",
+                    "principal_ingredient": "cerdo y queso"
+                },
+                "tacos_de_ropa_vieja": {
+                    "price": 1200.0,
+                    "type": "taco",
+                    "principal_ingredient": "ropa vieja"
+                },
+                "burrito_de_pollo": {
+                    "price": 800.0,
+                    "type": "burrito",
+                    "principal_ingredient": "pollo"
+                },
+                "burrito_de_camarón": {
+                    "price": 1650.0,
+                    "type": "burrito",
+                    "principal_ingredient": "camarón"
+                },
+                "tacos_de_camarón": {
+                    "price": 1450.0,
+                    "type": "taco",
+                    "principal_ingredient": "camarón"
+                },
+                "taco_cerdo_res": {
+                    "price": 1200.0,
+                    "type": "taco",
+                    "principal_ingredient": "cerdo y res"
+                },
+                "burrito_de_ropa_vieja": {
+                    "price": 1200.0,
+                    "type": "burrito",
+                    "principal_ingredient": "ropa vieja"
+                }
+            },
+            "main": {
+               "paella_marinera": {
+                    "price": 5000.0,
+                    "type": "paella",
+                    "principal_ingredient": "mariscos"
+                },
+                "oferta_mariscos_sobre_paella": {
+                    "price": 7500.0,
+                    "type": "paella",
+                    "principal_ingredient": "mariscos"
+                },
+                "arroz_campesino": {
+                    "price": 3200.0,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz y tamales"
+                },
+                "paella_mixta_2pax": {
+                    "price": 4500.0,
+                    "type": "paella",
+                    "principal_ingredient": "mixto"
+                },
+                "arroz_con_pollo": {
+                    "price": 2500.0,
+                    "type": "arroz",
+                    "principal_ingredient": "pollo"
+                },
+                "arroz_frito": {
+                    "price": 1900.0,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "pechuga_de_pollo_grille": {
+                    "price": 2500.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "pechuga_de_pollo_rellena": {
+                    "price": 2750.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "chop_suey": {
+                    "price": 2500.0,
+                    "type": "mixto",
+                    "principal_ingredient": "mixto"
+                },
+                "masas_de_cerdo": {
+                    "price": 2450.0,
+                    "type": "masas",
+                    "principal_ingredient": "cerdo"
+                },
+                "lonjas_de_cerdo": {
+                    "price": 2450.0,
+                    "type": "lonjas",
+                    "principal_ingredient": "cerdo"
+                },
+                "bistec_de_cerdo_encebollado": {
+                    "price": 2200.0,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "carne_de_cerdo_estofada": {
+                    "price": 2450.0,
+                    "type": "estofado",
+                    "principal_ingredient": "cerdo"
+                },
+                "uruguayo": {
+                    "price": 2500.0,
+                    "type": "uruguayo",
+                    "principal_ingredient": "carne"
+                },
+                "solomillo_460gr": {
+                    "price": 3900.0,
+                    "type": "solomillo",
+                    "principal_ingredient": "res"
+                },
+                "lomo_de_cerdo_350gr": {
+                    "price": 3500.0,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                },
+                "ropa_vieja_de_res": {
+                    "price": 2100.0,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "res"
+                },
+                "vaca_frita": {
+                    "price": 2100.0,
+                    "type": "vaca frita",
+                    "principal_ingredient": "res"
+                },
+                "bistec_de_res": {
+                    "price": 2300.0,
+                    "type": "bistec",
+                    "principal_ingredient": "res"
+                },
+                "lonjas_de_res": {
+                    "price": 2700.0,
+                    "type": "lonjas",
+                    "principal_ingredient": "res"
+                },
+                "picadillo_a_lo_cubano": {
+                    "price": 1500.0,
+                    "type": "picadillo",
+                    "principal_ingredient": "res"
+                },
+                "corte_de_res_rib_eye": {
+                    "price": 7000.0,
+                    "type": "ribeye",
+                    "principal_ingredient": "res"
+                },
+                "tomahawk": {
+                    "price": 16500.0,
+                    "type": "tomahawk",
+                    "principal_ingredient": "res"
+                },
+                "filete_de_pescado_grille": {
+                    "price": 2450.0,
+                    "type": "filete",
+                    "principal_ingredient": "pescado"
+                },
+                "pescado_con_camarones": {
+                    "price": 3300.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado y camarones"
+                },
+                "pescado_con_langosta": {
+                    "price": 3000.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado y langosta"
+                },
+                "lomo_de_pescado": {
+                    "price": 2400.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "canciller": {
+                    "price": 3000.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "lomo_de_salmon": {
+                    "price": 5800.0,
+                    "type": "pescado",
+                    "principal_ingredient": "salmón"
+                },
+                "fricase_de_cordero": {
+                    "price": 4800.0,
+                    "type": "fricase",
+                    "principal_ingredient": "cordero"
+                },
+                "camarones_al_gusto": {
+                    "price": 2800.0,
+                    "type": "marisco",
+                    "principal_ingredient": "camarones"
+                },
+                "cola_de_langosta_al_gusto": {
+                    "price": 2700.0,
+                    "type": "marisco",
+                    "principal_ingredient": "langosta"
+                },
+                "caldereta_de_mariscos": {
+                    "price": 4000.0,
+                    "type": "marisco",
+                    "principal_ingredient": "mariscos"
+                },
+                "cena_campesina": {
+                    "price": 5400.0,
+                    "type": "mixto",
+                    "principal_ingredient": "mixto"
+                },
+                "filete_mignon": {
+                    "price": 7000.0,
+                    "type": "filete",
+                    "principal_ingredient": "res"
+                }
+            },
+            "fittings": {
+                "arroz_moro": {
+                    "price": 300.0,
+                    "type": "arroz",
+                    "principal_ingredient": "frijoles y arroz"
+                },
+                "tostones": {
+                    "price": 400.0,
+                    "type": "toston",
+                    "principal_ingredient": "plátano verde"
+                },
+                "ensalada_de_aguacate": {
+                    "price": 300.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "aguacate"
+                },
+                "boniato_frito": {
+                    "price": 400.0,
+                    "type": "fritura",
+                    "principal_ingredient": "boniato"
+                },
+                "crema_de_boniato": {
+                    "price": 650.0,
+                    "type": "crema",
+                    "principal_ingredient": "boniato"
+                },
+                "alubias_blancas": {
+                    "price": 750.0,
+                    "type": "alubias",
+                    "principal_ingredient": "frijoles blancos"
+                },
+                "tamal_cubano": {
+                    "price": 500.0,
+                    "type": "tamal",
+                    "principal_ingredient": "maíz y cerdo"
+                },
+                "yuca_con_mojo": {
+                    "price": 400.0,
+                    "type": "yuca",
+                    "principal_ingredient": "yuca"
+                }
+            },
+            "pastas": {
+                "pasta_boloñesa": {
+                    "price": 1510.0,
+                    "type": "bolonesa",
+                    "principal_ingredient": "picadillo y queso"
+                },
+                "lasaña_de_carne_mixta": {
+                    "price": 1100.0,
+                    "type": "lasana",
+                    "principal_ingredient": "carne mixta"
+                },
+                "pasta_carbonara": {
+                    "price": 2500.0,
+                    "type": "carbonara",
+                    "principal_ingredient": "tocino y crema"
+                },
+                "pasta_marinera": {
+                    "price": 1750.0,
+                    "type": "marisco",
+                    "principal_ingredient": "mariscos"
+                },
+                "pasta_napolitana": {
+                    "price": 1120.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "tomate"
+                },
+                "pasta_jamon": {
+                    "price": 1370.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "pasta_boloñesa_con_queso": {
+                    "price": 1690.0,
+                    "type": "bolonesa",
+                    "principal_ingredient": "picadillo y queso gouda o edam"
+                },
+                "pasta_jamon_con_queso": {
+                    "price": 1550.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón y queso gouda o edam"
+                },
+                "pasta_napolitana_con_queso": {
+                    "price": 1300.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "tomate y queso gouda o edam"
+                },
+                "pasta_camarón_con_salsa_blanca": {
+                    "price": 2650.0,
+                    "type": "marisco",
+                    "principal_ingredient": "camarón y salsa blanca"
+                }
+            },
+            "pizzas": {
+                "pizza_lateral": {
+                    "price": 2340.0,
+                    "type": "pizza",
+                    "principal_ingredient": "queso y crema"
+                },
+                "pan_con_lechon_italiano": {
+                    "price": 1500.0,
+                    "type": "carne",
+                    "principal_ingredient": "carne de cerdo, queso y vegetales"
+                },
+                "pizza_carne_cerdo": {
+                    "price": 1900.0,
+                    "type": "carne",
+                    "principal_ingredient": "carne de cerdo"
+                },
+                "pizza_carbonara": {
+                    "price": 2340.0,
+                    "type": "carbonara",
+                    "principal_ingredient": "queso y tocino"
+                },
+                "pizza_pimiento_bacon_cebolla": {
+                    "price": 2200.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "pimiento, bacon y cebolla"
+                },
+                "pizza_mixta": {
+                    "price": 1700.0,
+                    "type": "mixta",
+                    "principal_ingredient": "varios ingredientes"
+                },
+                "pizza_hawaiana": {
+                    "price": 1700.0,
+                    "type": "hawaiana",
+                    "principal_ingredient": "jamón y piña"
+                },
+                "pizza_napolitana": {
+                    "price": 1150.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "tomate"
+                },
+                "pizza_jamon": {
+                    "price": 1400.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "pizza_atun": {
+                    "price": 1820.0,
+                    "type": "pescado",
+                    "principal_ingredient": "atún"
+                },
+                "pizza_margarita": {
+                    "price": 1400.0,
+                    "type": "margarita",
+                    "principal_ingredient": "queso y tomate"
+                },
+                "pizza_camaron": {
+                    "price": 2450.0,
+                    "type": "marisco",
+                    "principal_ingredient": "camarón"
+                },
+                "pizza_vegetales": {
+                    "price": 1580.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "vegetales"
+                },
+                "pizza_cebolla": {
+                    "price": 1400.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                },
+                "pizza_bacon_cebolla": {
+                    "price": 2000.0,
+                    "type": "embutido",
+                    "principal_ingredient": "bacon y cebolla"
+                },
+                "pizza_cuatro_quesos": {
+                    "price": 2200.0,
+                    "type": "4 quesos",
+                    "principal_ingredient": "quesos variados"
+                },
+                "pizza_atun_cebolla_aceitunas": {
+                    "price": 2420.0,
+                    "type": "pescado",
+                    "principal_ingredient": "atún, cebolla y aceitunas"
+                },
+                "pizza_aceitunas": {
+                    "price": 1920.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "aceitunas"
+                },
+                "pizza_jamon_serrano": {
+                    "price": 2680.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón serrano"
+                },
+                "focaccia_con_romero_o_albahaca": {
+                    "price": 700.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "romero o albahaca"
+                },
+                "pizza_amatriciana": {
+                    "price": 1745.0,
+                    "type": "amatriciana",
+                    "principal_ingredient": "bacon y tomate"
+                },
+                "pizza_carne_res": {
+                    "price": 2160.0,
+                    "type": "carne",
+                    "principal_ingredient": "carne de res"
+                },
+                "pizza_de_pimiento": {
+                    "price": 1400.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "pimiento"
+                },
+                "pizza_chorizo": {
+                    "price": 1460.0,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "pizza_de_lomo_ahumado": {
+                    "price": 1860.0,
+                    "type": "carne",
+                    "principal_ingredient": "lomo ahumado"
+                },
+                "pizza_chorizo_cebolla": {
+                    "price": 1550.0,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo y cebolla"
+                },
+                "pizza_champinones": {
+                    "price": 2250.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "champiñones"
+                },
+                "pizza_langosta": {
+                    "price": 1480.0,
+                    "type": "marisco",
+                    "principal_ingredient": "langosta"
+                },
+                
+                "pizza_chorizo_bacon_ceb_jamon": {
+                    "price": 1750.0,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo, bacon, cebolla y jamón"
+                },
+                "pizza_champinones_ceb_aceit": {
+                    "price": 2365.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "champiñones, cebolla y aceitunas"
+                },
+                
+                "pizza_aceitunas_con_queso_edam_o_gouda": {
+                    "price": 2300.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "aceitunas con queso Edam o Gouda"
+                },
+                "pizza_amatriciana_con_queso_edam_o_gouda": {
+                    "price": 2135.0,
+                    "type": "amatriciana",
+                    "principal_ingredient": "bacon y tomate con queso Edam o Gouda"
+                },
+                "pizza_atun_con_queso_edam_o_gouda": {
+                    "price": 2340.0,
+                    "type": "pescado",
+                    "principal_ingredient": "atún con queso Edam o Gouda"
+                },
+                "pizza_atun_cebolla_aceitunas_con_queso_edam_o_gouda": {
+                    "price": 2940.0,
+                    "type": "pescado",
+                    "principal_ingredient": "atún, cebolla y aceitunas con queso Edam o Gouda"
+                },
+                "pizza_bacon_y_cebolla_con_queso_edam_o_gouda": {
+                    "price": 2245.0,
+                    "type": "embutido",
+                    "principal_ingredient": "bacon y cebolla con queso Edam o Gouda"
+                },
+                "pizza_camaron_con_queso_edam_o_gouda": {
+                    "price": 2970.0,
+                    "type": "marisco",
+                    "principal_ingredient": "camarón con queso Edam o Gouda"
+                },
+                "pizza_carbonara_con_queso_edam_o_gouda": {
+                    "price": 2785.0,
+                    "type": "carbonara",
+                    "principal_ingredient": "carbonara con queso Edam o Gouda"
+                },
+                "pizza_carne_de_cerdo_con_queso_edam_o_gouda": {
+                    "price": 2380.0,
+                    "type": "carne",
+                    "principal_ingredient": "carne de cerdo con queso Edam o Gouda"
+                },
+                "pizza_langosta_con_gouda": {
+                    "price": 2400.0,
+                    "type": "marisco",
+                    "principal_ingredient": "langosta con queso Gouda"
+                },
+                "pizza_carne_res_con_queso_edam_o_gouda": {
+                    "price": 2360.0,
+                    "type": "carne",
+                    "principal_ingredient": "carne de res con queso Edam o Gouda"
+                },
+                "pizza_cebolla_con_queso_edam_o_gouda": {
+                    "price": 1795.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla con queso Edam o Gouda"
+                },
+                "pizza_champinones_con_queso_edam_o_gouda": {
+                    "price": 2650.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "champiñones con queso Edam o Gouda"
+                },
+                "pizza_champ_ceb_aceit_con_queso_edam_o_gouda": {
+                    "price": 3025.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "champiñones, cebolla y aceitunas con queso Edam o Gouda"
+                },
+                "pizza_chorizo_con_queso_edam_o_gouda": {
+                    "price": 1945.0,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo con queso Edam o Gouda"
+                },
+                "pizza_chorizo_y_cebolla_con_queso_edam_o_gouda": {
+                    "price": 2100.0,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo y cebolla con queso Edam o Gouda"
+                },
+                "pizza_chorizo_bacon_cebolla_jamon_con_queso_edam_o_gouda": {
+                    "price": 2270.0,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo, bacon, cebolla y jamón con queso Edam o Gouda"
+                },
+                "pizza_de_lomo_ahumado_con_queso_edam_o_gouda": {
+                    "price": 2300.0,
+                    "type": "carne",
+                    "principal_ingredient": "lomo ahumado con queso Edam o Gouda"
+                },
+                "pizza_de_pimiento_con_queso_edam_o_gouda": {
+                    "price": 1795.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "pimiento con queso Edam o Gouda"
+                },
+                "pizza_hawaiana_con_queso_edam_o_gouda": {
+                    "price": 2245.0,
+                    "type": "hawaiana",
+                    "principal_ingredient": "jamón y piña con queso Edam o Gouda"
+                },
+                "pizza_lateral_con_queso_edam_o_gouda": {
+                    "price": 2730.0,
+                    "type": "pizza",
+                    "principal_ingredient": "queso y crema con queso Edam o Gouda"
+                },
+                "pizza_margarita_con_queso_edam_o_gouda": {
+                    "price": 1795.0,
+                    "type": "margarita",
+                    "principal_ingredient": "queso y tomate con queso Edam o Gouda"
+                },
+                "pizza_mixta_con_queso_edam_o_gouda": {
+                    "price": 2100.0,
+                    "type": "mixta",
+                    "principal_ingredient": "varios ingredientes con queso Edam o Gouda"
+                },
+                "pizza_napolitana_con_queso_edam_o_gouda": {
+                    "price": 1500.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "tomate con queso Edam o Gouda"
+                }
+            },
+            "additions": {
+                "agrego_aceitunas": {
+                    "price": 400.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "aceitunas"
+                },
+                "agrego_carne_cerdo": {
+                    "price": 500.0,
+                    "type": "carne",
+                    "principal_ingredient": "carne de cerdo"
+                },
+                "agrego_carne_res": {
+                    "price": 600.0,
+                    "type": "carne",
+                    "principal_ingredient": "carne de res"
+                },
+                "agrego_atun": {
+                    "price": 560.0,
+                    "type": "pescado",
+                    "principal_ingredient": "atún"
+                },
+                "agrego_camaron": {
+                    "price": 650.0,
+                    "type": "marisco",
+                    "principal_ingredient": "camarón"
+                },
+                "agrego_queso": {
+                    "price": 375.0,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "agrego_jamon": {
+                    "price": 350.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "agrego_chorizo": {
+                    "price": 350.0,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "agrego_bacon": {
+                    "price": 485.0,
+                    "type": "embutido",
+                    "principal_ingredient": "bacon"
+                },
+                "agrego_champinon": {
+                    "price": 570.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "champiñón"
+                },
+                "agrego_cebolla": {
+                    "price": 200.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                },
+                "agrego_pimiento": {
+                    "price": 200.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "pimiento"
+                },
+                "agrego_salsa_hawaiana": {
+                    "price": 250.0,
+                    "type": "salsa",
+                    "principal_ingredient": "salsa hawaiana"
+                },
+                "agrego_tomate": {
+                    "price": 200.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "tomate"
+                },
+                "agrego_jamon_serrano": {
+                    "price": 1500.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón serrano"
+                }
+            },
+            "dessert": {
+                "crepes": {
+                    "price": 400.0,
+                    "type": "postre",
+                    "description": "Crepes de dulce de leche o chocolate según disponibilidad"
+                },
+                "tres_leches": {
+                    "price": 750.0,
+                    "type": "postre",
+                    "description": "Tres tipos de leche, panetelas, natillas y frutos secos"
+                },
+                "caja_cake": {
+                    "price": 150.0,
+                    "type": "postre",
+                    "description": "Caja cake"
+                },
+                "semifrio": {
+                    "price": 650.0,
+                    "type": "postre",
+                    "description": "Semifrio"
+                },
+                "cheesecake": {
+                    "price": 750.0,
+                    "type": "postre",
+                    "description": "Cheesecake"
+                },
+                "pote_semifrio": {
+                    "price": 800.0,
+                    "type": "postre",
+                    "description": "Pote semifrio"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "agua_gaseada": {
+                        "price": 660.0,
+                        "type": "agua",
+                        "principal_ingredient": "agua con gas"
+                    },
+                    "limonada_frape": {
+                        "price": 650.0,
+                        "type": "limonada",
+                        "principal_ingredient": "limonada frappé"
+                    },
+                    "jugos": {
+                        "price": 500.0,
+                        "type": "jugo",
+                        "principal_ingredient": "guayaba, mango, frutabomba según disponibilidad"
+                    },
+                    "agua_natural_importada_pequena": {
+                        "price": 300.0,
+                        "type": "agua importada",
+                        "principal_ingredient": "agua natural importada pequeña"
+                    },
+                    "limonada_frutas": {
+                        "price": 800.0,
+                        "type": "limonada",
+                        "principal_ingredient": "limonada de frutas"
+                    },
+                    "refresco_pepsi": {
+                        "price": 450.0,
+                        "type": "refresco importado",
+                        "principal_ingredient": "refresco Pepsi"
+                    },
+                    "refresco_importado": {
+                        "price": 400.0,
+                        "type": "refresco importado",
+                        "principal_ingredient": "refresco importado"
+                    },
+                    "smoothie": {
+                        "price": 1200.0,
+                        "type": "bebida",
+                        "principal_ingredient": "smoothie"
+                    },
+                    "batido_de_helado": {
+                        "price": 1500.0,
+                        "type": "helado",
+                        "principal_ingredient": "batido de helado"
+                    },
+                    "limonada_frappe_con_hierba_buena": {
+                        "price": 900.0,
+                        "type": "limonada",
+                        "principal_ingredient": "Limonada Frappé con Hierba Buena"
+                    },
+                    "limonada_blue": {
+                        "price": 900.0,
+                        "type": "limonada",
+                        "principal_ingredient": "Limonada Blue"
+                    },
+                    "limonada_rebelde": {
+                        "price": 700.0,
+                        "type": "limonada",
+                        "principal_ingredient": "Limonada Rebelde"
+                    },
+                    "san_francisco_lateral": {
+                        "price": 750.0,
+                        "type": "bebida",
+                        "principal_ingredient": "San Francisco Lateral"
+                    },
+                    "limonada_natural": {
+                        "price": 950.0,
+                        "type": "limonada",
+                        "principal_ingredient": "Limonada Natural"
+                    }
+                },
+                "cafes": {
+                    
+                    "cafe": {
+                        "price": 400.0,
+                        "type": "cafe",
+                        "principal_ingredient": "Café"
+                    },
+                    "cafe_americano": {
+                        "price": 380.0,
+                        "type": "americano",
+                        "principal_ingredient": "Café Americano"
+                    },
+                    "cafe_con_coffee_mate": {
+                        "price": 500.0,
+                        "type": "coffe mate",
+                        "principal_ingredient": "Café con Coffee Mate"
+                    },
+                    "carajillo": {
+                        "price": 1000.0,
+                        "type": "carajillo",
+                        "principal_ingredient": "Carajillo"
+                    },
+                    "cafe_bombon": {
+                        "price": 850.0,
+                        "type": "bombon",
+                        "principal_ingredient": "Café Bombón"
+                    }
+                },
+                "alcoholics": {
+                    "tonel_cerveza_dispensada_2lts": {
+                        "price": 1900.0,
+                        "type": "cerveza tonel",
+                        "principal_ingredient": "tonel de cerveza dispensada 2 litros"
+                    },
+                    "tonel_cerveza_dispensada_3lts": {
+                        "price": 2900.0,
+                        "type": "cerveza tonel",
+                        "principal_ingredient": "tonel de cerveza dispensada 3 litros"
+                    },
+                    "cerveza_cristal": {
+                        "price": 550.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza Cristal"
+                    },
+                    "michelada_presidente": {
+                        "price": 900.0,
+                        "type": "cerveza importada",
+                        "principal_ingredient": "Michelada Presidente"
+                    },
+                    "vaso_dispensada": {
+                        "price": 250.0,
+                        "type": "cerveza dispensada",
+                        "principal_ingredient": "vaso de cerveza dispensada"
+                    },
+                    "jarra_dispensada": {
+                        "price": 500.0,
+                        "type": "cerveza dispensada",
+                        "principal_ingredient": "jarra de cerveza dispensada"
+                    },
+                    
+                    "negroni": {
+                        "price": 1500.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Negroni"
+                    },
+                    "moscow_mule": {
+                        "price": 1500.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Moscow Mule"
+                    },
+                    "mojito": {
+                        "price": 900.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Mojito"
+                    },
+                    "cuba_libre": {
+                        "price": 850.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Cuba Libre"
+                    },
+                    "daiquiri": {
+                        "price": 850.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Daiquiri"
+                    },
+                    "cubanito": {
+                        "price": 950.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Cubanito"
+                    },
+                    "vodka_tonic": {
+                        "price": 1200.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Vodka Tonic"
+                    },
+                    "caipirinha": {
+                        "price": 900.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Caipirinha"
+                    },
+                    "daiquiri_frappe": {
+                        "price": 700.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Daiquiri Frappé"
+                    },
+                    "caipirisima": {
+                        "price": 900.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Caipirisima"
+                    },
+                    "michelada_mule": {
+                        "price": 1300.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Michelada Mule"
+                    },
+                    "ron_collins": {
+                        "price": 800.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Ron Collins"
+                    },
+                    "cubata": {
+                        "price": 1050.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Cubata"
+                    },
+                    "mojito_frutas": {
+                        "price": 1100.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Mojito de frutas"
+                    },
+                    "sangria": {
+                        "price": 1500.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Sangría"
+                    },
+                    "daiquiri_frutas": {
+                        "price": 1000.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Daiquiri de frutas"
+                    },
+                    "mojito_frappe": {
+                        "price": 950.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Mojito Frappé"
+                    },
+                    "gin_tonic_importado": {
+                        "price": 1900.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Gin Tonic Importado"
+                    },
+                    "calimocho": {
+                        "price": 800.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Cóctel de vino tinto y refresco de cola"
+                    },
+                    "tinto_de_verano": {
+                        "price": 1150.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Tinto de verano"
+                    },
+                    "gin_fizz": {
+                        "price": 900.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Gin Fizz"
+                    },
+                    "coctel_lateral": {
+                        "price": 900.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Cóctel con jugo tropical, ron añejo y curaçao"
+                    },
+                    "mojito_hc_especial": {
+                        "price": 1200.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Mojito HC Especial"
+                    },
+                    "caipiriachi": {
+                        "price": 1500.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Caipiriachi"
+                    },
+                    "martini_saborizado": {
+                        "price": 850.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Martini saborizado"
+                    },
+                    "daiquiri_saborizado": {
+                        "price": 750.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Daiquiri saborizado"
+                    },
+                    "caipiroska_frutas": {
+                        "price": 1200.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Caipiroska de frutas"
+                    },
+                    "old_fashionet": {
+                        "price": 900.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Old Fashionet"
+                    },
+                    "canchanchara": {
+                        "price": 900.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Canchanchara"
+                    },
+                    "michelada_con_cristal": {
+                        "price": 900.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Michelada con Cristal"
+                    },
+                    "long_island_ice_tea": {
+                        "price": 1800.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Long Island ICE Tea"
+                    },
+                    "blue_star": {
+                        "price": 850.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Blue Star"
+                    },
+                    "cuban_smoky": {
+                        "price": 800.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Cuban Smoky"
+                    },
+                    "servicio_de_micheladas": {
+                        "price": 450.0,
+                        "type": "vegetal",
+                        "principal_ingredient": "Servicio de micheladas"
+                    },
+                    "moscow_mule_gray_goose": {
+                        "price": 1700.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Moscow Mule con Gray Goose"
+                    },
+                    "bloody_mary_gray_goose": {
+                        "price": 1700.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Bloody Mary con Gray Goose"
+                    },
+                    "caipiroska_gray_goose": {
+                        "price": 1900.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Caipiroska con Gray Goose"
+                    },
+                    "screws_drivers_gray_goose": {
+                        "price": 1900.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Screw Driver con Gray Goose"
+                    },
+                    "caipiroska_stolishnaya": {
+                        "price": 1200.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Caipiroska con Stolishnaya"
+                    },
+                    "caipiroska_ciroc": {
+                        "price": 1900.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Caipiroska con Ciroc"
+                    },
+                    "red_label": {
+                        "price": 1000.0,
+                        "type": "whisky",
+                        "principal_ingredient": "Whisky Red Label"
+                    },
+                    "black_label": {
+                        "price": 1500.0,
+                        "type": "whisky",
+                        "principal_ingredient": "Whisky Black Label"
+                    },
+                    "doble_black": {
+                        "price": 1900.0,
+                        "type": "whisky",
+                        "principal_ingredient": "Whisky Doble Black"
+                    },
+                    "ballentine": {
+                        "price": 900.0,
+                        "type": "whisky",
+                        "principal_ingredient": "Whisky Ballentine"
+                    },
+                    "margarita_reposada": {
+                        "price": 1200.0,
+                        "type": "coctel",
+                        "principal_ingredient": "Margarita Reposada"
+                    },
+                    "ruavieja": {
+                        "price": 850.0,
+                        "type": "licor",
+                        "principal_ingredient": "Ruavieja"
+                    },
+                    "jameson": {
+                        "price": 900.0,
+                        "type": "whisky",
+                        "principal_ingredient": "Jameson"
+                    },
+                    "ginebra": {
+                        "price": 1000.0,
+                        "type": "ginebra",
+                        "principal_ingredient": "Ginebra"
+                    },
+                    "cerveza_presidente": {
+                        "price": 500.0,
+                        "type": "cerveza importada",
+                        "principal_ingredient": "Cerveza Presidente"
+                    }
+                }
+            }
+        }
+    }
+}

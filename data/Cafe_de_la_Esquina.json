@@ -1,0 +1,384 @@
+{
+    "name": "Mar Adentro",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/_cafedelaesquina_/?hl=es",
+        "facebook": "https://www.facebook.com/CafeDeLaEsquinaHabana/?locale=es_LA",
+        "telephone_number": ["78362565"]
+    },
+    "location": {
+        "municipality": "Plaza de la Revolucion",
+        "direction": "Paseo #101, esq. a 5ta., Vedado",
+        "coordinates": "23.139111980660992, -82.40011095649037"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.1,
+        "cant_g": 113,
+        "web": 3.5,
+        "cant_w": 70,
+        "tripadvisor": 4.0,
+        "cant_t": 95
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": 50,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "08:00",
+            "tue": "08:00",
+            "wed": "08:00",
+            "thu": "08:00",
+            "fri": "08:00",
+            "sat": "08:00",
+            "sun": "08:00"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": true,
+        "delibery_m": null,
+        "generator": false,
+        "wifi": null,
+        "parking": true,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "Tabla_de_la_casa": {
+                    "price": 4200,
+                    "type": "tabla",
+                    "principal_ingredient": "jamón serrano, jamón cocido, aceitunas, queso azul"
+                },
+                "Canoa_de_Olga": {
+                    "price": 800,
+                    "type": "tamales",
+                    "principal_ingredient": "empellitas y pesto"
+                },
+                "Trío_de_pizzeta_Margarita": {
+                    "price": 1000,
+                    "type": "pizza",
+                    "principal_ingredient": "queso mozzarella y salsa de tomate"
+                },
+                "Tapa_Hot_Dog": {
+                    "price": 2200,
+                    "type": "tapas",
+                    "principal_ingredient": "perro caliente, queso mozzarella, mayonesa, ketchup y mostaza"
+                },
+                "Trío_de_pizzeta_especial": {
+                    "price": 1300,
+                    "type": "pizza",
+                    "principal_ingredient": "queso mozzarella, salsa de tomate y jamón serrano"
+                },
+                "Pizza_Tacos_Mix": {
+                    "price": 2600,
+                    "type": "tacos",
+                    "principal_ingredient": "queso mozzarella y ropa vieja de pollo o cerdo"
+                }
+            },
+            "main": {
+                "Falso_Sushi": {
+                    "price": 2600,
+                    "type": "sushi",
+                    "principal_ingredient": "queso mozzarella y tomate"
+                },
+                "Rollo_Criollo": {
+                    "price": 1900,
+                    "type": "rollo",
+                    "principal_ingredient": "lechón asado"
+                },
+                "Rollo_La_Esquina": {
+                    "price": 1900,
+                    "type": "rollo",
+                    "principal_ingredient": "ropa vieja de res y plátano maduro"
+                },
+                "Plato_Campesino": {
+                    "price": 2500,
+                    "type": "plato",
+                    "principal_ingredient": "lechón asado o ropa vieja de res"
+                }
+            },
+            "fittings": {},
+            "pastas": {
+                "Pasta_clásica": {
+                    "price": 1300,
+                    "type": "pasta",
+                    "principal_ingredient": "pasta clásica"
+                },
+                "Pasta_al_pesto": {
+                    "price": 1500,
+                    "type": "pasta",
+                    "principal_ingredient": "pesto"
+                },
+                "Pasta_Ragú_Bolognesa": {
+                    "price": 1800,
+                    "type": "pasta",
+                    "principal_ingredient": "ragú o bolognesa"
+                },
+                "Pasta_Carbonara": {
+                    "price": 2200,
+                    "type": "pasta",
+                    "principal_ingredient": "carbonara"
+                }
+            },
+            "pizzas": {},
+            "additions": {
+                "Cebolla": {
+                    "price": 120,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                },
+                "Champiñón": {
+                    "price": 170,
+                    "type": "vegetal",
+                    "principal_ingredient": "champiñón"
+                },
+                "Queso_Gouda": {
+                    "price": 200,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                },
+                "Jamón_Embuchado": {
+                    "price": 100,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón embuchado"
+                },
+                "Bacon": {
+                    "price": 150,
+                    "type": "carne",
+                    "principal_ingredient": "bacon"
+                }
+            },
+            "dessert": {
+                "Tarta_de_la_casa": {
+                    "price": 700,
+                    "type": "postre",
+                    "principal_ingredient": "tarta"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "Agua_gaseada_importada": {
+                        "price": 1050,
+                        "type": "agua",
+                        "principal_ingredient": "agua gaseada"
+                    },
+                    "Agua_natural_pequeña": {
+                        "price": 300,
+                        "type": "agua",
+                        "principal_ingredient": "agua natural pequeña"
+                    },
+                    "Agua_natural_grande": {
+                        "price": 500,
+                        "type": "agua",
+                        "principal_ingredient": "agua natural grande"
+                    },
+                    "Agua_gaseada_nacional": {
+                        "price": 500,
+                        "type": "agua",
+                        "principal_ingredient": "agua gaseada nacional"
+                    },
+                    "Agua_Tónica_nacional": {
+                        "price": 350,
+                        "type": "agua",
+                        "principal_ingredient": "agua tónica"
+                    },
+                    "Refresco_nacional": {
+                        "price": 350,
+                        "type": "refresco",
+                        "principal_ingredient": "refresco nacional"
+                    },
+                    "Refresco_importado": {
+                        "price": 350,
+                        "type": "refresco",
+                        "principal_ingredient": "refresco importado"
+                    },
+                    "Jugo_de_frutas_naturales": {
+                        "price": 250,
+                        "type": "jugo",
+                        "principal_ingredient": "jugo de frutas"
+                    },
+                    "Energizante": {
+                        "price": 600,
+                        "type": "energizante",
+                        "principal_ingredient": "energizante"
+                    },
+                    "Malta": {
+                        "price": 450,
+                        "type": "malta",
+                        "principal_ingredient": "malta"
+                    },
+                    "Batido_de_helado": {
+                        "price": 650,
+                        "type": "batido",
+                        "principal_ingredient": "helado"
+                    },
+                    "Batido_de_frutas": {
+                        "price": 450,
+                        "type": "batido",
+                        "principal_ingredient": "frutas"
+                    }
+                },
+                "cafes": {
+                    "expresso": {
+                        "price": 200,
+                        "type": "espresso",
+                        "principal_ingredient": "café"
+                    },
+                    "Capuccino": {
+                        "price": 350,
+                        "type": "capuccino",
+                        "principal_ingredient": "café"
+                    },
+                    "Frapuccino": {
+                        "price": 700,
+                        "type": "frappuccino",
+                        "principal_ingredient": "café"
+                    },
+                    "Americano": {
+                        "price": 220,
+                        "type": "americano",
+                        "principal_ingredient": "café"
+                    },
+                    "Cortado": {
+                        "price": 260,
+                        "type": "cortado",
+                        "principal_ingredient": "café"
+                    },
+                    "Café_con_leche": {
+                        "price": 350,
+                        "type": "café con leche",
+                        "principal_ingredient": "café y leche"
+                    },
+                    "Carajillo": {
+                        "price": 360,
+                        "type": "carajillo",
+                        "principal_ingredient": "café y licor"
+                    },
+                    "Café_Bombón": {
+                        "price": 600,
+                        "type": "café bombón",
+                        "principal_ingredient": "café y leche condensada"
+                    },
+                    "Café_frío": {
+                        "price": 300,
+                        "type": "café frío",
+                        "principal_ingredient": "café"
+                    },
+                    "Té": {
+                        "price": 250,
+                        "type": "té",
+                        "principal_ingredient": "té"
+                    }
+                },
+                "alcoholics": {
+                    "Mojito": {
+                        "price": 700,
+                        "type": "coctel",
+                        "principal_ingredient": "ron y hierbabuena"
+                    },
+                    "Mojito_Especial": {
+                        "price": 750,
+                        "type": "coctel",
+                        "principal_ingredient": "ron y hierbabuena"
+                    },
+                    "Pina_Colada": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "ron y piña"
+                    },
+                    "Daikiri": {
+                        "price": 700,
+                        "type": "coctel",
+                        "principal_ingredient": "ron y frutas"
+                    },
+                    "Margarita": {
+                        "price": 1000,
+                        "type": "coctel",
+                        "principal_ingredient": "tequila y limón"
+                    },
+                    "Sangría": {
+                        "price": 750,
+                        "type": "coctel",
+                        "principal_ingredient": "vino tinto y frutas"
+                    },
+                    "Caipirina": {
+                        "price": 750,
+                        "type": "coctel",
+                        "principal_ingredient": "cachaça y limón"
+                    },
+                    "Caipiroska": {
+                        "price": 750,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka y limón"
+                    },
+                    "Gin_Tonic": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "gin y tónica"
+                    },
+                    "Vodka_Tonic": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka y tónica"
+                    }
+                }
+            }
+        }
+    }
+}

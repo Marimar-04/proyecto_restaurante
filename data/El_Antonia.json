@@ -1,0 +1,340 @@
+{
+    "name": "El Antonia",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/el_antonia_havana/",
+        "facebook": "https://www.facebook.com/ElAntoniaCuba/",
+        "telephone_number": ["78603938", "58813320"]
+    },
+    "location": {
+        "municipality": "Habana Vieja",
+        "direction": "Compostela # 116 e/ Tejadillo y Empedrado, La Habana, Cuba",
+        "coordinates": "23.140311716155185, -82.3548028466931"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.7,
+        "cant_g": 18,
+        "web": 5.0,
+        "cant_w": 3,
+        "tripadvisor": 5.0,
+        "cant_t": 1
+    },
+    "description": {
+        "type_of_restaurant": [""],
+        "specialty": ["internacional", "criolla"],
+        "capacity": 30,
+        "areas": {
+            "inside": true,
+            "outside": false,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": 2
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "10:00",
+            "tue": "10:00",
+            "wed": "10:00",
+            "thu": "10:00",
+            "fri": "10:00",
+            "sat": "10:00",
+            "sun": "10:00"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": 60,
+            "local": 40
+        },
+        "ecological": true
+    },
+    "experiences": {
+        "live_music": true,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": false,
+        "parking": false,
+        "for_kids": true,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": true,
+        "grammage": false,
+        "plate_description": true,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {
+                "huevos_queso": {
+                    "price": 850,
+                    "type": "huevos",
+                    "principal_ingredient": "eggs"
+                },
+                "cafe_con_leche": {
+                    "price": 450,
+                    "type": "cafe",
+                    "principal_ingredient": "milk"
+                },
+                "cafe": {
+                    "price": 250,
+                    "type": "cafe",
+                    "principal_ingredient": "coffee"
+                },
+                "jugo_natural": {
+                    "price": 350,
+                    "type": "jugo",
+                    "principal_ingredient": "natural fruit"
+                }
+            },
+            "breads": {},
+            "starters": {
+                "croquetas_casa": {
+                    "price": 900,
+                    "type": "croqueta",
+                    "principal_ingredient": "varied"
+                },
+                "caprichos_yuca": {
+                    "price": 600,
+                    "type": "yuca",
+                    "principal_ingredient": "cassava"
+                },
+                "crema_calabaza_jengibre": {
+                    "price": 550,
+                    "type": "crema",
+                    "principal_ingredient": "pumpkin"
+                },
+                "ensalada_antonia": {
+                    "price": 1900,
+                    "type": "ensalada",
+                    "principal_ingredient": "varied vegetables"
+                },
+                "picadera_antonia": {
+                    "price": 2500,
+                    "type": "picadera",
+                    "principal_ingredient": "varied"
+                },
+                "eperlan": {
+                    "price": 2300,
+                    "type": "pescado",
+                    "principal_ingredient": "fish"
+                }
+            },
+            "main": {
+                "langosta_estilo_chef": {
+                    "price": 5500,
+                    "type": "marisco",
+                    "principal_ingredient": "lobster"
+                },
+                "camarones_estilo_chef": {
+                    "price": 4500,
+                    "type": "marisco",
+                    "principal_ingredient": "shrimp"
+                },
+                "ropa_vieja_vaca_frita": {
+                    "price": 4500,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "beef"
+                },
+                "pesca_dia": {
+                    "price": 3700,
+                    "type": "pescado",
+                    "principal_ingredient": "fish"
+                },
+                "tacos_vegetales": {
+                    "price": 2800,
+                    "type": "taco",
+                    "principal_ingredient": "vegetables"
+                },
+                "tacos_ropa_vieja": {
+                    "price": 3800,
+                    "type": "taco",
+                    "principal_ingredient": "beef"
+                },
+                "tacos_langosta": {
+                    "price": 5200,
+                    "type": "taco",
+                    "principal_ingredient": "lobster"
+                },
+                "tacos_camarones": {
+                    "price": 4500,
+                    "type": "taco",
+                    "principal_ingredient": "shrimp"
+                }
+            },
+            "fittings": {
+                "pure_boniato_pisto_vegetales": {
+                    "price": 400,
+                    "type": "pure",
+                    "principal_ingredient": "sweet potato"
+                },
+                "arroz_blanco": {
+                    "price": 500,
+                    "type": "arroz",
+                    "principal_ingredient": "rice"
+                },
+                "frijoles_negros": {
+                    "price": 550,
+                    "type": "frijol",
+                    "principal_ingredient": "black beans"
+                }
+            },
+            "pastas": {
+                "pastas_vegetarianas": {
+                    "price": 1900,
+                    "type": "vegetariana",
+                    "principal_ingredient": "vegetables"
+                },
+                "pastas_napolitanas": {
+                    "price": 1100,
+                    "type": "napolitana",
+                    "principal_ingredient": "tomato"
+                },
+                "pastas_pesto": {
+                    "price": 2300,
+                    "type": "pesto",
+                    "principal_ingredient": "pesto"
+                }
+            },
+            "pizzas": {
+                "pizza_napolitana": {
+                    "price": 1200,
+                    "type": "napolitana",
+                    "principal_ingredient": "tomato"
+                },
+                "pizza_vegetales": {
+                    "price": 2000,
+                    "type": "vegetal",
+                    "principal_ingredient": "vegetables"
+                },
+                "pizza_pesto": {
+                    "price": 2300,
+                    "type": "pesto",
+                    "principal_ingredient": "pesto"
+                },
+                "pizza_bacon": {
+                    "price": 2000,
+                    "type": "embutido",
+                    "principal_ingredient": "bacon"
+                }
+            },
+            "additions": {},
+            "dessert": {
+                "dulces_tradicionales_cubanos": {
+                    "price": 1000,
+                    "type": "postre",
+                    "principal_ingredient": "sugar"
+                }
+            },
+            "drinks": {
+                "general": {},
+                "cafes": {
+                    "cafe_copet": {
+                        "price": 250,
+                        "type": "cafe",
+                        "principal_ingredient": "coffee"
+                    }
+                },
+                "alcoholics": {
+                    "cerveza": {
+                        "price": 450,
+                        "type": "cerveza",
+                        "principal_ingredient": "barley"
+                    },
+                    "vino": {
+                        "price": 700,
+                        "type": "vino",
+                        "principal_ingredient": "grapes"
+                    },
+                    "mojito": {
+                        "price": 600,
+                        "type": "coctel",
+                        "principal_ingredient": "rum"
+                    },
+                    "daiquiri": {
+                        "price": 600,
+                        "type": "coctel",
+                        "principal_ingredient": "rum"
+                    },
+                    "roncollins": {
+                        "price": 600,
+                        "type": "coctel",
+                        "principal_ingredient": "rum"
+                    },
+                    "vodkatonic": {
+                        "price": 600,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "caipirissima": {
+                        "price": 650,
+                        "type": "coctel",
+                        "principal_ingredient": "rum"
+                    },
+                    "caipiroska": {
+                        "price": 650,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "canchanchara": {
+                        "price": 700,
+                        "type": "coctel",
+                        "principal_ingredient": "rum"
+                    },
+                    "sangria": {
+                        "price": 700,
+                        "type": "coctel",
+                        "principal_ingredient": "wine"
+                    },
+                    "cubata": {
+                        "price": 750,
+                        "type": "coctel",
+                        "principal_ingredient": "rum"
+                    },
+                    "gintonic": {
+                        "price": 750,
+                        "type": "coctel",
+                        "principal_ingredient": "gin"
+                    },
+                    "margarita": {
+                        "price": 750,
+                        "type": "coctel",
+                        "principal_ingredient": "tequila"
+                    }
+                }
+            }
+        }
+    }
+}

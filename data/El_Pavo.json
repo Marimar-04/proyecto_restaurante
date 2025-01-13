@@ -1,0 +1,497 @@
+{
+    "name": "El Pavo",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/explore/locations/556807434334240/restaurante-el-pavo/?utm_source=ig_embed&ig_rid=756f5cef-ad25-47a3-ae19-29ab493ade31",
+        "facebook": "https://www.facebook.com/RestauranteElPavo/?locale=es_LA",
+        "telephone_number": ["77976432", "52424943"]
+    },
+    "location": {
+        "municipality": "Regla",
+        "direction": "Via Blanca 11 e/ Independencia y San Luis , La Habana",
+        "coordinates": "23.124382402898924, -82.31908966201476"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.3,
+        "cant_g": 38,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": 4.5,
+        "cant_t": 11
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["internacional", "criolla"],
+        "capacity": 50,
+        "areas": {
+            "inside": true,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": 12
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": 90,
+            "local": 10
+        },
+        "ecological": true
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": true,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": false,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": false
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "Ensalada_Fría_de_Jamón": {
+                    "price": 450.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "jamón"
+                },
+                "Ensalada_Fría_de_Atún": {
+                    "price": 500.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "atún"
+                },
+                "Croquetas": {
+                    "price": 200.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "jamón"
+                },
+                "Fajitas": {
+                    "price": 500.0,
+                    "type": "fajita",
+                    "principal_ingredient": "pollo"
+                },
+                "Tostón_relleno_de_Jamón": {
+                    "price": 450.0,
+                    "type": "toston",
+                    "principal_ingredient": "jamón"
+                },
+                "Tostón_relleno_de_Atún": {
+                    "price": 450.0,
+                    "type": "toston",
+                    "principal_ingredient": "atún"
+                },
+                "Costillas": {
+                    "price": 800.0,
+                    "type": "costillas",
+                    "principal_ingredient": "cerdo"
+                },
+                "Cóctel_de_Camarón": {
+                    "price": 700.0,
+                    "type": "coctel marisco",
+                    "principal_ingredient": "camarón"
+                },
+                "Garbanzo_Frito": {
+                    "price": 400.0,
+                    "type": "garbanzo",
+                    "principal_ingredient": "garbanzo"
+                },
+                "Eperlan": {
+                    "price": 600.0,
+                    "type": "eperlan",
+                    "principal_ingredient": "pescado"
+                },
+                "Entremés": {
+                    "price": 800.0,
+                    "type": "entremes",
+                    "principal_ingredient": "varios"
+                }
+            },
+            "main": {
+                "Pollo_Grille": {
+                    "price": 1100.0,
+                    "type": "bistec",
+                    "principal_ingredient": "pollo"
+                },
+                "Masa_de_Cerdo": {
+                    "price": 1600.0,
+                    "type": "masas",
+                    "principal_ingredient": "cerdo"
+                },
+                "Cerdo_a_la_Milanesa": {
+                    "price": 1400.0,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "Bistec_de_Cerdo": {
+                    "price": 1300.0,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "Bistec_de_Res": {
+                    "price": 1300.0,
+                    "type": "bistec",
+                    "principal_ingredient": "res"
+                },
+                "Ropa_Vieja": {
+                    "price": 1600.0,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "res"
+                },
+                "Camarones_Enchilados": {
+                    "price": 1300.0,
+                    "type": "marisco",
+                    "principal_ingredient": "camarón"
+                },
+                "Camarones_al_Ajillo": {
+                    "price": 1300.0,
+                    "type": "marisco",
+                    "principal_ingredient": "camarón"
+                },
+                "Camarones_Grille": {
+                    "price": 1200.0,
+                    "type": "marisco",
+                    "principal_ingredient": "camarón"
+                },
+                "Camarones_Rebosados": {
+                    "price": 1300.0,
+                    "type": "marisco",
+                    "principal_ingredient": "camarón"
+                },
+                "Enchilado_de_Langosta": {
+                    "price": 1400.0,
+                    "type": "marico",
+                    "principal_ingredient": "langosta"
+                },
+                "Langosta_Grille": {
+                    "price": 1300.0,
+                    "type": "marisco",
+                    "principal_ingredient": "langosta"
+                },
+                "Pescado_Grille": {
+                    "price": 1400.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "Marinada_al_Pavo": {
+                    "price": 2500.0,
+                    "type": "marinada",
+                    "principal_ingredient": "pavo"
+                },
+
+                "Arroz_Frito": {
+                    "price": 1800.0,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "Paella_Criolla": {
+                    "price": 3200.0,
+                    "type": "paella",
+                    "principal_ingredient": "arroz"
+                },
+                "Paella_al_Pavo": {
+                    "price": 4000.0,
+                    "type": "paella",
+                    "principal_ingredient": "pavo"
+                }
+            },
+            "fittings": {
+                "Arroz_Blanco": {
+                    "price": 80.0,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "Arroz_Moro": {
+                    "price": 200.0,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz y frijoles"
+                },
+                "Ensalada_Estación": {
+                    "price": 400.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                },
+                "Vianda_Frita": {
+                    "price": 200.0,
+                    "type": "vianda",
+                    "principal_ingredient": "viandas"
+                }
+            },
+            "pastas": {
+                "Espaguetis_Napolitano": {
+                    "price": 600.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "tomate"
+                },
+                "Espaguetis_con_Jamón": {
+                    "price": 800.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "Espaguetis_Boloñesa": {
+                    "price": 800.0,
+                    "type": "bolonesa",
+                    "principal_ingredient": "carne"
+                },
+                "Espaguetis_con_Camarones": {
+                    "price": 1000.0,
+                    "type": "marisco",
+                    "principal_ingredient": "camarón"
+                },
+                "Espaguetis_con_Atún": {
+                    "price": 950.0,
+                    "type": "atun",
+                    "principal_ingredient": "atún"
+                },
+                "Espaguetis_con_Bacon": {
+                    "price": 800.0,
+                    "type": "embutido",
+                    "principal_ingredient": "bacon"
+                },
+                "Lasagna_de_Jamón": {
+                    "price": 800.0,
+                    "type": "lasagna",
+                    "principal_ingredient": "jamón"
+                },
+                "Lasagna_de_Carne": {
+                    "price": 900.0,
+                    "type": "lasagna",
+                    "principal_ingredient": "carne"
+                }
+            },
+            "pizzas": {
+                "Pizza_Napolitana": {
+                    "price": 600.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "tomate"
+                },
+                "Pizza_de_Vegetales": {
+                    "price": 650.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "vegetales"
+                },
+                "Pizza_de_Jamón": {
+                    "price": 800.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "Pizza_de_Chorizo": {
+                    "price": 800.0,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "Pizza_Hawaiana": {
+                    "price": 850.0,
+                    "type": "hawaiana",
+                    "principal_ingredient": "piña"
+                },
+                "Pizza_de_Carne": {
+                    "price": 800.0,
+                    "type": "carne",
+                    "principal_ingredient": "carne"
+                },
+                "Pizza_de_Camarones": {
+                    "price": 1000.0,
+                    "type": "marisco",
+                    "principal_ingredient": "camarón"
+                },
+                "Pizza_Especial_El_Pavo": {
+                    "price": 1500.0,
+                    "type": "pizza",
+                    "principal_ingredient": "pavo"
+                }
+            },
+            "additions": {
+                "Jamón": {
+                    "price": 250.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "Queso": {
+                    "price": 500.0,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "Camarón": {
+                    "price": 500.0,
+                    "type": "marisco",
+                    "principal_ingredient": "camarón"
+                },
+                "Atún": {
+                    "price": 500.0,
+                    "type": "atún",
+                    "principal_ingredient": "atún"
+                },
+                "Chorizo": {
+                    "price": 250.0,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "Aceitunas": {
+                    "price": 400.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "aceitunas"
+                },
+                "Bacon": {
+                    "price": 250.0,
+                    "type": "embutido",
+                    "principal_ingredient": "bacon"
+                },
+                "Piña": {
+                    "price": 150.0,
+                    "type": "fruta",
+                    "principal_ingredient": "piña"
+                },
+                "Cebolla": {
+                    "price": 100.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                }
+            },
+            "dessert": {
+                "Flan_de_Leche": {
+                    "price": 180.0,
+                    "type": "postre",
+                    "principal_ingredient": "leche"
+                },
+                "Tres_Leche": {
+                    "price": 750.0,
+                    "type": "postre",
+                    "principal_ingredient": "leche"
+                },
+                "Tarta_Al_Pavo": {
+                    "price": 550.0,
+                    "type": "tarta",
+                    "principal_ingredient": "pavo"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "Agua_Natural": {
+                        "price": 180.0,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "Agua_Gaseada": {
+                        "price": 180.0,
+                        "type": "agua gaseada",
+                        "principal_ingredient": "agua"
+                    },
+                    "Refresco_Nacional": {
+                        "price": 225.0,
+                        "type": "refresco",
+                        "principal_ingredient": "azúcar"
+                    },
+                    "Refresco_Importado": {
+                        "price": 260.0,
+                        "type": "refresco importado",
+                        "principal_ingredient": "azúcar"
+                    },
+                    "Malta_Importada": {
+                        "price": 225.0,
+                        "type": "malta importada",
+                        "principal_ingredient": "malta"
+                    },
+                    "Malta_HyperMalt": {
+                        "price": 260.0,
+                        "type": "malta importada",
+                        "principal_ingredient": "malta"
+                    },
+                    "Jugo_Cajita": {
+                        "price": 180.0,
+                        "type": "jugo",
+                        "principal_ingredient": "fruta"
+                    }
+                },
+                "cafes": {
+                    "Café_Express": {
+                        "price": 250.0,
+                        "type": "espresso",
+                        "principal_ingredient": "café"
+                    },
+                    "Café_Cortado": {
+                        "price": 300.0,
+                        "type": "cortado",
+                        "principal_ingredient": "café y leche"
+                    },
+                    "Café_Cappuccino": {
+                        "price": 350.0,
+                        "type": "cappuccino",
+                        "principal_ingredient": "café y leche"
+                    },
+                    "Café_Bombón": {
+                        "price": 380.0,
+                        "type": "bombon",
+                        "principal_ingredient": "café y leche condensada"
+                    }
+                },
+                "alcoholics": {
+                    "Cerveza_Nacional": {
+                        "price": 250.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    },
+                    "Cerveza_Nacional_2": {
+                        "price": 200.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    },
+                    "Cerveza_Corona": {
+                        "price": 300.0,
+                        "type": "cerveza importada",
+                        "principal_ingredient": "cebada"
+                    }
+                }
+            }
+        }
+    }
+}

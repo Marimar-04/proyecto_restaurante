@@ -1,0 +1,426 @@
+{
+    "name": "La Catrina",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/lacatrina_havana/?hl=es",
+        "facebook": "https://www.facebook.com/lacatrina.havana/",
+        "telephone_number": ["56593890"]
+    },
+    "location": {
+        "municipality": "Playa",
+        "direction": "calle 84 #503 e/ 5ta Ave y 5taA, Miramar, La Habana",
+        "coordinates": "23.105644168847277, -82.44212999530603"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.6,
+        "cant_g": 65,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": 4.5,
+        "cant_t": 9
+    },
+    "description": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["mexicana"],
+        "capacity": 50,
+        "areas": {
+            "inside": true,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": 2
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+        
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": 70,
+            "local": 30
+        },
+        "ecological": true
+    },
+    "experiences": {
+        "live_music": true,
+        "show": ["fiestas mexicanas"],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": true,
+        "delibery_M": false,
+        "generator": true,
+        "wifi": false,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": true,
+        "others_languages": true,
+        "grammage": false,
+        "plate_description": true,
+        "most_popular": "tacos de res",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "quesadillas_con_tortillas_de_trigo_con_queso": {
+                    "principal_ingrediente": "tortillas de trigo, queso",
+                    "type": "quesadilla",
+                    "price": 1700
+                },
+                "quesadillas_con_queso_y_champinones": {
+                    "principal_ingrediente": "tortillas de trigo, queso, champiñones",
+                    "type": "quesadilla",
+                    "price": 2300
+                },
+                "quesadillas_con_queso_y_chorizo_iberico": {
+                    "principal_ingrediente": "tortillas de trigo, queso, chorizo ibérico",
+                    "type": "quesadilla",
+                    "price": 2300
+                },
+                "tacos_envenenados": {
+                    "principal_ingrediente": "relleno sorpresa",
+                    "type": "taco",
+                    "price": 1900
+                },
+                "tacos_dorados": {
+                    "principal_ingrediente": "papa, pollo, ensalada, crema de leche, salsa taquera",
+                    "type": "taco",
+                    "price": 1900
+                },
+                "frijoles_refritos": {
+                    "principal_ingrediente": "frijoles",
+                    "type": "frijoles",
+                    "price": 1350
+                },
+                "ceviche_acapulqueño": {
+                    "principal_ingrediente": "pescado",
+                    "type": "ceviche",
+                    "price": 2700
+                },
+                "ceviche_de_atun_rojo": {
+                    "principal_ingrediente": "atun",
+                    "type": "ceviche",
+                    "price": 3950
+                },
+                "carpaccio_de_res": {
+                    "principal_ingrediente": "res",
+                    "type": "carpaccio",
+                    "price": 4200
+                },
+                "carpaccio_de_pulpo": {
+                    "principal_ingrediente": "pulpo",
+                    "type": "carpaccio",
+                    "price": 3800
+                },
+                "tostada_de_atun": {
+                    "principal_ingrediente": "atún",
+                    "type": "tostada",
+                    "price": 2700
+                },
+                "aguachile_de_camaron": {
+                    "principal_ingrediente": "camarón",
+                    "type": "aguachile",
+                    "price": 2900
+                },
+                "trio_de_ceviches": {
+                    "principal_ingrediente": "variado",
+                    "type": "ceviche",
+                    "price": 3800
+                },
+                "salmorejo_la_catrina_pequena": {
+                    "principal_ingrediente": "tomate",
+                    "type": "sopa",
+                    "price": 1550
+                },
+                "salmorejo_la_catrina_grande": {
+                    "principal_ingrediente": "tomate",
+                    "type": "sopa",
+                    "price": 2100
+                },
+                "guacamole": {
+                    "principal_ingrediente": "aguacate",
+                    "type": "guacamole",
+                    "price": 1750
+                }
+            },
+            "mains": {
+                "pollo_en_mole": {
+                    "principal_ingrediente": "pollo, chiles, almendras, cacahuate, semillas de sésamo, calabaza, chocolate",
+                    "type": "pollo",
+                    "price": 3200
+                },
+                "albondigas_de_la_abuela": {
+                    "principal_ingrediente": "res, cerdo, salsa de tomate, vino blanco",
+                    "type": "albondigas",
+                    "price": 2700
+                },
+                "quesadillas_de_huitlacoche": {
+                    "principal_ingrediente": "maíz, queso, huitlacoche",
+                    "type": "quesadilla",
+                    "price": 1700
+                },
+                "chilaquiles": {
+                    "principal_ingrediente": "totopos, salsa de chile, pechuga de pollo, queso, crema de leche, cebolla",
+                    "type": "chilaquiles",
+                    "price": 2700
+                },
+                "pescado_del_dia": {
+                    "principal_ingrediente": "pescado, vegetales",
+                    "type": "pescado",
+                    "price": 3250
+                },
+                "langosta_grille": {
+                    "principal_ingrediente": "langosta, mantequilla, vegetales",
+                    "type": "langosta",
+                    "price": 4600
+                },
+                "calamares_al_ajillo": {
+                    "principal_ingrediente": "calamar, ajo, perejil, aceite de oliva, vino blanco",
+                    "type": "camarones",
+                    "price": 3800
+                },
+                "carnitas_michoacanas": {
+                    "principal_ingrediente": "cerdo",
+                    "type": "taco",
+                    "price": 2700
+                },
+                "tacos_al_pastor": {
+                    "principal_ingrediente": "cerdo",
+                    "type": "taco",
+                    "price": 2700
+                },
+                "cochinita_pibil": {
+                    "principal_ingrediente": "cerdo",
+                    "type": "taco",
+                    "price": 2700
+                },
+                "tacos_de_res": {
+                    "principal_ingrediente": "filete de res",
+                    "type": "taco",
+                    "price": 3100
+                },
+                "fajitas_de_pollo": {
+                    "principal_ingrediente": "pechuga de pollo",
+                    "type": "taco",
+                    "price": 2700
+                },
+                "fajitas_de_res": {
+                    "principal_ingrediente": "res",
+                    "type": "taco",
+                    "price": 3050
+                },
+                "festival_de_tacos_6": {
+                    "principal_ingrediente": "cochinita",
+                    "type": "festival_tacos",
+                    "price": 4600
+                },
+                "festival_de_tacos_12": {
+                    "principal_ingrediente": "cochinita",
+                    "type": "festival_tacos",
+                    "price": 8900
+                },
+                "ensenada_de_pescado": {
+                    "principal_ingrediente": "pescado",
+                    "type": "taco",
+                    "price": 2900
+                },
+                "ensenada_de_camaron": {
+                    "principal_ingrediente": "camarón",
+                    "type": "taco",
+                    "price": 3000
+                },
+                "gobernador": {
+                    "principal_ingrediente": "camarón",
+                    "type": "taco",
+                    "price": 3350
+                },
+                "langosta_estilo_baja_california": {
+                    "principal_ingrediente": "langosta",
+                    "type": "taco",
+                    "price": 3050
+                },
+                "festival_de_tacos_del_mar": {
+                    "principal_ingrediente": "pescado, langosta, camarón",
+                    "type": "festival_tacos",
+                    "price": 8800
+                },
+                "solomillo_de_res": {
+                    "principal_ingrediente": "solomillo de res",
+                    "type": "carne",
+                    "price": 6900
+                },
+                "entrecot": {
+                    "principal_ingrediente": "res",
+                    "type": "centrecot",
+                    "price": 10900
+                },
+                "chuleton": {
+                    "principal_ingrediente": "res",
+                    "type": "chuleton",
+                    "price": 24700
+                },
+                "tomahawk": {
+                    "principal_ingrediente": "res",
+                    "type": "tomahawk",
+                    "price": 21000
+                },
+                "quesadilla_tacos_de_fajitas_de_pollo": {
+                    "principal_ingrediente": "pollo, queso, champinon, chorizo",
+                    "type": "comida infantil",
+                    "price": 2450
+                },
+                "quesadilla_tacos_de_carne_de_cerdp": {
+                    "principal_ingrediente": "cerdo, queso, champiñón, chorizo",
+                    "type": "comida infantil",
+                    "price": 2300
+                },
+                "eperlán_de_pollo_y_papas_fritas": {
+                    "principal_ingrediente": "pollo, papas",
+                    "type": "eperlan",
+                    "price": 2450
+                },
+                "eperlán_de_pescado_y_papas_fritas": {
+                    "principal_ingrediente": "pescado, papas",
+                    "type": "eperlan",
+                    "price": 2450
+                },
+                "bistec_de_res_y_papas_fritas": {
+                    "principal_ingrediente": "res, papas",
+                    "type": "bistec",
+                    "price": 2900
+                }
+            },
+            "fittings": {
+                "ensalada_la_catrina": {
+                    "principal_ingrediente": "lechugas, rúcula, tomate, queso de cabra, jamón serrano",
+                    "type": "ensalada",
+                    "price": 2650
+                },
+                "ensalada_mexico_lindo": {
+                    "principal_ingrediente": "lechugas, rúcula, tomate, cebolla, elote, frijol negro, queso de cabra, tortilla de maíz",
+                    "type": "ensalada",
+                    "price": 2300
+                },
+                "ensalada_pico_de_gallo": {
+                    "principal_ingrediente": "tomate, cebolla blanca, cilantro, limón",
+                    "type": "ensalada",
+                    "price": 1350
+                },
+                "arroz_blanco": {
+                    "principal_ingrediente": "arroz",
+                    "type": "arroz",
+                    "price": 750
+                },
+                "papas_fritas": {
+                    "principal_ingrediente": "papas",
+                    "type": "papas",
+                    "price": 950
+                },
+                "pure_de_papa": {
+                    "principal_ingrediente": "papa",
+                    "type": "pure",
+                    "price": 1150
+                },
+                "champinones_salteados": {
+                    "principal_ingrediente": "champinones",
+                    "type": "champinones",
+                    "price": 1450
+                },
+                "vegetales_salteados": {
+                    "principal_ingrediente": "vegetales",
+                    "type": "vegetales",
+                    "price": 850
+                },
+                "totopos": {
+                    "principal_ingrediente": "totopos",
+                    "type": "totopos",
+                    "price": 850
+                },
+                "cesta_de_pan": {
+                    "principal_ingrediente": "pan",
+                    "type": "pan",
+                    "price": 800
+                }
+            },
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "desserts": {
+                "tartas_del_dia": {
+                    "principal_ingrediente": "harina",
+                    "type": "tarta",
+                    "price": 1400
+                },
+                "pie_de_limon": {
+                    "principal_ingrediente": "harina, limon",
+                    "type": "pie",
+                    "price": 1400
+                },
+                "tiramisu": {
+                    "principal_ingrediente": "bizcocho, cafe, mascarpone",
+                    "type": "tiramisu",
+                    "price": 1400
+                },
+                "cheesecake": {
+                    "principal_ingrediente": "queso crema",
+                    "type": "cheesecake",
+                    "price": 1400
+                },
+                "gelato_italiano_artesanal": {
+                    "principal_ingrediente": "leche, crema, azúcar, saborizantes",
+                    "type": "helado",
+                    "price": 1200
+                },
+                "flan_casero": {
+                    "principal_ingrediente": "leche, huevos, azucar",
+                    "type": "flan",
+                    "price": 1400
+                }
+            },
+            "drinks": {
+                "general": {},
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

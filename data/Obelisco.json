@@ -1,0 +1,209 @@
+{
+    "name": "Complejo 100 y 57",
+    "sector": "estatal",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "",
+        "telephone_number": []
+    },
+    "location": {
+        "municipality": "Marianao",
+        "direction": "100 & 57, Marianao, La Habana, Cuba",
+        "coordinates": ""
+    },
+    "valoration": {
+        "quality": "",
+        "google": null,
+        "cant_g": null,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": 28
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "09:00",
+            "tue": "09:00",
+            "wed": "09:00",
+            "thu": "09:00",
+            "fri": "09:00",
+            "sat": "09:00",
+            "sun": "09:00"
+        },
+        "close": {
+            "mon": "18:00",
+            "tue": "18:00",
+            "wed": "18:00",
+            "thu": "18:00",
+            "fri": "18:00",
+            "sat": "18:00",
+            "sun": "18:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": null,
+        "generator": null,
+        "wifi": false,
+        "parking": false,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "pan_con_queso_y_embutido": {
+                    "price": 250,
+                    "type": "pan",
+                    "principal_ingredient": "pan"
+                }
+            },
+            "starters": {
+                "bolitas_de_carne": {
+                    "price": 20,
+                    "type": "croqueta",
+                    "principal_ingredient": "carne"
+                },
+                "dados_de_queso": {
+                    "price": 180,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                }
+            },
+            "main": {
+                "pork": {
+                    "price": null,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "chicken": {
+                    "price": null,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "beef": {
+                    "price": null,
+                    "type": "res",
+                    "principal_ingredient": "res"
+                },
+                "sea": {
+                    "price": null,
+                    "type": "mariscos",
+                    "principal_ingredient": "mariscos"
+                }
+            },
+            "fittings": {
+                "frijol_negro": {
+                    "price": 55,
+                    "type": "frijol",
+                    "principal_ingredient": "frijoles"
+                },
+                "arroz_blanco": {
+                    "price": 70,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                }
+            },
+            "pastas": {
+                "pasta": {
+                    "price": null,
+                    "type": "napolitana",
+                    "principal_ingredient": "pasta"
+                }
+            },
+            "pizzas": {
+                "pizza_de_queso": {
+                    "price": 200,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso"
+                }
+            },
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "agua_saborizada": {
+                        "price": 50,
+                        "type": "refresco",
+                        "principal_ingredient": "agua"
+                    },
+                    "agua_natural": {
+                        "price": 180,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "cerveza_cristal": {
+                        "price": 180,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    },
+                    "vino_blanco_entre_rio": {
+                        "price": 160,
+                        "type": "vino",
+                        "principal_ingredient": "uva"
+                    },
+                    "vino_blanco": {
+                        "price": 160,
+                        "type": "vino",
+                        "principal_ingredient": "uva"
+                    },
+                    "cerveza": {
+                        "price": 50,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    }
+                }
+            }
+        }
+    }
+}

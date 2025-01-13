@@ -1,0 +1,196 @@
+{
+    "name": "Bar Cabaña",
+    "sector": "estatal",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "",
+        "telephone_number": ["78605670"]
+    },
+    "location": {
+        "municipality": "Habana Vieja",
+        "direction": "Cuba No. 12 esq. a Peña Pobre. Habana Vieja, La Habana",
+        "coordinates": "23.14374260809853, -82.35424684672121"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": 3.9,
+        "cant_g": 37,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["criolla"],
+        "capacity": 70,
+        "areas": {
+            "inside": true,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": 11
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "10:00",
+            "tue": "10:00",
+            "wed": "10:00",
+            "thu": "10:00",
+            "fri": "10:00",
+            "sat": "10:00",
+            "sun": "10:00"
+        },
+        "close": {
+            "mon": "22:00",
+            "tue": "22:00",
+            "wed": "22:00",
+            "thu": "22:00",
+            "fri": "22:00",
+            "sat": "22:00",
+            "sun": "22:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": 6000
+    },
+    "sustainability": {
+        "product": {
+            "import": 50,
+            "local": 50
+        },
+        "ecological": false
+    },
+    "experiences": {
+        "live_music": true,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": false,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": true,
+        "others_languages": true,
+        "grammage": true,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "sandwich_de_queso": {
+                    "price": 140.0,
+                    "type": "sandwich",
+                    "principal_ingredient": "queso"
+                },
+                "sandwich_de_jamon": {
+                    "price": 180.0,
+                    "type": "sandwich",
+                    "principal_ingredient": "jamon"
+                }
+            },
+            "starters": {
+                "lonjas_de_jamon": {
+                    "price": 290.0,
+                    "type": "tapa",
+                    "principal_ingredient": "jamon"
+                },
+                "potaje_de_judias": {
+                    "price": 195.0,
+                    "type": "potaje",
+                    "principal_ingredient": "judias"
+                }
+            },
+            "main": {
+                "bistec_de_cerdo_grille": {
+                    "price": 850.0,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "masas_de_cerdo_fritas": {
+                    "price": 700.0,
+                    "type": "masas fritas",
+                    "principal_ingredient": "cerdo"
+                },
+                "lonjas_de_cerdo_asadas": {
+                    "price": 900.0,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                },
+                "brocheta_de_cerdo": {
+                    "price": 1150.0,
+                    "type": "brocheta",
+                    "principal_ingredient": "cerdo"
+                },
+                "estofado_de_res_al_vino": {
+                    "price": 850.0,
+                    "type": "estofado",
+                    "principal_ingredient": "res"
+                },
+                "entrecot_de_res_grille": {
+                    "price": 775.0,
+                    "type": "entrecot",
+                    "principal_ingredient": "res"
+                },
+                "rinonada_de_res": {
+                    "price": 750.0,
+                    "type": "rinonada",
+                    "principal_ingredient": "res"
+                }
+            },
+            "fittings": {
+                "vegetales_salteados": {
+                    "price": 200.0,
+                    "type": "vegetales",
+                    "principal_ingredient": "vegetales"
+                },
+                "vegetales_al_vapor": {
+                    "price": 180.0,
+                    "type": "vegetales",
+                    "principal_ingredient": "vegetales"
+                },
+                "arroz_blanco": {
+                    "price": 100.0,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "arroz_moro": {
+                    "price": 135.0,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz y frijoles negros"
+                },
+                "arroz_con_sustancias": {
+                    "price": 105.0,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz y cerdo"
+                }
+            },
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {},
+            "drinks": {}
+        }
+    }
+}

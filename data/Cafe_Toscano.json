@@ -1,0 +1,243 @@
+{
+    "name": "Cafe Toscano",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "",
+        "telephone_number": []
+    },
+    "location": {
+        "municipality": "San Miguel del Padron",
+        "direction": "",
+        "coordinates": "23.071921855036393, -82.30693802209433"
+    },
+    "valoration": {
+        "quality": "",
+        "google": null,
+        "cant_g": null,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": 12,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": 2
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "08:00",
+            "tue": "08:00",
+            "wed": "08:00",
+            "thu": "08:00",
+            "fri": "08:00",
+            "sat": "08:00",
+            "sun": "08:00"
+        },
+        "close": {
+            "mon": "22:00",
+            "tue": "22:00",
+            "wed": "22:00",
+            "thu": "22:00",
+            "fri": "22:00",
+            "sat": "22:00",
+            "sun": "22:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": true,
+        "delibery_m": false,
+        "generator": null,
+        "wifi": null,
+        "parking": null,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": null
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "tostones_rellenos": {
+                    "price": 250,
+                    "type": "tostones",
+                    "principal_ingredient": "plátano"
+                },
+                "tostones": {
+                    "price": 150,
+                    "type": "tostones",
+                    "principal_ingredient": "plátano"
+                },
+                "platano": {
+                    "price": 100,
+                    "type": "tostones",
+                    "principal_ingredient": "plátano"
+                }
+            },
+            "main": {
+                "pollo_chiflado": {
+                    "price": 400,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_especial": {
+                    "price": 1000,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                }
+            },
+            "fittings": {},
+            "pastas": {
+                "espaguetti": {
+                    "price": 330,
+                    "type": "napolitana",
+                    "principal_ingredient": "espaguetti"
+                },
+                "espaguetti_con_queso_gouda": {
+                    "price": 400,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                }
+            },
+            "pizzas": {
+                "pizza_napolitana": {
+                    "price": 17,
+                    "type": "napolitana",
+                    "principal_ingredient": "tomate"
+                },
+                "pizza_doble_de_queso": {
+                    "price": 250,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "pizza_hawaiana": {
+                    "price": 290,
+                    "type": "hawaiana",
+                    "principal_ingredient": "piña"
+                },
+                "pizza_gouda": {
+                    "price": 250,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                },
+                "pizza_cubana": {
+                    "price": 320,
+                    "type": "cubana",
+                    "principal_ingredient": "jamón"
+                },
+                "pizza_grande_napolitana": {
+                    "price": 550,
+                    "type": "napolitana",
+                    "principal_ingredient": "tomate"
+                },
+                "pizza_grande_doble_de_queso": {
+                    "price": 790,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "pizza_grande_gouda": {
+                    "price": 940,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                }
+            },
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "agua": {
+                        "price": 100,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "refresco": {
+                        "price": 150,
+                        "type": "refresco",
+                        "principal_ingredient": "azúcar"
+                    },
+                    "jugo": {
+                        "price": 150,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas"
+                    },
+                    "energizante": {
+                        "price": 200,
+                        "type": "energizante",
+                        "principal_ingredient": "cafeína"
+                    }
+                },
+                "cafes": {
+                    "cortado": {
+                        "price": 200,
+                        "type": "cortado",
+                        "principal_ingredient": "café"
+                    }
+                },
+                "alcoholics": {
+                    "cerveza": {
+                        "price": 150,
+                        "type": "cerveza",
+                        "principal_ingredient": "malta"
+                    },
+                    "vodka": {
+                        "price": 300,
+                        "type": "vodka",
+                        "principal_ingredient": "patata"
+                    },
+                    "ron": {
+                        "price": 250,
+                        "type": "ron",
+                        "principal_ingredient": "caña de azúcar"
+                    },
+                    "coctel": {
+                        "price": 350,
+                        "type": "coctel",
+                        "principal_ingredient": "varios ingredientes"
+                    }
+                }
+            }
+        }
+    }
+}

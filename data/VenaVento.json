@@ -1,0 +1,498 @@
+{
+    "name": "VenaVento",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.facebook.com/venaventohav/?locale=es_LA",
+        "facebook": "https://www.facebook.com/venaventohav/?locale=es_LA",
+        "telephone_number": ["52743762"]
+    },
+    "location": {
+        "municipality": "Boyeros",
+        "direction": "Calle 10, esq. Vento, Boyeros",
+        "coordinates": "23.06526430989165, -82.39717756810376"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": 3.7,
+        "cant_g": 20,
+        "web": 4.1,
+        "cant_w": 34,
+        "tripadvisor": 4.0,
+        "cant_t": 15
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["criolla", "internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": false,
+        "parking": true,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "ensalada_tibia_de_langosta": {
+                    "price": 1600,
+                    "type": "ensalada",
+                    "principal_ingredient": "langosta"
+                },
+                "tabla_iberica_mix": {
+                    "price": 3600,
+                    "type": "embutido",
+                    "principal_ingredient": "jamon"
+                },
+                "tabla_iberica": {
+                    "price": 2600,
+                    "type": "embutido",
+                    "principal_ingredient": "jamon"
+                },
+                "coctel_de_gambas": {
+                    "price": 1300,
+                    "type": "coctel marisco",
+                    "principal_ingredient": "gambas"
+                },
+                "coctel_de_anzuelos": {
+                    "price": 1300,
+                    "type": "coctel marisco",
+                    "principal_ingredient": "mariscos"
+                },
+                "ensalada_caprese": {
+                    "price": 1250,
+                    "type": "ensalada",
+                    "principal_ingredient": "tomate"
+                },
+                "ensalada_cesar": {
+                    "price": 1250,
+                    "type": "ensalada",
+                    "principal_ingredient": "lechuga"
+                }
+            },
+            "main": {
+                "salmon_a_la_parrilla": {
+                    "price": 4500,
+                    "type": "pescado",
+                    "principal_ingredient": "salmon"
+                },
+                "vacio_veraniento": {
+                    "price": 6600,
+                    "type": "carne",
+                    "principal_ingredient": "vacío"
+                },
+                "grillada_de_fruta_de_mar": {
+                    "price": 7600,
+                    "type": "mariscos",
+                    "principal_ingredient": "mariscos"
+                },
+                "mar_y_tierra_pax_1": {
+                    "price": 4000,
+                    "type": "carne_y_mariscos",
+                    "principal_ingredient": "mixto"
+                },
+                "langosta_mariscossa": {
+                    "price": 3600,
+                    "type": "langosta",
+                    "principal_ingredient": "langosta"
+                },
+                "pollo_grille": {
+                    "price": 1600,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "brocheta_de_pollo": {
+                    "price": 2020,
+                    "type": "brocheta",
+                    "principal_ingredient": "pollo"
+                },
+                "brocheta_de_cerdo": {
+                    "price": 2170,
+                    "type": "brocheta",
+                    "principal_ingredient": "cerdo"
+                },
+                "brocheta_mixta_de_carne": {
+                    "price": 2220,
+                    "type": "brocheta",
+                    "principal_ingredient": "carne_mixta"
+                },
+                "brocheta_de_langosta": {
+                    "price": 2700,
+                    "type": "brocheta",
+                    "principal_ingredient": "langosta"
+                },
+                "paella_de_mariscos_pax_1": {
+                    "price": 2770,
+                    "type": "paella",
+                    "principal_ingredient": "mariscos"
+                },
+                "paella_de_mariscos_pax_2": {
+                    "price": 4600,
+                    "type": "paella",
+                    "principal_ingredient": "mariscos"
+                },
+                "paella_mixta_pax_1": {
+                    "price": 2800,
+                    "type": "paella",
+                    "principal_ingredient": "mixto"
+                },
+                "paella_mixta_pax_2": {
+                    "price": 4800,
+                    "type": "paella",
+                    "principal_ingredient": "mixto"
+                },
+                "paella_de_carne_pax_1": {
+                    "price": 2600,
+                    "type": "paella",
+                    "principal_ingredient": "carne"
+                },
+                "paella_de_carne_pax_2": {
+                    "price": 4400,
+                    "type": "paella",
+                    "principal_ingredient": "carne"
+                },
+                "arroz_negro_pax_2": {
+                    "price": 5500,
+                    "type": "arroz",
+                    "principal_ingredient": "calamar"
+                },
+                "arroz_rijo": {
+                    "price": 2300,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "suprema_de_pollo": {
+                    "price": 2500,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_al_carbon": {
+                    "price": 1850,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "salmon_al_ajillo": {
+                    "price": 3500,
+                    "type": "pescado",
+                    "principal_ingredient": "salmon"
+                },
+                "salmon_de_cerdo": {
+                    "price": 3800,
+                    "type": "carne",
+                    "principal_ingredient": "cerdo"
+                },
+                "cachopo_de_cerdo": {
+                    "price": 2600,
+                    "type": "carne",
+                    "principal_ingredient": "cerdo"
+                },
+                "cochino_al_jugoso": {
+                    "price": 2420,
+                    "type": "carne",
+                    "principal_ingredient": "cerdo"
+                },
+                "filete_de_pescado_montadoro": {
+                    "price": 2620,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "filete_de_pescado_carriller": {
+                    "price": 2770,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "filete_de_pescado_don_pello": {
+                    "price": 2770,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "filete_de_pescado_flor_blue": {
+                    "price": 2800,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "cacerola_de_pescado_y_marisco": {
+                    "price": 3500,
+                    "type": "pescado_y_mariscos",
+                    "principal_ingredient": "mixto"
+                },
+                "zarzuela_de_pescado_y_mariscos": {
+                    "price": 3500,
+                    "type": "pescado_y_mariscos",
+                    "principal_ingredient": "mixto"
+                },
+                "camarones_al_gusto": {
+                    "price": 3500,
+                    "type": "camarones",
+                    "principal_ingredient": "camarones"
+                },
+                "congrejo_enchilado": {
+                    "price": 3000,
+                    "type": "crustaceo",
+                    "principal_ingredient": "cangrejo"
+                },
+                "langosta_enchilada": {
+                    "price": 3100,
+                    "type": "langosta",
+                    "principal_ingredient": "langosta"
+                },
+                "langosta_batabano": {
+                    "price": 3300,
+                    "type": "langosta",
+                    "principal_ingredient": "langosta"
+                }
+            },
+            "fittings": {
+                "ensalada_estacion": {
+                    "price": 750,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                },
+                "arroz_blanco": {
+                    "price": 580,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "frijoles_de_la_casa": {
+                    "price": 800,
+                    "type": "frijoles",
+                    "principal_ingredient": "frijoles"
+                },
+                "ensalada_de_tomate": {
+                    "price": 1000,
+                    "type": "ensalada",
+                    "principal_ingredient": "tomate"
+                },
+                "moros_y_cristianos": {
+                    "price": 800,
+                    "type": "arroz",
+                    "principal_ingredient": "frijoles_y_arroz"
+                },
+                "fufuce_platano": {
+                    "price": 1200,
+                    "type": "fufu",
+                    "principal_ingredient": "platano"
+                },
+                "pure_de_papa": {
+                    "price": 1500,
+                    "type": "pure",
+                    "principal_ingredient": "papa"
+                }
+            },
+            "pastas": {
+                "pasto_veranennto": {
+                    "price": 2600,
+                    "type": "pasta",
+                    "principal_ingredient": "vegetales"
+                },
+                "pasta_carbonara": {
+                    "price": 2500,
+                    "type": "carbonara",
+                    "principal_ingredient": "tocino"
+                },
+                "fruti_de_mare": {
+                    "price": 3200,
+                    "type": "marisco",
+                    "principal_ingredient": "mariscos"
+                },
+                "nero_di_sejia": {
+                    "price": 3000,
+                    "type": "pasta",
+                    "principal_ingredient": "calamar"
+                }
+            },
+            "pizzas": {},
+            "additions": {},
+            "dessert": {
+                "copa_de_helado": {
+                    "price": 500,
+                    "type": "helado",
+                    "principal_ingredient": "leche"
+                },
+                "crema_volia": {
+                    "price": 850,
+                    "type": "crema",
+                    "principal_ingredient": "leche"
+                },
+                "flan_de_caramelo": {
+                    "price": 750,
+                    "type": "flan",
+                    "principal_ingredient": "huevo"
+                },
+                "quesadillas": {
+                    "price": 1200,
+                    "type": "dulce",
+                    "principal_ingredient": "queso"
+                },
+                "tacos_de_camaron": {
+                    "price": 1800,
+                    "type": "taco",
+                    "principal_ingredient": "camaron"
+                },
+                "tostones_de_cangrejo": {
+                    "price": 1650,
+                    "type": "toston",
+                    "principal_ingredient": "cangrejo"
+                },
+                "tortillas_rellenas": {
+                    "price": 1500,
+                    "type": "tortilla",
+                    "principal_ingredient": "masa"
+                },
+                "frutas_de_malanga": {
+                    "price": 1400,
+                    "type": "malanga",
+                    "principal_ingredient": "malanga"
+                },
+                "flanada": {
+                    "price": 1000,
+                    "type": "flan",
+                    "principal_ingredient": "huevo"
+                },
+                "garanitos_fritos": {
+                    "price": 1500,
+                    "type": "dulce",
+                    "principal_ingredient": "masa"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "aguas_naturales": {
+                        "price": 400,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "batido_de_frutas": {
+                        "price": 500,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas"
+                    },
+                    "san_francisco": {
+                        "price": 850,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas"
+                    },
+                    "jarra": {
+                        "price": 900,
+                        "type": "refresco",
+                        "principal_ingredient": "carbonatada"
+                    },
+                    "refresco": {
+                        "price": 300,
+                        "type": "refresco",
+                        "principal_ingredient": "carbonatada"
+                    },
+                    "energizante_tacon": {
+                        "price": 480,
+                        "type": "energizante",
+                        "principal_ingredient": "cafeina"
+                    }
+                },
+                "cafes": {
+                    "cafe_expresso": {
+                        "price": 200,
+                        "type": "expreso",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_nespreso": {
+                        "price": 220,
+                        "type": "nespresso",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_cortadito": {
+                        "price": 280,
+                        "type": "cortado",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_con_leche": {
+                        "price": 280,
+                        "type": "con leche",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_frappucino": {
+                        "price": 400,
+                        "type": "frapuchino",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_amaretto": {
+                        "price": 550,
+                        "type": "amaretto",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_espanol": {
+                        "price": 500,
+                        "type": "espanol",
+                        "principal_ingredient": "cafe"
+                    }
+                },
+                "alcoholics": {}
+            }
+        }
+    }
+}

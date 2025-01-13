@@ -1,0 +1,236 @@
+{
+    "name": "VanVaneando",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/p/Cafeter%C3%ADa-vanvaniando-100063914297784/?locale=cx_PH",
+        "telephone_number": []
+    },
+    "location": {
+        "municipality": "Diez de Octubre",
+        "direction": "Calzada Diez de Octubre esquina a Santa Catalina, Víbora, Diez de Octubre",
+        "coordinates": "23.093464767386404, -82.36337762209634"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": 3.0,
+        "cant_g": 3,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": 20,
+        "areas": {
+            "inside": true,
+            "outside": false,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": 10
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "10:00",
+            "tue": "10:00",
+            "wed": "10:00",
+            "thu": "10:00",
+            "fri": "10:00",
+            "sat": "10:00",
+            "sun": "10:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": 70,
+            "local": 30
+        },
+        "ecological": false
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": false,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "bocadito": {
+                    "price": 200.0,
+                    "type": "bocadito",
+                    "principal_ingredient": "queso"
+                },
+                "bocadito_chorizo": {
+                    "price": 250.0,
+                    "type": "bocadito",
+                    "principal_ingredient": "queso"
+                },
+                "bocadito_atun": {
+                    "price": 500.0,
+                    "type": "bocadito",
+                    "principal_ingredient": "queso"
+                }
+            },
+            "starters": {
+                "croquetas": {
+                    "price": 500.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "mixto"
+                },
+                "bolitas": {
+                    "price": 500.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "jamón y queso"
+                },
+
+                "albondigas": {
+                    "price": 500.0,
+                    "type": "albondiga",
+                    "principal_ingredient": "albóndigas"
+                },
+                "chicharritas": {
+                    "price": 350.0,
+                    "type": "fritura",
+                    "principal_ingredient": "plátano"
+                },
+                "papas_prefritas": {
+                    "price": 500.0,
+                    "type": "papas",
+                    "principal_ingredient": "papas"
+                }
+            },
+            "main": {
+                "arroz_frito": {
+                    "price": 700.0,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+
+                "lomo_deshuesado": {
+                    "price": 1500.0,
+                    "type": "lomo",
+                    "principal_ingredient": "res"
+                },
+                "pollo_frito": {
+                    "price": 1400.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                }
+            },
+            "fittings": {},
+            "pastas": {
+                "espaguetis": {
+                    "price": 280.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "pasta"
+                }
+            },
+            "pizzas": {
+                "pizza": {
+                    "price": 250.0,
+                    "type": "pizza",
+                    "principal_ingredient": "mixto"
+                }
+            },
+            "additions": {
+                "queso": {
+                    "price": 100.0,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "cebolla": {
+                    "price": 150.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                },
+                "jamon": {
+                    "price": 150.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                }
+            },
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "santa": {
+                        "price": 220.0,
+                        "type": "refresco",
+                        "principal_ingredient": "refresco"
+                    },
+                    "perla_negra": {
+                        "price": 250.0,
+                        "type": "malta",
+                        "principal_ingredient": "malta"
+                    },
+                    "goliath": {
+                        "price": 650.0,
+                        "type": "jugo",
+                        "principal_ingredient": "fruta"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "hollandia": {
+                        "price": 220.0,
+                        "type": "cerveza importada",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "cristal": {
+                        "price": 260.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "bucanero": {
+                        "price": 260.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    }
+                }
+            }
+        }
+    }
+}

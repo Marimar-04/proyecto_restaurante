@@ -1,0 +1,250 @@
+{
+    "name": "Los Doce Apostoles",
+    "sector": "estatal",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/p/Restaurante-Doce-Apostoles-100064256432610/?locale=es_LA",
+        "telephone_number": ["77937733"]
+    },
+    "location": {
+        "municipality": "Habana del Este",
+        "direction": "Complejo Morro Cabana,Via Monumental",
+        "coordinates": "23.149909863969217, -82.35548437180857"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": 3.7,
+        "cant_g": 45,
+        "web": 5.0,
+        "cant_w": 1,
+        "tripadvisor": 3.5,
+        "cant_t": 27
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["internacional", "criolla"],
+        "capacity": 60,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": null,
+        "wifi": false,
+        "parking": true,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": null
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "entremes_de_jamon_y_queso": {
+                    "price": 400,
+                    "type": "entremes",
+                    "principal_ingredient": "jamon y queso"
+                },
+                "eperlan_de_pescado": {
+                    "price": 550,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "anillas_de_calamar": {
+                    "price": 550,
+                    "type": "calamar",
+                    "principal_ingredient": "calamar"
+                },
+                "alitas_de_pollo": {
+                    "price": 450,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "nuggets_de_pollo": {
+                    "price": 250,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "picadera_especial": {
+                    "price": 600,
+                    "type": "picadera",
+                    "principal_ingredient": "mixto"
+                }
+            },
+            "main": {
+                "pollo_grille": {
+                    "price": 700,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "fajitas_de_res": {
+                    "price": 950,
+                    "type": "res",
+                    "principal_ingredient": "res"
+                },
+                "steak_de_res": {
+                    "price": 950,
+                    "type": "bistec",
+                    "principal_ingredient": "res"
+                },
+                "fajitas_de_cerdo": {
+                    "price": 800,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "masas_de_cerdo": {
+                    "price": 900,
+                    "type": "masas",
+                    "principal_ingredient": "cerdo"
+                },
+                "filete_de_pescado": {
+                    "price": 900,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "pescado_del_chef": {
+                    "price": 1100,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "gambas_al_grill": {
+                    "price": 1200,
+                    "type": "gambas",
+                    "principal_ingredient": "gambas"
+                }
+            },
+            "fittings": {},
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "jugo_natural_en_caja": {
+                        "price": 300,
+                        "type": "jugo",
+                        "principal_ingredient": "fruta"
+                    },
+                    "refrescos_nacionales": {
+                        "price": 280,
+                        "type": "refresco",
+                        "principal_ingredient": "carbonatado"
+                    },
+                    "maltas": {
+                        "price": 210,
+                        "type": "malta",
+                        "principal_ingredient": "malta"
+                    },
+                    "maltina_perla_negra": {
+                        "price": 180,
+                        "type": "malta",
+                        "principal_ingredient": "malta"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "cerveza_dispensada": {
+                        "price": 190,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    },
+                    "cerveza_importada": {
+                        "price": 220,
+                        "type": "cerveza importada",
+                        "principal_ingredient": "cebada"
+                    },
+                    "cerveza_nacional": {
+                        "price": 215,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    },
+                    "vino_tinto_copa": {
+                        "price": 200,
+                        "type": "vino",
+                        "principal_ingredient": "uva"
+                    },
+                    "ron_habana_club_anejo_blanco_shot": {
+                        "price": 80,
+                        "type": "ron",
+                        "principal_ingredient": "caña"
+                    },
+                    "ron_habana_club_profundo_shot": {
+                        "price": 160,
+                        "type": "ron",
+                        "principal_ingredient": "caña"
+                    },
+                    "ron_habana_club_seleccion_de_maestro_shot": {
+                        "price": 350,
+                        "type": "ron",
+                        "principal_ingredient": "caña"
+                    },
+                    "ron_cubay_carta_blanca_shot": {
+                        "price": 100,
+                        "type": "ron",
+                        "principal_ingredient": "caña"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,238 @@
+{
+    "name": "Bar Colina",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "",
+        "telephone_number": []
+    },
+    "location": {
+        "municipality": "San Miguel del Padron",
+        "direction": "esquina b y calzada de guines reparto merceditas",
+        "coordinates": ""
+    },
+    "valoration": {
+        "quality": "",
+        "google": null,
+        "cant_g": null,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": 200,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": 6
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "11:00",
+            "tue": "11:00",
+            "wed": "11:00",
+            "thu": "11:00",
+            "fri": "11:00",
+            "sat": "11:00",
+            "sun": "11:00"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": null,
+        "delibery_m": false,
+        "generator": null,
+        "wifi": null,
+        "parking": null,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": null
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "entremes_de_jamon_y_queso": {
+                    "price": 600,
+                    "type": "entremes",
+                    "principal_ingredient": "jamón y queso"
+                },
+                "croquetas": {
+                    "price": 400,
+                    "type": "croqueta",
+                    "principal_ingredient": "bechamel y jamón"
+                },
+                "frituras_de_malanga": {
+                    "price": 550,
+                    "type": "fritura",
+                    "principal_ingredient": "malanga"
+                },
+                "tostones": {
+                    "price": 400,
+                    "type": "tostones",
+                    "principal_ingredient": "plátano verde"
+                },
+                "tostones_rellenos": {
+                    "price": 600,
+                    "type": "tostones",
+                    "principal_ingredient": "plátano verde y carne"
+                },
+                "chicharrita": {
+                    "price": 300,
+                    "type": "chicharrita",
+                    "principal_ingredient": "cerdo"
+                }
+            },
+            "main": {},
+            "fittings": {},
+            "pastas": {
+                "espaguetti_napolitano": {
+                    "price": 550,
+                    "type": "napolitana",
+                    "principal_ingredient": "tomate y pasta"
+                }
+            },
+            "pizzas": {
+                "pizza_napolitana_grande": {
+                    "price": 650,
+                    "type": "napolitana",
+                    "principal_ingredient": "tomate, mozzarella y albahaca"
+                },
+                "pizza_napolitana": {
+                    "price": 220,
+                    "type": "napolitana",
+                    "principal_ingredient": "tomate, mozzarella y albahaca"
+                }
+            },
+            "additions": {
+                "queso": {
+                    "price": 200,
+                    "type": "adición",
+                    "principal_ingredient": "queso"
+                },
+                "chorizo": {
+                    "price": 300,
+                    "type": "adición",
+                    "principal_ingredient": "chorizo"
+                },
+                "jamon": {
+                    "price": 300,
+                    "type": "adición",
+                    "principal_ingredient": "jamón"
+                },
+                "pina": {
+                    "price": 150,
+                    "type": "adición",
+                    "principal_ingredient": "piña"
+                }
+            },
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "agua": {
+                        "price": 100,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "refresco": {
+                        "price": 150,
+                        "type": "refresco",
+                        "principal_ingredient": "azúcar y gas"
+                    },
+                    "jugo": {
+                        "price": 180,
+                        "type": "jugo",
+                        "principal_ingredient": "fruta"
+                    },
+                    "energizante": {
+                        "price": 200,
+                        "type": "energizante",
+                        "principal_ingredient": "cafeína"
+                    }
+                },
+                "cafes": {
+                    "espresso": {
+                        "price": 150,
+                        "type": "espresso",
+                        "principal_ingredient": "café"
+                    },
+                    "cortado": {
+                        "price": 180,
+                        "type": "cortado",
+                        "principal_ingredient": "café y leche"
+                    }
+                },
+                "alcoholics": {
+                    "cerveza": {
+                        "price": 300,
+                        "type": "cerveza",
+                        "principal_ingredient": "malta"
+                    },
+                    "vodka": {
+                        "price": 350,
+                        "type": "vodka",
+                        "principal_ingredient": "patata"
+                    },
+                    "ron": {
+                        "price": 400,
+                        "type": "ron",
+                        "principal_ingredient": "caña de azúcar"
+                    },
+                    "coctel": {
+                        "price": 500,
+                        "type": "coctel",
+                        "principal_ingredient": "mezcla de licor"
+                    }
+                }
+            }
+        }
+    }
+}

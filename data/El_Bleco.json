@@ -1,0 +1,467 @@
+{
+    "name": "El Bleco",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/blecohavana/?hl=es",
+        "facebook": "https://www.facebook.com/blecohavana/",
+        "telephone_number": ["50139808"]
+    },
+    "location": {
+        "municipality": "Centro Habana",
+        "direction": "Calle Marina e/ Vapor y Hornos, Centro Habana, Cuba 10200",
+        "coordinates": "23.14144964915611, -82.37338812396453"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.5,
+        "cant_g": 190,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": 4.5,
+        "cant_t": 906
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "13:00",
+            "tue": "13:00",
+            "wed": "13:00",
+            "thu": "13:00",
+            "fri": "13:00",
+            "sat": "13:00",
+            "sun": "13:00"
+        },
+        "close": {
+            "mon": "02:00",
+            "tue": "02:00",
+            "wed": "02:00",
+            "thu": "02:00",
+            "fri": "02:00",
+            "sat": "02:00",
+            "sun": "02:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": true,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": null,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "frituras_de_malanga": {
+                    "price": 750,
+                    "type": "fritura",
+                    "principal_ingredient": "malanga"
+                },
+                "croquetas_mixtas": {
+                    "price": 1050,
+                    "type": "croqueta",
+                    "principal_ingredient": "mixto"
+                },
+                "palitos_de_queso": {
+                    "price": 1100,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "tacos_de_cerdo": {
+                    "price": 1550,
+                    "type": "taco",
+                    "principal_ingredient": "cerdo"
+                },
+                "tacos_de_cerdo_ahumado": {
+                    "price": 1750,
+                    "type": "taco",
+                    "principal_ingredient": "cerdo ahumado"
+                },
+                "tacos_de_pollo": {
+                    "price": 1450,
+                    "type": "taco",
+                    "principal_ingredient": "pollo"
+                },
+                "nachos_de_salsa_de_queso": {
+                    "price": 900,
+                    "type": "nachos",
+                    "principal_ingredient": "queso"
+                },
+                "nachos_con_pollo_a_la_barbacoa": {
+                    "price": 1450,
+                    "type": "nachos",
+                    "principal_ingredient": "pollo"
+                },
+                "alitas_de_pollo_a_la_barbacoa": {
+                    "price": 1350,
+                    "type": "alitas",
+                    "principal_ingredient": "pollo"
+                },
+                "crostini_mixto": {
+                    "price": 950,
+                    "type": "crostini",
+                    "principal_ingredient": "mixto"
+                },
+                "torrejas_saladas_con_cerdo_ahumado": {
+                    "price": 1050,
+                    "type": "torrejas",
+                    "principal_ingredient": "cerdo ahumado"
+                },
+                "quesadillas_de_jamon_pierna": {
+                    "price": 1650,
+                    "type": "quesadilla",
+                    "principal_ingredient": "jamón"
+                }
+            },
+            "main": {
+                "bistec_a_la_plancha": {
+                    "price": 2000,
+                    "type": "bistec",
+                    "principal_ingredient": "res"
+                },
+                "pollo_frito": {
+                    "price": 1500,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "fajita_de_pechuga_de_pollo": {
+                    "price": 2500,
+                    "type": "fajita",
+                    "principal_ingredient": "pollo"
+                }
+            },
+            "fittings": {},
+            "pastas": {},
+            "pizzas": {
+                "pizza_de_queso": {
+                    "price": 1250,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "pizza_de_jamon": {
+                    "price": 1450,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "pizza_de_chorizo": {
+                    "price": 1450,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                }
+            },
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "agua_natural": {
+                        "price": 250,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "santa_cola": {
+                        "price": 350,
+                        "type": "refresco",
+                        "principal_ingredient": "cola"
+                    },
+                    "santa_limon": {
+                        "price": 350,
+                        "type": "refresco",
+                        "principal_ingredient": "limón"
+                    },
+                    "santa_naranja": {
+                        "price": 350,
+                        "type": "refresco",
+                        "principal_ingredient": "naranja"
+                    },
+                    "energizante": {
+                        "price": 500,
+                        "type": "energizante",
+                        "principal_ingredient": "energizante"
+                    }
+                },
+                "cafes": {
+                    "cafe_expreso": {
+                        "price": 250,
+                        "type": "espresso",
+                        "principal_ingredient": "café"
+                    },
+                    "cafe_capuccino": {
+                        "price": 400,
+                        "type": "capuccino",
+                        "principal_ingredient": "café"
+                    },
+                    "cafe_cortadito": {
+                        "price": 300,
+                        "type": "cortado",
+                        "principal_ingredient": "café"
+                    }
+                },
+                "alcoholics": {
+                    "caipirisima": {
+                        "price": 650,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "canchanchara": {
+                        "price": 650,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "caipiroska": {
+                        "price": 650,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "caipiriña": {
+                        "price": 650,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "mojito": {
+                        "price": 650,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "cuba_libre": {
+                        "price": 650,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "sangria": {
+                        "price": 650,
+                        "type": "coctel",
+                        "principal_ingredient": "vino"
+                    },
+                    "margarita": {
+                        "price": 600,
+                        "type": "coctel",
+                        "principal_ingredient": "tequila"
+                    },
+                    "piña_colada": {
+                        "price": 650,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "old_fashion": {
+                        "price": 750,
+                        "type": "coctel",
+                        "principal_ingredient": "whisky"
+                    },
+                    "laguna_azul": {
+                        "price": 650,
+                        "type": "coctel",
+                        "principal_ingredient": "licor"
+                    },
+                    "tr_reserva": {
+                        "price": 300,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "tr_barcelo_dorado": {
+                        "price": 400,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "tr_barcelo_anejo": {
+                        "price": 450,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "tr_ritual": {
+                        "price": 300,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "tr_anejo_especial": {
+                        "price": 300,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "tr_vat_69": {
+                        "price": 500,
+                        "type": "whisky",
+                        "principal_ingredient": "whisky"
+                    },
+                    "tr_black_white": {
+                        "price": 600,
+                        "type": "whisky",
+                        "principal_ingredient": "whisky"
+                    },
+                    "tr_jw_black": {
+                        "price": 1500,
+                        "type": "whisky",
+                        "principal_ingredient": "whisky"
+                    },
+                    "tr_jw_red": {
+                        "price": 1100,
+                        "type": "whisky",
+                        "principal_ingredient": "whisky"
+                    },
+                    "tr_ballantines": {
+                        "price": 1000,
+                        "type": "whisky",
+                        "principal_ingredient": "whisky"
+                    },
+                    "tr_doble_black": {
+                        "price": 1800,
+                        "type": "whisky",
+                        "principal_ingredient": "whisky"
+                    },
+                    "gin_master": {
+                        "price": 650,
+                        "type": "ginebra",
+                        "principal_ingredient": "ginebra"
+                    },
+                    "gin_master_pink": {
+                        "price": 650,
+                        "type": "ginebra",
+                        "principal_ingredient": "ginebra"
+                    },
+                    "gin_tanqueray": {
+                        "price": 650,
+                        "type": "ginebra",
+                        "principal_ingredient": "ginebra"
+                    },
+                    "gin_beefarer": {
+                        "price": 550,
+                        "type": "ginebra",
+                        "principal_ingredient": "ginebra"
+                    },
+                    "gin_johpur_reserva": {
+                        "price": 900,
+                        "type": "ginebra",
+                        "principal_ingredient": "ginebra"
+                    },
+                    "vodka_tonic": {
+                        "price": 500,
+                        "type": "vodka",
+                        "principal_ingredient": "vodka"
+                    },
+                    "tr_ciroc": {
+                        "price": 1000,
+                        "type": "vodka",
+                        "principal_ingredient": "vodka"
+                    },
+                    "tr_ciroc_coco": {
+                        "price": 1000,
+                        "type": "vodka",
+                        "principal_ingredient": "vodka"
+                    },
+                    "tr_finlandia": {
+                        "price": 600,
+                        "type": "vodka",
+                        "principal_ingredient": "vodka"
+                    },
+                    "czech_driver": {
+                        "price": 750,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "tequila_de_la_casa": {
+                        "price": 400,
+                        "type": "tequila",
+                        "principal_ingredient": "tequila"
+                    },
+                    "licores_baileys": {
+                        "price": 800,
+                        "type": "licor",
+                        "principal_ingredient": "crema de whisky"
+                    },
+                    "licores_jagermeister": {
+                        "price": 450,
+                        "type": "licor",
+                        "principal_ingredient": "hierbas"
+                    },
+                    "licores_jaeger": {
+                        "price": 800,
+                        "type": "licor",
+                        "principal_ingredient": "hierbas"
+                    },
+                    "copa_de_vino": {
+                        "price": 500,
+                        "type": "vino",
+                        "principal_ingredient": "uva"
+                    },
+                    "cristal_lata": {
+                        "price": 350,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "bucanero_lata": {
+                        "price": 350,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "cristal_botella": {
+                        "price": 500,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "bucanero_botella": {
+                        "price": 500,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "hollandia": {
+                        "price": 300,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "unlaguer": {
+                        "price": 330,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,394 @@
+{
+    "name": "MM",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "",
+        "telephone_number": ["72611382"]
+    },
+    "location": {
+        "municipality": "Marianao",
+        "direction": "",
+        "coordinates": ""
+    },
+    "valoration": {
+        "quality": "",
+        "google": null,
+        "cant_g": null,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "09:00",
+            "tue": "09:00",
+            "wed": "09:00",
+            "thu": "09:00",
+            "fri": "09:00",
+            "sat": "09:00",
+            "sun": "09:00"
+        },
+        "close": {
+            "mon": "22:00",
+            "tue": "22:00",
+            "wed": "22:00",
+            "thu": "22:00",
+            "fri": "22:00",
+            "sat": "22:00",
+            "sun": "22:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": true,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": null,
+        "generator": null,
+        "wifi": false,
+        "parking": false,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {
+                "egg": {
+                    "price": null,
+                    "type": "egg",
+                    "principal_ingredient": "egg"
+                },
+                "tortilla": {
+                    "price": null,
+                    "type": "tortilla",
+                    "principal_ingredient": "egg"
+                },
+                "hamburguesa_clasica": {
+                    "price": 400,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "beef"
+                },
+                "hamburguesa_de_queso": {
+                    "price": 600,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cheese"
+                },
+                "hamburguesa_de_jamon": {
+                    "price": 550,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "ham"
+                },
+                "hamburguesas_jamon_y_queso": {
+                    "price": 700,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "ham and cheese"
+                },
+                "sandwich": {
+                    "price": null,
+                    "type": "sandwich",
+                    "principal_ingredient": "varied"
+                },
+                "bread": {
+                    "price": null,
+                    "type": "bread",
+                    "principal_ingredient": "flour"
+                }
+            },
+            "breads": {},
+            "starters": {
+                "papas_fritas": {
+                    "price": 650,
+                    "type": "fritas",
+                    "principal_ingredient": "potato"
+                },
+                "croquetas": {
+                    "price": 550,
+                    "type": "croqueta",
+                    "principal_ingredient": "ham"
+                },
+                "fritura_de_malanga": {
+                    "price": 550,
+                    "type": "fritura",
+                    "principal_ingredient": "malanga"
+                },
+                "tostones_rellenos": {
+                    "price": 650,
+                    "type": "tostones",
+                    "principal_ingredient": "plantain"
+                },
+                "ensalada_fria_de_jamon": {
+                    "price": 800,
+                    "type": "ensalada",
+                    "principal_ingredient": "ham"
+                },
+                "ensalada_fria_de_atun": {
+                    "price": 900,
+                    "type": "ensalada",
+                    "principal_ingredient": "tuna"
+                },
+                "fajitas_de_pechuga_salteada": {
+                    "price": 1200,
+                    "type": "fajitas",
+                    "principal_ingredient": "chicken"
+                },
+                "fajitas_de_pechuga_empanada": {
+                    "price": 1450,
+                    "type": "fajitas",
+                    "principal_ingredient": "chicken"
+                },
+                "fajitas_de_cerdo_salteadas": {
+                    "price": 1300,
+                    "type": "fajitas",
+                    "principal_ingredient": "pork"
+                },
+                "fajitas_de_cerdo_empanada": {
+                    "price": 1350,
+                    "type": "fajitas",
+                    "principal_ingredient": "pork"
+                },
+                "eperlan": {
+                    "price": 1350,
+                    "type": "aperitivo",
+                    "principal_ingredient": "fish"
+                },
+                "coctel_de_camarones": {
+                    "price": 2100,
+                    "type": "coctel",
+                    "principal_ingredient": "shrimp"
+                }
+            },
+            "main": {
+                "taco_de_cerdo": {
+                    "price": 1200,
+                    "type": "taco",
+                    "principal_ingredient": "pork"
+                },
+                "taco_de_camaron": {
+                    "price": 1400,
+                    "type": "taco",
+                    "principal_ingredient": "shrimp"
+                },
+                "taco_de_pollo": {
+                    "price": 1100,
+                    "type": "taco",
+                    "principal_ingredient": "chicken"
+                },
+                "taco_de_res": {
+                    "price": 1300,
+                    "type": "taco",
+                    "principal_ingredient": "beef"
+                }
+            },
+            "fittings": {},
+            "pastas": {
+                "crema_de_queso": {
+                    "price": 800,
+                    "type": "queso",
+                    "principal_ingredient": "cheese"
+                },
+                "lasagna_bolonesa": {
+                    "price": 1700,
+                    "type": "bolonesa",
+                    "principal_ingredient": "beef"
+                },
+                "espaguettis_napolitano": {
+                    "price": 700,
+                    "type": "napolitano",
+                    "principal_ingredient": "tomato"
+                }
+            },
+            "pizzas": {
+                "napolitanas_32_cm": {
+                    "price": 750,
+                    "type": "napolitana",
+                    "principal_ingredient": "tomato"
+                },
+                "jamon": {
+                    "price": 1100,
+                    "type": "jamon",
+                    "principal_ingredient": "ham"
+                },
+                "bacon": {
+                    "price": 1650,
+                    "type": "bacon",
+                    "principal_ingredient": "bacon"
+                },
+                "pimiento": {
+                    "price": 1050,
+                    "type": "pimiento",
+                    "principal_ingredient": "pepper"
+                },
+                "cebolla": {
+                    "price": 950,
+                    "type": "cebolla",
+                    "principal_ingredient": "onion"
+                },
+                "hawaiana": {
+                    "price": 1350,
+                    "type": "hawaiana",
+                    "principal_ingredient": "pineapple"
+                },
+                "atun": {
+                    "price": 1650,
+                    "type": "atun",
+                    "principal_ingredient": "tuna"
+                },
+                "camaron": {
+                    "price": 1350,
+                    "type": "camaron",
+                    "principal_ingredient": "shrimp"
+                },
+                "ropa_vieja": {
+                    "price": 1500,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "beef"
+                },
+                "de_chorizo": {
+                    "price": 1100,
+                    "type": "chorizo",
+                    "principal_ingredient": "chorizo"
+                },
+                "mm": {
+                    "price": 1800,
+                    "type": "mixta",
+                    "principal_ingredient": "varied"
+                }
+            },
+            "additions": {
+                "arroz_blanco": {
+                    "price": 200,
+                    "type": "arroz",
+                    "principal_ingredient": "rice"
+                },
+                "arroz_congri": {
+                    "price": 300,
+                    "type": "arroz",
+                    "principal_ingredient": "rice and beans"
+                },
+                "arroz_frito": {
+                    "price": 1550,
+                    "type": "arroz",
+                    "principal_ingredient": "fried rice"
+                },
+                "arroz_imperial": {
+                    "price": 1650,
+                    "type": "arroz",
+                    "principal_ingredient": "imperial rice"
+                },
+                "paella": {
+                    "price": 2100,
+                    "type": "paella",
+                    "principal_ingredient": "mixed seafood"
+                },
+                "arroz_frito_de_cerdo_pollo_mejillon": {
+                    "price": 1450,
+                    "type": "arroz",
+                    "principal_ingredient": "pork, chicken, and mussel"
+                }
+            },
+            "dessert": {
+                "helado_cid": {
+                    "price": 850,
+                    "type": "helado",
+                    "principal_ingredient": "milk"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "agua": {
+                        "price": 130,
+                        "type": "agua",
+                        "principal_ingredient": "water"
+                    },
+                    "refresco_santa": {
+                        "price": 200,
+                        "type": "refresco",
+                        "principal_ingredient": "soda"
+                    },
+                    "sprite": {
+                        "price": 450,
+                        "type": "refresco",
+                        "principal_ingredient": "soda"
+                    },
+                    "santa_isabel": {
+                        "price": 250,
+                        "type": "refresco",
+                        "principal_ingredient": "soda"
+                    },
+                    "energizante": {
+                        "price": 260,
+                        "type": "energizante",
+                        "principal_ingredient": "energy drink"
+                    },
+                    "cristal_v": {
+                        "price": 245,
+                        "type": "refresco",
+                        "principal_ingredient": "soda"
+                    },
+                    "cristal_b": {
+                        "price": 200,
+                        "type": "refresco",
+                        "principal_ingredient": "soda"
+                    },
+                    "bucanero": {
+                        "price": 240,
+                        "type": "cerveza",
+                        "principal_ingredient": "beer"
+                    },
+                    "jugo_lata": {
+                        "price": 265,
+                        "type": "jugo",
+                        "principal_ingredient": "juice"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

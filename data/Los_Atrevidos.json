@@ -1,0 +1,263 @@
+{
+    "name": "Pizzeria Los Atrevidos",
+    "sector": "privado",
+    "information": {
+        "website": "https://atrevidospizzeria.com/",
+        "instagram": "https://www.instagram.com/explore/locations/100657257954425/pizzeria-los-atrevidos/",
+        "facebook": "https://www.facebook.com/@pizzerialosatrevidos/",
+        "telephone_number": ["52966948", "76470313"]
+    },
+    "location": {
+        "municipality": "Arroyo Naranjo",
+        "direction": "Calzada de Bejucal # 2639 e/ Estrella y Camilo Sierra, Arroyo Naranjo",
+        "coordinates": "23.062552399154082, -82.36316855466865"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.4,
+        "cant_g": 42,
+        "web": 4.8,
+        "cant_w": 49,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["italiana"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": false,
+            "bar": false,
+            "bathroom": true,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "10:00",
+            "tue": "10:00",
+            "wed": "10:00",
+            "thu": "10:00",
+            "fri": "10:00",
+            "sat": "10:00",
+            "sun": "10:00"
+        },
+        "close": {
+            "mon": "21:00",
+            "tue": "21:00",
+            "wed": "21:00",
+            "thu": "21:00",
+            "fri": "21:00",
+            "sat": "21:00",
+            "sun": "21:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": true,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": false,
+        "parking": true,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": true,
+        "10%": false
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {},
+            "main": {},
+            "fittings": {},
+            "pastas": {
+                "lasana": {
+                    "price": 1100,
+                    "type": "napolitana",
+                    "principal_ingredient": "pasta"
+                },
+                "spaguetis_napolitanos": {
+                    "price": 1000,
+                    "type": "napolitana",
+                    "principal_ingredient": "salsa de tomate"
+                },
+                "spaguetis_d_parmesano": {
+                    "price": 1200,
+                    "type": "queso",
+                    "principal_ingredient": "queso parmesano"
+                },
+                "spaguetis_d_jamon": {
+                    "price": 1250,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "spaguetis_d_atun": {
+                    "price": 1350,
+                    "type": "atun",
+                    "principal_ingredient": "atún"
+                },
+                "spaguetis_d_chorizo": {
+                    "price": 1250,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "spaguetis_d_aceituna": {
+                    "price": 1300,
+                    "type": "vegetal",
+                    "principal_ingredient": "aceituna"
+                },
+                "spaguetis_d_cebolla": {
+                    "price": 1150,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                },
+                "spaguetis_hawaianos": {
+                    "price": 1300,
+                    "type": "hawaiana",
+                    "principal_ingredient": "piña"
+                },
+                "spaguetis_4_quesos": {
+                    "price": 1400,
+                    "type": "4 queso",
+                    "principal_ingredient": "quesos variados"
+                },
+                "spaguetis_atrevidos": {
+                    "price": 1050,
+                    "type": "napolitana",
+                    "principal_ingredient": "ingredientes mixtos"
+                },
+                "spaguetis_bolonesa": {
+                    "price": 1450,
+                    "type": "bolonesa",
+                    "principal_ingredient": "carne molida"
+                }
+            },
+            "pizzas": {
+                "pizza_napolitana": {
+                    "price": 1100,
+                    "type": "napolitana",
+                    "principal_ingredient": "salsa de tomate"
+                },
+                "pizza_d_cebolla": {
+                    "price": 1250,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                },
+                "pizza_d_champinones": {
+                    "price": 1300,
+                    "type": "vegetal",
+                    "principal_ingredient": "champiñones"
+                },
+                "pizza_d_pimiento": {
+                    "price": 1250,
+                    "type": "vegetal",
+                    "principal_ingredient": "pimientos"
+                },
+                "pizza_d_jamon": {
+                    "price": 1350,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "pizza_d_aceitunas": {
+                    "price": 1400,
+                    "type": "vegetal",
+                    "principal_ingredient": "aceitunas"
+                },
+                "pizza_d_chorizo": {
+                    "price": 1350,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "pizza_d_chorizo_vela": {
+                    "price": 1150,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo vela"
+                },
+                "pizza_hawaiana": {
+                    "price": 1400,
+                    "type": "hawaiana",
+                    "principal_ingredient": "piña"
+                },
+                "pizza_d_bacon": {
+                    "price": 1400,
+                    "type": "embutido",
+                    "principal_ingredient": "bacon"
+                },
+                "pizza_d_atun": {
+                    "price": 1500,
+                    "type": "atun",
+                    "principal_ingredient": "atún"
+                },
+                "pizza_bolonesa": {
+                    "price": 1600,
+                    "type": "bolonesa",
+                    "principal_ingredient": "carne molida"
+                },
+                "pizza_d_jamon_serrano": {
+                    "price": 1550,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón serrano"
+                },
+                "pizza_d_camarones": {
+                    "price": 1650,
+                    "type": "mariscos",
+                    "principal_ingredient": "camarones"
+                },
+                "pizza_4_quesos": {
+                    "price": 1500,
+                    "type": "4 queso",
+                    "principal_ingredient": "quesos variados"
+                },
+                "pizza_atrevida": {
+                    "price": 1800,
+                    "type": "mixto",
+                    "principal_ingredient": "ingredientes mixtos"
+                },
+                "pizza_jamon_pernia": {
+                    "price": 1500,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón pernia"
+                }
+            },
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {},
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

@@ -1,0 +1,251 @@
+{
+    "name": "2Kfe",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "",
+        "telephone_number": []
+    },
+    "location": {
+        "municipality": "Regla",
+        "direction": "Entre Martí y Maceo, Pereira, Regla, La Habana, Cuba",
+        "coordinates": "23.128157431023595, -82.33400183506534"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 5.0,
+        "cant_g": 7,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": [],
+        "capacity": 10,
+        "areas": {
+            "inside": false,
+            "outside": true,
+            "bar": false,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": 2
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "08:00",
+            "tue": "",
+            "wed": "08:00",
+            "thu": "08:00",
+            "fri": "08:00",
+            "sat": "08:00",
+            "sun": "08:00"
+        },
+        "close": {
+            "mon": "22:00",
+            "tue": "",
+            "wed": "22:00",
+            "thu": "22:00",
+            "fri": "22:00",
+            "sat": "22:00",
+            "sun": "22:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": 60,
+            "local": 40
+        },
+        "ecological": true
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": true,
+        "parking": true,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": false
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+                "breakfasts": {},
+                "breads": {},
+                "starters": {
+                  "croquetas": {
+                    "price": 300.00,
+                    "type": "croqueta",
+                    "principal_ingredient": "masa"
+                  },
+                  "viandas_fritas": {
+                    "price": 100.00,
+                    "type": "viandas fritas",
+                    "principal_ingredient": "viandas"
+                  },
+                  "brusquetas": {
+                    "price": 250.00,
+                    "type": "brusquetas",
+                    "principal_ingredient": "pan"
+                  },
+                  "entremes_surtido": {
+                    "price": 800.00,
+                    "type": "entremes",
+                    "principal_ingredient": "jamón, queso, chorizo, aceituna"
+                  },
+                  "mini_gordon_bleu": {
+                    "price": 800.00,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo, jamón, queso"
+                  },
+                  "plato_combinado": {
+                    "price": 1200.00,
+                    "type": "combinado",
+                    "principal_ingredient": "fajitas de pollo, bolitas de carne, croquetas, jamón, chorizo, viandas fritas"
+                  }
+                },
+                "main": {
+                  "tacos_carnitas": {
+                    "price": 850.00,
+                    "type": "taco",
+                    "principal_ingredient": "cerdo asado"
+                  },
+                  "tacos_res": {
+                    "price": 900.00,
+                    "type": "taco",
+                    "principal_ingredient": "ropa vieja"
+                  },
+                  "tacos_pollo": {
+                    "price": 600.00,
+                    "type": "taco",
+                    "principal_ingredient": "pollo crujiente"
+                  },
+                  "tacos_vegetariano": {
+                    "price": 400.00,
+                    "type": "taco",
+                    "principal_ingredient": "vegetales"
+                  },
+                  "tacos_vegetales_salteados": {
+                    "price": 0.00,
+                    "type": "taco",
+                    "principal_ingredient": "vegetales salteados en mantequilla y limón"
+                  },
+                  "tacos_jamon_queso": {
+                    "price": 650.00,
+                    "type": "taco",
+                    "principal_ingredient": "jamón y queso"
+                  }
+                },
+                "fittings": {},
+                "pastas": {},
+                "pizzas": {},
+                "additions": {},
+                "dessert": {},
+                "drinks": {
+                  "general": {},
+                  "cafes": {
+                    "espresso": {
+                      "price": 100.00,
+                      "type": "espresso",
+                      "principal_ingredient": "café"
+                    },
+                    "americano": {
+                      "price": 100.00,
+                      "type": "americano",
+                      "principal_ingredient": "café"
+                    },
+                    "cortadito": {
+                      "price": 150.00,
+                      "type": "cortado",
+                      "principal_ingredient": "café y leche"
+                    },
+                    "con_leche": {
+                      "price": 200.00,
+                      "type": "con leche",
+                      "principal_ingredient": "café y leche"
+                    },
+                    "espresso_macchiato": {
+                      "price": 180.00,
+                      "type": "macchiato",
+                      "principal_ingredient": "café y leche"
+                    },
+                    "caramel_macchiato": {
+                      "price": 250.00,
+                      "type": "macchiato",
+                      "principal_ingredient": "café, leche y caramelo"
+                    },
+                    "cappuccino": {
+                      "price": 220.00,
+                      "type": "cappuchino",
+                      "principal_ingredient": "café y espuma de leche"
+                    },
+                    "frappuccino": {
+                      "price": 500.00,
+                      "type": "frappuccino",
+                      "principal_ingredient": "café, hielo y leche"
+                    },
+                    "irlandes": {
+                      "price": 250.00,
+                      "type": "irlandes",
+                      "principal_ingredient": "café y whisky"
+                    },
+                    "caribeno": {
+                      "price": 180.00,
+                      "type": "caribeño",
+                      "principal_ingredient": "café y ron"
+                    },
+                    "alma_mia": {
+                      "price": 180.00,
+                      "type": "cafe",
+                      "principal_ingredient": "café"
+                    },
+                    "minty_coffee": {
+                      "price": 250.00,
+                      "type": "cafe",
+                      "principal_ingredient": "café y menta"
+                    },
+                    "2kf": {
+                      "price": 250.00,
+                      "type": "cafe",
+                      "principal_ingredient": "café"
+                    },
+                    "lujo": {
+                      "price": 600.00,
+                      "type": "cafe",
+                      "principal_ingredient": "café premium"
+                    }
+                  },
+                  "alcoholics": {}
+                }
+              
+              
+        }
+    }
+}

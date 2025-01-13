@@ -1,0 +1,369 @@
+{
+    "name": "Ranchon Don Martin",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/ranchondonmartin/",
+        "facebook": "https://www.facebook.com/ranchondonmartin/?locale=es_LA",
+        "telephone_number": []
+    },
+    "location": {
+        "municipality": "La Lisa",
+        "direction": " Calle 198 entre 37 y 45, No. 3733",
+        "coordinates": ""
+    },
+    "valoration": {
+        "quality": "",
+        "google": null,
+        "cant_g": null,
+        "web": 5.0,
+        "cant_w": 5,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["criolla"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "11:00",
+            "tue": "11:00",
+            "wed": "11:00",
+            "thu": "11:00",
+            "fri": "11:00",
+            "sat": "11:00",
+            "sun": "11:00"
+        },
+        "close": {
+            "mon": "21:00",
+            "tue": "21:00",
+            "wed": "21:00",
+            "thu": "21:00",
+            "fri": "21:00",
+            "sat": "21:00",
+            "sun": "21:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": null,
+        "delivery": null,
+        "delibery_m": null,
+        "generator": null,
+        "wifi": null,
+        "parking": null,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": null
+        },
+        "transfer": null,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "pan_con_hamburguesa": {
+                    "price": 1280,
+                    "type": "pan",
+                    "principal_ingredient": "res"
+                },
+                "pan_con_hamburguesa_jamon_y_queso": {
+                    "price": 1280,
+                    "type": "pan",
+                    "principal_ingredient": "res"
+                }
+            },
+            "starters": {
+                "ensalada_fria": {
+                    "price": 400,
+                    "type": "ensalada",
+                    "principal_ingredient": "ensalada"
+                },
+                "coctel_de_camarones": {
+                    "price": 950,
+                    "type": "coctel",
+                    "principal_ingredient": "shrimp"
+                },
+                "fritura_de_malanga": {
+                    "price": 470,
+                    "type": "malanga",
+                    "principal_ingredient": "malanga"
+                },
+                "toston_con_mojo": {
+                    "price": 470,
+                    "type": "tostones",
+                    "principal_ingredient": "banana"
+                },
+                "chicharritas": {
+                    "price": 380,
+                    "type": "banana",
+                    "principal_ingredient": "banana"
+                },
+                "papa_frita": {
+                    "price": 370,
+                    "type": "potato",
+                    "principal_ingredient": "potato"
+                },
+                "toston_relleno": {
+                    "price": 700,
+                    "type": "tostones",
+                    "principal_ingredient": "banana"
+                }
+            },
+            "main": {
+                "masa_frita_de_cerdo": {
+                    "price": 2030,
+                    "type": "masas",
+                    "principal_ingredient": "cerdo"
+                },
+                "fricase_de_cerdo": {
+                    "price": 2030,
+                    "type": "fricase",
+                    "principal_ingredient": "cerdo"
+                },
+                "bistec_de_cerdo_grille": {
+                    "price": 1400,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "bistec_de_cerdo_uruguayo": {
+                    "price": 2050,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "bistec_de_cerdo_empanado": {
+                    "price": 1600,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "bistec_de_cerdo_al_graten": {
+                    "price": 1600,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "bistec_de_cerdo_a_la_reina": {
+                    "price": 1700,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "vaca_frita": {
+                    "price": 2820,
+                    "type": "vaca frita",
+                    "principal_ingredient": "res"
+                },
+                "ropa_vieja": {
+                    "price": 2850,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "res"
+                },
+                "pechuga": {
+                    "price": 1440,
+                    "type": "pechuga",
+                    "principal_ingredient": "pollo"
+                },
+                "pechuga_grille": {
+                    "price": 1530,
+                    "type": "pechuga",
+                    "principal_ingredient": "pollo"
+                },
+                "pechuga_empanada": {
+                    "price": 1520,
+                    "type": "pechuga",
+                    "principal_ingredient": "pollo"
+                },
+                "pechuga_al_graten": {
+                    "price": 1580,
+                    "type": "pechuga",
+                    "principal_ingredient": "pollo"
+                },
+                "pechuga_a_la_reina": {
+                    "price": 1780,
+                    "type": "pechuga",
+                    "principal_ingredient": "pollo"
+                },
+                "gordon_blue": {
+                    "price": 1600,
+                    "type": "pechuga",
+                    "principal_ingredient": "pollo"
+                },
+                "filete_de_pescado_grille": {
+                    "price": 1800,
+                    "type": "filete",
+                    "principal_ingredient": "pescado"
+                },
+                "filete_de_pescado_empanado": {
+                    "price": 1800,
+                    "type": "filete",
+                    "principal_ingredient": "pescado"
+                },
+                "filete_de_pescado_al_graten": {
+                    "price": 2000,
+                    "type": "filete",
+                    "principal_ingredient": "pescado"
+                },
+                "canciller": {
+                    "price": 2450,
+                    "type": "filete",
+                    "principal_ingredient": "pescado"
+                },
+                "filete_don_martin": {
+                    "price": 2000,
+                    "type": "filete",
+                    "principal_ingredient": "pescado"
+                },
+                "camaron_enchilado": {
+                    "price": 2000,
+                    "type": "camarones",
+                    "principal_ingredient": "camaron"
+                },
+                "camaron_al_ajillo": {
+                    "price": 2100,
+                    "type": "camarones",
+                    "principal_ingredient": "camaron"
+                },
+                "camaron_rebosado": {
+                    "price": 3600,
+                    "type": "camarones",
+                    "principal_ingredient": "camaron"
+                },
+                "langosta_al_ajillo": {
+                    "price": 3650,
+                    "type": "langosta",
+                    "principal_ingredient": "langosta"
+                },
+                "langosta_enchilado": {
+                    "price": 1810,
+                    "type": "langosta",
+                    "principal_ingredient": "langosta"
+                },
+                "chilindron_de_cordero": {
+                    "price": 900,
+                    "type": "cordero",
+                    "principal_ingredient": "cordero"
+                }
+            },
+            "fittings": {
+                "arroz_moro": {
+                    "price": 180,
+                    "type": "arroz",
+                    "principal_ingredient": "congri"
+                },
+                "arroz_blanco": {
+                    "price": 100,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                }
+            },
+            "pastas": {
+                "espaguetis": {
+                    "price": 840,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso gouda"
+                }
+            },
+            "pizzas": {
+                "pizza": {
+                    "price": 860,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso gouda"
+                }
+            },
+            "additions": {},
+            "dessert": {
+                "flan": {
+                    "price": 350,
+                    "type": "flan",
+                    "principal_ingredient": "flan"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "refresco_de_lata": {
+                        "price": 220,
+                        "type": "refresco",
+                        "principal_ingredient": "soda"
+                    },
+                    "malta_caribia": {
+                        "price": 230,
+                        "type": "malta",
+                        "principal_ingredient": "malt"
+                    },
+                    "refresco_manzanita": {
+                        "price": 290,
+                        "type": "refresco",
+                        "principal_ingredient": "apple"
+                    },
+                    "seven_up": {
+                        "price": 240,
+                        "type": "refresco importado",
+                        "principal_ingredient": "7up"
+                    },
+                    "pinita": {
+                        "price": 225,
+                        "type": "refresco",
+                        "principal_ingredient": "pineapple"
+                    },
+                    "agua": {
+                        "price": 180,
+                        "type": "agua",
+                        "principal_ingredient": "water"
+                    },
+                    "energizante": {
+                        "price": 245,
+                        "type": "enrgizante",
+                        "principal_ingredient": "energy"
+                    },
+                    "jugo_de_caja": {
+                        "price": 175,
+                        "type": "jugo",
+                        "principal_ingredient": "artificial"
+                    },
+                    "batido_de_helado": {
+                        "price": 450,
+                        "type": "batido",
+                        "principal_ingredient": "icecream"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

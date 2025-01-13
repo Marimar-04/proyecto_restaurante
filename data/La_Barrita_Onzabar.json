@@ -1,0 +1,274 @@
+{
+    "name": "La Barrita Onbazar",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/la_barrita_onbazar/",
+        "facebook": "",
+        "telephone_number": ["54494741"]
+    },
+    "location": {
+        "municipality": "Cerro",
+        "direction": "Amenidad entre Infanta y Cruz del Padre, Cerro, Havana",
+        "coordinates": "23.121936406146663, -82.37338027183048"
+    },
+    "valoration": {
+        "quality": "",
+        "google": 5.0,
+        "cant_g": 5,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["italiana"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "09:00",
+            "tue": "09:00",
+            "wed": "09:00",
+            "thu": "09:00",
+            "fri": "09:00",
+            "sat": "09:00",
+            "sun": "09:00"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": true,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": null,
+        "parking": true,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "hamburguesa": {
+                    "price": 1200,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne"
+                },
+                "hamburguesa_jamon_y_queso": {
+                    "price": 1650,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "jamón"
+                },
+                "hamburguesa_onbazar": {
+                    "price": 2700,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne"
+                }
+            },
+            "starters": {
+                "tostones_rellenos": {
+                    "price": 1300,
+                    "type": "tostones",
+                    "principal_ingredient": "plátano"
+                },
+                "jamon_queso_y_aceitunas": {
+                    "price": 750,
+                    "type": "mixto",
+                    "principal_ingredient": "jamón"
+                },
+                "mixta": {
+                    "price": 1600,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                },
+                "brochetas": {
+                    "price": 2000,
+                    "type": "brochetas",
+                    "principal_ingredient": "carne"
+                },
+                "croquetas": {
+                    "price": 650,
+                    "type": "croqueta",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_frito": {
+                    "price": 1500,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_chiflado": {
+                    "price": 1650,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                }
+            },
+            "main": {},
+            "pastas": {
+                "espaguetis": {
+                    "price": 850,
+                    "type": "napolitana",
+                    "principal_ingredient": "pasta"
+                },
+                "espaguetis_de_jamon": {
+                    "price": 1100,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "espaguetis_de_chorizo": {
+                    "price": 1000,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                }
+            },
+            "pizzas": {
+                "pizza_de_napolitana": {
+                    "price": 850,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso"
+                },
+                "pizza_de_chorizo": {
+                    "price": 1000,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "pizza_de_jamon": {
+                    "price": 1000,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "pizza_de_hawaiana": {
+                    "price": 1150,
+                    "type": "hawaiana",
+                    "principal_ingredient": "piña"
+                },
+                "pizza_de_cebolla": {
+                    "price": 1000,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                }
+            },
+            "fittings": {},
+            "additions": {
+                "jamon": {
+                    "price": 150,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "cebolla": {
+                    "price": 150,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                },
+                "chorizo": {
+                    "price": 150,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "hawaiana": {
+                    "price": 250,
+                    "type": "hawaiana",
+                    "principal_ingredient": "piña"
+                },
+                "doble_queso": {
+                    "price": 250,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                }
+            },
+            "desserts": {},
+            "drinks": {
+                "general": {
+                    "limonada_frape": {
+                        "price": 400,
+                        "type": "jugo",
+                        "principal_ingredient": "limón"
+                    },
+                    "malteada": {
+                        "price": 500,
+                        "type": "batido",
+                        "principal_ingredient": "leche"
+                    }
+                },
+                "cafes": {
+                    "cafe_expreso": {
+                        "price": 180,
+                        "type": "espresso",
+                        "principal_ingredient": "café"
+                    },
+                    "cafe_cortado": {
+                        "price": 220,
+                        "type": "cortado",
+                        "principal_ingredient": "café"
+                    },
+                    "capuchino": {
+                        "price": 450,
+                        "type": "capuchino",
+                        "principal_ingredient": "café"
+                    },
+                    "cafe_bombon": {
+                        "price": 450,
+                        "type": "bombón",
+                        "principal_ingredient": "café"
+                    }
+                },
+                "alcoholics": {
+                    "pina_colada_alcohol": {
+                        "price": 750,
+                        "type": "coctel",
+                        "principal_ingredient": "piña"
+                    }
+                }
+            }
+        }
+    }
+}

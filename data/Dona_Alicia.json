@@ -1,0 +1,815 @@
+{
+    "name": "Doña Alicia",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/restaurantedaalicia/?hl=es",
+        "facebook": "https://www.facebook.com/RestauranteDaAlicia/?locale=es_LA",
+        "telephone_number": ["78666009"]
+    },
+    "location": {
+        "municipality": "Centro Habana",
+        "direction": "Reina esquina Belascoaín, Centro Habana, La Habana",
+        "coordinates": "23.132345978944347, -82.36844183057843"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.4,
+        "cant_g": 300,
+        "web": 4.5,
+        "cant_w": 190,
+        "tripadvisor": 5.0,
+        "cant_t": 443
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": false,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": true,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": null,
+        "parking": false,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "tacos_de_camaron": {
+                    "price": 1500.0,
+                    "type": "tacos",
+                    "principal_ingredient": "camaron"
+                },
+                "tacos_de_pollo_125g": {
+                    "price": 1000.0,
+                    "type": "tacos",
+                    "principal_ingredient": "pollo"
+                },
+                "tacos_al_pastor_125g": {
+                    "price": 1025.0,
+                    "type": "tacos",
+                    "principal_ingredient": "cerdo"
+                },
+                "coctel_de_langosta_150g": {
+                    "price": 1000.0,
+                    "type": "coctel",
+                    "principal_ingredient": "langosta"
+                },
+                "tostones_rellenos_con_jamon_50g_y_30g_de_queso": {
+                    "price": 700.0,
+                    "type": "tostones",
+                    "principal_ingredient": "jamon"
+                },
+                "bolitas_de_queso_10_unkd": {
+                    "price": 1450.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "queso"
+                },
+                "fritura_de_malanga_10_unid": {
+                    "price": 560.0,
+                    "type": "fritura",
+                    "principal_ingredient": "malanga"
+                },
+                "tacos_de_pollo_en_salsa_pico_de_gallo_125g": {
+                    "price": 1250.0,
+                    "type": "tacos",
+                    "principal_ingredient": "pollo"
+                },
+                "tacos_de_cerdo_en_salsa_de_pico_de_gallo_125g": {
+                    "price": 1200.0,
+                    "type": "tacos",
+                    "principal_ingredient": "cerdo"
+                }
+            },
+            "main": {
+                "langosta_salteada_al_ajo_350g": {
+                    "price": 3250.0,
+                    "type": "langosta",
+                    "principal_ingredient": "langosta"
+                },
+                "langosta_grille_c_salsa_de_la_casa_350g": {
+                    "price": 3000.0,
+                    "type": "langosta",
+                    "principal_ingredient": "langosta"
+                },
+                "enchilado_de_langosta_350g": {
+                    "price": 3500.0,
+                    "type": "langosta",
+                    "principal_ingredient": "langosta"
+                },
+                "langosta_termidor_350g": {
+                    "price": 3125.0,
+                    "type": "langosta",
+                    "principal_ingredient": "langosta"
+                },
+                "ropa_vieja_res_con_salsa_de_tomate_170g": {
+                    "price": 1995.0,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "res"
+                },
+                "ropa_vieja_res_sin_salsa_de_tomate_170g": {
+                    "price": 1970.0,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "res"
+                },
+                "camaron_termidor": {
+                    "price": 3000.0,
+                    "type": "camaron",
+                    "principal_ingredient": "camaron"
+                },
+                "camaron_salteado_con_ajo": {
+                    "price": 2600.0,
+                    "type": "camaron",
+                    "principal_ingredient": "camaron"
+                },
+                "camarones_enchilados": {
+                    "price": 2800.0,
+                    "type": "camaron",
+                    "principal_ingredient": "camaron"
+                },
+                "pulpo_salteado_al_ajo_230g": {
+                    "price": 2625.0,
+                    "type": "pulpo",
+                    "principal_ingredient": "pulpo"
+                },
+                "pulpo_enchilado_230g": {
+                    "price": 2750.0,
+                    "type": "pulpo",
+                    "principal_ingredient": "pulpo"
+                },
+                "pescado_gratinado_jamon_y_queso_280g_45g_jamon_y_queso": {
+                    "price": 2750.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "dados_de_pescado_al_ajo_280g": {
+                    "price": 2200.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "dados_de_pescado_en_salsa_cubana_280g": {
+                    "price": 2430.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "pescado_grille_c_salsa_de_la_casa_280g": {
+                    "price": 2100.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "ropa_vieja_de_cordero_sin_salsa_de_tomate_170g": {
+                    "price": 1675.0,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "cordero"
+                },
+                "ropa_vieja_de_cordero_con_salsa_de_tomate_170g": {
+                    "price": 1700.0,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "cordero"
+                },
+                "estofado_de_cordero_al_vino_tinto_250g": {
+                    "price": 2300.0,
+                    "type": "cordero",
+                    "principal_ingredient": "cordero"
+                },
+                "chilindron_de_cordero_280g": {
+                    "price": 2200.0,
+                    "type": "cordero",
+                    "principal_ingredient": "cordero"
+                },
+                "bistec_de_cerdo_gratinado_con_jamon_y_queso_280g_y_45g_jamon_y_queso": {
+                    "price": 2200.0,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "bistec_de_la_abuela_con_mjo_criollo_280g": {
+                    "price": 1700.0,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "masas_de_cerdo_italianas": {
+                    "price": 3500.0,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "masas_de_cerdo_con_salsa_agridulce": {
+                    "price": 2350.0,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "masa_de_cerdo_con_mojo_criollo": {
+                    "price": 2350.0,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "lomo_deshuesado_con_mojo_criollo_280g": {
+                    "price": 2000.0,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                },
+                "lomo_ahumado_al_graten_280g": {
+                    "price": 2500.0,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                },
+                "lomo_ahumado_agridulce_280g": {
+                    "price": 2250.0,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                },
+                "fajitas_de_cerdo_a_la_campesina_280g": {
+                    "price": 2200.0,
+                    "type": "fajitas",
+                    "principal_ingredient": "cerdo"
+                },
+                "fajita_pollo_crema_280g": {
+                    "price": 2700.0,
+                    "type": "fajitas",
+                    "principal_ingredient": "pollo"
+                },
+                "montado_de_pollo_jamon_y_queso_280g_50g_jamon_y_queso": {
+                    "price": 2500.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_gratinado_280g": {
+                    "price": 2375.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "arroz_frito_con_camaron": {
+                    "price": 2450.0,
+                    "type": "arroz",
+                    "principal_ingredient": "camaron"
+                },
+                "arroz_frito": {
+                    "price": 1825.0,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "pescado_del_dia_280g": {
+                    "price": 1950.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "ropa_vieja_de_cerdo_con_salsa_de_tomate_170g": {
+                    "price": 1900.0,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "cerdo"
+                },
+                "ropa_vieja_de_cerdo_sin_salsa_de_tomate_170g": {
+                    "price": 1820.0,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "cerdo"
+                },
+                "dados_de_pescado_en_salsa_italiana_280g": {
+                    "price": 2900.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "lomo_ahumado_grille": {
+                    "price": 2000.0,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                },
+                "lomo_deshuesado_al_graten_280g_50g_queso": {
+                    "price": 2125.0,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                },
+                "pollo_dona_alicia": {
+                    "price": 3250.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "bistec_de_la_abuela_con_salsa_de_cebolla_280g": {
+                    "price": 2000.0,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "lomo_deshuesado_en_salsa_de_cebolla_280g": {
+                    "price": 2000.0,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                },
+                "fajitas_de_pollo_a_la_campesina_280g": {
+                    "price": 2400.0,
+                    "type": "fajitas",
+                    "principal_ingredient": "pollo"
+                },
+                "fricase_de_cerdo_240g": {
+                    "price": 2600.0,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "arroz_marinero": {
+                    "price": 3550.0,
+                    "type": "arroz",
+                    "principal_ingredient": "mariscos"
+                },
+                "pollo_entero_relleno_2500gr": {
+                    "price": 10000.0,
+                    "type": "pollo relleno",
+                    "principal_ingredient": "pollo"
+                }
+            },
+            "fittings": {
+                "tostones_naturales": {
+                    "price": 250.0,
+                    "type": "tostones",
+                    "principal_ingredient": "platano"
+                },
+                "vegetales_de_temporada": {
+                    "price": 350.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "vegetales"
+                },
+                "arroz_blanco": {
+                    "price": 220.0,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "arroz_moro": {
+                    "price": 320.0,
+                    "type": "arroz moro",
+                    "principal_ingredient": "arroz y frijoles"
+                },
+                "toston_al_ajo": {
+                    "price": 350.0,
+                    "type": "tostones",
+                    "principal_ingredient": "platano y ajo"
+                }
+            },
+            "pastas": {
+                "lasana_de_jamon": {
+                    "price": 1650.0,
+                    "type": "jamon",
+                    "principal_ingredient": "jamon"
+                },
+                "espaguetis_con_jamon_y_queso_gouda": {
+                    "price": 1510.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamon y queso gouda"
+                },
+                "espaguetis_con_camarones_y_queso_gouda": {
+                    "price": 2220.0,
+                    "type": "camarones",
+                    "principal_ingredient": "camarones y queso gouda"
+                },
+                "espaguetis_carbonara": {
+                    "price": 2115.0,
+                    "type": "carbonara",
+                    "principal_ingredient": "tocino y crema"
+                },
+                "espaguetis_napoles_c_gouda": {
+                    "price": 1105.0,
+                    "type": "napoles",
+                    "principal_ingredient": "salsa napolitana y queso gouda"
+                },
+                "espaguetis_con_atun": {
+                    "price": 1660.0,
+                    "type": "atun",
+                    "principal_ingredient": "atun"
+                },
+                "canelon_de_camaron": {
+                    "price": 1850.0,
+                    "type": "camarones",
+                    "principal_ingredient": "camarones"
+                },
+                "canelones_de_jamon": {
+                    "price": 1650.0,
+                    "type": "jamon",
+                    "principal_ingredient": "jamon"
+                },
+                "espaguetis_en_salsa_blanca_cremosa_con_parmesano_y_albahaca_natural": {
+                    "price": 1500.0,
+                    "type": "cremosa",
+                    "principal_ingredient": "queso parmesano y albahaca"
+                },
+                "espaguettis_de_vegetales_con_grana_padano": {
+                    "price": 1650.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "vegetales y queso grana padano"
+                }
+            },
+            "pizzas": {
+                "pizza_de_jamon": {
+                    "price": 1600.0,
+                    "type": "jamon",
+                    "principal_ingredient": "jamon"
+                },
+                "pizza_de_camarones": {
+                    "price": 2000.0,
+                    "type": "camarones",
+                    "principal_ingredient": "camarones"
+                },
+                "pizza_de_atun": {
+                    "price": 1750.0,
+                    "type": "atun",
+                    "principal_ingredient": "atun"
+                },
+                "pizza_de_bacon": {
+                    "price": 2000.0,
+                    "type": "bacon",
+                    "principal_ingredient": "bacon"
+                },
+                "pizza_napolitana": {
+                    "price": 1150.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso y tomate"
+                },
+                "pizza_de_aji_y_cebolla": {
+                    "price": 1550.0,
+                    "type": "vegetales",
+                    "principal_ingredient": "aji y cebolla"
+                },
+                "pizza_estilo_margarita": {
+                    "price": 1250.0,
+                    "type": "margarita",
+                    "principal_ingredient": "queso y tomate"
+                },
+                "pizza_ropa_vieja_de_cerdo": {
+                    "price": 1800.0,
+                    "type": "ropa vieja de cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "pizza_4_queso": {
+                    "price": 2000.0,
+                    "type": "4 queso",
+                    "principal_ingredient": "queso"
+                },
+                "pizza_hawaiana": {
+                    "price": 1625.0,
+                    "type": "hawaiana",
+                    "principal_ingredient": "jamon y piña"
+                },
+                "pizza_de_salsa_pesto": {
+                    "price": 1200.0,
+                    "type": "pesto",
+                    "principal_ingredient": "salsa pesto"
+                },
+                "pizza_al_pastor": {
+                    "price": 2000.0,
+                    "type": "al pastor",
+                    "principal_ingredient": "cerdo"
+                },
+                "pizza_de_ropa_vieja_de_res": {
+                    "price": 2150.0,
+                    "type": "ropa vieja de res",
+                    "principal_ingredient": "res"
+                }
+            },
+            "additions": {
+                "agrego_de_jamon": {
+                    "price": 300.0,
+                    "type": "jamon",
+                    "principal_ingredient": "jamon"
+                },
+                "agrego_de_queso": {
+                    "price": 600.0,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "agrego_de_champinones": {
+                    "price": 375.0,
+                    "type": "champinones",
+                    "principal_ingredient": "champinones"
+                },
+                "agrego_de_cebolla": {
+                    "price": 275.0,
+                    "type": "cebolla",
+                    "principal_ingredient": "cebolla"
+                },
+                "agrego_de_pimiento": {
+                    "price": 205.0,
+                    "type": "pimiento",
+                    "principal_ingredient": "pimiento"
+                },
+                "agrego_de_atun": {
+                    "price": 550.0,
+                    "type": "atun",
+                    "principal_ingredient": "atun"
+                }
+            },
+            "dessert": {
+                "cake_de_chocolate_porcion": {
+                    "price": 850.0,
+                    "type": "chocolate",
+                    "principal_ingredient": "chocolate"
+                },
+                "cisne": {
+                    "price": 95.0,
+                    "type": "dulce",
+                    "principal_ingredient": "azucar"
+                },
+                "trufa_de_chocolate": {
+                    "price": 160.0,
+                    "type": "chocolate",
+                    "principal_ingredient": "chocolate"
+                },
+                "eclair": {
+                    "price": 530.0,
+                    "type": "dulce",
+                    "principal_ingredient": "azucar"
+                },
+                "rosca_reyes": {
+                    "price": 350.0,
+                    "type": "pan dulce",
+                    "principal_ingredient": "harina"
+                },
+                "arroz_con_leche": {
+                    "price": 580.0,
+                    "type": "arroz con leche",
+                    "principal_ingredient": "arroz y leche"
+                },
+                "cheesecake_de_fresa_porcion": {
+                    "price": 520.0,
+                    "type": "cheesecake",
+                    "principal_ingredient": "queso y fresa"
+                },
+                "tortica": {
+                    "price": 100.0,
+                    "type": "dulce",
+                    "principal_ingredient": "harina"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "malta_nacional_bucanero": {
+                        "price": 405.0,
+                        "type": "malta",
+                        "principal_ingredient": "cebada"
+                    },
+                    "pepsi_cola_de_lata": {
+                        "price": 380.0,
+                        "type": "refresco importado",
+                        "principal_ingredient": "cola"
+                    },
+                    "refresco_importado_7_up": {
+                        "price": 320.0,
+                        "type": "refresco importado",
+                        "principal_ingredient": "limón"
+                    },
+                    "jugo_kermato": {
+                        "price": 710.0,
+                        "type": "kermato",
+                        "principal_ingredient": "tomate"
+                    },
+                    "red_bull": {
+                        "price": 900.0,
+                        "type": "energizante",
+                        "principal_ingredient": "cafeína"
+                    },
+                    "agua_tonica_mg": {
+                        "price": 600.0,
+                        "type": "agua tónica",
+                        "principal_ingredient": "quinina"
+                    },
+                    "agua_natural_buona": {
+                        "price": 280.0,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "refresco_santa_naranja": {
+                        "price": 350.0,
+                        "type": "refresco",
+                        "principal_ingredient": "naranja"
+                    },
+                    "agua_gaseada_tehuacan": {
+                        "price": 650.0,
+                        "type": "agua gaseada",
+                        "principal_ingredient": "agua"
+                    },
+                    "refresco_ritz_cola": {
+                        "price": 345.0,
+                        "type": "refresco",
+                        "principal_ingredient": "cola"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "cerveza_importada_modelo_especial": {
+                        "price": 650.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    },
+                    "cerveza_presidente": {
+                        "price": 595.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    },
+                    "heineken_botella_330_ml": {
+                        "price": 495.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    },
+                    "johnnie_walker_etiqueta_roja": {
+                        "price": 9050.0,
+                        "type": "whisky",
+                        "principal_ingredient": "cebada"
+                    },
+                    "chivas_regal_12": {
+                        "price": 19500.0,
+                        "type": "whisky",
+                        "principal_ingredient": "cebada"
+                    },
+                    "h_c_seleccion_de_maestros": {
+                        "price": 8950.0,
+                        "type": "ron",
+                        "principal_ingredient": "caña_de_azúcar"
+                    },
+                    "h_c_anejo_reserva": {
+                        "price": 4300.0,
+                        "type": "ron",
+                        "principal_ingredient": "caña_de_azúcar"
+                    },
+                    "h_c_anejo_especial": {
+                        "price": 2625.0,
+                        "type": "ron",
+                        "principal_ingredient": "caña_de_azúcar"
+                    },
+                    "tequila_olmeca_silver": {
+                        "price": 5800.0,
+                        "type": "tequila",
+                        "principal_ingredient": "agave"
+                    },
+                    "cerveza_nacional_cristal": {
+                        "price": 440.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    },
+                    "ron_santiago_de_cuba_carta_blanca": {
+                        "price": 3500.0,
+                        "type": "ron",
+                        "principal_ingredient": "caña_de_azúcar"
+                    },
+                    "whisky_black_white": {
+                        "price": 4125.0,
+                        "type": "whisky",
+                        "principal_ingredient": "cebada"
+                    },
+                    "whisky_j_w_black_label": {
+                        "price": 17500.0,
+                        "type": "whisky",
+                        "principal_ingredient": "cebada"
+                    },
+                    "ron_santiago_de_cuba_anejo_12": {
+                        "price": 12000.0,
+                        "type": "ron",
+                        "principal_ingredient": "caña_de_azúcar"
+                    },
+                    "black_tears": {
+                        "price": 2000.0,
+                        "type": "ron",
+                        "principal_ingredient": "caña_de_azúcar"
+                    },
+                    "cerveza_corona": {
+                        "price": 660.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    },
+                    "h_c_pacto_navio": {
+                        "price": 10000.0,
+                        "type": "ron",
+                        "principal_ingredient": "caña_de_azúcar"
+                    },
+                    "cerveza_presidente_licht": {
+                        "price": 570.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    },
+                    "vt_frontera_merlot_botella": {
+                        "price": 2300.0,
+                        "type": "vino_tinto",
+                        "principal_ingredient": "uva"
+                    },
+                    "espumoso_cava_mistinguett_brut": {
+                        "price": 3800.0,
+                        "type": "espumoso",
+                        "principal_ingredient": "uva"
+                    },
+                    "espumoso_cava_brut_reserva_mistinguett": {
+                        "price": 3800.0,
+                        "type": "espumoso",
+                        "principal_ingredient": "uva"
+                    },
+                    "espumoso_gran_baron_cava_brut": {
+                        "price": 3800.0,
+                        "type": "espumoso",
+                        "principal_ingredient": "uva"
+                    },
+                    "vt_frontera_cabernet_sauvignon_mercado": {
+                        "price": 2100.0,
+                        "type": "vino_tinto",
+                        "principal_ingredient": "uva"
+                    },
+                    "vb_frontera_chardonay_mercado": {
+                        "price": 2100.0,
+                        "type": "vino_blanco",
+                        "principal_ingredient": "uva"
+                    },
+                    "vt_frontera_merlot_mercado": {
+                        "price": 2100.0,
+                        "type": "vino_tinto",
+                        "principal_ingredient": "uva"
+                    },
+                    "espumoso_torre_de_la_vid_brut": {
+                        "price": 2750.0,
+                        "type": "espumoso",
+                        "principal_ingredient": "uva"
+                    },
+                    "vino_espumoso_rocamar_brut": {
+                        "price": 2750.0,
+                        "type": "espumoso",
+                        "principal_ingredient": "uva"
+                    },
+                    "vino_rosado_espumoso_calavina": {
+                        "price": 2500.0,
+                        "type": "vino_rosado",
+                        "principal_ingredient": "uva"
+                    },
+                    "vino_blanco_espumoso_calavina_brut": {
+                        "price": 2500.0,
+                        "type": "vino_blanco",
+                        "principal_ingredient": "uva"
+                    },
+                    "cava_brut_rose_gran_baron": {
+                        "price": 2250.0,
+                        "type": "espumoso",
+                        "principal_ingredient": "uva"
+                    },
+                    "vino_blanco_espumoso_semisecos_condelier": {
+                        "price": 2625.0,
+                        "type": "vino_blanco",
+                        "principal_ingredient": "uva"
+                    }
+                }
+            }
+        }
+    }
+}

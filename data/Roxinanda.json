@@ -1,0 +1,184 @@
+{
+    "name": "Roxinanda",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "",
+        "telephone_number": [""]
+    },
+    "location": {
+        "municipality": "Diez de Octubre",
+        "direction": "esquina de Santa Catalina y calzada de 10 de Octubre",
+        "coordinates": "23.093671543533375, -82.3637726178468"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.6,
+        "cant_g": 5,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": [],
+        "capacity": 20,
+        "areas": {
+            "inside": false,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": 14
+    },
+    "schedule": {
+        "24_hours": true,
+        "open": {
+            "mon": "",
+            "tue": "",
+            "wed": "",
+            "thu": "",
+            "fri": "",
+            "sat": "",
+            "sun": ""
+        },
+        "close": {
+            "mon": "",
+            "tue": "",
+            "wed": "",
+            "thu": "",
+            "fri": "",
+            "sat": "",
+            "sun": ""
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": 60,
+            "local": 40
+        },
+        "ecological": false
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": false,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "hamburguesa_cerdo": {
+                    "price": 640.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "hamburguesa_pollo": {
+                    "price": 650.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "pollo"
+                },
+                "hamburguesa_res": {
+                    "price": 690.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "res"
+                },
+                "sandwich": {
+                    "price": 350.0,
+                    "type": "sandwich",
+                    "principal_ingredient": "mixto"
+                },
+                "sandwich_especial": {
+                    "price": 450.0,
+                    "type": "sandwich",
+                    "principal_ingredient": "mixto"
+                }
+            },
+            "starters": {},
+            "main": {},
+            "fittings": {},
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "refresco": {
+                        "price": 270.0,
+                        "type": "refresco",
+                        "principal_ingredient": "mixto"
+                    },
+                    "pepsi": {
+                        "price": 320.0,
+                        "type": "refresco importado",
+                        "principal_ingredient": "cola"
+                    },
+                    "jugo_lata": {
+                        "price": 280,
+                        "type": "jugo",
+                        "principal_ingredient": "mixto"
+                    },
+                    "kermato": {
+                        "price": 480,
+                        "type": "jugo",
+                        "principal_ingredient": "tomate"
+                    },
+                    "tigon": {
+                        "price": null,
+                        "type": "energizante",
+                        "principal_ingredient": "mixto"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "cristal": {
+                        "price": 3000,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "hollandia": {
+                        "price": 300,
+                        "type": "cerveza importada",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "stella": {
+                        "price": 400,
+                        "type": "cerveza importada",
+                        "principal_ingredient": "cerveza"
+                    }
+                }
+            }
+        }
+    }
+}

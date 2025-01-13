@@ -1,0 +1,221 @@
+{
+    "name": "El Faro",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/_elfar0/",
+        "facebook": "https://www.facebook.com/Lahabana777/posts/cafeter%C3%ADa-el-faro-saben-su-ubicaci%C3%B3n-exacta/846146005736587/",
+        "telephone_number": []
+    },
+    "location": {
+        "municipality": "Guanabacoa",
+        "direction": "Máximo Gómez y Pepe Antonio, Guanabacoa",
+        "coordinates": "23.12441580236713, -82.30367307370888"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": 3.7,
+        "cant_g": 3,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["italiana"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": false,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "09:00",
+            "tue": "09:00",
+            "wed": "09:00",
+            "thu": "09:00",
+            "fri": "09:00",
+            "sat": "09:00",
+            "sun": "09:00"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": false,
+        "parking": false,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "pan_con_hamburguesa": {
+                    "price": 500.0,
+                    "type": "pan",
+                    "principal_ingredient": "carne"
+                },
+                "hamburguesa_faro": {
+                    "price": 900.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne"
+                }
+            },
+            "starters": {
+                "enchilado_de_cangrejo": {
+                    "price": 750.0,
+                    "type": "mariscos",
+                    "principal_ingredient": "cangrejo"
+                },
+                "croqueta_de_la_casa": {
+                    "price": 180.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "masa"
+                },
+                "ensalada_fria_de_jamon": {
+                    "price": 700.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "jamon"
+                },
+                "ensalada_fria_de_atun": {
+                    "price": 1200.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "atun"
+                },
+                "picadera_tropical": {
+                    "price": 850.0,
+                    "type": "picadera",
+                    "principal_ingredient": "mixto"
+                },
+                "plato_a_lo_cubano": {
+                    "price": 800.0,
+                    "type": "plato_tradicional",
+                    "principal_ingredient": "varios"
+                }
+            },
+            "main": {
+                "costillas_de_cerdo": {
+                    "price": 1200.0,
+                    "type": "cerdo",
+                    "principal_ingredient": "costillas"
+                },
+                "ruedas_de_pescado_grille": {
+                    "price": 1400.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "pollo_grille": {
+                    "price": 950.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                }
+            },
+            "pizzas": {
+                "pizza_el_faro": {
+                    "price": 900.0,
+                    "type": "mixta",
+                    "principal_ingredient": "queso"
+                },
+                "pizza_combinada": {
+                    "price": 900.0,
+                    "type": "mixta",
+                    "principal_ingredient": "queso"
+                },
+                "pizza_hawaiana": {
+                    "price": 900.0,
+                    "type": "hawaiana",
+                    "principal_ingredient": "piña"
+                },
+                "pizza_de_cebolla": {
+                    "price": 900.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                },
+                "pizza_de_pimiento": {
+                    "price": 900.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "pimiento"
+                },
+                "pizza_gustazo": {
+                    "price": 900.0,
+                    "type": "doble_queso",
+                    "principal_ingredient": "queso"
+                },
+                "pizza_jamon": {
+                    "price": 900.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamon"
+                }
+            },
+            "pastas": {
+                "spaguetti_napolitano": {
+                    "price": 750.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "salsa_tomate"
+                },
+                "spaguetti_de_jamon": {
+                    "price": 850.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamon"
+                }
+            },
+            "fittings": {},
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {},
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

@@ -1,0 +1,433 @@
+{
+    "name": "Mar Adentro",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/maradentrohabana/?hl=es",
+        "facebook": "https://www.facebook.com/maradentrohabana/?locale=es_LA",
+        "telephone_number": ["59518989"]
+    },
+    "location": {
+        "municipality": "Plaza de la Revolucion",
+        "direction": "Calle C entre 1ra y 3ra, Vedado",
+        "coordinates": "23.14235471706294, -82.39868590066861"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.4,
+        "cant_g": 104,
+        "web": 4.1,
+        "cant_w": 129,
+        "tripadvisor": 4.5,
+        "cant_t": 210
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "09:00",
+            "tue": "09:00",
+            "wed": "09:00",
+            "thu": "09:00",
+            "fri": "09:00",
+            "sat": "09:00",
+            "sun": "09:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": true,
+        "delibery_m": null,
+        "generator": true,
+        "wifi": null,
+        "parking": true,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {
+                "ingles": {
+                    "price": 2000,
+                    "type": "desayuno",
+                    "principal_ingredient": "huevo"
+                },
+                "continental": {
+                    "price": 2000,
+                    "type": "desayuno",
+                    "principal_ingredient": "pan"
+                },
+                "americano": {
+                    "price": 2200,
+                    "type": "desayuno",
+                    "principal_ingredient": "café"
+                }
+            },
+            "breads": {
+                "cesta_de_pan": {
+                    "price": 750,
+                    "type": "pan",
+                    "principal_ingredient": "pan"
+                },
+                "focaccia_al_romero": {
+                    "price": 700,
+                    "type": "pan",
+                    "principal_ingredient": "romero"
+                },
+                "focaccia_de_jamon_serrano_tomate_y_arucula": {
+                    "price": 2000,
+                    "type": "pan",
+                    "principal_ingredient": "jamón serrano"
+                }
+            },
+            "starters": {
+                "bruchettas": {
+                    "price": 1800,
+                    "type": "croqueta",
+                    "principal_ingredient": "pan"
+                },
+                "empanadillas_de_cangrejo_o_pina_y_queso": {
+                    "price": 1200,
+                    "type": "croqueta",
+                    "principal_ingredient": "cangrejo"
+                },
+                "tostones_rellenos": {
+                    "price": 1300,
+                    "type": "tostones",
+                    "principal_ingredient": "plátano"
+                },
+                "chispitas_de_malanga_con_camarones": {
+                    "price": 1100,
+                    "type": "croqueta",
+                    "principal_ingredient": "malanga"
+                },
+                "croquetas_de_pescado_o_pollo": {
+                    "price": 1200,
+                    "type": "croqueta",
+                    "principal_ingredient": "pescado"
+                },
+                "casabe_taino": {
+                    "price": 990,
+                    "type": "pan",
+                    "principal_ingredient": "yuca"
+                },
+                "tacos_de_vaca_frita_o_pescado": {
+                    "price": 1900,
+                    "type": "taco",
+                    "principal_ingredient": "vaca frita"
+                },
+                "ceviche_maradentro": {
+                    "price": 2100,
+                    "type": "tartar",
+                    "principal_ingredient": "pescado"
+                },
+                "rollitos_de_salmon": {
+                    "price": 2200,
+                    "type": "rollito",
+                    "principal_ingredient": "salmon"
+                },
+                "carpaccio_de_tuna": {
+                    "price": 2300,
+                    "type": "carpaccio",
+                    "principal_ingredient": "tuna"
+                },
+                "sushi_nigiri": {
+                    "price": 2000,
+                    "type": "sushi",
+                    "principal_ingredient": "arroz"
+                },
+                "dumplings_de_carne": {
+                    "price": 1800,
+                    "type": "dumpling",
+                    "principal_ingredient": "carne"
+                },
+                "carpaccio_de_res": {
+                    "price": 2800,
+                    "type": "carpaccio",
+                    "principal_ingredient": "res"
+                }
+            },
+            "main": {
+                "pollo_horneado": {
+                    "price": 2600,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "pechuga_de_pollo_grillada": {
+                    "price": 2800,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "chilindron_de_cordero_al_tinto": {
+                    "price": 3500,
+                    "type": "cordero",
+                    "principal_ingredient": "cordero"
+                },
+                "masas_de_cerdo_confitadas": {
+                    "price": 3200,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "lonjas_de_cerdo_asadas_en_cazuela": {
+                    "price": 3400,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "costillas_guajiras": {
+                    "price": 3800,
+                    "type": "cerdo",
+                    "principal_ingredient": "costillas"
+                },
+                "ropa_vieja_frita": {
+                    "price": 2700,
+                    "type": "carne",
+                    "principal_ingredient": "carne"
+                },
+                "bistec_de_palomilla": {
+                    "price": 6800,
+                    "type": "bistec",
+                    "principal_ingredient": "res"
+                },
+                "chivito_uruguayo": {
+                    "price": 8200,
+                    "type": "bistec",
+                    "principal_ingredient": "carne"
+                },
+                "camarones": {
+                    "price": 3600,
+                    "type": "marisco",
+                    "principal_ingredient": "camarones"
+                },
+                "langosta": {
+                    "price": 4300,
+                    "type": "marisco",
+                    "principal_ingredient": "langosta"
+                },
+                "pesca_del_dia": {
+                    "price": 3200,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                }
+            },
+            "fittings": {
+                "arroz_blanco": {
+                    "price": 700,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "arroz_verde": {
+                    "price": 700,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "frijoles_dormidos": {
+                    "price": 700,
+                    "type": "frijoles",
+                    "principal_ingredient": "frijoles"
+                },
+                "moros_y_cristianos": {
+                    "price": 700,
+                    "type": "arroz",
+                    "principal_ingredient": "frijoles y arroz"
+                },
+                "tostones": {
+                    "price": 700,
+                    "type": "tostones",
+                    "principal_ingredient": "plátano"
+                },
+                "maduros": {
+                    "price": 700,
+                    "type": "plátano",
+                    "principal_ingredient": "plátano"
+                },
+                "pure_de_boniato": {
+                    "price": 700,
+                    "type": "pure",
+                    "principal_ingredient": "boniato"
+                }
+            },
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {
+                "copa_de_helado": {
+                    "price": 800,
+                    "type": "helado",
+                    "principal_ingredient": "helado"
+                },
+                "brownie_y_helado": {
+                    "price": 1300,
+                    "type": "brownie",
+                    "principal_ingredient": "chocolate"
+                },
+                "cheesecake_de_guayaba": {
+                    "price": 1200,
+                    "type": "pastel",
+                    "principal_ingredient": "guayaba"
+                },
+                "casquitos_de_guayaba_con_queso_guajiro": {
+                    "price": 900,
+                    "type": "pastel",
+                    "principal_ingredient": "guayaba"
+                },
+                "flan_licuado": {
+                    "price": 1200,
+                    "type": "flan",
+                    "principal_ingredient": "huevo"
+                },
+                "tarta_de_limon": {
+                    "price": 1000,
+                    "type": "pastel",
+                    "principal_ingredient": "limón"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "limonada_natural": {
+                        "price": 950,
+                        "type": "jugo",
+                        "principal_ingredient": "limón"
+                    },
+                    "limonada_frescura": {
+                        "price": 950,
+                        "type": "jugo",
+                        "principal_ingredient": "limón"
+                    },
+                    "maradentro": {
+                        "price": 950,
+                        "type": "jugo",
+                        "principal_ingredient": "maracuyá"
+                    },
+                    "clarete": {
+                        "price": 950,
+                        "type": "vino",
+                        "principal_ingredient": "uva"
+                    },
+                    "vino_blanco_de_verano": {
+                        "price": 950,
+                        "type": "vino",
+                        "principal_ingredient": "uva"
+                    },
+                    "licor_marejada": {
+                        "price": 950,
+                        "type": "licor",
+                        "principal_ingredient": "frutas"
+                    },
+                    "rubi": {
+                        "price": 950,
+                        "type": "refresco",
+                        "principal_ingredient": "frutas"
+                    },
+                    "limonada_pepino_y_jengibre": {
+                        "price": 950,
+                        "type": "jugo",
+                        "principal_ingredient": "pepino"
+                    },
+                    "agua_nacional": {
+                        "price": 450,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "agua_importada": {
+                        "price": 500,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "agua_tonica_nacional": {
+                        "price": 700,
+                        "type": "agua tónica",
+                        "principal_ingredient": "agua"
+                    },
+                    "agua_tonica_importada": {
+                        "price": 800,
+                        "type": "agua tónica",
+                        "principal_ingredient": "agua"
+                    },
+                    "refresco_nacional": {
+                        "price": 450,
+                        "type": "refresco",
+                        "principal_ingredient": "azúcar"
+                    },
+                    "refresco_importado": {
+                        "price": 600,
+                        "type": "refresco",
+                        "principal_ingredient": "azúcar"
+                    },
+                    "malta": {
+                        "price": 500,
+                        "type": "refresco",
+                        "principal_ingredient": "malta"
+                    },
+                    "energizantes": {
+                        "price": 600,
+                        "type": "energizante",
+                        "principal_ingredient": "cafeína"
+                    },
+                    "batido_de_frutas": {
+                        "price": 750,
+                        "type": "batido",
+                        "principal_ingredient": "frutas"
+                    },
+                    "batido_de_helado": {
+                        "price": 900,
+                        "type": "batido",
+                        "principal_ingredient": "helado"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

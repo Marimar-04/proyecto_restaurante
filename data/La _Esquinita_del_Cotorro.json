@@ -1,0 +1,196 @@
+{
+    "name": "La Esquinita del Cotorro",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/laesquinitadelcotorro/?locale=ne_NP&hl=tr",
+        "facebook": "https://www.facebook.com/laesquinita.delcotorro.5/",
+        "telephone_number": []
+    },
+    "location": {
+        "municipality": "Cotorro",
+        "direction": "Avenida 71",
+        "coordinates": "23.044866326633787, -82.26903572471659"
+    },
+    "valoration": {
+        "quality": "",
+        "google": null,
+        "cant_g": null,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": 24,
+        "areas": {
+            "inside": true,
+            "outside": false,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": null
+        },
+        "time_of_service": 8
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "10:00",
+            "tue": "10:00",
+            "wed": "10:00",
+            "thu": "10:00",
+            "fri": "10:00",
+            "sat": "10:00",
+            "sun": "10:00"
+        },
+        "close": {
+            "mon": "20:00",
+            "tue": "20:00",
+            "wed": "20:00",
+            "thu": "20:00",
+            "fri": "20:00",
+            "sat": "20:00",
+            "sun": "20:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": false,
+        "parking": false,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "pan_con_jamon": {
+                    "price": 240,
+                    "type": "pan",
+                    "principal_ingredient": "jamón"
+                },
+                "pan_con_jamon_y_chorizo": {
+                    "price": 270,
+                    "type": "pan",
+                    "principal_ingredient": "jamón y chorizo"
+                },
+                "pan_con_chorizo": {
+                    "price": 160,
+                    "type": "pan",
+                    "principal_ingredient": "chorizo"
+                }
+            },
+            "starters": {
+                "tostones": {
+                    "price": 200,
+                    "type": "tostones",
+                    "principal_ingredient": "plátano"
+                },
+                "tortilla_natural": {
+                    "price": 220,
+                    "type": "tortilla",
+                    "principal_ingredient": "huevo"
+                },
+                "tortilla_de_queso_blanco": {
+                    "price": 280,
+                    "type": "tortilla",
+                    "principal_ingredient": "queso blanco"
+                },
+                "tortilla_de_jamon": {
+                    "price": 320,
+                    "type": "tortilla",
+                    "principal_ingredient": "jamón"
+                },
+                "tortilla_de_chorizo": {
+                    "price": 320,
+                    "type": "tortilla",
+                    "principal_ingredient": "chorizo"
+                },
+                "tortilla_mixta": {
+                    "price": 410,
+                    "type": "tortilla",
+                    "principal_ingredient": "huevo y jamón"
+                }
+            },
+            "main": {},
+            "fittings": {},
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "agua": {
+                        "price": 200,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "refresco": {
+                        "price": 250,
+                        "type": "refresco",
+                        "principal_ingredient": "sabor artificial"
+                    },
+                    "jugo": {
+                        "price": 180,
+                        "type": "jugo",
+                        "principal_ingredient": "fruta"
+                    },
+                    "energizante": {
+                        "price": 300,
+                        "type": "energizante",
+                        "principal_ingredient": "cafeína"
+                    }
+                },
+                "cafes": {
+                    "cafe": {
+                        "price": 120,
+                        "type": "cafe",
+                        "principal_ingredient": "café"
+                    }
+                },
+                "alcoholics": {
+                    "cerveza": {
+                        "price": 300,
+                        "type": "cerveza",
+                        "principal_ingredient": "cereal"
+                    }
+                }
+            }
+        }
+    }
+}

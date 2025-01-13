@@ -1,0 +1,173 @@
+{
+    "name": "Shapuseros",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/shapuseros/?locale=es_LA",
+        "telephone_number": ["78701632"]
+    },
+    "location": {
+        "municipality": "Cerro",
+        "direction": "Calzada de Ayestarán entre San Pedro y Ayuntamineto",
+        "coordinates": "23.117449379429758, -82.38396448531616"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": 3.0,
+        "cant_g": 1,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["rapida"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": false,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "09:00",
+            "tue": "09:00",
+            "wed": "09:00",
+            "thu": "09:00",
+            "fri": "09:00",
+            "sat": "09:00",
+            "sun": "09:00"
+        },
+        "close": {
+            "mon": "21:00",
+            "tue": "21:00",
+            "wed": "21:00",
+            "thu": "21:00",
+            "fri": "21:00",
+            "sat": "21:00",
+            "sun": "21:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": null,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "hamburguesa_de_pollo": {
+                    "price": 500,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "pollo"
+                },
+                "hamburguesa_de_cerdo": {
+                    "price": 550,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "hamburguesa_de_res": {
+                    "price": 600,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "res"
+                },
+                "hamburguesa_shapusero": {
+                    "price": 1200,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "mixta"
+                }
+            },
+            "starters": {},
+            "main": {},
+            "fittings": {},
+            "pastas": {},
+            "pizzas": {},
+            "additions": {
+                "queso": {
+                    "price": 150,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "jamon": {
+                    "price": 120,
+                    "type": "embutido",
+                    "principal_ingredient": "jamon"
+                },
+                "chorizo": {
+                    "price": 150,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "bacon": {
+                    "price": 155,
+                    "type": "embutido",
+                    "principal_ingredient": "bacon"
+                },
+                "huevo": {
+                    "price": 150,
+                    "type": "huevo",
+                    "principal_ingredient": "huevo"
+                },
+                "cebolla": {
+                    "price": 50,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                },
+                "salsa_bbq": {
+                    "price": 30,
+                    "type": "salsa",
+                    "principal_ingredient": "bbq"
+                }
+            },
+            "dessert": {},
+            "drinks": {
+                "general": {},
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

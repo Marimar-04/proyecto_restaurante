@@ -1,0 +1,309 @@
+{
+    "name": "Ruta 66",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "",
+        "telephone_number": ["52833863"]
+    },
+    "location": {
+        "municipality": "Guanabacoa",
+        "direction": "",
+        "coordinates": ""
+    },
+    "valoration": {
+        "quality": "",
+        "google": null,
+        "cant_g": null,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "21:30",
+            "tue": "21:30",
+            "wed": "21:30",
+            "thu": "21:30",
+            "fri": "21:30",
+            "sat": "21:30",
+            "sun": "21:30"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": false,
+        "parking": false,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": null
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "super_route_66_cerdo": {
+                    "price": 1965.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "castrol_cerdo": {
+                    "price": 1255.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "texaco_cerdo": {
+                    "price": 940.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                }
+            },
+            "starters": {
+                "tostones_rellenos_de_jamon_y_queso": {
+                    "price": 1090.0,
+                    "type": "tostones",
+                    "principal_ingredient": "platano"
+                },
+                "tostones_rellenos_de_bolognesa": {
+                    "price": 950.0,
+                    "type": "tostones",
+                    "principal_ingredient": "platano"
+                },
+                "tostones_rellenos_de_vegetales_salteados_y_queso": {
+                    "price": 910.0,
+                    "type": "tostones",
+                    "principal_ingredient": "platano"
+                },
+                "garbanzos_fritos": {
+                    "price": 1900.0,
+                    "type": "legumbre",
+                    "principal_ingredient": "garbanzo"
+                },
+                "ceviche_de_pescado": {
+                    "price": 1500.0,
+                    "type": "ceviche",
+                    "principal_ingredient": "pescado"
+                },
+                "frituras_de_malanga": {
+                    "price": 595.0,
+                    "type": "fritura",
+                    "principal_ingredient": "malanga"
+                },
+                "croquetas": {
+                    "price": 490.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "masa"
+                },
+                "brosquetas": {
+                    "price": 420.0,
+                    "type": "brocheta",
+                    "principal_ingredient": "carne"
+                },
+                "tamal": {
+                    "price": 400.0,
+                    "type": "tamal",
+                    "principal_ingredient": "maiz"
+                }
+            },
+            "main": {
+                "lomo_ahumado_con_gratinado_de_queso": {
+                    "price": 1850.0,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                },
+                "lomo_ahumado_con_salsa_de_pina": {
+                    "price": 2000.0,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                },
+                "enchilado_de_camarones": {
+                    "price": 3300.0,
+                    "type": "marisco",
+                    "principal_ingredient": "camarones"
+                },
+                "camarones_al_ajillo": {
+                    "price": 2950.0,
+                    "type": "marisco",
+                    "principal_ingredient": "camarones"
+                },
+                "camarones_en_salsa_de_frutas": {
+                    "price": 2800.0,
+                    "type": "marisco",
+                    "principal_ingredient": "camarones"
+                },
+                "enchilado_de_pulpo": {
+                    "price": 2690.0,
+                    "type": "marisco",
+                    "principal_ingredient": "pulpo"
+                },
+                "pulpo_al_ajillo": {
+                    "price": 2470.0,
+                    "type": "marisco",
+                    "principal_ingredient": "pulpo"
+                },
+                "filete_de_pescado_route_66": {
+                    "price": 3550.0,
+                    "type": "filete",
+                    "principal_ingredient": "pescado"
+                },
+                "monte_toro_a_la_francesa": {
+                    "price": 2400.0,
+                    "type": "filete",
+                    "principal_ingredient": "carne"
+                },
+                "filete_de_pescado_en_salsa_de_frutas": {
+                    "price": 2250.0,
+                    "type": "filete",
+                    "principal_ingredient": "pescado"
+                },
+                "filete_de_pescado_a_la_plancha": {
+                    "price": 1800.0,
+                    "type": "filete",
+                    "principal_ingredient": "pescado"
+                },
+                "arroz_frito_especial_route_66": {
+                    "price": 2065.0,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "arroz_frito": {
+                    "price": 1280.0,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                }
+            },
+            "fittings": {
+                "arroz_blanco": {
+                    "price": 200.0,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "pure_de_malanga": {
+                    "price": 335.0,
+                    "type": "pure",
+                    "principal_ingredient": "malanga"
+                },
+                "ensalada_mixta_de_estacion": {
+                    "price": 425.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                }
+            },
+            "pastas": {
+                "lasana_queso_gouda": {
+                    "price": 1420.0,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                },
+                "espaguetis_de_queso_gouda": {
+                    "price": 1100.0,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                }
+            },
+            "pizzas": {
+                "pizza_de_queso_gouda": {
+                    "price": 850.0,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                }
+            },
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "refrescos_importados": {
+                        "price": 240.0,
+                        "type": "refresco",
+                        "principal_ingredient": "azucar"
+                    },
+                    "malta_importada": {
+                        "price": 250.0,
+                        "type": "malta",
+                        "principal_ingredient": "cebada"
+                    },
+                    "agua_mineral": {
+                        "price": 190.0,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "jugos_importados": {
+                        "price": 210.0,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "cerveza_importada": {
+                        "price": 210.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    },
+                    "vino_tinto": {
+                        "price": 2200.0,
+                        "type": "vino",
+                        "principal_ingredient": "uvas"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,319 @@
+{
+    "name": "La Gordy",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "",
+        "telephone_number": ["76837364", "53871899"]
+    },
+    "location": {
+        "municipality": "Boyeros",
+        "direction": "Calle 184 #41308 e/ 413 y 415, Santiago de las Vegas, Boyeros",
+        "coordinates": "22.966803010831534, -82.38391888345963"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": 5.0,
+        "cant_g": 3,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["criolla", "internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": false,
+            "bar": null,
+            "bathroom": true,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "",
+            "tue": "",
+            "wed": "11:30",
+            "thu": "11:30",
+            "fri": "11:30",
+            "sat": "11:30",
+            "sun": "11:30"
+        },
+        "close": {
+            "mon": "",
+            "tue": "",
+            "wed": "21:00",
+            "thu": "21:00",
+            "fri": "21:00",
+            "sat": "21:00",
+            "sun": "21:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": true,
+        "delibery_m": false,
+        "generator": null,
+        "wifi": null,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": false,
+        "10%": false
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "Tostones_Criollos": {
+                    "price": 350,
+                    "type": "tostones",
+                    "principal_ingredient": "plátano"
+                },
+                "Fritura_de_Malanga": {
+                    "price": 400,
+                    "type": "fritura",
+                    "principal_ingredient": "malanga"
+                },
+                "Garbanzos_Fritos": {
+                    "price": 750,
+                    "type": "garbanzos",
+                    "principal_ingredient": "garbanzo"
+                },
+                "Garbanzos_Fritos_La_Gordy": {
+                    "price": 800,
+                    "type": "garbanzos",
+                    "principal_ingredient": "garbanzo"
+                }
+            },
+            "main": {
+                "Fajitas_de_Pollo_Encebollada": {
+                    "price": 950,
+                    "type": "fajitas",
+                    "principal_ingredient": "pollo"
+                },
+                "Fajitas_de_Pollo_Empanadas": {
+                    "price": 110,
+                    "type": "fajitas",
+                    "principal_ingredient": "pollo"
+                },
+                "Fajitas_de_Pollo_Grille": {
+                    "price": 950,
+                    "type": "fajitas",
+                    "principal_ingredient": "pollo"
+                },
+                "Pollo_a_la_Piña": {
+                    "price": 1100,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "Pollo_Deshuesado_Empanado": {
+                    "price": 1050,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "Pollo_Deshuesado_Gratinado": {
+                    "price": 1250,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "Fajitas_de_Pechuga_Encebolladas": {
+                    "price": 1200,
+                    "type": "fajitas",
+                    "principal_ingredient": "pechuga de pollo"
+                },
+                "Fajitas_de_Pechuga_Empanadas": {
+                    "price": 1350,
+                    "type": "fajitas",
+                    "principal_ingredient": "pechuga de pollo"
+                },
+                "Pechuga_de_Pollo_Grille": {
+                    "price": 1200,
+                    "type": "pechuga",
+                    "principal_ingredient": "pollo"
+                },
+                "Pechuga_de_Pollo_a_la_Piña": {
+                    "price": 1300,
+                    "type": "pechuga",
+                    "principal_ingredient": "pollo"
+                },
+                "Pechuga_de_Pollo_Empanada": {
+                    "price": 1350,
+                    "type": "pechuga",
+                    "principal_ingredient": "pollo"
+                },
+                "Pechuga_de_Pollo_Gratinada": {
+                    "price": 1500,
+                    "type": "pechuga",
+                    "principal_ingredient": "pollo"
+                },
+                "Pechuga_Gordon_Blue": {
+                    "price": 2000,
+                    "type": "pechuga",
+                    "principal_ingredient": "pollo"
+                },
+                "Bistec_de_Higado_de_Cerdo": {
+                    "price": 800,
+                    "type": "bistec",
+                    "principal_ingredient": "hígado de cerdo"
+                },
+                "Higado_de_Cerdo_a_la_Italiana": {
+                    "price": 850,
+                    "type": "bistec",
+                    "principal_ingredient": "hígado de cerdo"
+                },
+                "Fricase_de_Cerdo": {
+                    "price": 1200,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "Fajitas_de_Cerdo_Encebolladas": {
+                    "price": 1200,
+                    "type": "fajitas",
+                    "principal_ingredient": "cerdo"
+                },
+                "Fajitas_de_Cerdo_Empanadas": {
+                    "price": 1350,
+                    "type": "fajitas",
+                    "principal_ingredient": "cerdo"
+                },
+                "Masa_de_Cerdo_Fritas": {
+                    "price": 1250,
+                    "type": "masas",
+                    "principal_ingredient": "cerdo"
+                },
+                "Bistec_de_Cerdo_Grille": {
+                    "price": 1200,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "Bistec_de_Cerdo_a_la_Piña": {
+                    "price": 1300,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "Bistec_de_Cerdo_Empanado": {
+                    "price": 1350,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "Bistec_de_Cerdo_Gratinado": {
+                    "price": 1500,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "Bistec_Uruguayo_de_Cerdo": {
+                    "price": 2000,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "Chuleta_Ahumada_de_Cerdo": {
+                    "price": 1300,
+                    "type": "chuleta",
+                    "principal_ingredient": "cerdo"
+                },
+                "Chuleta_Ahumada_de_Cerdo_Gratinada": {
+                    "price": 1500,
+                    "type": "chuleta",
+                    "principal_ingredient": "cerdo"
+                },
+                "Eperlan_de_Pescado": {
+                    "price": 1400,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "Filete_de_Pescado_Grille": {
+                    "price": 1250,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "Filete_de_Pescado_Empanado": {
+                    "price": 1400,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "Filete_de_Pescado_Gratinado": {
+                    "price": 1800,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "Filete_Canciller": {
+                    "price": 2000,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "Ropa_Vieja_de_Cordero": {
+                    "price": 950,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "cordero"
+                },
+                "Ropa_Vieja_de_Res": {
+                    "price": 1300,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "res"
+                },
+                "Vaca_Frita": {
+                    "price": 1300,
+                    "type": "vaca frita",
+                    "principal_ingredient": "res"
+                }
+            },
+            "fittings": {
+                "Arooz_Moro": {
+                    "price": 400,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "Arroz_Frito": {
+                    "price": null,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                }
+            },
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {},
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

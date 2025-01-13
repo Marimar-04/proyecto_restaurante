@@ -1,0 +1,295 @@
+{
+    "name": "Casa del Maiz",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/explore/locations/1727121417357588/la-casa-del-maiz/?hl=am-et",
+        "facebook": "https://m.facebook.com/lacasadelmaizcuba/?locale=es_LA",
+        "telephone_number": ["52003758"]
+    },
+    "location": {
+        "municipality": "Arroyo Naranjo",
+        "direction": "Avenida 1er anillo % Calzada de Managua y San Agustin, Arroyo Naranjo",
+        "coordinates": "23.066076695533493, -82.3395638374345"
+    },
+    "valoration": {
+        "quality": "",
+        "google": null,
+        "cant_g": null,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["criolla"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "10:00",
+            "tue": "10:00",
+            "wed": "10:00",
+            "thu": "10:00",
+            "fri": "10:00",
+            "sat": "10:00",
+            "sun": "10:00"
+        },
+        "close": {
+            "mon": "20:00",
+            "tue": "20:00",
+            "wed": "20:00",
+            "thu": "20:00",
+            "fri": "20:00",
+            "sat": "20:00",
+            "sun": "20:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": false,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "fritura_de_malte": {
+                    "price": 350,
+                    "type": "croqueta",
+                    "principal_ingredient": "malte"
+                },
+                "fritura_de_malanga": {
+                    "price": 450,
+                    "type": "croqueta",
+                    "principal_ingredient": "malanga"
+                },
+                "toston_relleno": {
+                    "price": 450,
+                    "type": "tostones",
+                    "principal_ingredient": "platano"
+                },
+                "chicharron": {
+                    "price": 500,
+                    "type": "carne frita",
+                    "principal_ingredient": "cerdo"
+                },
+                "garbanzos": {
+                    "price": 550,
+                    "type": "legumbre",
+                    "principal_ingredient": "garbanzo"
+                },
+                "cubito_de_maiz": {
+                    "price": 1070,
+                    "type": "fritura",
+                    "principal_ingredient": "maiz"
+                },
+                "garbanzos_fritos": {
+                    "price": 450,
+                    "type": "legumbre",
+                    "principal_ingredient": "garbanzo"
+                }
+            },
+            "main": {
+                "fricase_de_cerdo": {
+                    "price": 1150,
+                    "type": "estofado",
+                    "principal_ingredient": "cerdo"
+                },
+                "bistec_de_cerdo": {
+                    "price": 1250,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "lomo_ahumado": {
+                    "price": 1450,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                },
+                "costilla_ahumada": {
+                    "price": 1450,
+                    "type": "costilla",
+                    "principal_ingredient": "cerdo"
+                },
+                "fajitas_de_cerdo": {
+                    "price": 1150,
+                    "type": "fajitas",
+                    "principal_ingredient": "cerdo"
+                },
+                "fajita_de_pollo": {
+                    "price": 1150,
+                    "type": "fajitas",
+                    "principal_ingredient": "pollo"
+                },
+                "alitas_de_pollo": {
+                    "price": 1050,
+                    "type": "alitas",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_en_cazuela": {
+                    "price": 1050,
+                    "type": "cazuela",
+                    "principal_ingredient": "pollo"
+                },
+                "pechuga_de_pollo": {
+                    "price": 1650,
+                    "type": "pechuga",
+                    "principal_ingredient": "pollo"
+                },
+                "filete_de_pescado": {
+                    "price": 1480,
+                    "type": "filete",
+                    "principal_ingredient": "pescado"
+                },
+                "espenan": {
+                    "price": 1280,
+                    "type": "desconocido",
+                    "principal_ingredient": "desconocido"
+                },
+                "ropa_vieja": {
+                    "price": 1420,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "carne"
+                },
+                "chilindron_de_carnero": {
+                    "price": 1420,
+                    "type": "estofado",
+                    "principal_ingredient": "carnero"
+                }
+            },
+            "fittings": {
+                "arroz_salteado": {
+                    "price": 530,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "arroz_moro": {
+                    "price": 250,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "arroz_blanco": {
+                    "price": 180,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "tamal_especial": {
+                    "price": 90,
+                    "type": "tamal",
+                    "principal_ingredient": "maiz"
+                },
+                "toston_criollo": {
+                    "price": 450,
+                    "type": "tostones",
+                    "principal_ingredient": "platano"
+                },
+                "ensalada_mixta": {
+                    "price": 450,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                },
+                "aji_relleno": {
+                    "price": 650,
+                    "type": "aji",
+                    "principal_ingredient": "aji"
+                },
+                "malanga_hervida": {
+                    "price": 425,
+                    "type": "vegetal",
+                    "principal_ingredient": "malanga"
+                },
+                "pure_de_boniato": {
+                    "price": 250,
+                    "type": "pure",
+                    "principal_ingredient": "boniato"
+                },
+                "platano_maduro_frito": {
+                    "price": 400,
+                    "type": "frito",
+                    "principal_ingredient": "platano"
+                },
+                "yuca_con_mojo": {
+                    "price": 250,
+                    "type": "yuca",
+                    "principal_ingredient": "yuca"
+                },
+                "fufu_de_platano": {
+                    "price": 300,
+                    "type": "pure",
+                    "principal_ingredient": "platano"
+                }
+            },
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {
+                "helado_pote_de_1lt": {
+                    "price": 850,
+                    "type": "helado",
+                    "principal_ingredient": "leche"
+                },
+                "helado_pote_pequeno": {
+                    "price": 490,
+                    "type": "helado",
+                    "principal_ingredient": "leche"
+                },
+                "arroz_con_leche": {
+                    "price": 200,
+                    "type": "postre",
+                    "principal_ingredient": "arroz"
+                }
+            },
+            "drinks": {
+                "general": {},
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

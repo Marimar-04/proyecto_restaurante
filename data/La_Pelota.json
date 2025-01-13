@@ -1,0 +1,195 @@
+{
+    "name": "La Catedral",
+    "sector": "estatal",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/groups/fotosdelahabana/posts/1551441732286170/",
+        "telephone_number": []
+    },
+    "location": {
+        "municipality": "Plaza de la Revolucion",
+        "direction": "23 y 12 El Vedado",
+        "coordinates": "23.12723863237977, -82.39909372948276"
+    },
+    "valoration": {
+        "quality": "regular",
+        "google": 2.3,
+        "cant_g": 6,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "10:00",
+            "tue": "10:00",
+            "wed": "10:00",
+            "thu": "10:00",
+            "fri": "10:00",
+            "sat": "10:00",
+            "sun": "10:00"
+        },
+        "close": {
+            "mon": "22:00",
+            "tue": "22:00",
+            "wed": "22:00",
+            "thu": "22:00",
+            "fri": "22:00",
+            "sat": "22:00",
+            "sun": "22:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": null,
+        "generator": null,
+        "wifi": null,
+        "parking": true,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "chicharrón_58g": {
+                    "price": 120,
+                    "type": "chicharrón",
+                    "principal_ingredient": "cerdo"
+                },
+                "croqueta_36g": {
+                    "price": 15,
+                    "type": "croqueta",
+                    "principal_ingredient": "cerdo"
+                },
+                "entrante_de_jamón": {
+                    "price": 300,
+                    "type": "entrante",
+                    "principal_ingredient": "jamón"
+                }
+            },
+            "main": {
+                "bistec_de_cerdo": {
+                    "price": 600,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "masa_de_cerdo_frita": {
+                    "price": 600,
+                    "type": "masa frita",
+                    "principal_ingredient": "cerdo"
+                },
+                "costilla_de_credo_frito": {
+                    "price": 600,
+                    "type": "costilla frita",
+                    "principal_ingredient": "cerdo"
+                },
+                "pollo_grillé": {
+                    "price": 550,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_asado": {
+                    "price": 550,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "picadillo": {
+                    "price": 250,
+                    "type": "picadillo",
+                    "principal_ingredient": "carne molida"
+                },
+                "arroz_moro": {
+                    "price": 100,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "vianda_hervida": {
+                    "price": 40,
+                    "type": "vianda",
+                    "principal_ingredient": "vegetales"
+                }
+            },
+            "fittings": {},
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "energizante": {
+                        "price": 200,
+                        "type": "energizante",
+                        "principal_ingredient": "energía"
+                    },
+                    "refresco_de_cola": {
+                        "price": 190,
+                        "type": "refresco",
+                        "principal_ingredient": "cola"
+                    },
+                    "jugo_de_frutas": {
+                        "price": 180,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "cerveza_importada": {
+                        "price": 200,
+                        "type": "cerveza",
+                        "principal_ingredient": "malta"
+                    }
+                }
+            }
+        }
+    }
+}

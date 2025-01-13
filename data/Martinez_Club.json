@@ -1,0 +1,289 @@
+{
+    "name": "Martinez Club",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "",
+        "telephone_number": []
+    },
+    "location": {
+        "municipality": "Cotorro",
+        "direction": "",
+        "coordinates": "23.04724235986193, -82.26782457367744"
+    },
+    "valoration": {
+        "quality": "",
+        "google": null,
+        "cant_g": null,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "09:00",
+            "tue": "09:00",
+            "wed": "09:00",
+            "thu": "09:00",
+            "fri": "09:00",
+            "sat": "09:00",
+            "sun": "09:00"
+        },
+        "close": {
+            "mon": "21:00",
+            "tue": "21:00",
+            "wed": "21:00",
+            "thu": "21:00",
+            "fri": "21:00",
+            "sat": "21:00",
+            "sun": "21:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": true,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": false,
+        "parking": false,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "pan_con_jamon": {
+                    "price": 250,
+                    "type": "pan",
+                    "principal_ingredient": "jamón"
+                },
+                "pan_con_perro": {
+                    "price": 200,
+                    "type": "pan",
+                    "principal_ingredient": "perrito"
+                },
+                "pan_con_croqueta": {
+                    "price": 100,
+                    "type": "pan",
+                    "principal_ingredient": "croqueta"
+                },
+                "hamburguesa_simple": {
+                    "price": 230,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne de res"
+                },
+                "hamburguesa_con_mayonesa": {
+                    "price": 280,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne de res, mayonesa"
+                },
+                "hamburguesa_con_jamon": {
+                    "price": 350,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne de res, jamón"
+                },
+                "hamburguesa_con_chorizo": {
+                    "price": 350,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne de res, chorizo"
+                },
+                "hamburguesa_con_cebolla": {
+                    "price": 330,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne de res, cebolla"
+                },
+                "hamburguesa_con_queso_blanco": {
+                    "price": 330,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne de res, queso blanco"
+                },
+                "hamburguesa_con_queso_gouda": {
+                    "price": 430,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne de res, queso gouda"
+                }
+            },
+            "starters": {
+                "fritura_de_malanga": {
+                    "price": 300,
+                    "type": "fritura",
+                    "principal_ingredient": "malanga"
+                },
+                "ensalada_fria": {
+                    "price": 150,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                },
+                "croquetas": {
+                    "price": 300,
+                    "type": "croqueta",
+                    "principal_ingredient": "carne"
+                },
+                "tostones_al_ajillo": {
+                    "price": 300,
+                    "type": "tostones",
+                    "principal_ingredient": "plátano"
+                }
+            },
+            "main": {
+                "pollo_chiflado": {
+                    "price": 700,
+                    "type": "bistec",
+                    "principal_ingredient": "pollo"
+                },
+                "masa_de_cerdo_frita": {
+                    "price": 1100,
+                    "type": "masas",
+                    "principal_ingredient": "cerdo"
+                }
+            },
+            "fittings": {},
+            "pastas": {
+                "espaguetti_con_queso_blanco": {
+                    "price": 350,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso blanco"
+                },
+                "espaguetti_con_queso_gouda": {
+                    "price": 500,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso gouda"
+                }
+            },
+            "pizzas": {
+                "pizza_con_queso_blanco": {
+                    "price": 200,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso blanco"
+                },
+                "pizza_con_queso_gouda": {
+                    "price": 350,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso gouda"
+                },
+                "pizza_familiar_con_queso_blanco": {
+                    "price": 450,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso blanco"
+                },
+                "pizza_familiar_con_queso_gouda": {
+                    "price": 650,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso gouda"
+                }
+            },
+            "additions": {
+                "jamon": {
+                    "price": 120,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "perrito": {
+                    "price": 120,
+                    "type": "embutido",
+                    "principal_ingredient": "perrito"
+                },
+                "chorizo": {
+                    "price": 120,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "cebolla": {
+                    "price": 100,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                },
+                "queso_blanco": {
+                    "price": 100,
+                    "type": "queso",
+                    "principal_ingredient": "queso blanco"
+                },
+                "queso_gouda": {
+                    "price": 200,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                },
+                "pina": {
+                    "price": 100,
+                    "type": "fruta",
+                    "principal_ingredient": "piña"
+                }
+            },
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "refresco": {
+                        "price": 20,
+                        "type": "refresco",
+                        "principal_ingredient": "agua, azúcar"
+                    },
+                    "jugo": {
+                        "price": 50,
+                        "type": "jugo",
+                        "principal_ingredient": "fruta"
+                    },
+                    "malteada": {
+                        "price": 330,
+                        "type": "batido",
+                        "principal_ingredient": "leche, helado"
+                    }
+                },
+                "cafes": {
+                    "expresso": {
+                        "price": 20,
+                        "type": "espresso",
+                        "principal_ingredient": "café"
+                    }
+                },
+                "alcoholics": {}
+            }
+        }
+    }
+}

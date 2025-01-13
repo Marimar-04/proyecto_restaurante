@@ -1,0 +1,277 @@
+{
+    "name": "El Desafio",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/groups/385360142105063/",
+        "telephone_number": ["52493259"]
+    },
+    "location": {
+        "municipality": "Cotorro",
+        "direction": "Calle 58 número 6712 % 67 y 69, Cotorro",
+        "coordinates": "23.044539626520812, -82.24796036018495"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.6,
+        "cant_g": 17,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["criolla"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": true,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "22:00",
+            "tue": "22:00",
+            "wed": "22:00",
+            "thu": "22:00",
+            "fri": "22:00",
+            "sat": "22:00",
+            "sun": "22:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": false,
+        "parking": true,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": false
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "tostones_campesinos": {
+                    "price": 435.0,
+                    "type": "tostones",
+                    "principal_ingredient": "platano"
+                },
+                "eperlan": {
+                    "price": 985.0,
+                    "type": "fish",
+                    "principal_ingredient": "eperlan"
+                },
+                "croquetas": {
+                    "price": 575.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "jamon"
+                },
+                "coctel_de_langosta": {
+                    "price": 1135.0,
+                    "type": "coctel",
+                    "principal_ingredient": "langosta"
+                }
+            },
+            "main": {
+                "filete_de_pescado_empanado": {
+                    "price": 1995.0,
+                    "type": "filete",
+                    "principal_ingredient": "pescado"
+                },
+                "masa_frita": {
+                    "price": 1885.0,
+                    "type": "masa",
+                    "principal_ingredient": "cerdo"
+                },
+                "bistec_de_cerdo": {
+                    "price": 1885.0,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "lomo_deshuesado": {
+                    "price": 1885.0,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                },
+                "pierna_ahumada": {
+                    "price": 1945.0,
+                    "type": "pierna",
+                    "principal_ingredient": "cerdo"
+                },
+                "filete_de_cerdo": {
+                    "price": 2995.0,
+                    "type": "filete",
+                    "principal_ingredient": "cerdo"
+                },
+                "costilla": {
+                    "price": 1935.0,
+                    "type": "costilla",
+                    "principal_ingredient": "cerdo"
+                },
+                "langosta": {
+                    "price": 1985.0,
+                    "type": "langosta",
+                    "principal_ingredient": "langosta"
+                },
+                "pechuga_a_la_brasa": {
+                    "price": 1535.0,
+                    "type": "pechuga",
+                    "principal_ingredient": "pollo"
+                },
+                "enchilado_de_langosta": {
+                    "price": 2235.0,
+                    "type": "enchilado",
+                    "principal_ingredient": "langosta"
+                },
+                "langoston": {
+                    "price": 2685.0,
+                    "type": "langoston",
+                    "principal_ingredient": "langostino"
+                },
+                "lomo_al_carbon": {
+                    "price": 4440.0,
+                    "type": "lomo",
+                    "principal_ingredient": "res"
+                },
+                "chuleta": {
+                    "price": 1935.0,
+                    "type": "chuleta",
+                    "principal_ingredient": "cerdo"
+                }
+            },
+            "fittings": {
+                "arroz_blanco": {
+                    "price": 155.0,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "arroz_moro": {
+                    "price": 270.0,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz y frijoles"
+                }
+            },
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {
+                "dulce_de_leche": {
+                    "price": 795.0,
+                    "type": "dulce",
+                    "principal_ingredient": "leche"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "refresco_de_cola": {
+                        "price": 270.0,
+                        "type": "refresco",
+                        "principal_ingredient": "cola"
+                    },
+                    "refresco_de_limon": {
+                        "price": 270.0,
+                        "type": "refresco",
+                        "principal_ingredient": "limon"
+                    },
+                    "malta_morena": {
+                        "price": 325.0,
+                        "type": "malta",
+                        "principal_ingredient": "malta"
+                    },
+                    "yogurt_de_sabor": {
+                        "price": 225.0,
+                        "type": "yogurt",
+                        "principal_ingredient": "yogurt"
+                    },
+                    "agua_natural": {
+                        "price": 225.0,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "energizante": {
+                        "price": 295.0,
+                        "type": "energizante",
+                        "principal_ingredient": "energizantes"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "cerveza_heineken": {
+                        "price": 325.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "cerveza_unlager": {
+                        "price": 295.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "cerveza_hollandia": {
+                        "price": 270.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "cerveza_ashe": {
+                        "price": 270.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "cerveza_kiss": {
+                        "price": 265.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    }
+                }
+            }
+        }
+    }
+}

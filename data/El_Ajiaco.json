@@ -1,0 +1,486 @@
+{
+    "name": "Ajiaco Cafe",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/explore/locations/376420916276118/restaurante-el-ajiaco/?locale=bos%2Bslot%E3%80%90GB777.BET%E3%80%91.xyns",
+        "facebook": "https://www.facebook.com/cojimarrestaurant/?locale=es_LA",
+        "telephone_number": ["77650514"]
+    },
+    "location": {
+        "municipality": "Habana del Este",
+        "direction": "Calle 92 o Ave Los Pinos, #267, entre 27 y 28",
+        "coordinates": "23.161801281491297, -82.2967546043796"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.6,
+        "cant_g": 116,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": 5.0,
+        "cant_t": 396
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["internacional", "criolla"],
+        "capacity": 20,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": null,
+        "delivery": null,
+        "delibery_m": null,
+        "generator": null,
+        "wifi": false,
+        "parking": true,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": null
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "ceviche_de_pescado": {
+                    "price": 890,
+                    "type": "ceviche",
+                    "principal_ingredient": "pescado"
+                },
+                "coctel_de_camarones": {
+                    "price": 1200,
+                    "type": "coctel",
+                    "principal_ingredient": "camarones"
+                },
+                "coctel_de_langosta": {
+                    "price": 990,
+                    "type": "coctel",
+                    "principal_ingredient": "langosta"
+                },
+                "escabache_de_pescado_con_aderezo_de_aceitunas_y_cebolla": {
+                    "price": 990,
+                    "type": "escabeche",
+                    "principal_ingredient": "pescado"
+                },
+                "pulpo_fresco_en_vinagreta_de_cilantro_y_pimenton": {
+                    "price": 1350,
+                    "type": "pulpo",
+                    "principal_ingredient": "pulpo"
+                },
+                "ajiaco_cubano_con_dados_de_tamal_y_corona_de_ropa_vieja": {
+                    "price": 390,
+                    "type": "sopa",
+                    "principal_ingredient": "ropa vieja"
+                },
+                "sopa_crema_de_malanga_con_sofritos_de_ajo": {
+                    "price": 650,
+                    "type": "sopa",
+                    "principal_ingredient": "malanga"
+                },
+                "garbanzos_fritos_del_chef": {
+                    "price": 1470,
+                    "type": "garbanzos",
+                    "principal_ingredient": "garbanzos"
+                },
+                "croquetas_caseras_del_dia": {
+                    "price": 490,
+                    "type": "croqueta",
+                    "principal_ingredient": "variado"
+                },
+                "tostones_rellenos_con_ropa_vieja": {
+                    "price": 990,
+                    "type": "tostones",
+                    "principal_ingredient": "platanos verdes"
+                },
+                "tostones_rellenos_con_jamon_y_queso": {
+                    "price": 990,
+                    "type": "tostones",
+                    "principal_ingredient": "jamon y queso"
+                },
+                "tostones_rellenos_mixtos": {
+                    "price": 990,
+                    "type": "tostones",
+                    "principal_ingredient": "variado"
+                },
+                "cartucho_de_frituras_de_malanga": {
+                    "price": 490,
+                    "type": "fritura",
+                    "principal_ingredient": "malanga"
+                },
+                "tamal_en_cazuela_con_chorizo_y_cerdo_o_camarones": {
+                    "price": 1200,
+                    "type": "tamal",
+                    "principal_ingredient": "chorizo y cerdo"
+                },
+                "tamal_en_hoja_en_monteria_de_cerdo": {
+                    "price": 890,
+                    "type": "tamal",
+                    "principal_ingredient": "cerdo"
+                },
+                "tamal_en_hoja_con_salsa_chirnichurri": {
+                    "price": 420,
+                    "type": "tamal",
+                    "principal_ingredient": "salsa chimichurri"
+                }
+            },
+            "main": {
+                "arroz_a_la_cubana": {
+                    "price": 590,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "arroz_a_la_marinera": {
+                    "price": 2200,
+                    "type": "mariscos",
+                    "principal_ingredient": "mariscos"
+                },
+                "arroz_a_la_campesina": {
+                    "price": 1690,
+                    "type": "arroz",
+                    "principal_ingredient": "carne y vegetales"
+                },
+                "arroz_con_pollo_en_bano_de_cerveza": {
+                    "price": 1650,
+                    "type": "arroz",
+                    "principal_ingredient": "pollo"
+                },
+                "pescado_fresco_del_dia_con_salteado_de_albahaca_tomate_y_ajo": {
+                    "price": 1890,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "eperlan_o_minutas_de_pescado_con_mayonesa": {
+                    "price": 1890,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "cazuela_mixta_del_mar": {
+                    "price": 2450,
+                    "type": "mariscos",
+                    "principal_ingredient": "mariscos"
+                },
+                "filete_de_pescado_al_estilo_canciller": {
+                    "price": 2200,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "pulpo_estofado_en_vino_tinto_y_salsa_criolla": {
+                    "price": 2980,
+                    "type": "pulpo",
+                    "principal_ingredient": "pulpo"
+                },
+                "camaron_grille": {
+                    "price": 2190,
+                    "type": "camarones",
+                    "principal_ingredient": "camarones"
+                },
+                "camarones_cocidos_en_aceite_ajo_y_guindillas": {
+                    "price": 2400,
+                    "type": "mariscos",
+                    "principal_ingredient": "camarones"
+                },
+                "langosta_cocida_en_aceite_ajo_y_guindillas": {
+                    "price": 2450,
+                    "type": "mariscos",
+                    "principal_ingredient": "langosta"
+                },
+                "langosta_al_ron_en_salsa_criolla": {
+                    "price": 2400,
+                    "type": "mariscos",
+                    "principal_ingredient": "langosta"
+                },
+                "suprema_de_pollo_grille": {
+                    "price": 1400,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "fricase_de_pollo_al_estilo_campesino": {
+                    "price": 1690,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "suprema_de_pollo_relleno_con_jamon_y_queso": {
+                    "price": 1750,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "bistec_de_cerdo": {
+                    "price": 1450,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "masas_de_cerdo_fritas_con_marinado_de_ajo_y_oregano": {
+                    "price": 2490,
+                    "type": "masas",
+                    "principal_ingredient": "cerdo"
+                },
+                "patas_de_cerdo_cocidas_en_salsa_criolla": {
+                    "price": 1050,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "cerdo_empanado_y_relleno_con_jamon_y_queso": {
+                    "price": 1890,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "escalopes_de_cerdo_empanados": {
+                    "price": 1390,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "ropa_vieja_de_la_casa": {
+                    "price": 1690,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "carne"
+                },
+                "chilindron_de_carnero": {
+                    "price": 2150,
+                    "type": "carne",
+                    "principal_ingredient": "carnero"
+                },
+                "estofado_de_res": {
+                    "price": 1790,
+                    "type": "carne",
+                    "principal_ingredient": "res"
+                }
+            },
+            "fittings": {
+                "arroz_blanco": {
+                    "price": 290,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "moros_y_cristianos": {
+                    "price": 380,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz y frijoles negros"
+                },
+                "vegetales_frescos_marinados_salteados": {
+                    "price": 290,
+                    "type": "vegetales",
+                    "principal_ingredient": "vegetales"
+                },
+                "frijoles_negros_dormidos": {
+                    "price": 350,
+                    "type": "frijoles",
+                    "principal_ingredient": "frijoles negros"
+                },
+                "seleccion_de_viandas_con_mojo_del_dia": {
+                    "price": 290,
+                    "type": "viandas",
+                    "principal_ingredient": "viandas"
+                },
+                "pure_de_viandas": {
+                    "price": 250,
+                    "type": "pure",
+                    "principal_ingredient": "viandas"
+                },
+                "vianda_frita": {
+                    "price": 350,
+                    "type": "viandas",
+                    "principal_ingredient": "viandas"
+                },
+                "tamal_en_hoja": {
+                    "price": 210,
+                    "type": "tamal",
+                    "principal_ingredient": "maiz"
+                }
+            },
+            "pastas": {
+                "pasta_de_queso": {
+                    "price": 790,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso"
+                },
+                "pasta_de_jamon": {
+                    "price": 1150,
+                    "type": "embutido",
+                    "principal_ingredient": "jamon"
+                }
+            },
+            "pizzas": {
+                "pizza_de_queso": {
+                    "price": 1250,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso"
+                },
+                "pizza_de_jamon": {
+                    "price": 1550,
+                    "type": "embutido",
+                    "principal_ingredient": "jamon"
+                },
+                "pizza_de_camarones": {
+                    "price": 1990,
+                    "type": "mariscos",
+                    "principal_ingredient": "camarones"
+                },
+                "pizza_hawaiana": {
+                    "price": 1490,
+                    "type": "hawaiana",
+                    "principal_ingredient": "piña y jamon"
+                },
+                "pizza_de_ropa_vieja_y_platanos_maduros_fritos": {
+                    "price": 1890,
+                    "type": "fusion",
+                    "principal_ingredient": "ropa vieja y platanos"
+                }
+            },
+            "additions": {},
+            "dessert": {
+                "helados": {
+                    "price": 550,
+                    "type": "helado",
+                    "principal_ingredient": "leche"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "jugos_naturales": {
+                        "price": 220,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas"
+                    },
+                    "limonada_natural_o_frappe": {
+                        "price": 220,
+                        "type": "limonada",
+                        "principal_ingredient": "limon"
+                    },
+                    "energizante": {
+                        "price": 280,
+                        "type": "energizante",
+                        "principal_ingredient": "variado"
+                    },
+                    "malta": {
+                        "price": 300,
+                        "type": "malta",
+                        "principal_ingredient": "cebada"
+                    }
+                },
+                "cafes": {
+                    "cafe_expreso": {
+                        "price": 180,
+                        "type": "espresso",
+                        "principal_ingredient": "cafe"
+                    },
+                    "te": {
+                        "price": 120,
+                        "type": "te",
+                        "principal_ingredient": "te"
+                    }
+                },
+                "alcoholics": {
+                    "mojito_ajiaco": {
+                        "price": 350,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "mojito_clasico": {
+                        "price": 350,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "cuba_libre": {
+                        "price": 350,
+                        "type": "coctel",
+                        "principal_ingredient": "ron y cola"
+                    },
+                    "daiquiri": {
+                        "price": 350,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "caipirina": {
+                        "price": 350,
+                        "type": "coctel",
+                        "principal_ingredient": "cachaca"
+                    },
+                    "sangria": {
+                        "price": 380,
+                        "type": "vino",
+                        "principal_ingredient": "vino"
+                    },
+                    "pina_colada": {
+                        "price": 650,
+                        "type": "coctel",
+                        "principal_ingredient": "ron y pina"
+                    },
+                    "cerveza_nacional": {
+                        "price": 350,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    },
+
+                    "copa_de_vino_de_la_casa": {
+                        "price": 390,
+                        "type": "vino",
+                        "principal_ingredient": "uva"
+                    },
+                    "ginebra": {
+                        "price": 250,
+                        "type": "ginebra",
+                        "principal_ingredient": "ginebra"
+                    }
+                }
+            }
+        }
+    }
+}

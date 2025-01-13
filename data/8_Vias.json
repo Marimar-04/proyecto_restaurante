@@ -1,0 +1,244 @@
+{
+    "name": "Comida Criolla 8 Vías",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/groups/470098482168254/",
+        "telephone_number": ["59107933"]
+    },
+    "location": {
+        "municipality": "Arroyo Naranjo",
+        "direction": "Avenida 1er Anillo 3km después de San Agustín, Arroyo Naranjo",
+        "coordinates": "23.052034942827223, -82.33146949694732"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": null,
+        "cant_g": null,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["cubana"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": false,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "11:00",
+            "tue": "11:00",
+            "wed": "11:00",
+            "thu": "11:00",
+            "fri": "11:00",
+            "sat": "11:00",
+            "sun": "11:00"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": 20,
+            "local": 80
+        },
+        "ecological": true
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": true,
+        "parking": true,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": false
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": true,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "croquetas_de_queso": {
+                    "price": 500.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "queso"
+                },
+                "tostones_rellenos": {
+                    "price": 800.0,
+                    "type": "tostones",
+                    "principal_ingredient": "platano"
+                },
+                "tostones_tradicionales": {
+                    "price": 250.0,
+                    "type": "tostones",
+                    "principal_ingredient": "platano"
+                },
+                "papas_fritas": {
+                    "price": 800.0,
+                    "type": "papas",
+                    "principal_ingredient": "papas"
+                },
+                "platanos_fritos": {
+                    "price": 200.0,
+                    "type": "platano",
+                    "principal_ingredient": "platano"
+                }
+            },
+            "main": {
+                "bistec_de_higado": {
+                    "price": 1600.0,
+                    "type": "bistec",
+                    "principal_ingredient": "higado"
+                },
+                "higado_italiana": {
+                    "price": 1600.0,
+                    "type": "higado",
+                    "principal_ingredient": "higado"
+                },
+                "bistec_de_cerdo": {
+                    "price": 2200.0,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "chuleta_de_cerdo": {
+                    "price": 2200.0,
+                    "type": "chuleta",
+                    "principal_ingredient": "cerdo"
+                },
+                "fricase_de_cerdo": {
+                    "price": 2500.0,
+                    "type": "fricase",
+                    "principal_ingredient": "cerdo"
+                },
+                "masa_frita": {
+                    "price": 2200.0,
+                    "type": "masa",
+                    "principal_ingredient": "cerdo"
+                },
+                "fricase_de_carnero": {
+                    "price": 2200.0,
+                    "type": "fricase",
+                    "principal_ingredient": "carnero"
+                },
+                "bistec_uruguayo": {
+                    "price": 2800.0,
+                    "type": "bistec",
+                    "principal_ingredient": "res"
+                },
+                "pescado_entero_a_la_marinera": {
+                    "price": 2200.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "ropa_vieja": {
+                    "price": 2700.0,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "res"
+                },
+                "camaron_enchilado": {
+                    "price": 2700.0,
+                    "type": "enchilado",
+                    "principal_ingredient": "camaron"
+                },
+                "langosta_grille": {
+                    "price": 2700.0,
+                    "type": "langosta",
+                    "principal_ingredient": "langosta"
+                },
+                "langosta_enchilada": {
+                    "price": 2800.0,
+                    "type": "enchilado",
+                    "principal_ingredient": "langosta"
+                },
+                "pescado_empanado": {
+                    "price": 2500.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "enchilado_de_cangrejo": {
+                    "price": 1800.0,
+                    "type": "enchilado",
+                    "principal_ingredient": "cangrejo"
+                },
+                "bistec_de_pollo": {
+                    "price": 2000.0,
+                    "type": "bistec",
+                    "principal_ingredient": "pollo"
+                },
+                "pechuga_de_pollo": {
+                    "price": 2500.0,
+                    "type": "pechuga",
+                    "principal_ingredient": "pollo"
+                },
+                "costilla_frita_o_fricase": {
+                    "price": 2200.0,
+                    "type": "costilla",
+                    "principal_ingredient": "cerdo"
+                }
+            },
+            "fittings": {
+                "arroz_moro": {
+                    "price": 200.0,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "ensalada_mixta": {
+                    "price": 300.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                }
+            },
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {},
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

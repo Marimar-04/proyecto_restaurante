@@ -1,0 +1,330 @@
+{
+    "name": "Al Pirata",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/fondaalpirata/?hl=es",
+        "facebook": "",
+        "telephone_number": ["53437812"]
+    },
+    "location": {
+        "municipality": "Habana Vieja",
+        "direction": "San Ignacio #76 e/ O'Reilly y Empedrado, Habana Vieja",
+        "coordinates": "23.14045318163669, -82.35134990440835"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.5,
+        "cant_g": 287,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": 4.5,
+        "cant_t": 134
+    },
+    "description": {
+        "type_of_restaurant": [""],
+        "specialty": ["healthy"],
+        "capacity": 30,
+        "areas": {
+            "inside": true,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": 9
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "07:00",
+            "tue": "07:00",
+            "wed": "07:00",
+            "thu": "07:00",
+            "fri": "07:00",
+            "sat": "07:00",
+            "sun": "07:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": false,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": 50,
+            "local": 50
+        },
+        "ecological": true
+    },
+    "experiences": {
+        "live_music": true,
+        "show": ["Degustacion de tabaco y ron", "Drag Queen"],
+        "karaoke": true,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": false,
+        "parking": false,
+        "for_kids": true,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": true,
+        "others_languages": true,
+        "grammage": false,
+        "plate_description": true,
+        "most_popular": "",
+        "card": {
+                "breakfasts": {
+                  "desayuno_tradicional": {
+                    "price": 2880,
+                    "type": "tradicional",
+                    "principal_ingredient": "varios"
+                  },
+                  "desayuno_vegetariano": {
+                    "price": 2880,
+                    "type": "vegetariano",
+                    "principal_ingredient": "vegetales"
+                  },
+                  "desayuno_vegano": {
+                    "price": 2880,
+                    "type": "vegano",
+                    "principal_ingredient": "vegetales"
+                  }
+                },
+                "breads": {
+                  "hamburguesa_vegana": {
+                    "price": 1440,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "vegetales"
+                  },
+                  "sandwich_verde": {
+                    "price": 1600,
+                    "type": "sandwich",
+                    "principal_ingredient": "vegetales"
+                  },
+                  "hamburguesa_barba_roja": {
+                    "price": 2240,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne"
+                  },
+                  "sandwich_de_pechuga": {
+                    "price": 2240,
+                    "type": "sandwich",
+                    "principal_ingredient": "pollo"
+                  },
+                  "sandwich_mary_read": {
+                    "price": 2240,
+                    "type": "sandwich",
+                    "principal_ingredient": "pollo"
+                  },
+                  "club_sandwich_pol": {
+                    "price": 2560,
+                    "type": "sandwich",
+                    "principal_ingredient": "pollo"
+                  },
+                  "club_sandwich_atun": {
+                    "price": 2720,
+                    "type": "sandwich",
+                    "principal_ingredient": "atún"
+                  },
+                  "sandwich_abordaje": {
+                    "price": 3040,
+                    "type": "sandwich",
+                    "principal_ingredient": "varios"
+                  }
+                },
+                "starters": {
+                  "tostadas_piratas": {
+                    "price": 960,
+                    "type": "tostadas",
+                    "principal_ingredient": "pan"
+                  },
+                  "hummus_y_vegetales": {
+                    "price": 1920,
+                    "type": "hummus",
+                    "principal_ingredient": "garbanzos"
+                  },
+                  "tapas_piratas": {
+                    "price": 1920,
+                    "type": "tapas",
+                    "principal_ingredient": "varios"
+                  },
+                  "bolitas_de_queso": {
+                    "price": 1920,
+                    "type": "croqueta",
+                    "principal_ingredient": "queso"
+                  },
+                  "bolitas_de_queso_picantes": {
+                    "price": 1920,
+                    "type": "croqueta",
+                    "principal_ingredient": "queso_picante"
+                  },
+                  "ceviche": {
+                    "price": 2240,
+                    "type": "ceviche",
+                    "principal_ingredient": "pescado"
+                  },
+                  "coctel_de_langosta": {
+                    "price": 2720,
+                    "type": "coctel marisco",
+                    "principal_ingredient": "langosta"
+                  },
+                  "crudo_de_pulpo": {
+                    "price": 2880,
+                    "type": "pulpo",
+                    "principal_ingredient": "pulpo"
+                  }
+                },
+                "main": {
+                  "ensaladas_piratas_de_corazon": {
+                    "price": 1440,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                  },
+                  "botija_pirata": {
+                    "price": 1920,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                  },
+                  "combinacion_pirata": {
+                    "price": 3200,
+                    "type": "combinado",
+                    "principal_ingredient": "varios"
+                  },
+                  "galeon_el_olones": {
+                    "price": 3360,
+                    "type": "galeon",
+                    "principal_ingredient": "varios"
+                  },
+                  "filete_de_pescado": {
+                    "price": 3840,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                  },
+                  "pescado_entero": {
+                    "price": 5120,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                  },
+                  "langosta_a_su_gusto": {
+                    "price": 6080,
+                    "type": "marisco",
+                    "principal_ingredient": "langosta"
+                  }
+                },
+                "drinks": {
+                  "general": {
+                    "te": {
+                      "price": 384,
+                      "type": "te",
+                      "principal_ingredient": "te"
+                    },
+                    "jugo_natural": {
+                      "price": 640,
+                      "type": "jugo",
+                      "principal_ingredient": "fruta"
+                    },
+                    "limonada": {
+                      "price": 640,
+                      "type": "limonada",
+                      "principal_ingredient": "limon"
+                    },
+                    "limonada_de_frutas": {
+                      "price": 720,
+                      "type": "limonada",
+                      "principal_ingredient": "frutas"
+                    },
+                    "pina_colada": {
+                      "price": 1280,
+                      "type": "coctel",
+                      "principal_ingredient": "pina"
+                    }
+                  },
+                  "cafes": {
+                    "cafe_expresso": {
+                      "price": 480,
+                      "type": "espresso",
+                      "principal_ingredient": "cafe"
+                    },
+                    "cafe_americano": {
+                      "price": 480,
+                      "type": "americano",
+                      "principal_ingredient": "cafe"
+                    },
+                    "cortadito": {
+                      "price": 512,
+                      "type": "cortado",
+                      "principal_ingredient": "cafe"
+                    },
+                    "cafe_bombon": {
+                      "price": 608,
+                      "type": "bombon",
+                      "principal_ingredient": "cafe"
+                    },
+                    "cafe_expresso_doble": {
+                      "price": 640,
+                      "type": "espresso",
+                      "principal_ingredient": "cafe"
+                    },
+                    "cafe_con_leche": {
+                      "price": 672,
+                      "type": "latte",
+                      "principal_ingredient": "leche"
+                    },
+                    "frappuccino": {
+                      "price": 1232,
+                      "type": "frappuccino",
+                      "principal_ingredient": "cafe"
+                    },
+                    "frappuccino_mocca": {
+                      "price": 1232,
+                      "type": "frappuccino",
+                      "principal_ingredient": "chocolate"
+                    }
+                  },
+                  "alcoholics": {
+                    "cocteles_afrutados": {
+                      "price": 1216,
+                      "type": "coctel",
+                      "principal_ingredient": "frutas"
+                    },
+                    "pina_colada": {
+                      "price": 1440,
+                      "type": "coctel",
+                      "principal_ingredient": "pina"
+                    },
+                    "sangria": {
+                      "price": 1520,
+                      "type": "sangria",
+                      "principal_ingredient": "vino"
+                    }
+                  }
+                }
+              
+              
+        }
+    }
+} 

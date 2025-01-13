@@ -1,0 +1,409 @@
+{
+    "name": "D'kmino",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/dkmino_habana/",
+        "facebook": "https://es-la.facebook.com/DKminoHabana/",
+        "telephone_number": ["56801787", "72090437"]
+    },
+    "location": {
+        "municipality": "Playa",
+        "direction": "Avenida 41 e/ 30 y 34, Playa, Havana 11300",
+        "coordinates": "23.11433698105626, -82.41322840010747"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": 3.8,
+        "cant_g": 92,
+        "web": 3.6,
+        "cant_w": 193,
+        "tripadvisor": 4.0,
+        "cant_t": 82
+    },
+    "description": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": [],
+        "capacity": 80,
+        "areas": {
+            "inside": true,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": 0
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "11:00",
+            "tue": "11:00",
+            "wed": "11:00",
+            "thu": "11:00",
+            "fri": "11:00",
+            "sat": "11:00",
+            "sun": "11:00"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": 80,
+            "local": 20
+        },
+        "ecological": true
+    },
+    "experiences": {
+        "live_music": false,
+        "show": ["cooking show"],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": true,
+        "delibery_M": false,
+        "generator": true,
+        "wifi": false,
+        "parking": true,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": true,
+        "10%": false
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": true,
+        "plate_description": false,
+        "most_popular": "pasta carbonara",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "pan_con_chicharrones_carnudos_y_guacamole": {
+                    "price": 1655.0,
+                    "type": "pan",
+                    "principal_ingredient": "chicharrones"
+                },
+                "pan_cubano_el_guapo": {
+                    "price": 3555.0,
+                    "type": "pan",
+                    "principal_ingredient": "pan cubano"
+                }
+            },
+            "starters": {
+                "croquetas_de_la_abuela": {
+                    "price": 1000.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "jamón"
+                },
+                "frituras_de_malanga_y_jamon": {
+                    "price": 1700.0,
+                    "type": "tostones",
+                    "principal_ingredient": "malanga"
+                },
+                "empanadas_de_la_casa": {
+                    "price": 1700.0,
+                    "type": "empanada",
+                    "principal_ingredient": "carne"
+                },
+                "carpaccio_de_ternera_aceite_trufas_y_destellos_de_parmesano": {
+                    "price": 1700.0,
+                    "type": "carpaccio",
+                    "principal_ingredient": "ternera"
+                },
+                "berenjenas_a_la_parmesana": {
+                    "price": 1700.0,
+                    "type": "berenjena",
+                    "principal_ingredient": "berenjena"
+                },
+                "quesadilla_marinera": {
+                    "price": 1700.0,
+                    "type": "quesadilla",
+                    "principal_ingredient": "mariscos"
+                },
+                "tostas_y_tacos_de_res_o_camarón": {
+                    "price": 1700.0,
+                    "type": "taco",
+                    "principal_ingredient": "res/camarón"
+                },
+                "ensalada_cesar_con_dados_de_pollo_show": {
+                    "price": 1700.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "pollo"
+                },
+                "chorizo_gallego_al_carbon_con_queso_manchego": {
+                    "price": 1700.0,
+                    "type": "chorizo",
+                    "principal_ingredient": "chorizo"
+                },
+                "ceviche_de_pescado_y_calamares_crujientes": {
+                    "price": 1700.0,
+                    "type": "ceviche",
+                    "principal_ingredient": "pescado/calamares"
+                },
+                "steak_tartar_show": {
+                    "price": 1700.0,
+                    "type": "bistec",
+                    "principal_ingredient": "carne"
+                },
+                "calamares_a_la_romana_con_salsa_tartara_y_aceite_de_sesamo": {
+                    "price": 945.0,
+                    "type": "calamares",
+                    "principal_ingredient": "calamares"
+                },
+                "burrata_fresca_con_aceite_de_truffas_tomate_y_aguacate": {
+                    "price": 2100.0,
+                    "type": "queso",
+                    "principal_ingredient": "burrata"
+                },
+                "yaquitori_de_langosta_crujiente_con_salsa_chipotle": {
+                    "price": 2255.0,
+                    "type": "mariscos",
+                    "principal_ingredient": "langosta"
+                },
+                "provoleta_con_blanqueta_tomate_y_pimiento_asado": {
+                    "price": 3335.0,
+                    "type": "queso",
+                    "principal_ingredient": "provoleta"
+                }
+            },
+            "main": {
+                "tamal_relleno_con_lonjas_de_cerdo_y_huevo_frito": {
+                    "price": 2955.0,
+                    "type": "tamal",
+                    "principal_ingredient": "cerdo"
+                },
+                "costillas_de_cerdo_caramelizadas_con_pure_de_boniato_y_jengibre": {
+                    "price": 4145.0,
+                    "type": "costillas",
+                    "principal_ingredient": "cerdo"
+                },
+                "fricando_de_ternera_estofado": {
+                    "price": 4500.0,
+                    "type": "guiso",
+                    "principal_ingredient": "ternera"
+                },
+                "milanesa_de_pollo_con_mini_ensalada_cesar": {
+                    "price": 2955.0,
+                    "type": "milanesa",
+                    "principal_ingredient": "pollo"
+                },
+                "churrasco_de_filete_de_cerdo_con_salsa_de_guayaba_y_mostaza_dijon": {
+                    "price": 2945.0,
+                    "type": "churrasco",
+                    "principal_ingredient": "cerdo"
+                },
+                "pollo_entero_relleno_de_arroz_moro_y_bacon": {
+                    "price": 2955.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "solomillo_de_ternera_con_papas_asadas_y_crema_de_piquillos": {
+                    "price": 4550.0,
+                    "type": "solomillo",
+                    "principal_ingredient": "ternera"
+                },
+                "picanha_chilena": {
+                    "price": 8000.0,
+                    "type": "picanha",
+                    "principal_ingredient": "carne"
+                },
+                "rionada_argentina": {
+                    "price": 8000.0,
+                    "type": "bistec",
+                    "principal_ingredient": "carne"
+                },
+                "bife_de_chorizo": {
+                    "price": 7255.0,
+                    "type": "bife",
+                    "principal_ingredient": "carne"
+                },
+                "straccettis_con_cebolla_y_jamon": {
+                    "price": 3500.0,
+                    "type": "straccettis",
+                    "principal_ingredient": "jamón"
+                },
+                "filete_de_pescado_con_vegetales_orientales": {
+                    "price": 3755.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "filete_de_pescado_frito_con_crujientes_de_cebolla_frita_y_aderezo": {
+                    "price": 2950.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "gambon_argentino_al_ajillo": {
+                    "price": 3555.0,
+                    "type": "gambón",
+                    "principal_ingredient": "gambón"
+                },
+                "cerdo_asado_a_lo_cubana": {
+                    "price": 8500.0,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "tamaribs_de_cerdo_340g_con_papas_fritas": {
+                    "price": 4500.0,
+                    "type": "costillas",
+                    "principal_ingredient": "cerdo"
+                },
+                "zarzuela_de_mariscos_langosta_camarón_pescado_y_pulpo": {
+                    "price": 5500.0,
+                    "type": "mariscos",
+                    "principal_ingredient": "mariscos"
+                },
+                "tagliata_de_res_o_cerdo_queso_bifido_curado_rucula_fresca_y_aceite_de_truffas": {
+                    "price": 7500.0,
+                    "type": "tagliata",
+                    "principal_ingredient": "res/cerdo"
+                },
+                "punta_de_filete_al_ajillo_con_mostaza": {
+                    "price": 4550.0,
+                    "type": "filete",
+                    "principal_ingredient": "filete"
+                }
+            },
+            "fittings": {},
+            "pastas": {
+                "pastas_largas_y_cortas_a_la_piedra": {
+                    "price": 3100.0,
+                    "type": "pasta",
+                    "principal_ingredient": "pasta"
+                },
+                "alfredo": {
+                    "price": 2950.0,
+                    "type": "pasta",
+                    "principal_ingredient": "alfredo"
+                },
+                "aglio_e_olio_con_dados_de_tomate": {
+                    "price": 2755.0,
+                    "type": "pasta",
+                    "principal_ingredient": "ajo"
+                }
+            },
+            "pizzas": {
+                "real_pizza_italiana_33_cm": {
+                    "price": 2300.0,
+                    "type": "pizza",
+                    "principal_ingredient": "tomate"
+                },
+                "pizza_imperial": {
+                    "price": 3655.0,
+                    "type": "pizza",
+                    "principal_ingredient": "tomate"
+                }
+            },
+            "additions": {
+                "jamon_barra": {
+                    "price": 500.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "jamon_serrano": {
+                    "price": 650.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "queso_gouda": {
+                    "price": 500.0,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                },
+                "queso_parmesano": {
+                    "price": 800.0,
+                    "type": "queso",
+                    "principal_ingredient": "queso parmesano"
+                },
+                "bacon": {
+                    "price": 500.0,
+                    "type": "bacon",
+                    "principal_ingredient": "bacon"
+                },
+                "pepperoni": {
+                    "price": 550.0,
+                    "type": "embutido",
+                    "principal_ingredient": "pepperoni"
+                },
+                "chorizo_asturiano": {
+                    "price": 550.0,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "camaron": {
+                    "price": 600.0,
+                    "type": "mariscos",
+                    "principal_ingredient": "camarón"
+                },
+                "huevo": {
+                    "price": 400.0,
+                    "type": "huevo",
+                    "principal_ingredient": "huevo"
+                },
+                "aceitunas": {
+                    "price": 500.0,
+                    "type": "aceituna",
+                    "principal_ingredient": "aceituna"
+                },
+                "cebolla": {
+                    "price": 450.0,
+                    "type": "verdura",
+                    "principal_ingredient": "cebolla"
+                }
+            },
+            "dessert": {
+                "cookies_recién_horneadas_con_helado_y_cremas": {
+                    "price": 2000.0,
+                    "type": "cookie",
+                    "principal_ingredient": "chocolate"
+                },
+                "cheesecake": {
+                    "price": 2000.0,
+                    "type": "postre",
+                    "principal_ingredient": "queso"
+                },
+                "tres_leche_con_fanguito_y_helado": {
+                    "price": 2000.0,
+                    "type": "postre",
+                    "principal_ingredient": "leche"
+                },
+                "brownie_de_nueces_y_helado_de_pistacho": {
+                    "price": 2000.0,
+                    "type": "brownie",
+                    "principal_ingredient": "nuez"
+                },
+                "es_mas_que_un_flan": {
+                    "price": 2000.0,
+                    "type": "flan",
+                    "principal_ingredient": "flan"
+                }
+            },
+            "drinks": {
+                "general": {},
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

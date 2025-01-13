@@ -1,0 +1,353 @@
+{
+    "name": "Rodney Tropicana",
+    "sector": "estatal",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "https://www.palmares-cuba.com/es/facility/restaurante-rodney-la-habana/details",
+        "telephone_number": ["7279147"]
+    },
+    "location": {
+        "municipality": "Marianao",
+        "direction": "72 & Av. 41, La Habana, Cuba",
+        "coordinates": "23.09475197309756, -82.41829799092474"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.7,
+        "cant_g": 3,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": 4.4,
+        "cant_t": 22
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": 85
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "22:00",
+            "tue": "22:00",
+            "wed": "22:00",
+            "thu": "22:00",
+            "fri": "22:00",
+            "sat": "22:00",
+            "sun": "22:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": true,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": null,
+        "generator": null,
+        "wifi": false,
+        "parking": true,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {},
+            "main": {},
+            "fittings": {},
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "Aguas_nacionales": {
+                        "price": 100,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "Agua_saborizada": {
+                        "price": 100,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "Agua_Natural": {
+                        "price": 100,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "Refresco": {
+                        "price": 60,
+                        "type": "refresco",
+                        "principal_ingredient": "agua, azúcar, saborizantes"
+                    },
+                    "Jugos_de_frutas_en_conserva": {
+                        "price": 100,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas en conserva"
+                    },
+                    "Jugos_de_frutas_naturales": {
+                        "price": 100,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas naturales"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "Cervezas_nacionales_o_importadas": {
+                        "price": 200,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada, lúpulo"
+                    },
+                    "Cerveza_Dispensada": {
+                        "price": 160,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada, lúpulo"
+                    },
+                    "Copa_de_vino_de_la_casa": {
+                        "price": 300,
+                        "type": "vino",
+                        "principal_ingredient": "uva"
+                    },
+                    "Havana_Club_3_años": {
+                        "price": 100,
+                        "type": "ron",
+                        "principal_ingredient": "caña de azúcar"
+                    },
+                    "Especial_Havana_Club": {
+                        "price": 120,
+                        "type": "ron",
+                        "principal_ingredient": "caña de azúcar"
+                    },
+                    "Havana_Club_7_años": {
+                        "price": 320,
+                        "type": "ron",
+                        "principal_ingredient": "caña de azúcar"
+                    },
+                    "Havana_Club_Pacto_Navio": {
+                        "price": 730,
+                        "type": "ron",
+                        "principal_ingredient": "caña de azúcar"
+                    },
+                    "Havana_club_seleccion_de_maestros": {
+                        "price": 750,
+                        "type": "ron",
+                        "principal_ingredient": "caña de azúcar"
+                    },
+                    "Aguardiente_Gobernador": {
+                        "price": 14300,
+                        "type": "aguardiente",
+                        "principal_ingredient": "caña de azúcar"
+                    },
+                    "Chiva_Regal_12_Años": {
+                        "price": 995,
+                        "type": "whisky",
+                        "principal_ingredient": "cebada"
+                    },
+                    "Ballentinees_finest": {
+                        "price": 500,
+                        "type": "whisky",
+                        "principal_ingredient": "cebada"
+                    },
+                    "J_B": {
+                        "price": 650,
+                        "type": "whisky",
+                        "principal_ingredient": "cebada"
+                    },
+                    "Johnnie_Walker_etiqueta_roja": {
+                        "price": 550,
+                        "type": "whisky",
+                        "principal_ingredient": "cebada"
+                    },
+                    "Jameson": {
+                        "price": 650,
+                        "type": "whisky",
+                        "principal_ingredient": "cebada"
+                    },
+                    "VAT": {
+                        "price": 580,
+                        "type": "vodka",
+                        "principal_ingredient": "papa"
+                    },
+                    "Tequila_3_sombreros": {
+                        "price": 300,
+                        "type": "tequila",
+                        "principal_ingredient": "agave"
+                    },
+                    "Vodka_Igor": {
+                        "price": 395,
+                        "type": "vodka",
+                        "principal_ingredient": "papa"
+                    },
+                    "Brandy_Napoleon": {
+                        "price": 190,
+                        "type": "brandy",
+                        "principal_ingredient": "uva"
+                    },
+                    "Cremas_y_licores_Cacao": {
+                        "price": 85,
+                        "type": "licor",
+                        "principal_ingredient": "cacao"
+                    },
+                    "Cremas_y_licores_Cafe": {
+                        "price": 85,
+                        "type": "licor",
+                        "principal_ingredient": "café"
+                    },
+                    "Cremas_y_licores_Menta": {
+                        "price": 85,
+                        "type": "licor",
+                        "principal_ingredient": "menta"
+                    },
+                    "Cremas_y_licores_Marrasquino": {
+                        "price": 85,
+                        "type": "licor",
+                        "principal_ingredient": "cereza"
+                    },
+                    "Cremas_y_licores_Triple_sec": {
+                        "price": 85,
+                        "type": "licor",
+                        "principal_ingredient": "naranja"
+                    },
+                    "Cremas_y_licores_Curacao_azul": {
+                        "price": 85,
+                        "type": "licor",
+                        "principal_ingredient": "naranja"
+                    },
+                    "Cremas_y_licores_Pina": {
+                        "price": 85,
+                        "type": "licor",
+                        "principal_ingredient": "piña"
+                    },
+                    "Daiquiri_Natural": {
+                        "price": 450,
+                        "type": "coctel",
+                        "principal_ingredient": "ron, frutas"
+                    },
+                    "Daiquiri_Frapeado_Natural": {
+                        "price": 450,
+                        "type": "coctel",
+                        "principal_ingredient": "ron, frutas"
+                    },
+                    "Cuba_libre": {
+                        "price": 730,
+                        "type": "coctel",
+                        "principal_ingredient": "ron, cola"
+                    },
+                    "Cubata": {
+                        "price": 700,
+                        "type": "coctel",
+                        "principal_ingredient": "ron, cola"
+                    },
+                    "Daiquiri_mulata": {
+                        "price": 620,
+                        "type": "coctel",
+                        "principal_ingredient": "ron, frutas"
+                    },
+                    "Daiquiri_Saborizado": {
+                        "price": 450,
+                        "type": "coctel",
+                        "principal_ingredient": "ron, frutas"
+                    },
+                    "Gin_cola": {
+                        "price": 750,
+                        "type": "coctel",
+                        "principal_ingredient": "gin, cola"
+                    },
+                    "Gin_tonic": {
+                        "price": 785,
+                        "type": "coctel",
+                        "principal_ingredient": "gin, tónica"
+                    },
+                    "Rom_tonic": {
+                        "price": 550,
+                        "type": "coctel",
+                        "principal_ingredient": "ron, tónica"
+                    },
+                    "Vodka_cola": {
+                        "price": 600,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka, cola"
+                    },
+                    "Vodka_tónica": {
+                        "price": 650,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka, tónica"
+                    },
+                    "Whisky_cola": {
+                        "price": 500,
+                        "type": "coctel",
+                        "principal_ingredient": "whisky, cola"
+                    },
+                    "Tropicana_special": {
+                        "price": 450,
+                        "type": "coctel",
+                        "principal_ingredient": "ron, jugo de frutas"
+                    },
+                    "Cocteles_Internacionales": {
+                        "price": 500,
+                        "type": "coctel",
+                        "principal_ingredient": "frutas, licor"
+                    },
+                    "Canchanchara": {
+                        "price": 450,
+                        "type": "coctel",
+                        "principal_ingredient": "ron, miel, limón"
+                    },
+                    "Pina_colada": {
+                        "price": 450,
+                        "type": "coctel",
+                        "principal_ingredient": "ron, piña, crema"
+                    }
+                }
+            }
+        }
+    }
+}

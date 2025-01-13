@@ -1,0 +1,572 @@
+{
+    "name": "Fuumiyaki",
+    "sector": "privado",
+    "information": {
+        "website": "https://www.fuumiyaki.com/",
+        "instagram": "https://www.instagram.com/fuumiyaki/?hl=es",
+        "facebook": "https://www.facebook.com/fuumiyaki/",
+        "telephone_number": ["52832188"]
+    },
+    "location": {
+        "municipality": "Plaza de la Revolucion",
+        "direction": "Ave 26/23 y 25, Vedado",
+        "coordinates": "23.122280773655, -82.40444701231006"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": 3.5,
+        "cant_g": 94,
+        "web": 3.5,
+        "cant_w": 33,
+        "tripadvisor": 4.0,
+        "cant_t": 30
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["japonesa"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": true,
+        "delibery_m": null,
+        "generator": true,
+        "wifi": null,
+        "parking": false,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "Ceviche_de_Pescado": {
+                    "price": 1000,
+                    "type": "ceviche",
+                    "principal_ingredient": "pescado"
+                },
+                "Ceviche_Mixto": {
+                    "price": 1500,
+                    "type": "ceviche",
+                    "principal_ingredient": "pescado y mariscos"
+                },
+                "Gyozas": {
+                    "price": 850,
+                    "type": "dumplings",
+                    "principal_ingredient": "carne/pollo"
+                },
+                "Rice_paper_camarones_langosta_pulpo": {
+                    "price": 1400,
+                    "type": "rice paper roll",
+                    "principal_ingredient": "camarones/langosta/pulpo"
+                },
+                "Rice_paper_pescado": {
+                    "price": 1400,
+                    "type": "rice paper roll",
+                    "principal_ingredient": "pescado"
+                },
+                "Rice_paper_pollo_cerdo": {
+                    "price": 900,
+                    "type": "rice paper roll",
+                    "principal_ingredient": "pollo/cerdo"
+                },
+                "Rollitos_Primavera": {
+                    "price": 500,
+                    "type": "spring rolls",
+                    "principal_ingredient": "verduras"
+                },
+                "Sashimi_de_pescado": {
+                    "price": 1200,
+                    "type": "sashimi",
+                    "principal_ingredient": "pescado"
+                },
+                "Sopa_de_Miso": {
+                    "price": 750,
+                    "type": "sopa",
+                    "principal_ingredient": "miso"
+                },
+                "Tartar_de_pescado": {
+                    "price": 1200,
+                    "type": "tartar",
+                    "principal_ingredient": "pescado"
+                }
+            },
+            "main": {
+                "Bocados_de_Langosta_en_Tempura": {
+                    "price": 2500,
+                    "type": "tempura",
+                    "principal_ingredient": "langosta"
+                },
+                "Bocados_de_tempura_de_camarones": {
+                    "price": 2500,
+                    "type": "tempura",
+                    "principal_ingredient": "camarones"
+                },
+                "Bocados_de_tempura_de_Cerdo": {
+                    "price": 1900,
+                    "type": "tempura",
+                    "principal_ingredient": "cerdo"
+                },
+                "Bocados_de_tempura_de_Pescado": {
+                    "price": 2200,
+                    "type": "tempura",
+                    "principal_ingredient": "pescado"
+                },
+                "Bocados_de_tempura_de_Pollo": {
+                    "price": 1600,
+                    "type": "tempura",
+                    "principal_ingredient": "pollo"
+                },
+                "Chop_suey_de_camarones": {
+                    "price": 2000,
+                    "type": "chop suey",
+                    "principal_ingredient": "camarones"
+                },
+                "Chop_suey_de_cerdo": {
+                    "price": 1800,
+                    "type": "chop suey",
+                    "principal_ingredient": "cerdo"
+                },
+                "Chop_suey_de_langosta": {
+                    "price": 2000,
+                    "type": "chop suey",
+                    "principal_ingredient": "langosta"
+                },
+                "Chop_suey_de_pollo": {
+                    "price": 1500,
+                    "type": "chop suey",
+                    "principal_ingredient": "pollo"
+                },
+                "Chow_mein_de_camarones": {
+                    "price": 2000,
+                    "type": "chow mein",
+                    "principal_ingredient": "camarones"
+                },
+                "Chow_mein_de_cerdo": {
+                    "price": 1850,
+                    "type": "chow mein",
+                    "principal_ingredient": "cerdo"
+                },
+                "Chow_mein_de_langosta": {
+                    "price": 2000,
+                    "type": "chow mein",
+                    "principal_ingredient": "langosta"
+                },
+                "Chow_mein_de_pollo": {
+                    "price": 1550,
+                    "type": "chow mein",
+                    "principal_ingredient": "pollo"
+                },
+                "Danza_de_la_reina": {
+                    "price": 2800,
+                    "type": "plato especial",
+                    "principal_ingredient": "mariscos"
+                },
+                "Enchilado_de_camarones": {
+                    "price": 2700,
+                    "type": "enchilado",
+                    "principal_ingredient": "camarones"
+                },
+                "Enchilado_de_langosta": {
+                    "price": 2700,
+                    "type": "enchilado",
+                    "principal_ingredient": "langosta"
+                },
+                "Kanji_bol": {
+                    "price": 2200,
+                    "type": "bol",
+                    "principal_ingredient": "arroz/carne"
+                },
+                "Ramen": {
+                    "price": 2200,
+                    "type": "ramen",
+                    "principal_ingredient": "fideos"
+                },
+                "Shioyaki_de_pescado": {
+                    "price": 2500,
+                    "type": "shioyaki",
+                    "principal_ingredient": "pescado"
+                },
+                "Shogayaki_de_cerdo": {
+                    "price": 2200,
+                    "type": "shogayaki",
+                    "principal_ingredient": "cerdo"
+                },
+                "Tacos_de_Camarones": {
+                    "price": 1600,
+                    "type": "tacos",
+                    "principal_ingredient": "camarones"
+                },
+                "Tacos_de_Cerdo": {
+                    "price": 1400,
+                    "type": "tacos",
+                    "principal_ingredient": "cerdo"
+                },
+                "Tacos_de_Langosta": {
+                    "price": 1500,
+                    "type": "tacos",
+                    "principal_ingredient": "langosta"
+                },
+                "Tacos_de_Pollo": {
+                    "price": 1100,
+                    "type": "tacos",
+                    "principal_ingredient": "pollo"
+                },
+                "Tacos_de_Ropa_vieja": {
+                    "price": 1300,
+                    "type": "tacos",
+                    "principal_ingredient": "carne"
+                },
+                "Teriyaki_de_Camarones": {
+                    "price": 2600,
+                    "type": "teriyaki",
+                    "principal_ingredient": "camarones"
+                },
+                "Teriyaki_de_Cerdo": {
+                    "price": 2000,
+                    "type": "teriyaki",
+                    "principal_ingredient": "cerdo"
+                },
+                "Teriyaki_de_Langosta": {
+                    "price": 2600,
+                    "type": "teriyaki",
+                    "principal_ingredient": "langosta"
+                },
+                "Teriyaki_de_Pollo": {
+                    "price": 1700,
+                    "type": "teriyaki",
+                    "principal_ingredient": "pollo"
+                },
+                "Yaki_Tori_de_Camarones": {
+                    "price": 2500,
+                    "type": "yaki tori",
+                    "principal_ingredient": "camarones"
+                },
+                "Yaki_Tori_de_Cerdo": {
+                    "price": 1800,
+                    "type": "yaki tori",
+                    "principal_ingredient": "cerdo"
+                },
+                "Yaki_Tori_de_Langosta": {
+                    "price": 2500,
+                    "type": "yaki tori",
+                    "principal_ingredient": "langosta"
+                },
+                "Yaki_Tori_de_Pollo": {
+                    "price": 1500,
+                    "type": "yaki tori",
+                    "principal_ingredient": "pollo"
+                },
+                "Yakisoba_de_Camarones": {
+                    "price": 2000,
+                    "type": "yakisoba",
+                    "principal_ingredient": "camarones"
+                },
+                "Yakisoba_de_Cerdo": {
+                    "price": 1850,
+                    "type": "yakisoba",
+                    "principal_ingredient": "cerdo"
+                },
+                "Yakisoba_de_Langosta": {
+                    "price": 2000,
+                    "type": "yakisoba",
+                    "principal_ingredient": "langosta"
+                },
+                "Yakisoba_de_Pollo": {
+                    "price": 1550,
+                    "type": "yakisoba",
+                    "principal_ingredient": "pollo"
+                }
+            },
+            "fittings": {},
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {
+                "Racion_de_tarta_flan": {
+                    "price": 850,
+                    "type": "tarta",
+                    "principal_ingredient": "flan"
+                },
+                "Toffee": {
+                    "price": 850,
+                    "type": "toffee",
+                    "principal_ingredient": "caramelo"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "Agua_Mineral_Carbonatada_Ciego_Montero": {
+                        "price": 150,
+                        "type": "agua",
+                        "principal_ingredient": "agua mineral"
+                    },
+                    "Agua_Natural_Ciego_Montero": {
+                        "price": 350,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "Refresco_Santa_Isabel": {
+                        "price": 350,
+                        "type": "refresco",
+                        "principal_ingredient": "azúcar"
+                    },
+                    "Refresco_Santa_Limon": {
+                        "price": 350,
+                        "type": "refresco",
+                        "principal_ingredient": "limón"
+                    },
+                    "Refresco_Santa_Naranja": {
+                        "price": 350,
+                        "type": "refresco",
+                        "principal_ingredient": "naranja"
+                    }
+                },
+                "cafes": {
+                    "Cafe_Expresso": {
+                        "price": 200,
+                        "type": "expresso",
+                        "principal_ingredient": "café"
+                    },
+                    "Cafe_Cortado": {
+                        "price": 300,
+                        "type": "cortado",
+                        "principal_ingredient": "café"
+                    },
+                    "Te": {
+                        "price": 300,
+                        "type": "té",
+                        "principal_ingredient": "té"
+                    }
+                },
+                "alcoholics": {
+                    "Cerveza_Bucanero": {
+                        "price": 500,
+                        "type": "cerveza",
+                        "principal_ingredient": "malta"
+                    },
+                    "Cerveza_Cristal": {
+                        "price": 500,
+                        "type": "cerveza",
+                        "principal_ingredient": "malta"
+                    },
+                    "Vino_tinto_Casillero_del_Diablo_Reserva": {
+                        "price": 10000,
+                        "type": "vino tinto",
+                        "principal_ingredient": "uva"
+                    },
+                    "Vino_tinto_Trapiche_Reserva": {
+                        "price": 8000,
+                        "type": "vino tinto",
+                        "principal_ingredient": "uva"
+                    },
+                    "Havana_Club_7_anos": {
+                        "price": 600,
+                        "type": "ron",
+                        "principal_ingredient": "caña de azúcar"
+                    },
+                    "Seleccion_de_Maestros": {
+                        "price": 750,
+                        "type": "ron",
+                        "principal_ingredient": "caña de azúcar"
+                    },
+                    "Pacto_Navio": {
+                        "price": 750,
+                        "type": "ron",
+                        "principal_ingredient": "caña de azúcar"
+                    },
+                    "Santiago_Anejo": {
+                        "price": 550,
+                        "type": "ron",
+                        "principal_ingredient": "caña de azúcar"
+                    },
+                    "Santiago_11_anos": {
+                        "price": 800,
+                        "type": "ron",
+                        "principal_ingredient": "caña de azúcar"
+                    },
+                    "Clan_Campbell": {
+                        "price": 550,
+                        "type": "whisky",
+                        "principal_ingredient": "cebada"
+                    },
+                    "Jameson": {
+                        "price": 650,
+                        "type": "whisky",
+                        "principal_ingredient": "cebada"
+                    },
+                    "Ballantines": {
+                        "price": 600,
+                        "type": "whisky",
+                        "principal_ingredient": "cebada"
+                    },
+                    "Chivas_12_anos": {
+                        "price": 750,
+                        "type": "whisky",
+                        "principal_ingredient": "cebada"
+                    },
+                    "Chivas_XV": {
+                        "price": 1000,
+                        "type": "whisky",
+                        "principal_ingredient": "cebada"
+                    },
+                    "Chivas_18_anos": {
+                        "price": 1150,
+                        "type": "whisky",
+                        "principal_ingredient": "cebada"
+                    },
+                    "Mojito": {
+                        "price": 700,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "Daiquiri": {
+                        "price": 700,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "Caipirinha": {
+                        "price": 750,
+                        "type": "coctel",
+                        "principal_ingredient": "cachaca"
+                    },
+                    "Caipiroska": {
+                        "price": 750,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "Cubanito": {
+                        "price": 800,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "Bloody_Mary": {
+                        "price": 850,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "Pina_Colada": {
+                        "price": 850,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "Mimosa": {
+                        "price": 500,
+                        "type": "coctel",
+                        "principal_ingredient": "champagne"
+                    },
+                    "Gin_Tonic": {
+                        "price": 850,
+                        "type": "coctel",
+                        "principal_ingredient": "gin"
+                    },
+                    "Sangria": {
+                        "price": 850,
+                        "type": "coctel",
+                        "principal_ingredient": "vino"
+                    },
+                    "Tequila_Sunrise": {
+                        "price": 600,
+                        "type": "coctel",
+                        "principal_ingredient": "tequila"
+                    },
+                    "Margarita": {
+                        "price": 850,
+                        "type": "coctel",
+                        "principal_ingredient": "tequila"
+                    },
+                    "Old_Fashion": {
+                        "price": 800,
+                        "type": "coctel",
+                        "principal_ingredient": "whisky"
+                    },
+                    "Sake": {
+                        "price": 650,
+                        "type": "licor",
+                        "principal_ingredient": "arroz"
+                    },
+                    "Mojito_Sake": {
+                        "price": 650,
+                        "type": "coctel",
+                        "principal_ingredient": "sake"
+                    },
+                    "Umeshu_Mojito": {
+                        "price": 600,
+                        "type": "coctel",
+                        "principal_ingredient": "plum wine"
+                    },
+                    "Matcha_Highball": {
+                        "price": 750,
+                        "type": "coctel",
+                        "principal_ingredient": "matcha"
+                    },
+                    "Chuchai": {
+                        "price": 650,
+                        "type": "coctel",
+                        "principal_ingredient": "té"
+                    }
+                }
+            }
+        }
+    }
+}

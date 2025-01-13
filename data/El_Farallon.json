@@ -1,0 +1,614 @@
+{
+    "name": "El Farallon",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/restaurantefarallon/",
+        "facebook": "https://www.facebook.com/farallonrestaurante/?locale=es_LA",
+        "telephone_number": ["78305187"]
+    },
+    "location": {
+        "municipality": "Plaza de la Revolucion",
+        "direction": "Calle 22 # 361, esq. 23, Vedado",
+        "coordinates": "23.12439166973329, -82.40359154297116"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 3.7,
+        "cant_g": 76,
+        "web": 4.3,
+        "cant_w": 32,
+        "tripadvisor": 4.0,
+        "cant_t": 195
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["criolla", "internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": true,
+        "delibery_m": null,
+        "generator": true,
+        "wifi": false,
+        "parking": true,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "mariposas_chinas": {
+                    "price": 400,
+                    "type": "mariposa",
+                    "principal_ingredient": "masa frita"
+                },
+                "frituras_de_malanga": {
+                    "price": 430,
+                    "type": "fritura",
+                    "principal_ingredient": "malanga"
+                },
+                "croquetas_de_la_casa": {
+                    "price": 530,
+                    "type": "croqueta",
+                    "principal_ingredient": "jamón"
+                },
+                "tostones_naturales": {
+                    "price": 380,
+                    "type": "tostón",
+                    "principal_ingredient": "plátano verde"
+                },
+                "tostones_rellenos": {
+                    "price": 950,
+                    "type": "tostón",
+                    "principal_ingredient": "plátano verde"
+                },
+                "bolitas_de_queso": {
+                    "price": 750,
+                    "type": "bolita",
+                    "principal_ingredient": "queso"
+                },
+                "eperlan_de_pescado": {
+                    "price": 950,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "fajitas_de_pollo": {
+                    "price": 1250,
+                    "type": "fajita",
+                    "principal_ingredient": "pollo"
+                },
+                "coctel_de_langosta": {
+                    "price": 1200,
+                    "type": "coctel",
+                    "principal_ingredient": "langosta"
+                },
+                "coctel_de_camarones": {
+                    "price": 1200,
+                    "type": "coctel",
+                    "principal_ingredient": "camarón"
+                },
+                "ensalada_fria": {
+                    "price": 950,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                },
+                "cebiche": {
+                    "price": 1080,
+                    "type": "cebiche",
+                    "principal_ingredient": "pescado"
+                },
+                "picadera_farallon": {
+                    "price": 2200,
+                    "type": "picadera",
+                    "principal_ingredient": "mixto"
+                },
+                "tabla_de_jamon_serrano": {
+                    "price": 2500,
+                    "type": "tabla",
+                    "principal_ingredient": "jamón serrano"
+                },
+                "crema_de_queso": {
+                    "price": 400,
+                    "type": "crema",
+                    "principal_ingredient": "queso"
+                },
+                "crema_de_virginia": {
+                    "price": 500,
+                    "type": "crema",
+                    "principal_ingredient": "jamón virginia"
+                },
+                "crema_de_aurora": {
+                    "price": 420,
+                    "type": "crema",
+                    "principal_ingredient": "vegetales"
+                },
+                "crema_de_reina": {
+                    "price": 500,
+                    "type": "crema",
+                    "principal_ingredient": "pollo"
+                }
+            },
+            "main": {
+                "filete_de_pescado_grille": {
+                    "price": 1800,
+                    "type": "grille",
+                    "principal_ingredient": "pescado"
+                },
+                "filete_de_pescado_c_j_y_q_gratinado": {
+                    "price": 2380,
+                    "type": "gratinado",
+                    "principal_ingredient": "pescado"
+                },
+                "filete_de_pescado_john_ville": {
+                    "price": 2450,
+                    "type": "especial",
+                    "principal_ingredient": "pescado"
+                },
+                "camaron_al_gusto": {
+                    "price": 2550,
+                    "type": "al gusto",
+                    "principal_ingredient": "camarones"
+                },
+                "pulpo_al_gusto": {
+                    "price": 2600,
+                    "type": "al gusto",
+                    "principal_ingredient": "pulpo"
+                },
+                "grillada_mar": {
+                    "price": 4100,
+                    "type": "mixto",
+                    "principal_ingredient": "mariscos"
+                },
+                "grillada_mar_y_tierra": {
+                    "price": 5200,
+                    "type": "mixto",
+                    "principal_ingredient": "mariscos y carne"
+                },
+                "ropa_vieja": {
+                    "price": 2100,
+                    "type": "tradicional",
+                    "principal_ingredient": "carne de res"
+                },
+                "vaca_frita": {
+                    "price": 2100,
+                    "type": "tradicional",
+                    "principal_ingredient": "carne de res"
+                },
+                "bistec_de_cerdo_grille": {
+                    "price": 2100,
+                    "type": "grille",
+                    "principal_ingredient": "cerdo"
+                },
+                "bistec_c_j_y_q_gratinado": {
+                    "price": 2760,
+                    "type": "gratinado",
+                    "principal_ingredient": "cerdo"
+                },
+                "bistec_de_cerdo_tropical": {
+                    "price": 2220,
+                    "type": "tropical",
+                    "principal_ingredient": "cerdo"
+                },
+                "masa_de_cerdo_frita": {
+                    "price": 2340,
+                    "type": "frito",
+                    "principal_ingredient": "cerdo"
+                },
+                "fricase_de_cerdo": {
+                    "price": 2530,
+                    "type": "estofado",
+                    "principal_ingredient": "cerdo"
+                },
+                "pechuga_de_pollo_grille": {
+                    "price": 2100,
+                    "type": "grille",
+                    "principal_ingredient": "pollo"
+                },
+                "pechuga_c_j_y_q_gratinado": {
+                    "price": 2760,
+                    "type": "gratinado",
+                    "principal_ingredient": "pollo"
+                },
+                "pechuga_a_la_crema": {
+                    "price": 2650,
+                    "type": "crema",
+                    "principal_ingredient": "pollo"
+                },
+                "fajitas_de_pollo_salteadas": {
+                    "price": 2180,
+                    "type": "salteadas",
+                    "principal_ingredient": "pollo"
+                },
+                "bistec_de_pollo_deshuesado": {
+                    "price": 1320,
+                    "type": "deshuesado",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_a_la_barbacoa_1_4": {
+                    "price": 1710,
+                    "type": "barbacoa",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_asado_1_4": {
+                    "price": 1750,
+                    "type": "asado",
+                    "principal_ingredient": "pollo"
+                },
+                "paella_de_mariscos": {
+                    "price": 2400,
+                    "type": "paella",
+                    "principal_ingredient": "mariscos"
+                },
+                "arroz_c_pollo_a_la_chorrera": {
+                    "price": 1200,
+                    "type": "tradicional",
+                    "principal_ingredient": "pollo y arroz"
+                },
+                "arroz_frito_especial": {
+                    "price": 1500,
+                    "type": "frito",
+                    "principal_ingredient": "arroz"
+                }
+            },
+            "fittings": {
+                "arroz_moro": {
+                    "price": 300,
+                    "type": "frijoles",
+                    "principal_ingredient": "arroz"
+                },
+                "arroz_blanco": {
+                    "price": 210,
+                    "type": "natural",
+                    "principal_ingredient": "arroz"
+                }
+            },
+            "pastas": {
+                "espagueti_napolitano": {
+                    "price": 900,
+                    "type": "napolitano",
+                    "principal_ingredient": "pasta"
+                },
+                "espagueti_de_atun": {
+                    "price": 1450,
+                    "type": "atun",
+                    "principal_ingredient": "pasta"
+                },
+                "espagueti_de_jamon": {
+                    "price": 1100,
+                    "type": "jamon",
+                    "principal_ingredient": "pasta"
+                },
+                "espagueti_de_camarones": {
+                    "price": 1450,
+                    "type": "camarones",
+                    "principal_ingredient": "pasta"
+                },
+                "espagueti_a_la_bolonesa": {
+                    "price": 1000,
+                    "type": "bolonesa",
+                    "principal_ingredient": "pasta"
+                },
+                "espagueti_al_pesto": {
+                    "price": 1000,
+                    "type": "pesto",
+                    "principal_ingredient": "pasta"
+                },
+                "espagueti_a_la_carbonara": {
+                    "price": 1300,
+                    "type": "carbonara",
+                    "principal_ingredient": "pasta"
+                },
+                "espagueti_frutti_de_mare": {
+                    "price": 1900,
+                    "type": "mariscos",
+                    "principal_ingredient": "pasta"
+                },
+                "lasana_farallon": {
+                    "price": 4000,
+                    "type": "especial",
+                    "principal_ingredient": "pasta"
+                },
+                "lasana_a_la_bolonesa": {
+                    "price": 2500,
+                    "type": "bolonesa",
+                    "principal_ingredient": "pasta"
+                },
+                "lasana_de_jamon": {
+                    "price": 2700,
+                    "type": "jamon",
+                    "principal_ingredient": "pasta"
+                },
+                "lasana_de_atun": {
+                    "price": 4300,
+                    "type": "atun",
+                    "principal_ingredient": "pasta"
+                },
+                "canelones_a_la_bolonesa": {
+                    "price": 2100,
+                    "type": "bolonesa",
+                    "principal_ingredient": "pasta"
+                },
+                "canelones_de_jamon": {
+                    "price": 1650,
+                    "type": "jamon",
+                    "principal_ingredient": "pasta"
+                }
+            },
+            "pizzas": {
+                "pizza_napolitana": {
+                    "price": 1250,
+                    "type": "napolitana",
+                    "principal_ingredient": "pizza"
+                },
+                "pizza_de_jamon": {
+                    "price": 1450,
+                    "type": "jamon",
+                    "principal_ingredient": "pizza"
+                },
+                "pizza_de_bacon": {
+                    "price": 1690,
+                    "type": "bacon",
+                    "principal_ingredient": "pizza"
+                },
+                "pizza_de_chorizo": {
+                    "price": 1590,
+                    "type": "chorizo",
+                    "principal_ingredient": "pizza"
+                },
+                "pizza_de_cebolla": {
+                    "price": 1540,
+                    "type": "cebolla",
+                    "principal_ingredient": "pizza"
+                },
+                "pizza_de_pimiento": {
+                    "price": 1540,
+                    "type": "pimiento",
+                    "principal_ingredient": "pizza"
+                },
+                "pizza_de_aceituna": {
+                    "price": 1610,
+                    "type": "aceituna",
+                    "principal_ingredient": "pizza"
+                },
+                "pizza_de_vegetales": {
+                    "price": 1610,
+                    "type": "vegetales",
+                    "principal_ingredient": "pizza"
+                },
+                "pizza_de_champinones": {
+                    "price": 1680,
+                    "type": "champinones",
+                    "principal_ingredient": "pizza"
+                },
+                "pizza_hawaiana": {
+                    "price": 1570,
+                    "type": "hawaiana",
+                    "principal_ingredient": "pizza"
+                },
+                "pizza_de_camarones": {
+                    "price": 1850,
+                    "type": "camarones",
+                    "principal_ingredient": "pizza"
+                },
+                "pizza_de_atun": {
+                    "price": 1850,
+                    "type": "atun",
+                    "principal_ingredient": "pizza"
+                },
+                "pizza_a_la_bolonesa": {
+                    "price": 1550,
+                    "type": "bolonesa",
+                    "principal_ingredient": "pizza"
+                },
+                "pizza_desnuda": {
+                    "price": 2350,
+                    "type": "especial",
+                    "principal_ingredient": "pizza"
+                },
+                "pizza_calzone": {
+                    "price": 1980,
+                    "type": "calzone",
+                    "principal_ingredient": "pizza"
+                },
+                "pizza_farallon": {
+                    "price": 2250,
+                    "type": "especial",
+                    "principal_ingredient": "pizza"
+                },
+                "pizzaghetti": {
+                    "price": 1540,
+                    "type": "fusion",
+                    "principal_ingredient": "pizza y pasta"
+                },
+                "pizza_doble_queso": {
+                    "price": 2330,
+                    "type": "doble queso",
+                    "principal_ingredient": "pizza"
+                }
+            },
+            "additions": {},
+            "dessert": {
+                "postres_de_la_casa": {
+                    "price": 400,
+                    "type": "postre",
+                    "principal_ingredient": "varios"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "agua_natural": {
+                        "price": 200,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "refrescos_gaseados": {
+                        "price": 370,
+                        "type": "refresco",
+                        "principal_ingredient": "agua carbonatada"
+                    },
+                    "jugo_de_frutas_naturales": {
+                        "price": 300,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas"
+                    },
+                    "limonada_frescura": {
+                        "price": 500,
+                        "type": "limonada",
+                        "principal_ingredient": "limón"
+                    },
+                    "sorpresa_de_limon_al_coco": {
+                        "price": 600,
+                        "type": "jugo",
+                        "principal_ingredient": "limón y coco"
+                    },
+                    "malta": {
+                        "price": 400,
+                        "type": "malta",
+                        "principal_ingredient": "cebada"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "mojito": {
+                        "price": 460,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "cuba_libre": {
+                        "price": 590,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "cubata": {
+                        "price": 450,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "daiquiri": {
+                        "price": 490,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "canchanchara": {
+                        "price": 400,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "sangria": {
+                        "price": 610,
+                        "type": "coctel",
+                        "principal_ingredient": "vino"
+                    },
+                    "tinto_de_verano": {
+                        "price": 570,
+                        "type": "coctel",
+                        "principal_ingredient": "vino"
+                    },
+                    "piña_colada": {
+                        "price": 580,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "screw_driver": {
+                        "price": 400,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "caipirinha": {
+                        "price": 450,
+                        "type": "coctel",
+                        "principal_ingredient": "cachaça"
+                    },
+                    "caipisisima": {
+                        "price": 550,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "caiporoska": {
+                        "price": 450,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "michelada_base": {
+                        "price": 430,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "cerveza_nacional": {
+                        "price": 480,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    },
+                    "cerveza_importada": {
+                        "price": 480,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,578 @@
+{
+    "name": "Jama",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/jama_asianfood/?hl=es",
+        "facebook": "",
+        "telephone_number": ["52970745"]
+    },
+    "location": {
+        "municipality": "Habana Vieja",
+        "direction": "Aguiar #261b entre San Juan de Dios y O'rreily, Havana, Cuba",
+        "coordinates": "23.140081744848644, -82.35279183134065"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.4,
+        "cant_g": 126,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": 4.5,
+        "cant_t": 139
+    },
+    "description": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["asiatica"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": false,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": true
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": true,
+        "generator": false,
+        "wifi": false,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": true,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "huevo_de_codorniz": {
+                    "price": 1200,
+                    "type": "huevo",
+                    "principal_ingredient": "huevo de codorniz"
+                },
+                "tostas_de_ceviche": {
+                    "price": 2100,
+                    "type": "tosta",
+                    "principal_ingredient": "ceviche"
+                },
+                "gyozas": {
+                    "price": 1300,
+                    "type": "dumpling",
+                    "principal_ingredient": "masa y carne"
+                },
+                "croquetas_de_pescado": {
+                    "price": 1000,
+                    "type": "croqueta",
+                    "principal_ingredient": "pescado"
+                },
+                "rollitos_de_primavera": {
+                    "price": 1200,
+                    "type": "rollo",
+                    "principal_ingredient": "verduras"
+                }
+            },
+            "main": {
+                "sopa_fukushima": {
+                    "price": 1800,
+                    "type": "sopa",
+                    "principal_ingredient": "caldo oriental"
+                },
+                "sopa_de_pollo_bruce_lee": {
+                    "price": 1700,
+                    "type": "sopa",
+                    "principal_ingredient": "pollo"
+                },
+                "sopa_de_mariscos": {
+                    "price": 2000,
+                    "type": "sopa",
+                    "principal_ingredient": "mariscos"
+                },
+                "ramen_de_cerdo": {
+                    "price": 2300,
+                    "type": "ramen",
+                    "principal_ingredient": "cerdo"
+                },
+                "ramen_de_mariscos": {
+                    "price": 2500,
+                    "type": "ramen",
+                    "principal_ingredient": "mariscos"
+                },
+                "dinamita_roll": {
+                    "price": 2300,
+                    "type": "sushi",
+                    "principal_ingredient": "mixto"
+                },
+                "ceviche_roll": {
+                    "price": 2300,
+                    "type": "sushi",
+                    "principal_ingredient": "ceviche"
+                },
+                "huevo_de_codorniz_roll": {
+                    "price": 2100,
+                    "type": "sushi",
+                    "principal_ingredient": "huevo de codorniz"
+                },
+                "california_roll": {
+                    "price": 2300,
+                    "type": "sushi",
+                    "principal_ingredient": "aguacate y cangrejo"
+                },
+                "new_york_roll": {
+                    "price": 2300,
+                    "type": "sushi",
+                    "principal_ingredient": "salmón y aguacate"
+                },
+                "kappa_mari_roll": {
+                    "price": 2000,
+                    "type": "sushi",
+                    "principal_ingredient": "pepino"
+                },
+                "tempura_roll_atun_cebollino": {
+                    "price": 2300,
+                    "type": "sushi",
+                    "principal_ingredient": "atún y cebollino"
+                },
+                "tempura_roll_pollo_caramelizado": {
+                    "price": 2300,
+                    "type": "sushi",
+                    "principal_ingredient": "pollo caramelizado"
+                },
+                "varadero_roll": {
+                    "price": 2300,
+                    "type": "sushi",
+                    "principal_ingredient": "mixto"
+                },
+                "salmon_roll": {
+                    "price": 2300,
+                    "type": "sushi",
+                    "principal_ingredient": "salmón"
+                },
+                "batei_kyojin": {
+                    "price": 2300,
+                    "type": "sushi",
+                    "principal_ingredient": "mixto"
+                },
+                "tempura_roll_langosta": {
+                    "price": 2300,
+                    "type": "sushi",
+                    "principal_ingredient": "langosta"
+                },
+                "niguiri_del_dia": {
+                    "price": 1800,
+                    "type": "niguiri",
+                    "principal_ingredient": "pescado del día"
+                },
+                "sashimi": {
+                    "price": 3000,
+                    "type": "sashimi",
+                    "principal_ingredient": "pescado"
+                },
+                "cubanito_roll": {
+                    "price": 1800,
+                    "type": "sushi",
+                    "principal_ingredient": "mixto"
+                },
+                "wrap_thai_spicy": {
+                    "price": 3000,
+                    "type": "wrap",
+                    "principal_ingredient": "pollo picante"
+                },
+                "pollo_con_curry_thai": {
+                    "price": 2600,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo y curry"
+                },
+                "arroz_frito_de_la_casa": {
+                    "price": 3000,
+                    "type": "arroz",
+                    "principal_ingredient": "mixto"
+                },
+                "tacos_de_pork_belly": {
+                    "price": 2800,
+                    "type": "taco",
+                    "principal_ingredient": "pork belly"
+                },
+                "filete_de_pescado_grille": {
+                    "price": 2800,
+                    "type": "filete",
+                    "principal_ingredient": "pescado"
+                },
+                "garbanzos_del_mar": {
+                    "price": 2500,
+                    "type": "garbanzo",
+                    "principal_ingredient": "mariscos"
+                },
+                "pasta_de_pollo": {
+                    "price": 2500,
+                    "type": "pasta",
+                    "principal_ingredient": "pollo"
+                },
+                "pasta_de_vegetales": {
+                    "price": 2200,
+                    "type": "pasta",
+                    "principal_ingredient": "vegetales"
+                },
+                "pasta_de_mariscos": {
+                    "price": 3200,
+                    "type": "pasta",
+                    "principal_ingredient": "mariscos"
+                },
+                "langosta_grille": {
+                    "price": 3200,
+                    "type": "langosta",
+                    "principal_ingredient": "langosta"
+                },
+                "tacos_de_langostas": {
+                    "price": 3200,
+                    "type": "taco",
+                    "principal_ingredient": "langosta"
+                },
+                "tuna_tataki": {
+                    "price": 3000,
+                    "type": "tataki",
+                    "principal_ingredient": "atún"
+                },
+                "arroz_meloso_de_mariscos": {
+                    "price": 3200,
+                    "type": "arroz",
+                    "principal_ingredient": "mariscos"
+                },
+                "arroz_meloso_de_ternera": {
+                    "price": 2800,
+                    "type": "arroz",
+                    "principal_ingredient": "ternera"
+                }
+            },
+            "fittings": {},
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {
+                "postre": {
+                    "price": 800,
+                    "type": "postre",
+                    "principal_ingredient": "azúcar"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "nacional": {
+                        "price": 500,
+                        "type": "refresco",
+                        "principal_ingredient": "n/a"
+                    },
+                    "importado": {
+                        "price": 600,
+                        "type": "refresco importado",
+                        "principal_ingredient": "n/a"
+                    },
+                    "agua_nacional": {
+                        "price": 400,
+                        "type": "agua",
+                        "principal_ingredient": "n/a"
+                    },
+                    "importada": {
+                        "price": 600,
+                        "type": "agua importada",
+                        "principal_ingredient": "n/a"
+                    },
+                    "naturales": {
+                        "price": 600,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas"
+                    },
+                    "limonada": {
+                        "price": 800,
+                        "type": "limonada",
+                        "principal_ingredient": "limón"
+                    },
+                    "limonada_hierba_buena": {
+                        "price": 850,
+                        "type": "limonada",
+                        "principal_ingredient": "limón y hierba buena"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "copa_de_vino_tinto": {
+                        "price": 900,
+                        "type": "vino",
+                        "principal_ingredient": "uva tinta"
+                    },
+
+                    "cuba_libre": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "daiquiri": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "daiquiri_de_frutas_naturales": {
+                        "price": 950,
+                        "type": "coctel",
+                        "principal_ingredient": "frutas"
+                    },
+                    "cubanito": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "ron_collins": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "habana_special": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "canchanchara": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "mojito_de_frutas": {
+                        "price": 950,
+                        "type": "coctel",
+                        "principal_ingredient": "frutas"
+                    },
+                    "copa_de_vino_blanco": {
+                        "price": 900,
+                        "type": "vino",
+                        "principal_ingredient": "uva blanca"
+                    },
+                    "bloody_mary_hot_special": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "habana_londres": {
+                        "price": 1200,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "bloody_mary_samurai": {
+                        "price": 1000,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "ron_azucar_limon_marrasquino_ginebra_beefeater": {
+                        "price": 1000,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "bloody_mary_cesar_premium": {
+                        "price": 1000,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "agua_tonica_rodaja_de_limon": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "agua tónica"
+                    },
+                    "negroni": {
+                        "price": 1000,
+                        "type": "coctel",
+                        "principal_ingredient": "vermú"
+                    },
+                    "red_point": {
+                        "price": 1200,
+                        "type": "coctel",
+                        "principal_ingredient": "licor rojo"
+                    },
+                    "screwdriver": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "ginebra_tanqueray_aji_cachucha": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "ginebra"
+                    },
+                    "sangria": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "vino"
+                    },
+                    "caipirinha": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "cachaça"
+                    },
+                    "sweet_jabali": {
+                        "price": 1200,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "caipiroska": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "ginebra_gordon_rama_de_canela": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "ginebra"
+                    },
+                    "gin_mo": {
+                        "price": 1200,
+                        "type": "coctel",
+                        "principal_ingredient": "ginebra"
+                    },
+                    "martini": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "vermú"
+                    },
+                    "ginebra_gordon_azucar_agua_schweppes": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "ginebra"
+                    },
+                    "black_russian": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "white_russian": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "ice_baby": {
+                        "price": 1200,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "manhattan": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "bourbon"
+                    },
+                    "ginebra_bombay_sapphire": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "ginebra"
+                    },
+                    "margaret_thatcher": {
+                        "price": 1200,
+                        "type": "coctel",
+                        "principal_ingredient": "ginebra"
+                    },
+                    "kentucky_mojito": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "bourbon"
+                    },
+                    "andreys_jagermojito": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "jagermeister"
+                    },
+                    "ginebra_beefeater_24_cointreau": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "ginebra"
+                    },
+                    "jimmy_hendricks": {
+                        "price": 1500,
+                        "type": "coctel",
+                        "principal_ingredient": "ginebra"
+                    },
+                    "pina_colada": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "ginebra_hendricks": {
+                        "price": 1500,
+                        "type": "coctel",
+                        "principal_ingredient": "ginebra"
+                    },
+                    "cubata": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+
+                    "gin_special_industriales": {
+                        "price": 1200,
+                        "type": "coctel",
+                        "principal_ingredient": "ginebra"
+                    },
+                    "gin_tonic_regular": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "ginebra"
+                    },
+                    "ginebra_master": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "ginebra"
+                    }
+                }
+            }
+        }
+    }
+}

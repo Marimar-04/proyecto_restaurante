@@ -1,0 +1,310 @@
+{
+    "name": "El Mexicano",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/p/Vale-Vane-100063975733161/",
+        "telephone_number": ["77947261"]
+    },
+    "location": {
+        "municipality": "Guanabacoa",
+        "direction": "Calle Santa Maria #73 entre Corrales y Aparición Guanabacoa",
+        "coordinates": "23.12173197345058, -82.29643430755411"
+    },
+    "valoration": {
+        "quality": " excelente",
+        "google": 4.8,
+        "cant_g": 4,
+        "web": 3.9,
+        "cant_w": 7,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "09:00",
+            "tue": "09:00",
+            "wed": "09:00",
+            "thu": "09:00",
+            "fri": "09:00",
+            "sat": "09:00",
+            "sun": "09:00"
+        },
+        "close": {
+            "mon": "21:00",
+            "tue": "21:00",
+            "wed": "21:00",
+            "thu": "21:00",
+            "fri": "21:00",
+            "sat": "21:00",
+            "sun": "21:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": false,
+        "parking": false,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": null
+        },
+        "transfer": false,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            
+                "breakfasts": {},
+                "breads": {},
+                "starters": {},
+                "main": {
+                  "Chuleta_de_Cerdo": {
+                    "price": 1100.00,
+                    "type": "chuleta",
+                    "principal_ingredient": "cerdo"
+                  },
+                  "Bistec_Cerdo_Grille": {
+                    "price": 1200.00,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                  },
+                  "Masa_de_Cerdo_Frita": {
+                    "price": 1300.00,
+                    "type": "masas",
+                    "principal_ingredient": "cerdo"
+                  },
+                  "Bistec_Encebollado": {
+                    "price": 1450.00,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                  },
+                  "Costilla_Cerdo": {
+                    "price": 1650.00,
+                    "type": "costillas",
+                    "principal_ingredient": "cerdo"
+                  },
+                  "Lomo_Ahumado": {
+                    "price": 1400.00,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                  },
+                  "Uruguayo": {
+                    "price": 1600.00,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                  },
+                  "Bistec_princesa": {
+                    "price": 1720.00,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                  },
+                  "Garbanzo_Frito": {
+                    "price": 1300.00,
+                    "type": "garbanzos",
+                    "principal_ingredient": "garbanzo"
+                  },
+                  "Pollo_Frito": {
+                    "price": 1000.00,
+                    "type": "bistec",
+                    "principal_ingredient": "pollo"
+                  },
+                  "Suprema_Grille": {
+                    "price": 1400.00,
+                    "type": "bistec",
+                    "principal_ingredient": "pollo"
+                  },
+                  "Bistec_Princesa": {
+                    "price": 1920.00,
+                    "type": "bistec",
+                    "principal_ingredient": "pollo"
+                  },
+                  "Suprema_Encebollada": {
+                    "price": 1650.00,
+                    "type": "bistec",
+                    "principal_ingredient": "pollo"
+                  },
+                  "Filete_Pescado_Grille": {
+                    "price": 1800.00,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                  },
+                  "Camarón_Grille": {
+                    "price": 1800.00,
+                    "type": "marisco",
+                    "principal_ingredient": "camarón"
+                  },
+                  "Enchilado_Camarón": {
+                    "price": 1850.00,
+                    "type": "marisco",
+                    "principal_ingredient": "camarón"
+                  },
+                  "Mar_y_Tierra": {
+                    "price": 2500.00,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo, pescado, camarón"
+                  },
+                  "Vaca_Frita": {
+                    "price": 1600.00,
+                    "type": "vaca frita",
+                    "principal_ingredient": "res"
+                  },
+                  "Ropa_Vieja": {
+                    "price": 1600.00,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "res"
+                  }
+                },
+                "fittings": {},
+                "pastas": {
+                  "Espagueti_Napolitano": {
+                    "price": 650.00,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso gouda"
+                  },
+                  "Espagueti_con_Jamón": {
+                    "price": 900.00,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                  },
+                  "Espagueti_con_Chorizo": {
+                    "price": 900.00,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                  },
+                  "Espagueti_doble_Queso": {
+                    "price": 920.00,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                  }
+                },
+                "pizzas": {
+                  "Pizza_Napolitana": {
+                    "price": 350.00,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso gouda"
+                  },
+                  "Pizza_Napolitana_2": {
+                    "price": 650.00,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso gouda"
+                  },
+                  "Pizza_Familiar": {
+                    "price": 2500.00,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso gouda"
+                  }
+                },
+                "additions": {},
+                "dessert": {},
+                "drinks": {
+                  "general": {
+                    "Agua_Natural": {
+                      "price": 180.00,
+                      "type": "agua",
+                      "principal_ingredient": "agua"
+                    },
+                    "Refresco_lata": {
+                      "price": 250.00,
+                      "type": "refresco",
+                      "principal_ingredient": "azúcar"
+                    },
+                    "Malta_Hyper_Malta": {
+                      "price": 270.00,
+                      "type": "energizante",
+                      "principal_ingredient": "malta"
+                    },
+                    "Malta_Bucanero": {
+                      "price": 300.00,
+                      "type": "energizante",
+                      "principal_ingredient": "malta"
+                    },
+                    "Jugo_Natural_cajita": {
+                      "price": 200.00,
+                      "type": "jugo",
+                      "principal_ingredient": "fruta natural"
+                    },
+                    "Jugo_Natural_lata": {
+                      "price": 270.00,
+                      "type": "jugo",
+                      "principal_ingredient": "fruta natural"
+                    },
+                    "Tigon": {
+                      "price": 280.00,
+                      "type": "enrgizante",
+                      "principal_ingredient": "cerveza"
+                    }
+                  },
+                  "cafes": {},
+                  "alcoholics": {
+                    "Cerveza_Cristal_lata": {
+                      "price": 280.00,
+                      "type": "cerveza",
+                      "principal_ingredient": "cebada"
+                    },
+                    "Cerveza_Cristal_botella": {
+                      "price": 380.00,
+                      "type": "cerveza",
+                      "principal_ingredient": "cebada"
+                    },
+                    "Cerveza_Hollandia": {
+                      "price": 250.00,
+                      "type": "cerveza importada",
+                      "principal_ingredient": "cebada"
+                    },
+                    "Cerveza_Wild_Hill": {
+                      "price": 250.00,
+                      "type": "cerveza importada",
+                      "principal_ingredient": "cebada"
+                    }
+                    
+                  
+                }
+              }
+              
+        }
+    }
+}

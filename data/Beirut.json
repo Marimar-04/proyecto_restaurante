@@ -1,0 +1,232 @@
+{
+    "name": "Beirut",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/beirutdoral/?hl=es",
+        "facebook": "https://www.facebook.com/beirutshawarmaoficial/?locale=es_LA",
+        "telephone_number": ["78315883"]
+    },
+    "location": {
+        "municipality": "Plaza de la Revolucion",
+        "direction": "Calle 1ra entre A y B, Vedado",
+        "coordinates": "23.1415047802383, -82.40082109084877"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.4,
+        "cant_g": 158,
+        "web": 4.5,
+        "cant_w": 29,
+        "tripadvisor": 4.5,
+        "cant_t": 204
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["libanesa"],
+        "capacity": 60,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "11:00",
+            "tue": "11:00",
+            "wed": "11:00",
+            "thu": "11:00",
+            "fri": "11:00",
+            "sat": "11:00",
+            "sun": "11:00"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": null,
+        "generator": false,
+        "wifi": false,
+        "parking": true,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {},
+            "main": {
+                "shish_taouk": {
+                    "price": 2950,
+                    "type": "brocheta",
+                    "principal_ingredient": "pollo"
+                },
+                "kabab": {
+                    "price": 2900,
+                    "type": "brocheta",
+                    "principal_ingredient": "cordero"
+                },
+                "shish_taouk_kabab": {
+                    "price": 2800,
+                    "type": "brocheta",
+                    "principal_ingredient": "pollo y cordero"
+                },
+                "shish_kabab": {
+                    "price": 2000,
+                    "type": "brocheta",
+                    "principal_ingredient": "pollo"
+                },
+                "tajin": {
+                    "price": 3500,
+                    "type": "guiso",
+                    "principal_ingredient": "cordero"
+                },
+                "mixto_beirut": {
+                    "price": 3700,
+                    "type": "mixto",
+                    "principal_ingredient": "pollo y cordero"
+                }
+            },
+            "fittings": {
+                "fetuche": {
+                    "price": 1500,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                },
+                "ensalada_mixta": {
+                    "price": 2000,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                },
+                "betabel": {
+                    "price": 2000,
+                    "type": "ensalada",
+                    "principal_ingredient": "remolacha"
+                },
+                "ensalada_beirut": {
+                    "price": 2100,
+                    "type": "ensalada",
+                    "principal_ingredient": "pollo"
+                },
+                "tabule": {
+                    "price": 3000,
+                    "type": "ensalada",
+                    "principal_ingredient": "trigo bulgur"
+                }
+            },
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "agua_nacional": {
+                        "price": 175,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "refrescos_importados": {
+                        "price": 290,
+                        "type": "refresco",
+                        "principal_ingredient": "soda"
+                    },
+                    "maltas": {
+                        "price": 290,
+                        "type": "malta",
+                        "principal_ingredient": "cebada"
+                    },
+
+                    "jugos_naturales": {
+                        "price": 410,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas"
+                    },
+                    "limonada": {
+                        "price": 410,
+                        "type": "coctel",
+                        "principal_ingredient": "limón"
+                    }
+                },
+                "cafes": {
+                    "expresso": {
+                        "price": 125,
+                        "type": "espresso",
+                        "principal_ingredient": "café"
+                    },
+                    "capuccino": {
+                        "price": 300,
+                        "type": "capuccino",
+                        "principal_ingredient": "café"
+                    },
+                    "americano": {
+                        "price": 160,
+                        "type": "americano",
+                        "principal_ingredient": "café"
+                    },
+                    "cortado": {
+                        "price": 200,
+                        "type": "cortado",
+                        "principal_ingredient": "café"
+                    },
+                    "te": {
+                        "price": 150,
+                        "type": "té",
+                        "principal_ingredient": "té"
+                    }
+                },
+                "alcoholics": {
+                    "cervezas": {
+                        "price": 390,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    }
+                }
+            }
+        }
+    }
+}

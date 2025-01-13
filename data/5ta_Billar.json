@@ -1,0 +1,471 @@
+{
+    "name": "5ta Billar",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/5tabillar/",
+        "facebook": "https://www.facebook.com/5ta.Billar/",
+        "telephone_number": []
+    },
+    "location": {
+        "municipality": "Regla",
+        "direction": " Av. Rotaria e/ Enlace y Calle A. Regla, Havana, Cuba",
+        "coordinates": "23.12354350130949, -82.32254288534219"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.8,
+        "cant_g": 5,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": false,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "",
+            "tue": "18:00",
+            "wed": "18:00",
+            "thu": "18:00",
+            "fri": "18:00",
+            "sat": "16:00",
+            "sun": "16:00"
+        },
+        "close": {
+            "mon": "",
+            "tue": "01:00",
+            "wed": "01:00",
+            "thu": "01:00",
+            "fri": "01:00",
+            "sat": "01:00",
+            "sun": "01:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": 80,
+            "local": 20
+        },
+        "ecological": true
+    },
+    "experiences": {
+        "live_music": true,
+        "show": [],
+        "karaoke": false,
+        "plays": ["billar"]
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": false,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": false,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": true,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": true,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "cacahuates_picante": {
+                    "price": 110.0,
+                    "type": "botana",
+                    "principal_ingredient": "cacahuates"
+                },
+                "tostones_rellenos_jg": {
+                    "price": 750.0,
+                    "type": "tostones",
+                    "principal_ingredient": "plátano"
+                },
+                "tostones_rellenos_atun": {
+                    "price": 980.0,
+                    "type": "tostones",
+                    "principal_ingredient": "atún"
+                },
+                "tostones_rellenos_carne": {
+                    "price": 900.0,
+                    "type": "tostones",
+                    "principal_ingredient": "carne"
+                },
+                "croquetas_bola_9": {
+                    "price": 650.0,
+                    "type": "croquetas",
+                    "principal_ingredient": "masa"
+                },
+                "bolita_de_queso": {
+                    "price": 850.0,
+                    "type": "croquetas",
+                    "principal_ingredient": "queso"
+                },
+                "fajitas_de_pollo": {
+                    "price": 920.0,
+                    "type": "fajitas",
+                    "principal_ingredient": "pollo"
+                },
+                "eperlan": {
+                    "price": 950.0,
+                    "type": "botana",
+                    "principal_ingredient": "pescado"
+                },
+                "entremes": {
+                    "price": 960.0,
+                    "type": "botana",
+                    "principal_ingredient": "surtido"
+                },
+                "surtido_5tabilla": {
+                    "price": 1650.0,
+                    "type": "surtido",
+                    "principal_ingredient": "varios"
+                },
+                "surtido_premium": {
+                    "price": 2950.0,
+                    "type": "surtido",
+                    "principal_ingredient": "varios premium"
+                },
+                "rositas_de_maiz": {
+                    "price": 600.0,
+                    "type": "botana",
+                    "principal_ingredient": "maíz"
+                }
+            },
+            "main": {
+                "tacos_de_cerdo": {
+                    "price": 950.0,
+                    "type": "tacos",
+                    "principal_ingredient": "cerdo"
+                },
+                "pollo_a_la_gordon_blue": {
+                    "price": 1800.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "uruguayo_de_cerdo": {
+                    "price": 2100.0,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "bistec_de_pollo_encebollado": {
+                    "price": 1600.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "bistec_de_cerdo_encebollado": {
+                    "price": 1900.0,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "brochetas_de_cerdo_al_carbon": {
+                    "price": 1800.0,
+                    "type": "brochetas",
+                    "principal_ingredient": "cerdo"
+                },
+                "baby_chicken": {
+                    "price": 960.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "kings_chicken": {
+                    "price": 1350.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "lomo_de_cerdo_asado_al_carbon": {
+                    "price": 1800.0,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                },
+                "chorizada_al_carbon": {
+                    "price": 2000.0,
+                    "type": "cerdo",
+                    "principal_ingredient": "chorizo"
+                },
+                "la_parrillada": {
+                    "price": 4950.0,
+                    "type": "parrillada",
+                    "principal_ingredient": "mixto"
+                }
+            },
+            "fittings": {},
+            "pastas": {},
+            "pizzas": {
+                "focaccia": {
+                    "price": 700.0,
+                    "type": "focaccia",
+                    "principal_ingredient": "pan"
+                },
+                "pizza_napolitana": {
+                    "price": 1100.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "tomate"
+                },
+                "pizza_mixta": {
+                    "price": 1600.0,
+                    "type": "mixta",
+                    "principal_ingredient": "mixto"
+                },
+                "pizza_cuatro_estaciones": {
+                    "price": 1900.0,
+                    "type": "cuatro estaciones",
+                    "principal_ingredient": "mixto"
+                }
+            },
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "malteada": {
+                        "price": 250.0,
+                        "type": "malteada",
+                        "principal_ingredient": null
+                    },
+                    "san_francisco": {
+                        "price": 350.0,
+                        "type": "refresco importado",
+                        "principal_ingredient": null
+                    },
+                    "refresco": {
+                        "price": 340.0,
+                        "type": "refresco",
+                        "principal_ingredient": null
+                    },
+                    "malta": {
+                        "price": 400.0,
+                        "type": "malta",
+                        "principal_ingredient": null
+                    },
+                    "red_bull": {
+                        "price": 750.0,
+                        "type": "energizante",
+                        "principal_ingredient": null
+                    },
+                    "agua_natural": {
+                        "price": 220.0,
+                        "type": "agua",
+                        "principal_ingredient": null
+                    },
+                    "kermato": {
+                        "price": 680.0,
+                        "type": "kermato",
+                        "principal_ingredient": null
+                    },
+                    "tigon": {
+                        "price": 400.0,
+                        "type": "energizante",
+                        "principal_ingredient": null
+                    },
+                    "jugo": {
+                        "price": 230.0,
+                        "type": "jugo",
+                        "principal_ingredient": null
+                    },
+                    "limonada_frappe": {
+                        "price": 300.0,
+                        "type": "limonada",
+                        "principal_ingredient": null
+                    },
+                    "limonada_frappe_curacao": {
+                        "price": 350.0,
+                        "type": "limonada",
+                        "principal_ingredient": null
+                    },
+                    "limonada_frappe_granadina": {
+                        "price": 380.0,
+                        "type": "limonada",
+                        "principal_ingredient": null
+                    },
+                    "limonada_frappe_melocoton": {
+                        "price": 400.0,
+                        "type": "limonada",
+                        "principal_ingredient": null
+                    },
+                    "limonada_frappe_menta": {
+                        "price": 380.0,
+                        "type": "limonada",
+                        "principal_ingredient": null
+                    },
+                    "limonada_frappe_mora": {
+                        "price": 380.0,
+                        "type": "limonada",
+                        "principal_ingredient": null
+                    },
+                    "limonada_frappe_naranja": {
+                        "price": 470.0,
+                        "type": "limonada",
+                        "principal_ingredient": null
+                    },
+                    "limonada_frescura_hierbabuena": {
+                        "price": 350.0,
+                        "type": "limonada",
+                        "principal_ingredient": null
+                    },
+                    "limonada_frappe_pina": {
+                        "price": 350.0,
+                        "type": "limonada",
+                        "principal_ingredient": null
+                    },
+                    "limonada_frappe_tropical_blue": {
+                        "price": 350.0,
+                        "type": "limonada",
+                        "principal_ingredient": null
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "cervezas_nacionales": {
+                        "price": 400.0,
+                        "type": "cerveza",
+                        "principal_ingredient": null
+                    },
+                    "cerveza_corona": {
+                        "price": 600.0,
+                        "type": "cerveza importada",
+                        "principal_ingredient": null
+                    },
+                    "cervezaz_importadas": {
+                        "price": 320.0,
+                        "type": "cerveza importada",
+                        "principal_ingredient": null
+                    },
+                    "margarita": {
+                        "price": 400.0,
+                        "type": "coctel",
+                        "principal_ingredient": null
+                    },
+                    "margarita_blue": {
+                        "price": 400.0,
+                        "type": "coctel",
+                        "principal_ingredient": null
+                    },
+                    "tequila_sunrise": {
+                        "price": 400.0,
+                        "type": "coctel",
+                        "principal_ingredient": null
+                    },
+                    "medusa": {
+                        "price": 650.0,
+                        "type": "coctel",
+                        "principal_ingredient": null
+                    },
+                    "margarita_extra": {
+                        "price": 720.0,
+                        "type": "coctel",
+                        "principal_ingredient": null
+                    },
+                    "margarita_blue_extra": {
+                        "price": 780.0,
+                        "type": "coctel",
+                        "principal_ingredient": null
+                    },
+                    "tequila_sunrise_extra": {
+                        "price": 780.0,
+                        "type": "coctel",
+                        "principal_ingredient": null
+                    },
+                    "servicio_chelada": {
+                        "price": 450.0,
+                        "type": "cerveza",
+                        "principal_ingredient": null
+                    },
+                    "servicio_michelada": {
+                        "price": 350.0,
+                        "type": "cerveza",
+                        "principal_ingredient": null
+                    },
+                    "jagger_bomb": {
+                        "price": 1200.0,
+                        "type": "coctel",
+                        "principal_ingredient": null
+                    },
+                    "mojito_corona": {
+                        "price": 900.0,
+                        "type": "coctel",
+                        "principal_ingredient": null
+                    },
+                    "corona_sunrise": {
+                        "price": 880.0,
+                        "type": "coctel",
+                        "principal_ingredient": null
+                    },
+                    "sangria": {
+                        "price": 760.0,
+                        "type": "vino",
+                        "principal_ingredient": null
+                    },
+                    "jarra_de_sangria": {
+                        "price": 3720.0,
+                        "type": "vino",
+                        "principal_ingredient": null
+                    },
+                    "alexander": {
+                        "price": 1000.0,
+                        "type": "coctel",
+                        "principal_ingredient": null
+                    },
+                    "eclipse": {
+                        "price": 1020.0,
+                        "type": "coctel",
+                        "principal_ingredient": null
+                    },
+                    "mai_tai": {
+                        "price": 550.0,
+                        "type": "coctel",
+                        "principal_ingredient": null
+                    },
+                    "orgasmo": {
+                        "price": 1080.0,
+                        "type": "coctel",
+                        "principal_ingredient": null
+                    },
+                    "aperol_sprits": {
+                        "price": 1650.0,
+                        "type": "coctel",
+                        "principal_ingredient": null
+                    },
+                    "italian_sunset": {
+                        "price": 780.0,
+                        "type": "coctel",
+                        "principal_ingredient": null
+                    },
+                    "mimosa": {
+                        "price": 1500.0,
+                        "type": "coctel",
+                        "principal_ingredient": null
+                    }
+                }
+            }
+        }
+    }
+}

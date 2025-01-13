@@ -1,0 +1,392 @@
+{
+    "name": "Don Cuenca",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/be_happy_italia_habana?igsh=MXJ5YmY4ZXhveHl1Mw==",
+        "facebook": "https://m.facebook.com/story.php?story_fbid=819463850398179&id=100070037130365",
+        "telephone_number": ["58044896"]
+    },
+    "location": {
+        "municipality": "Diez de Octubre",
+        "direction": "Esquina Lacret #3 y Calzada de 10 de Octubre",
+        "coordinates": "23.09754667602731, -82.36220479085904"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": 4.2,
+        "cant_g": 22,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": 5.0,
+        "cant_t": 2
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["internacional", "criolla"],
+        "capacity": 28,
+        "areas": {
+            "inside": false,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": 14
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "22:00",
+            "tue": "22:00",
+            "wed": "22:00",
+            "thu": "22:00",
+            "fri": "22:00",
+            "sat": "22:00",
+            "sun": "22:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": 70,
+            "local": 30
+        },
+        "ecological": true
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": false,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": true,
+        "others_languages": false,
+        "grammage": true,
+        "plate_description": true,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "hamburguesa_de_pollo": {
+                    "price": 300.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "pollo"
+                },
+                "hamburguesa_de_cerdo": {
+                    "price": 450.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "lerdo"
+                },
+                "pan_con_mayonesa": {
+                    "price": 120.0,
+                    "type": "pan",
+                    "principal_ingredient": "mayonesa"
+                },
+                "pan_minuta": {
+                    "price": 180.0,
+                    "type": "pan",
+                    "principal_ingredient": "minuta"
+                },
+                "tortilla": {
+                    "price": 250.0,
+                    "type": "pan",
+                    "principal_ingredient": "harina"
+                },
+                "higado": {
+                    "price": 250.0,
+                    "type": "pan",
+                    "principal_ingredient": "harina"
+                },
+
+                "queso": {
+                    "price": 350.0,
+                    "type": "sandwich",
+                    "principal_ingredient": "queso"
+                },
+                "queso_criollo": {
+                    "price": 250.0,
+                    "type": "sandwich",
+                    "principal_ingredient": "queso"
+                },
+                "super_sandwich_de_cerdo": {
+                    "price": 1300.0,
+                    "type": "sandwich",
+                    "principal_ingredient": "cerdo"
+                }
+            },
+            "starters": {
+                "fajitas_de_pollo": {
+                    "price": 1200.0,
+                    "type": "fajitas",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_chiplado": {
+                    "price": 800.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "tacos_de_pollo": {
+                    "price": 900.0,
+                    "type": "tacos",
+                    "principal_ingredient": "pollo"
+                },
+                "taco_con_coloketa": {
+                    "price": 650.0,
+                    "type": "taco",
+                    "principal_ingredient": "coloketa"
+                }
+            },
+            "main": {},
+            "fittings": {},
+            "pastas": {
+                "spaguettis_napolitano": {
+                    "price": 520.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "salsa napolitana"
+                },
+                "pesto_alla_genovesa": {
+                    "price": 780.0,
+                    "type": "genovesa",
+                    "principal_ingredient": "pesto"
+                },
+                "amatriciana": {
+                    "price": 850.0,
+                    "type": "amatriciana",
+                    "principal_ingredient": "salsa amatriciana"
+                },
+                "carbonara": {
+                    "price": 850.0,
+                    "type": "carbonara",
+                    "principal_ingredient": "carbonara"
+                },
+                "ragu_alla_bolognesa": {
+                    "price": 850.0,
+                    "type": "bolonesa",
+                    "principal_ingredient": "ragu"
+                },
+                "camarón": {
+                    "price": 1210.0,
+                    "type": "marisco",
+                    "principal_ingredient": "camarón"
+                },
+                "lasaña_de_carne": {
+                    "price": 900.0,
+                    "type": "lasana",
+                    "principal_ingredient": "carne"
+                }
+            },
+            "pizzas": {
+                "napolitana_30cm": {
+                    "price": 420.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "salsa napolitana"
+                },
+                "queso_gouda_30cm": {
+                    "price": 760.0,
+                    "type": "gouda",
+                    "principal_ingredient": "queso gouda"
+                },
+                "hawaiana_30cm": {
+                    "price": 850.0,
+                    "type": "hawaiana",
+                    "principal_ingredient": "piña"
+                },
+                "atin_y_cibolla_30cm": {
+                    "price": 1600.0,
+                    "type": "atun",
+                    "principal_ingredient": "atún y cebolla"
+                },
+                "jamón_30cm": {
+                    "price": 650.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "chorizo_30cm": {
+                    "price": 650.0,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "camarón_30cm": {
+                    "price": 1120.0,
+                    "type": "marisco",
+                    "principal_ingredient": "camarón"
+                },
+                "napolitana_20cm": {
+                    "price": 170.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "salsa napolitana"
+                },
+                "doble_queso_20cm": {
+                    "price": 250.0,
+                    "type": "doble queso",
+                    "principal_ingredient": "queso"
+                },
+                "queso_gouda_20cm": {
+                    "price": 280.0,
+                    "type": "gouda",
+                    "principal_ingredient": "queso gouda"
+                },
+                "hawaiana_20cm": {
+                    "price": 360.0,
+                    "type": "hawaiana",
+                    "principal_ingredient": "piña"
+                },
+                "frita_20cm": {
+                    "price": 380.0,
+                    "type": "frita",
+                    "principal_ingredient": "queso frito"
+                },
+                "cono_20cm": {
+                    "price": 400.0,
+                    "type": "pizza",
+                    "principal_ingredient": "cono"
+                },
+
+                "focaccia_con_jamon_serrano": {
+                    "price": 900.0,
+                    "type": "facaccia",
+                    "principal_ingredient": "jamon serrano"
+                }
+            },
+            "additions": {
+                "jamón": {
+                    "price": 120.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "chorizo": {
+                    "price": 175.0,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "bacon": {
+                    "price": 150.0,
+                    "type": "embutido",
+                    "principal_ingredient": "bacon"
+                },
+                "atún": {
+                    "price": 380.0,
+                    "type": "atun",
+                    "principal_ingredient": "atún"
+                },
+                "salchicha_italiana": {
+                    "price": 225.0,
+                    "type": "embutido",
+                    "principal_ingredient": "salchicha italiana"
+                },
+                "perrito": {
+                    "price": 105.0,
+                    "type": "embutido",
+                    "principal_ingredient": "perrito"
+                },
+                "jamon_serrano": {
+                    "price": 420.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamon serrano"
+                },
+                "camaron": {
+                    "price": 690.0,
+                    "type": "marisco",
+                    "principal_ingredient": "camaron"
+                },
+                "aceituna": {
+                    "price": 105.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "aceituna"
+                },
+                "cebolla": {
+                    "price": 125.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                },
+                "pina": {
+                    "price": 105.0,
+                    "type": "fruta",
+                    "principal_ingredient": "pina"
+                },
+                "pera": {
+                    "price": 105.0,
+                    "type": "fruta",
+                    "principal_ingredient": "pera"
+                },
+                "queso_blanco": {
+                    "price": 105.0,
+                    "type": "queso",
+                    "principal_ingredient": "queso blanco"
+                },
+                "mozzarella_fresca": {
+                    "price": 1000.0,
+                    "type": "queso",
+                    "principal_ingredient": "mozzarella"
+                },
+                "qi_pimiento": {
+                    "price": 105.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "pimiento"
+                },
+                "champiñon": {
+                    "price": 105.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "champiñon"
+                },
+                "mango": {
+                    "price": 105.0,
+                    "type": "fruta",
+                    "principal_ingredient": "hango"
+                }
+            },
+            "dessert": {},
+            "drinks": {
+                "mango": {
+                    "price": 100.0,
+                    "type": "jugo",
+                    "principal_ingredient": "mango"
+                },
+                "guayaba": {
+                    "price": 100.0,
+                    "type": "jugo",
+                    "principal_ingredient": "guayaba"
+                },
+                "refresco": {
+                    "price": 30.0,
+                    "type": "refresco vaso",
+                    "principal_ingredient": "mixto"
+                }
+            },
+            "cafes": {},
+            "alcoholics": {}
+        }
+    }
+}

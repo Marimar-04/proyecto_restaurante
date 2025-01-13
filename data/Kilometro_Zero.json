@@ -1,0 +1,584 @@
+{
+    "name": "Kilometro Zero",
+    "sector": "privado",
+    "information": {
+        "website": "https://kilometrozerocuba.com/",
+        "instagram": "https://www.instagram.com/kilometrozeropaladar/?hl=es",
+        "facebook": "https://www.facebook.com/kilometrozerohabana/?locale=es_LA",
+        "telephone_number": ["59710666"]
+    },
+    "location": {
+        "municipality": "Habana Vieja",
+        "direction": "Calle Monserrate #437 esq. Teniente Rey, Havana, Cuba 10100",
+        "coordinates": "23.13597420030073, -82.35655632832908"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.2,
+        "cant_g": 357,
+        "web": 4.3,
+        "cant_w": 43,
+        "tripadvisor": 4.5,
+        "cant_t": 437
+    },
+    "description": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["criolla", "fusion"],
+        "capacity": 60,
+        "areas": {
+            "inside": true,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": 12
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "08:00",
+            "tue": "08:00",
+            "wed": "08:00",
+            "thu": "08:00",
+            "fri": "08:00",
+            "sat": "08:00",
+            "sun": "08:00"
+        },
+        "close": {
+            "mon": "02:00",
+            "tue": "02:00",
+            "wed": "02:00",
+            "thu": "02:00",
+            "fri": "02:00",
+            "sat": "02:00",
+            "sun": "02:00"
+        }
+    },
+    "logistics": {
+        "full_staff": false,
+        "average_salary": 4000
+    },
+    "sustainability": {
+        "product": {
+            "import": 80,
+            "local": 20
+        },
+        "ecological": true
+    },
+    "experiences": {
+        "live_music": true,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": false,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": true,
+        "others_languages": true,
+        "grammage": false,
+        "plate_description": true,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "pica_pica_boom": {
+                    "price": 3200,
+                    "type": "mixto",
+                    "principal_ingredient": "varios"
+                },
+                "cesta_de_pan": {
+                    "price": 850,
+                    "type": "pan",
+                    "principal_ingredient": "harina"
+                },
+                "croquetas_de_la_casa": {
+                    "price": 1140,
+                    "type": "croqueta",
+                    "principal_ingredient": "varios"
+                },
+                "tamal_cubano": {
+                    "price": 2080,
+                    "type": "tamal",
+                    "principal_ingredient": "maiz"
+                },
+                "tacos_de_la_casa": {
+                    "price": 1795,
+                    "type": "taco",
+                    "principal_ingredient": "varios"
+                },
+                "quesadillas_de_vaca_frita": {
+                    "price": 1760,
+                    "type": "quesadilla",
+                    "principal_ingredient": "res"
+                },
+                "fajitas_de_pollo": {
+                    "price": 2170,
+                    "type": "fajitas",
+                    "principal_ingredient": "pollo"
+                },
+                "carpaccio_de_res": {
+                    "price": 3000,
+                    "type": "carpaccio",
+                    "principal_ingredient": "res"
+                },
+                "carpaccio_de_pescado": {
+                    "price": 2300,
+                    "type": "carpaccio",
+                    "principal_ingredient": "pescado"
+                },
+                "esperlan": {
+                    "price": 2250,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "ceviche": {
+                    "price": 2225,
+                    "type": "ceviche",
+                    "principal_ingredient": "pescado"
+                },
+
+                "ensalada_organica": {
+                    "price": 995,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                },
+                "ensalada_coronada_con_atun": {
+                    "price": 1760,
+                    "type": "ensalada",
+                    "principal_ingredient": "atun"
+                }
+            },
+            "main": {
+                "pescado_entero_al_josper": {
+                    "price": 8370,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "caldereta_de_mariscos": {
+                    "price": 9800,
+                    "type": "marisco",
+                    "principal_ingredient": "mariscos"
+                },
+                "langosta_km_zero": {
+                    "price": 6650,
+                    "type": "langosta",
+                    "principal_ingredient": "langosta"
+                },
+                "ribeye_al_josper": {
+                    "price": 6000,
+                    "type": "ribeye",
+                    "principal_ingredient": "res"
+                },
+                "arroz_a_la_cubana": {
+                    "price": 2880,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "pollo_morena": {
+                    "price": 2865,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "vaca_frita": {
+                    "price": 2940,
+                    "type": "vaca frita",
+                    "principal_ingredient": "res"
+                },
+                "ropa_vieja": {
+                    "price": 2970,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "res"
+                },
+                "lonjas_de_cerdo": {
+                    "price": 3040,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                },
+                "masas_de_cerdo": {
+                    "price": 3075,
+                    "type": "masas fritas",
+                    "principal_ingredient": "cerdo"
+                },
+                "pesca_del_dia": {
+                    "price": 4480,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "pescado_en_costra": {
+                    "price": 4995,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "camarones_al_gusto": {
+                    "price": 5250,
+                    "type": "camarones",
+                    "principal_ingredient": "camarones"
+                }
+            },
+            "fittings": {
+                "arroz": {
+                    "price": 580,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "frijoles": {
+                    "price": 620,
+                    "type": "frijoles",
+                    "principal_ingredient": "frijoles"
+                },
+                "vianda_frita": {
+                    "price": 640,
+                    "type": "vianda",
+                    "principal_ingredient": "vianda"
+                },
+                "papas_fritas": {
+                    "price": 1280,
+                    "type": "papas",
+                    "principal_ingredient": "papa"
+                }
+            },
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {
+                "tarta_de_limon": {
+                    "price": 1960,
+                    "type": "tarta",
+                    "principal_ingredient": "limon"
+                },
+                "tarta_de_chocolate": {
+                    "price": 1650,
+                    "type": "tarta",
+                    "principal_ingredient": "chocolate"
+                },
+                "postre_casero": {
+                    "price": 960,
+                    "type": "postre",
+                    "principal_ingredient": "varios"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "agua_natural": {
+                        "price": 495,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "agua_con_gas_mondariz": {
+                        "price": 1300,
+                        "type": "agua gaseada",
+                        "principal_ingredient": "agua"
+                    },
+                    "agua_tonica_importada": {
+                        "price": 960,
+                        "type": "agua tonica",
+                        "principal_ingredient": "agua"
+                    },
+                    "refrescos_importados": {
+                        "price": 675,
+                        "type": "refresco importado",
+                        "principal_ingredient": "refresco"
+                    },
+                    "malta_bucanero": {
+                        "price": 750,
+                        "type": "malta",
+                        "principal_ingredient": "malta"
+                    },
+                    "jugos_naturales": {
+                        "price": 790,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas"
+                    },
+                    "limonada_frescura": {
+                        "price": 960,
+                        "type": "limonada",
+                        "principal_ingredient": "limon"
+                    },
+                    "energizante": {
+                        "price": 900,
+                        "type": "energizante",
+                        "principal_ingredient": "varios"
+                    }
+                },
+                "cafes": {
+                    "espresso": {
+                        "price": 480,
+                        "type": "espresso",
+                        "principal_ingredient": "cafe"
+                    },
+                    "americano": {
+                        "price": 515,
+                        "type": "americano",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cortado": {
+                        "price": 550,
+                        "type": "cortado",
+                        "principal_ingredient": "cafe"
+                    },
+                    "macchiato": {
+                        "price": 550,
+                        "type": "macchiato",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_con_leche": {
+                        "price": 620,
+                        "type": "con leche",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cappuccino": {
+                        "price": 655,
+                        "type": "capuchino",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_bombon": {
+                        "price": 725,
+                        "type": "bombon",
+                        "principal_ingredient": "cafe"
+                    },
+                    "frappuccino": {
+                        "price": 1120,
+                        "type": "frapuccino",
+                        "principal_ingredient": "cafe"
+                    },
+                    "havana_quemado": {
+                        "price": 1760,
+                        "type": "quemado",
+                        "principal_ingredient": "ron"
+                    }
+                },
+                "alcoholics": {
+                    "daiquiri": {
+                        "price": 1085,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "mojito": {
+                        "price": 1085,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "cuba_libre": {
+                        "price": 1250,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "canchanchara": {
+                        "price": 1085,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "havana_special": {
+                        "price": 1085,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "cubanito": {
+                        "price": 1250,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "ron_fashioned": {
+                        "price": 1705,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "cuban_manhattan": {
+                        "price": 1705,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "los_caipi": {
+                        "price": 1250,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "moscow_mule": {
+                        "price": 2015,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "espresso_martini": {
+                        "price": 1705,
+                        "type": "coctel",
+                        "principal_ingredient": "cafe"
+                    },
+                    "bloody_mary_xl": {
+                        "price": 2945,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "screwdriver": {
+                        "price": 1250,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "vodka_tonic": {
+                        "price": 1860,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "gin_tonic": {
+                        "price": 1860,
+                        "type": "coctel",
+                        "principal_ingredient": "gin"
+                    },
+                    "martini": {
+                        "price": 1705,
+                        "type": "coctel",
+                        "principal_ingredient": "gin"
+                    },
+                    "negro": {
+                        "price": 1860,
+                        "type": "coctel",
+                        "principal_ingredient": "gin"
+                    },
+                    "margarita": {
+                        "price": 1395,
+                        "type": "coctel",
+                        "principal_ingredient": "tequila"
+                    },
+                    "tequila_sunrise": {
+                        "price": 1550,
+                        "type": "coctel",
+                        "principal_ingredient": "tequila"
+                    },
+                    "long_island": {
+                        "price": 1860,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "amaretto_sour": {
+                        "price": 1705,
+                        "type": "coctel",
+                        "principal_ingredient": "amaretto"
+                    },
+                    "whisky_sour": {
+                        "price": 1860,
+                        "type": "coctel",
+                        "principal_ingredient": "whisky"
+                    },
+                    "aperol_spritz": {
+                        "price": 1860,
+                        "type": "coctel",
+                        "principal_ingredient": "aperol"
+                    },
+                    "sangria": {
+                        "price": 1550,
+                        "type": "coctel",
+                        "principal_ingredient": "vino"
+                    },
+                    "mimosa": {
+                        "price": 1800,
+                        "type": "coctel",
+                        "principal_ingredient": "vino"
+                    },
+                    "tinto_verano": {
+                        "price": 1800,
+                        "type": "coctel",
+                        "principal_ingredient": "vino"
+                    },
+                    "idea_43": {
+                        "price": 2325,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "pacto_zero": {
+                        "price": 2760,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "sex_on_km": {
+                        "price": 2015,
+                        "type": "coctel",
+                        "principal_ingredient": "whisky"
+                    },
+                    "aperol_gin": {
+                        "price": 2015,
+                        "type": "coctel",
+                        "principal_ingredient": "aperol"
+                    },
+                    "mojito_capitolio": {
+                        "price": 1705,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "canchanchara_kmz": {
+                        "price": 1860,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "santiago_dark": {
+                        "price": 1860,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "el_tropical": {
+                        "price": 1785,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "cuban_flavor": {
+                        "price": 1860,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "pina_colada_tentacion": {
+                        "price": 1950,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "gin_tonic_afrodisiaco": {
+                        "price": 1950,
+                        "type": "coctel",
+                        "principal_ingredient": "gin"
+                    },
+                    "mezcalita_chica_mala": {
+                        "price": 2995,
+                        "type": "coctel",
+                        "principal_ingredient": "mezcal"
+                    },
+                    "cristal_de_botella": {
+                        "price": 840,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    },
+                    "bucanero_de_botella": {
+                        "price": 840,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    },
+                    "servicio_chelada": {
+                        "price": 310,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    },
+                    "servicio_michelada": {
+                        "price": 465,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    }
+                }
+            }
+        }
+    }
+}

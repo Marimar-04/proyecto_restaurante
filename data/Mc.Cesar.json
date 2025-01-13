@@ -1,0 +1,364 @@
+{
+    "name": "Mi Terraza",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/groups/2358640804407580/?locale=es_LA",
+        "telephone_number": ["59770018"]
+    },
+    "location": {
+        "municipality": "Cotorro",
+        "direction": "Calle primer entre 220 y 221, Cotorro",
+        "coordinates": "23.052029687133405, -82.27523988718427"
+    },
+    "valoration": {
+        "quality": "",
+        "google": 4.1,
+        "cant_g": 16,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["criolla"],
+        "capacity": 100,
+        "areas": {
+            "inside": true,
+            "outside": false,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "09:30",
+            "tue": "09:30",
+            "wed": "09:30",
+            "thu": "09:30",
+            "fri": "09:30",
+            "sat": "09:30",
+            "sun": "09:30"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": false,
+        "parking": true,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": false
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "pan_de_atun": {
+                    "price": 600.0,
+                    "type": "pan",
+                    "principal_ingredient": "atun"
+                },
+                "pan_de_jamon_queso": {
+                    "price": 500.0,
+                    "type": "pan",
+                    "principal_ingredient": "jamon y queso"
+                },
+                "pan_con_pechuga": {
+                    "price": 500.0,
+                    "type": "pan",
+                    "principal_ingredient": "pechuga"
+                },
+                "pan_con_bistec": {
+                    "price": 500.0,
+                    "type": "pan",
+                    "principal_ingredient": "bistec"
+                },
+                "hamburguesa_de_cerdo": {
+                    "price": 500.0,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "cerdo"
+                }
+            },
+            "starters": {
+                "dados_jamo_queso": {
+                    "price": 1000.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "jamon y queso"
+                },
+                "eperlan": {
+                    "price": 1300.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "ensalada_fria": {
+                    "price": 300.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                },
+                "tostones_rellenos": {
+                    "price": 600.0,
+                    "type": "tostones",
+                    "principal_ingredient": "platanos"
+                },
+                "tostones_criollos": {
+                    "price": 350.0,
+                    "type": "tostones",
+                    "principal_ingredient": "platanos"
+                },
+                "croquetas_de_la_casa": {
+                    "price": 500.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "mixto"
+                },
+                "picadera_mc_cesar": {
+                    "price": 2500.0,
+                    "type": "picadera",
+                    "principal_ingredient": "mixto"
+                }
+            },
+            "main": {
+                "garbanzos_fritos": {
+                    "price": 1000.0,
+                    "type": "guiso",
+                    "principal_ingredient": "garbanzos"
+                },
+                "higado_de_cerdo_a_la_italiana": {
+                    "price": 1000.0,
+                    "type": "higado",
+                    "principal_ingredient": "cerdo"
+                },
+                "salteado_de_vegetales": {
+                    "price": 1500.0,
+                    "type": "salteado",
+                    "principal_ingredient": "vegetales"
+                },
+                "uruguayo": {
+                    "price": 1500.0,
+                    "type": "plato",
+                    "principal_ingredient": "mixto"
+                },
+                "brocha_cerdo_pollo": {
+                    "price": 1700.0,
+                    "type": "brocheta",
+                    "principal_ingredient": "cerdo y pollo"
+                },
+                "bistec_grille": {
+                    "price": 1300.0,
+                    "type": "bistec",
+                    "principal_ingredient": "res"
+                },
+                "faja_de_cerdo": {
+                    "price": 1400.0,
+                    "type": "carne",
+                    "principal_ingredient": "cerdo"
+                },
+                "escalope": {
+                    "price": 1400.0,
+                    "type": "carne",
+                    "principal_ingredient": "res"
+                },
+                "solomillo": {
+                    "price": 2000.0,
+                    "type": "solomillo",
+                    "principal_ingredient": "res"
+                },
+                "lomo_ahumado_deshuesado": {
+                    "price": 1300.0,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                },
+                "pechuga_grille": {
+                    "price": 1300.0,
+                    "type": "pechuga",
+                    "principal_ingredient": "pollo"
+                },
+                "salteado_de_pollo": {
+                    "price": 1400.0,
+                    "type": "salteado",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_deshuesado": {
+                    "price": 900.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "goldon_blue": {
+                    "price": 1500.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "suprema_princesa": {
+                    "price": 1500.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "ropa_vieja": {
+                    "price": 1800.0,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "res"
+                },
+                "vaca_frita": {
+                    "price": 1800.0,
+                    "type": "vaca frita",
+                    "principal_ingredient": "res"
+                },
+                "bistec_de_res": {
+                    "price": 2000.0,
+                    "type": "bistec",
+                    "principal_ingredient": "res"
+                },
+                "pescado_grille": {
+                    "price": 1500.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "pescado_mc_cesar": {
+                    "price": 2500.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "canciller": {
+                    "price": 1800.0,
+                    "type": "carne",
+                    "principal_ingredient": "res"
+                },
+                "pescado_empanado": {
+                    "price": 1600.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "pescado_con_salsa_de_limon": {
+                    "price": 1700.0,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "camaron_grille": {
+                    "price": 1900.0,
+                    "type": "mariscos",
+                    "principal_ingredient": "camaron"
+                },
+                "camaron_al_ajillo": {
+                    "price": 1900.0,
+                    "type": "mariscos",
+                    "principal_ingredient": "camaron"
+                },
+                "camaron_enchilado": {
+                    "price": 2000.0,
+                    "type": "mariscos",
+                    "principal_ingredient": "camaron"
+                }
+            },
+            "fittings": {
+                "arroz_a_la_campesina": {
+                    "price": 1500.0,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "arroz_moro": {
+                    "price": 300.0,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "arroz_blanco": {
+                    "price": 200.0,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "arroz_frito": {
+                    "price": 500.0,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                }
+            },
+            "pastas": {
+                "espaguetis": {
+                    "price": 500.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "espaguetis"
+                }
+            },
+            "pizzas": {
+                "pizza": {
+                    "price": 500.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "masa"
+                }
+            },
+            "additions": {},
+            "dessert": {
+                "torrejas": {
+                    "price": 500.0,
+                    "type": "postre",
+                    "principal_ingredient": "huevo"
+                },
+                "ensalada_helado": {
+                    "price": 500.0,
+                    "type": "helado",
+                    "principal_ingredient": "helado"
+                },
+                "bola_de_helado": {
+                    "price": 100.0,
+                    "type": "helado",
+                    "principal_ingredient": "helado"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "batido_de_helado": {
+                        "price": 500.0,
+                        "type": "batido",
+                        "principal_ingredient": "helado"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

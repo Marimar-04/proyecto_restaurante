@@ -1,0 +1,280 @@
+{
+    "name": "Brutal",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/brutal_habana/?hl=es",
+        "facebook": "",
+        "telephone_number": ["50989151"]
+    },
+    "location": {
+        "municipality": "Cerro",
+        "direction": "Infanta esquina Calle Universidad. Cerro. La Habana",
+        "coordinates": "23.120835643096115, -82.37227496386036"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 3.4,
+        "cant_g": 5,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": null,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "Baguette": {
+                    "price": 5150,
+                    "type": "pan",
+                    "principal_ingredient": "harina"
+                },
+                "Suave": {
+                    "price": 120,
+                    "type": "pan",
+                    "principal_ingredient": "harina"
+                },
+                "Croissant": {
+                    "price": 450,
+                    "type": "pan",
+                    "principal_ingredient": "harina"
+                },
+                "Pan_de_Hamburguesa": {
+                    "price": 150,
+                    "type": "pan",
+                    "principal_ingredient": "harina"
+                },
+                "Hamburguesa_Brutal": {
+                    "price": 3200,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "pan de hamburguesa"
+                },
+                "Baguette_Brutal": {
+                    "price": 2000,
+                    "type": "sandwich",
+                    "principal_ingredient": "baguette"
+                },
+                "Brutal_Junior": {
+                    "price": 550,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "mini hamburguesa"
+                },
+                "Combo_Brutal_Junior": {
+                    "price": 2550,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "mini hamburguesa"
+                }
+            },
+            "starters": {
+                "Papas_Fritas_Medias_100g": {
+                    "price": 300,
+                    "type": "tostones",
+                    "principal_ingredient": "papas"
+                },
+                "Papas_Fritas_Normal_200g": {
+                    "price": 600,
+                    "type": "tostones",
+                    "principal_ingredient": "papas"
+                },
+                "SalchiPapas": {
+                    "price": 500,
+                    "type": "tostones",
+                    "principal_ingredient": "salchichas"
+                },
+                "SalchiPapas_BRUTAL": {
+                    "price": 1400,
+                    "type": "tostones",
+                    "principal_ingredient": "salchichas"
+                },
+                "Croquetas_de_Pollo_x_5": {
+                    "price": 175,
+                    "type": "croqueta",
+                    "principal_ingredient": "pollo"
+                },
+                "Croquetas_de_Pollo_x_10": {
+                    "price": 350,
+                    "type": "croqueta",
+                    "principal_ingredient": "pollo"
+                },
+                "SalchiPapas_Brutal": {
+                    "price": 1400,
+                    "type": "tostones",
+                    "principal_ingredient": "salchichas"
+                },
+                "Papas_Fritas_Brutal": {
+                    "price": 1100,
+                    "type": "tostones",
+                    "principal_ingredient": "papas fritas"
+                },
+                "Papas_Fritas_Medias": {
+                    "price": 300,
+                    "type": "tostones",
+                    "principal_ingredient": "papas fritas"
+                },
+                "Papas_Fritas_Normales": {
+                    "price": 600,
+                    "type": "tostones",
+                    "principal_ingredient": "papas fritas"
+                },
+                "Fajitas_de_Pechuga_con_Papas_Fritas": {
+                    "price": 1500,
+                    "type": "fajita",
+                    "principal_ingredient": "pechuga de pollo"
+                },
+                "Croquetas_de_Pollo_5_unidades": {
+                    "price": 175,
+                    "type": "croqueta",
+                    "principal_ingredient": "pollo"
+                },
+                "Croquetas_de_Pollo_10_unidades": {
+                    "price": 350,
+                    "type": "croqueta",
+                    "principal_ingredient": "pollo"
+                }
+            },
+            "main": {},
+            "fittings": {},
+            "pastas": {},
+            "pizzas": {},
+            "additions": {
+                "Cebolla": {
+                    "price": 100,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                },
+                "Pepinillo": {
+                    "price": 5100,
+                    "type": "vegetal",
+                    "principal_ingredient": "pepinillo"
+                },
+                "Pimiento": {
+                    "price": 5100,
+                    "type": "vegetal",
+                    "principal_ingredient": "pimiento"
+                },
+                "Tomate": {
+                    "price": 100,
+                    "type": "vegetal",
+                    "principal_ingredient": "tomate"
+                },
+                "Aceituna": {
+                    "price": 100,
+                    "type": "vegetal",
+                    "principal_ingredient": "aceituna"
+                },
+                "Lechuga": {
+                    "price": 50,
+                    "type": "vegetal",
+                    "principal_ingredient": "lechuga"
+                },
+                "Agrego_de_Nutella": {
+                    "price": 50,
+                    "type": "agrego",
+                    "principal_ingredient": "Nutella"
+                },
+                "Agrego_de_Gomita": {
+                    "price": 400,
+                    "type": "agrego",
+                    "principal_ingredient": "gomitas"
+                }
+            },
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "Batido_de_Helado": {
+                        "price": 1000,
+                        "type": "refresco",
+                        "principal_ingredient": "helado"
+                    },
+                    "Batido_de_Helado_con_Gomitas": {
+                        "price": 1400,
+                        "type": "refresco",
+                        "principal_ingredient": "helado"
+                    },
+                    "Batido_de_Helado_BRUTAL": {
+                        "price": 2000,
+                        "type": "refresco",
+                        "principal_ingredient": "helado"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

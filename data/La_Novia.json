@@ -1,0 +1,460 @@
+{
+    "name": "La Mia Pizza",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/restaurante_lanovia/?locale=it&hl=nb",
+        "facebook": "https://www.facebook.com/groups/1106339953805716/",
+        "telephone_number": ["55861545"]
+    },
+    "location": {
+        "municipality": "La Lisa",
+        "direction": "Calle 51 entre 330 y 332 #33013, La Lisa",
+        "coordinates": "23.02452865397453, -82.46343598954796"
+    },
+    "valoration": {
+        "quality": "",
+        "google": 3.0,
+        "cant_g": 2,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": 25,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "",
+            "tue": "",
+            "wed": "",
+            "thu": "",
+            "fri": "",
+            "sat": "",
+            "sun": ""
+        },
+        "close": {
+            "mon": "",
+            "tue": "",
+            "wed": "",
+            "thu": "",
+            "fri": "",
+            "sat": "",
+            "sun": ""
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": null,
+        "generator": null,
+        "wifi": false,
+        "parking": false,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": false,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "croquetas_de_la_casa": {
+                    "price": 600,
+                    "type": "croqueta",
+                    "principal_ingredient": "masa"
+                },
+                "frituras_de_malanga": {
+                    "price": 400,
+                    "type": "fritura",
+                    "principal_ingredient": "malanga"
+                },
+                "bolitas_de_yuca_y_queso": {
+                    "price": 350,
+                    "type": "bolita",
+                    "principal_ingredient": "yuca y queso"
+                },
+                "fajitas_de_cerdo": {
+                    "price": 1000,
+                    "type": "fajita",
+                    "principal_ingredient": "cerdo"
+                },
+                "fajitas_de_pollo": {
+                    "price": 1000,
+                    "type": "fajita",
+                    "principal_ingredient": "pollo"
+                },
+                "picadera_mixta": {
+                    "price": 2200,
+                    "type": "picadera",
+                    "principal_ingredient": "mixto"
+                },
+                "chips_de_vianda": {
+                    "price": 200,
+                    "type": "chips",
+                    "principal_ingredient": "vianda"
+                },
+                "milanesa_de_pollo": {
+                    "price": 1200,
+                    "type": "milanesa",
+                    "principal_ingredient": "pollo"
+                },
+                "tacos_de_cerdo": {
+                    "price": 1100,
+                    "type": "taco",
+                    "principal_ingredient": "cerdo"
+                },
+                "tacos_de_pollo": {
+                    "price": 1100,
+                    "type": "taco",
+                    "principal_ingredient": "pollo"
+                },
+                "tacos_de_jamon_y_queso": {
+                    "price": 1100,
+                    "type": "taco",
+                    "principal_ingredient": "jamon y queso"
+                },
+                "tacos_marineros": {
+                    "price": 1100,
+                    "type": "taco",
+                    "principal_ingredient": "marisco"
+                },
+                "tacos_de_ropa_vieja": {
+                    "price": 1300,
+                    "type": "taco",
+                    "principal_ingredient": "ropa vieja"
+                },
+                "tostones_criollos": {
+                    "price": 300,
+                    "type": "toston",
+                    "principal_ingredient": "platano"
+                },
+                "tostones_rellenos": {
+                    "price": 850,
+                    "type": "toston",
+                    "principal_ingredient": "relleno"
+                },
+                "sandwich_de_jamon": {
+                    "price": 580,
+                    "type": "sandwich",
+                    "principal_ingredient": "jamon"
+                },
+                "sandwich_de_jamon_y_queso": {
+                    "price": 730,
+                    "type": "sandwich",
+                    "principal_ingredient": "jamon y queso"
+                },
+                "sandwich_cubano_con_cerdo_asado": {
+                    "price": 1300,
+                    "type": "sandwich",
+                    "principal_ingredient": "cerdo asado"
+                },
+                "ensaladita_de_aceitunas_queso_y_pepperoni": {
+                    "price": 1100,
+                    "type": "ensalada",
+                    "principal_ingredient": "aceitunas, queso y pepperoni"
+                }
+            },
+            "main": {
+                "masas_de_cerdo_fritas": {
+                    "price": 1700,
+                    "type": "masa",
+                    "principal_ingredient": "cerdo"
+                },
+                "pollo_frito": {
+                    "price": 1300,
+                    "type": "frito",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_asado": {
+                    "price": 1300,
+                    "type": "asado",
+                    "principal_ingredient": "pollo"
+                },
+                "bistec_de_cerdo": {
+                    "price": 1200,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "bistec_de_pechuga": {
+                    "price": 1600,
+                    "type": "bistec",
+                    "principal_ingredient": "pechuga"
+                },
+                "chuleta_de_cerdo": {
+                    "price": 1600,
+                    "type": "chuleta",
+                    "principal_ingredient": "cerdo"
+                },
+                "ropa_vieja": {
+                    "price": 1900,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "carne desmenuzada"
+                },
+                "brochetas_de_cerdo": {
+                    "price": 1800,
+                    "type": "brocheta",
+                    "principal_ingredient": "cerdo"
+                },
+                "completa_de_enchilado_de_cangrejo": {
+                    "price": 1500,
+                    "type": "enchilado",
+                    "principal_ingredient": "cangrejo"
+                },
+                "cerdo_asado": {
+                    "price": 1500,
+                    "type": "asado",
+                    "principal_ingredient": "cerdo"
+                }
+            },
+            "fittings": {},
+            "pastas": {
+                "espaghettis_napolitanos": {
+                    "price": 700,
+                    "type": "napolitana",
+                    "principal_ingredient": "pasta"
+                }
+            },
+            "pizzas": {
+                "pizza_napolitana": {
+                    "price": 280,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso"
+                },
+                "pizza_de_pepperoni": {
+                    "price": 400,
+                    "type": "pepperoni",
+                    "principal_ingredient": "pepperoni"
+                }
+            },
+            "additions": {
+                "vegetales": {
+                    "price": 180,
+                    "type": "vegetal",
+                    "principal_ingredient": "mixto"
+                },
+                "jamon": {
+                    "price": 250,
+                    "type": "embutido",
+                    "principal_ingredient": "jamon"
+                },
+                "queso": {
+                    "price": 300,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "cebolla": {
+                    "price": 120,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                },
+                "cerdo_asado": {
+                    "price": 400,
+                    "type": "asado",
+                    "principal_ingredient": "cerdo"
+                },
+                "chorizo": {
+                    "price": 200,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "pina_glaseada": {
+                    "price": 150,
+                    "type": "fruta",
+                    "principal_ingredient": "pina"
+                },
+                "pimientos": {
+                    "price": 150,
+                    "type": "vegetal",
+                    "principal_ingredient": "pimiento"
+                },
+                "huevos": {
+                    "price": 150,
+                    "type": "proteina",
+                    "principal_ingredient": "huevo"
+                },
+                "pepperoni": {
+                    "price": 120,
+                    "type": "embutido",
+                    "principal_ingredient": "pepperoni"
+                },
+                "masa_de_cangrejo": {
+                    "price": 300,
+                    "type": "marisco",
+                    "principal_ingredient": "cangrejo"
+                }
+            },
+            "dessert": {
+                "copa_de_helado": {
+                    "price": 550,
+                    "type": "helado",
+                    "principal_ingredient": "leche"
+                },
+                "flan": {
+                    "price": 270,
+                    "type": "postre",
+                    "principal_ingredient": "huevo"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "agua_natural": {
+                        "price": 150,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "limonada_frappe": {
+                        "price": 340,
+                        "type": "limonada",
+                        "principal_ingredient": "limon"
+                    },
+                    "limonada_natural": {
+                        "price": 340,
+                        "type": "limonada",
+                        "principal_ingredient": "limon"
+                    },
+                    "jugos_naturales": {
+                        "price": 160,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas"
+                    },
+                    "batido_de_frutas": {
+                        "price": 350,
+                        "type": "batido",
+                        "principal_ingredient": "frutas"
+                    },
+                    "batido_de_helado": {
+                        "price": 700,
+                        "type": "batido",
+                        "principal_ingredient": "helado"
+                    },
+                    "refresco_importado": {
+                        "price": 260,
+                        "type": "refresco importado",
+                        "principal_ingredient": "azucar"
+                    },
+                    "energizante": {
+                        "price": 260,
+                        "type": "energizante",
+                        "principal_ingredient": "cafeina"
+                    }
+                },
+                "cafes": {
+                    "cafe_expresso": {
+                        "price": 100,
+                        "type": "espresso",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_frappuccino": {
+                        "price": 450,
+                        "type": "frappuccino",
+                        "principal_ingredient": "cafe"
+                    }
+                },
+                "alcoholics": {
+                    "michelada_mexicana": {
+                        "price": 250,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "michelada": {
+                        "price": 230,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "chelada": {
+                        "price": 200,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "sangria": {
+                        "price": 550,
+                        "type": "coctel",
+                        "principal_ingredient": "vino"
+                    },
+                    "cuba_libre": {
+                        "price": 250,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "caipiroska": {
+                        "price": 300,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "caipirinha": {
+                        "price": 300,
+                        "type": "coctel",
+                        "principal_ingredient": "cachaca"
+                    },
+                    "pina_colada": {
+                        "price": 550,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "jarra_de_cerveza_dispensada": {
+                        "price": 300,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "malta_importada": {
+                        "price": 290,
+                        "type": "malta importada",
+                        "principal_ingredient": "malta"
+                    },
+                    "cerveza_importada": {
+                        "price": 250,
+                        "type": "cerveza importada",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "cerveza_nacional": {
+                        "price": 290,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    }
+                }
+            }
+        }
+    }
+}

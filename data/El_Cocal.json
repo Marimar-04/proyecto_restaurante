@@ -1,0 +1,221 @@
+{
+    "name": "El Cocal",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/explore/locations/294571957814150/paladar-el-cocal-cotorro/",
+        "facebook": "https://www.facebook.com/p/Restaurante-El-Cocal-100091974067093/",
+        "telephone_number": ["76822199"]
+    },
+    "location": {
+        "municipality": "Cotorro",
+        "direction": "Lindero No.4026 A e / 38A y 44 Roto Modelo, Lotería, Cotorro, Havana, Cuba",
+        "coordinates": "23.047381049651747, -82.25496896015693"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.4,
+        "cant_g": 9,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["criolla"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": true,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "",
+            "wed": "",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "",
+            "wed": "",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": true,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": false,
+        "parking": true,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "Croquetas": {
+                    "price": 600.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "harina, jamón"
+                },
+                "Bolitas de queso": {
+                    "price": 650.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "queso"
+                },
+                "Ensalada de Atun": {
+                    "price": 1000.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "atún"
+                },
+                "Toston de queso": {
+                    "price": 600.0,
+                    "type": "tostones",
+                    "principal_ingredient": "queso"
+                },
+                "Toston de jamon y queso": {
+                    "price": 600.0,
+                    "type": "tostones",
+                    "principal_ingredient": "jamón y queso"
+                },
+                "Toston de Atun": {
+                    "price": 1000.0,
+                    "type": "tostones",
+                    "principal_ingredient": "atún"
+                },
+                "Crema de queso": {
+                    "price": 550.0,
+                    "type": "crema",
+                    "principal_ingredient": "queso"
+                },
+                "Crema Aurora": {
+                    "price": 600.0,
+                    "type": "crema",
+                    "principal_ingredient": "tomate y queso"
+                },
+                "Crema Virginia": {
+                    "price": 650.0,
+                    "type": "crema",
+                    "principal_ingredient": "queso y especias"
+                },
+                "Crema Mixta": {
+                    "price": 700.0,
+                    "type": "crema",
+                    "principal_ingredient": "queso y mariscos"
+                },
+                "Coctel Camaron": {
+                    "price": 1500.0,
+                    "type": "coctel marisco",
+                    "principal_ingredient": "camarón"
+                },
+                "Empellas": {
+                    "price": 550.0,
+                    "type": "empanada",
+                    "principal_ingredient": "pescado"
+                }
+            },
+            "main": {
+                "Eperlan Pechuga": {
+                    "price": 1600.0,
+                    "type": "eperlan",
+                    "principal_ingredient": "pechuga de pollo"
+                },
+                "Eperlan Pescado": {
+                    "price": 2000.0,
+                    "type": "eperlan",
+                    "principal_ingredient": "pescado"
+                }
+            },
+            "fittings": {
+                "yuca": {
+                    "price": 400.0,
+                    "type": "guarnicion",
+                    "principal_ingredient": "yuca"
+                },
+                "Toston": {
+                    "price": 400.0,
+                    "type": "tostones",
+                    "principal_ingredient": "plátano"
+                }
+            },
+            "pastas": {},
+            "pizzas": {
+                "Pizza de Queso": {
+                    "price": 1200.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso"
+                },
+                "Pizza de Jamon": {
+                    "price": 1400.0,
+                    "type": "jamon",
+                    "principal_ingredient": "jamón"
+                },
+                "Pizza Hawaiiana": {
+                    "price": 1500.0,
+                    "type": "hawaiana",
+                    "principal_ingredient": "jamón y piña"
+                }
+            },
+            "additions": {},
+            "dessert": {
+                "Flan": {
+                    "price": 500.0,
+                    "type": "flan",
+                    "principal_ingredient": "huevo y leche"
+                }
+            },
+            "drinks": {
+                "general": {},
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

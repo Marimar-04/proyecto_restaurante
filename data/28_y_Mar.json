@@ -1,0 +1,620 @@
+{
+    "name": "28 y Mar",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/28_y_mar_restaurante/",
+        "facebook": "https://www.facebook.com/28ymar/?locale=es_LA",
+        "telephone_number": ["72125013"]
+    },
+    "location": {
+        "municipality": "Playa",
+        "direction": " Calle 1ra. esq. 28, Miramar, Playa",
+        "coordinates": "23.12361712886297, -82.4271050650417"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": null,
+        "cant_g": null,
+        "web": 3.8,
+        "cant_w": 64,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["rápida"],
+        "capacity": 100,
+        "areas": {
+            "inside": true,
+            "outside": true,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": false
+        },
+        "time_of_service": 10
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "08:30",
+            "tue": "08:30",
+            "wed": "08:30",
+            "thu": "08:30",
+            "fri": "08:30",
+            "sat": "08:30",
+            "sun": "08:30"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": 80,
+            "local": 20
+        },
+        "ecological": false
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": true,
+        "generator": true,
+        "wifi": false,
+        "parking": true,
+        "for_kids": true,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": true,
+        "plate_description": true,
+        "most_popular": "Pizza",
+        "card": {
+            "breakfasts": {
+                "desayuno_europeo": {
+                    "price": 1650,
+                    "type": "tortilla",
+                    "principal_ingredient": "huevo"
+                },
+                "desayuno_americano": {
+                    "price": 1650,
+                    "type": "huevo",
+                    "principal_ingredient": "huevo"
+                },
+                "desayuno_miramar": {
+                    "price": 2150,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne"
+                },
+                "desayuno_continental": {
+                    "price": 2800,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "ensalada_de_frutas": {
+                    "price": 700,
+                    "type": "ensalada",
+                    "principal_ingredient": "frutas"
+                },
+                "tortilla_natural": {
+                    "price": 750,
+                    "type": "tortilla",
+                    "principal_ingredient": "huevo"
+                },
+                "huevo_frito_o_revuelto_con_bacon": {
+                    "price": 1050,
+                    "type": "huevo",
+                    "principal_ingredient": "huevo"
+                },
+                "mini_bocadito_de_jamon_y_queso": {
+                    "price": 800,
+                    "type": "pan",
+                    "principal_ingredient": "jamon"
+                },
+                "tostadas_con_mantequilla": {
+                    "price": 650,
+                    "type": "tostada",
+                    "principal_ingredient": "pan"
+                },
+                "crepes": {
+                    "price": 750,
+                    "type": "crepe",
+                    "principal_ingredient": "harina"
+                }
+            },
+            "breads": {
+                "otono": {
+                    "price": 1750,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "res"
+                },
+                "hamburguesa_jamon_y_queso": {
+                    "price": 1800,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "jamón"
+                },
+                "hamburguesa_jamon_serrano": {
+                    "price": 1950,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "jamón serrano"
+                },
+                "sandwich_de_pepito": {
+                    "price": 3150,
+                    "type": "sandwich",
+                    "principal_ingredient": "solomillo de res"
+                },
+                "sandwich_de_paquito": {
+                    "price": 2150,
+                    "type": "sandwich",
+                    "principal_ingredient": "solomillo de cerdo"
+                },
+                "sandwich_de_elena_ruz": {
+                    "price": 1850,
+                    "type": "sandwich",
+                    "principal_ingredient": "pechuga de pollo"
+                },
+                "sandwich_de_bocadito_de_atun": {
+                    "price": 1450,
+                    "type": "sandwich",
+                    "principal_ingredient": "atún"
+                },
+                "sandwich_de_pollo": {
+                    "price": 1650,
+                    "type": "sandwich",
+                    "principal_ingredient": "pechuga de pollo"
+                },
+                "sandwich_de_jamon_serrano": {
+                    "price": 2150,
+                    "type": "sandwich",
+                    "principal_ingredient": "jamón serrano"
+                },
+                "sandwich_de_atun": {
+                    "price": 1750,
+                    "type": "sandwich",
+                    "principal_ingredient": "atún"
+                },
+                "sandwich_de_bolonesa": {
+                    "price": 2050,
+                    "type": "sandwich",
+                    "principal_ingredient": "salsa boloñesa"
+                },
+                "sandwich_de_jamon_pierna_barra_y_chorizo": {
+                    "price": 2050,
+                    "type": "sandwich",
+                    "principal_ingredient": "jamón pierna"
+                },
+                "sandwich_vegetariano": {
+                    "price": 1350,
+                    "type": "sandwich",
+                    "principal_ingredient": "huevo hervido"
+                },
+                "sandwich_de_pollo_y_bacon": {
+                    "price": 2050,
+                    "type": "sandwich",
+                    "principal_ingredient": "pechuga de pollo"
+                },
+                "sandwich_de_jamon_y_queso": {
+                    "price": 1750,
+                    "type": "sandwich",
+                    "principal_ingredient": "jamón pierna"
+                }
+            },
+            "starters": {
+                "crema_aurora": {
+                    "price": 750,
+                    "type": "crema",
+                    "principal_ingredient": "tomate"
+                },
+                "crema_de_queso": {
+                    "price": 750,
+                    "type": "crema",
+                    "principal_ingredient": "queso"
+                },
+                "crema_virginia": {
+                    "price": 750,
+                    "type": "crema",
+                    "principal_ingredient": "vegetales"
+                },
+                "tapas_variadas": {
+                    "price": 1100,
+                    "type": "tapas",
+                    "principal_ingredient": "variado"
+                },
+                "tapas_de_croquetas": {
+                    "price": 1250,
+                    "type": "croqueta",
+                    "principal_ingredient": "bechamel"
+                },
+                "tostones_rellenos": {
+                    "price": 950,
+                    "type": "toston",
+                    "principal_ingredient": "platano"
+                },
+                "brusquetas": {
+                    "price": 950,
+                    "type": "brusqueta",
+                    "principal_ingredient": "pan"
+                },
+                "bolitas_de_queso": {
+                    "price": 950,
+                    "type": "croqueta",
+                    "principal_ingredient": "queso"
+                },
+                "empanadas_de_queso_azul": {
+                    "price": 1050,
+                    "type": "empanada",
+                    "principal_ingredient": "queso azul"
+                },
+                "empanadas_de_bolonesa": {
+                    "price": 1050,
+                    "type": "empanada",
+                    "principal_ingredient": "carne"
+                },
+                "fajitas_de_pollo": {
+                    "price": 1450,
+                    "type": "fajita",
+                    "principal_ingredient": "pollo"
+                }
+            },
+            "main": {
+                "pechuga_de_pollo": {
+                    "price": 3500,
+                    "type": "carne",
+                    "principal_ingredient": "pollo"
+                },
+                "solomillo_de_res": {
+                    "price": 6500,
+                    "type": "carne",
+                    "principal_ingredient": "res"
+                },
+                "solomillo_de_cerdo": {
+                    "price": 4500,
+                    "type": "carne",
+                    "principal_ingredient": "cerdo"
+                },
+                "pollo_y_cerdo": {
+                    "price": 4000,
+                    "type": "carne",
+                    "principal_ingredient": "pollo y cerdo"
+                },
+                "pollo_y_res": {
+                    "price": 5000,
+                    "type": "carne",
+                    "principal_ingredient": "pollo y res"
+                },
+                "res_y_cerdo": {
+                    "price": 5500,
+                    "type": "carne",
+                    "principal_ingredient": "res y cerdo"
+                },
+                "trio_de_fantasia": {
+                    "price": 7250,
+                    "type": "carne",
+                    "principal_ingredient": "pollo, res y cerdo"
+                },
+                "ensalada_primavera": {
+                    "price": 1350,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales de estación"
+                },
+                "ensalada_caprichosa": {
+                    "price": 1750,
+                    "type": "ensalada",
+                    "principal_ingredient": "jamón serrano"
+                },
+                "ensalada_verano": {
+                    "price": 1650,
+                    "type": "ensalada",
+                    "principal_ingredient": "pechuga de pollo"
+                },
+                "ensalada_marinera": {
+                    "price": 1600,
+                    "type": "ensalada",
+                    "principal_ingredient": "atún"
+                },
+                "ensalada_otono": {
+                    "price": 1200,
+                    "type": "ensalada",
+                    "principal_ingredient": "pollo"
+                }
+            },
+            "fittings": {},
+            "pastas": {
+                "espagueti": {
+                    "price": 1150,
+                    "type": "pasta",
+                    "principal_ingredient": "trigo"
+                },
+                "lasana_de_jamon": {
+                    "price": 1750,
+                    "type": "lasagna",
+                    "principal_ingredient": "jamon"
+                },
+                "lasana_de_bolonesa": {
+                    "price": 2150,
+                    "type": "lasagna",
+                    "principal_ingredient": "carne"
+                }
+            },
+            "pizzas": {},
+            "additions": {
+                "jamon_serrano": {
+                    "price": 850,
+                    "type": "embutido",
+                    "principal_ingredient": "jamon serrano"
+                },
+                "jamon_barra": {
+                    "price": 400,
+                    "type": "embutido",
+                    "principal_ingredient": "jamon barra"
+                },
+                "jamon_pierna": {
+                    "price": 450,
+                    "type": "embutido",
+                    "principal_ingredient": "jamon pierna"
+                },
+                "chorizo": {
+                    "price": 450,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "bacon": {
+                    "price": 450,
+                    "type": "embutido",
+                    "principal_ingredient": "bacon"
+                },
+                "salsa_bolonesa": {
+                    "price": 550,
+                    "type": "bolonesa",
+                    "principal_ingredient": "carne"
+                },
+                "pechuga_de_pollo": {
+                    "price": 650,
+                    "type": "carne",
+                    "principal_ingredient": "pechuga de pollo"
+                },
+                "atun": {
+                    "price": 450,
+                    "type": "pescado",
+                    "principal_ingredient": "atun"
+                },
+                "champinon": {
+                    "price": 350,
+                    "type": "vegetal",
+                    "principal_ingredient": "champiñon"
+                },
+                "aceitunas": {
+                    "price": 350,
+                    "type": "vegetal",
+                    "principal_ingredient": "aceitunas"
+                },
+                "vegetal_de_estacion": {
+                    "price": 350,
+                    "type": "vegetal",
+                    "principal_ingredient": "vegetal de estacion"
+                },
+                "vianda_frita": {
+                    "price": 350,
+                    "type": "vianda",
+                    "principal_ingredient": "vianda frita"
+                },
+                "papas_fritas": {
+                    "price": 550,
+                    "type": "vianda",
+                    "principal_ingredient": "papas fritas"
+                },
+                "pina_glaseada": {
+                    "price": 350,
+                    "type": "fruta",
+                    "principal_ingredient": "piña glaseada"
+                },
+                "queso_gouda": {
+                    "price": 450,
+                    "type": "queso",
+                    "principal_ingredient": "queso gouda"
+                },
+                "queso_mozzarella": {
+                    "price": 450,
+                    "type": "queso",
+                    "principal_ingredient": "queso mozzarella"
+                },
+                "queso_parmesano": {
+                    "price": 550,
+                    "type": "queso",
+                    "principal_ingredient": "queso parmesano"
+                },
+                "queso_azul": {
+                    "price": 550,
+                    "type": "queso",
+                    "principal_ingredient": "queso azul"
+                },
+                "nutella": {
+                    "price": 450,
+                    "type": "dulce",
+                    "principal_ingredient": "nutella"
+                }
+            },
+            "desserts":{},
+            "drinks": {
+                "general": {
+                    "Jugo_de_fruta_natural": {
+                        "price": 350,
+                        "type": "jugo",
+                        "principal_ingredient": "fruta"
+                    },
+                    "Jugo_de_caja_importado": {
+                        "price": 300,
+                        "type": "jugo",
+                        "principal_ingredient": "fruta"
+                    },
+                    "Batido_de_fruta": {
+                        "price": 600,
+                        "type": "batido fruta",
+                        "principal_ingredient": "fruta"
+                    },
+                    "Suero_de_helado": {
+                        "price": 850,
+                        "type": "batido helado",
+                        "principal_ingredient": "helado"
+                    },
+                    "Refresco_nacional": {
+                        "price": 350,
+                        "type": "refresco",
+                        "principal_ingredient": "refresco nacional"
+                    },
+                    "Refresco_importado": {
+                        "price": 450,
+                        "type": "refresco importado",
+                        "principal_ingredient": "refresco importado"
+                    },
+                    "Malta": {
+                        "price": 450,
+                        "type": "malta",
+                        "principal_ingredient": "malta"
+                    },
+                    "Malteada": {
+                        "price": 650,
+                        "type": "malta",
+                        "principal_ingredient": "malteada"
+                    },
+                    "Agua_natural": {
+                        "price": 300,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "Agua_natural_importada": {
+                        "price": 350,
+                        "type": "agua importada",
+                        "principal_ingredient": "agua"
+                    },
+                    "Agua_carbonatada": {
+                        "price": 300,
+                        "type": "agua carbonatada",
+                        "principal_ingredient": "agua"
+                    },
+                    "Agua_carbonatada_importada": {
+                        "price": 850,
+                        "type": "agua carbonatada importada",
+                        "principal_ingredient": "agua"
+                    },
+                    "Agua_tonica_MG": {
+                        "price": 600,
+                        "type": "agua tonica",
+                        "principal_ingredient": "agua"
+                    },
+                    "Agua_tonica_Schweppes": {
+                        "price": 900,
+                        "type": "agua tonica",
+                        "principal_ingredient": "agua"
+                    },
+                    "Red_Bull": {
+                        "price": 650,
+                        "type": "energizante",
+                        "principal_ingredient": "red bull"
+                    },
+                    "Kermato": {
+                        "price": 750,
+                        "type": "kermato",
+                        "principal_ingredient": "kermato"
+                    },
+                    "Chocolate_a_la_espanola": {
+                        "price": 600,
+                        "type": "chocolate",
+                        "principal_ingredient": "chocolate a la española"
+                    },
+                    "Te_caliente_o_frio": {
+                        "price": 350,
+                        "type": "te",
+                        "principal_ingredient": "té caliente o frío"
+                    }
+                },
+                "cafe": {
+                    "Cafe_expresso": {
+                        "price": 350,
+                        "type": "expresso",
+                        "principal_ingredient": "café"
+                    },
+                    "Cafe_americano": {
+                        "price": 350,
+                        "type": "americano",
+                        "principal_ingredient": "café"
+                    },
+                    "Cafe_Nespresso": {
+                        "price": 700,
+                        "type": "nespresso",
+                        "principal_ingredient": "café"
+                    },
+                    "Cafe_bombon": {
+                        "price": 550,
+                        "type": "bombon",
+                        "principal_ingredient": "café"
+                    },
+                    "Cafe_capuchino": {
+                        "price": 700,
+                        "type": "capuchino",
+                        "principal_ingredient": "café"
+                    },
+                    "Cafe_capuchino_Nespresso": {
+                        "price": 950,
+                        "type": "capuchino nespresso",
+                        "principal_ingredient": "café"
+                    },
+                    "Cafe_cortado": {
+                        "price": 400,
+                        "type": "cortado",
+                        "principal_ingredient": "café"
+                    },
+                    "Cafe_con_leche": {
+                        "price": 600,
+                        "type": "con leche",
+                        "principal_ingredient": "café"
+                    },
+                    "Cafe_irlandes": {
+                        "price": 700,
+                        "type": "irlandes",
+                        "principal_ingredient": "café"
+                    },
+                    "Frapuccino": {
+                        "price": 750,
+                        "type": "frapuccino",
+                        "principal_ingredient": "cafe"
+                    }
+                },
+                "alcoholics": {
+                    "Cerveza": {
+                        "price": 650,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,342 @@
+{
+    "name": "El Chanchullero",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/el.chanchullero/",
+        "facebook": "https://www.facebook.com/ElChanchulleroBar/?locale=es_LA",
+        "telephone_number": ["52760938"]
+    },
+    "location": {
+        "municipality": "Habana del Este",
+        "direction": " Bernaza y El Cristo, 457 A bajos Teniente Rey, La Habana, Cuba",
+        "coordinates": "23.13582085375551, -82.35546229695352"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.4,
+        "cant_g": 814,
+        "web": 3.9,
+        "cant_w": 154,
+        "tripadvisor": 4.5,
+        "cant_t": 34
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional", "criolla"],
+        "capacity": 30,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": null,
+        "delivery": true,
+        "delibery_m": null,
+        "generator": null,
+        "wifi": false,
+        "parking": false,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "chicharrita_de_platano_macho": {
+                    "price": 250,
+                    "type": "fritura",
+                    "principal_ingredient": "platano macho"
+                },
+                "toston_relleno_con_cerdo": {
+                    "price": 375,
+                    "type": "toston",
+                    "principal_ingredient": "cerdo"
+                },
+                "fritura_de_malanga_con_miel": {
+                    "price": 375,
+                    "type": "fritura",
+                    "principal_ingredient": "malanga"
+                },
+                "ceviche_de_pulpo_y_pescado": {
+                    "price": 450,
+                    "type": "ceviche",
+                    "principal_ingredient": "pulpo y pescado"
+                }
+            },
+            "main": {
+                "cerdo_al_perejil": {
+                    "price": 795,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "brochetas_de_cerdo": {
+                    "price": 795,
+                    "type": "brochetas",
+                    "principal_ingredient": "cerdo"
+                },
+                "bistec_encebollado": {
+                    "price": 800,
+                    "type": "bistec",
+                    "principal_ingredient": "carne de res"
+                },
+                "ropa_vieja": {
+                    "price": 800,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "carne de res"
+                },
+                "cerdo_asado_al_horno": {
+                    "price": 795,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "pulpo_al_ajillo": {
+                    "price": 925,
+                    "type": "pulpo",
+                    "principal_ingredient": "pulpo"
+                },
+                "pescado_chanchullero": {
+                    "price": 800,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "enchilado_de_langosta": {
+                    "price": 975,
+                    "type": "langosta",
+                    "principal_ingredient": "langosta"
+                },
+                "langosta_a_la_plancha": {
+                    "price": 975,
+                    "type": "langosta",
+                    "principal_ingredient": "langosta"
+                },
+                "masas_de_cerdo": {
+                    "price": 800,
+                    "type": "masas",
+                    "principal_ingredient": "cerdo"
+                }
+            },
+            "fittings": {},
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {
+                "flan_al_caramelo": {
+                    "price": 150,
+                    "type": "flan",
+                    "principal_ingredient": "caramelo"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "jugo_de_fruta_natural": {
+                        "price": 140,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas"
+                    },
+                    "agua_natural": {
+                        "price": 130,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "agua_gaseada": {
+                        "price": 180,
+                        "type": "agua gaseada",
+                        "principal_ingredient": "agua"
+                    },
+                    "refrescos_importados": {
+                        "price": 240,
+                        "type": "refresco importado",
+                        "principal_ingredient": "soda"
+                    },
+                    "refrescos_nacionales": {
+                        "price": 200,
+                        "type": "refresco",
+                        "principal_ingredient": "soda"
+                    },
+                    "red_bull": {
+                        "price": 300,
+                        "type": "energizante",
+                        "principal_ingredient": "taurina"
+                    }
+                },
+                "cafes": {
+                    "cafe_expreso": {
+                        "price": 100,
+                        "type": "espresso",
+                        "principal_ingredient": "cafe"
+                    }
+                },
+                "alcoholics": {
+                    "catarro": {
+                        "price": 275,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "cuba_libre": {
+                        "price": 275,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "mojito": {
+                        "price": 275,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "caipirisima": {
+                        "price": 275,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "ron_coli": {
+                        "price": 275,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "cosita_de_esa": {
+                        "price": 275,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "caipiroska": {
+                        "price": 275,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "caipirina": {
+                        "price": 300,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "daiquiri": {
+                        "price": 300,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "pina_colada": {
+                        "price": 300,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "vodka_con_naranja": {
+                        "price": 300,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "copa_de_vino": {
+                        "price": 300,
+                        "type": "vino",
+                        "principal_ingredient": "uva"
+                    },
+                    "cerveza_importada": {
+                        "price": 275,
+                        "type": "cerveza importada",
+                        "principal_ingredient": "malta"
+                    },
+                    "ron_hc_club_especial": {
+                        "price": 325,
+                        "type": "ron",
+                        "principal_ingredient": "ron"
+                    },
+                    "chelada": {
+                        "price": 400,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "michelada": {
+                        "price": 450,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "botella_de_vino": {
+                        "price": 1200,
+                        "type": "vino",
+                        "principal_ingredient": "uva"
+                    },
+                    "vodka_absolut": {
+                        "price": 525,
+                        "type": "vodka",
+                        "principal_ingredient": "vodka"
+                    },
+                    "whiskey_black_and_white": {
+                        "price": 395,
+                        "type": "whiskey",
+                        "principal_ingredient": "cebada"
+                    },
+                    "clan_cambell": {
+                        "price": 425,
+                        "type": "whiskey",
+                        "principal_ingredient": "cebada"
+                    },
+                    "jameson": {
+                        "price": 425,
+                        "type": "whiskey",
+                        "principal_ingredient": "cebada"
+                    },
+                    "finest_blended": {
+                        "price": 400,
+                        "type": "whiskey",
+                        "principal_ingredient": "cebada"
+                    }
+                }
+            }
+        }
+    }
+}

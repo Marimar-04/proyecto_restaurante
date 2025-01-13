@@ -1,0 +1,305 @@
+{
+    "name": "San Rafael 1051 Hambuguesera",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/san_rafael1051/?hl=es",
+        "facebook": "https://www.facebook.com/galycafe.habana/?locale=es_LA",
+        "telephone_number": ["58058576"]
+    },
+    "location": {
+        "municipality": "Centro Habana",
+        "direction": "San Rafael entre Infanta y San Francisco",
+        "coordinates": "23.135751455861907, -82.37682836996918"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": 3.7,
+        "cant_g": 55,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["rapida"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": false,
+            "bar": true,
+            "bathroom": true,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": null,
+        "parking": false,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            
+                "breakfasts": {},
+                "breads": {
+                    "entrepan_clasico": {
+                    "price": 1300,
+                    "type": "pan",
+                    "principal_ingredient": "jamón y queso"
+                  },
+                  "entrepan_cubano": {
+                    "price": 1500,
+                    "type": "pan",
+                    "principal_ingredient": "cerdo y queso"
+                  },
+                  "entrepan_marinero": {
+                    "price": 1300,
+                    "type": "pan",
+                    "principal_ingredient": "pescado"
+                  },
+                  "entrepan_iberico": {
+                    "price": 1500,
+                    "type": "pan",
+                    "principal_ingredient": "jamón ibérico"
+                  },
+                  "entrepan_vaquero": {
+                    "price": 1300,
+                    "type": "pan",
+                    "principal_ingredient": "carne de res"
+                  },
+                  "entrepan_de_crispy_chicken": {
+                    "price": 1500,
+                    "type": "pan",
+                    "principal_ingredient": "pollo empanizado"
+                  },
+                  "hamburguesa_black_panther": {
+                    "price": 2400,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne de res"
+                  },
+                  "hamburguesa_megaburger": {
+                    "price": 2750,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne de res"
+                  },
+                  "hamburguesa_hawaiana": {
+                    "price": 1650,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne de res y piña"
+                  },
+                  "hamburguesa_1051": {
+                    "price": 2000,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne de res"
+                  },
+                  "hamburguesa_parrillera": {
+                    "price": 1920,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne parrillera"
+                  },
+                  "hamburguesa_sweet_burger": {
+                    "price": 1100,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne de res"
+                  },
+                  "hamburguesa_deluxe": {
+                    "price": 1550,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne de res"
+                  },
+                  "hamburguesa_cheese_burger": {
+                    "price": 1790,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne de res y queso"
+                  },
+                  "hamburguesa_cubana": {
+                    "price": 2140,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne de res y cerdo"
+                  }
+                },
+                "starters": {
+                  "croquetas_de_la_casa": {
+                    "price": 850,
+                    "type": "croqueta",
+                    "principal_ingredient": "papa"
+                  },
+                  "tabla_de_serrano_y_queso": {
+                    "price": 1450,
+                    "type": "tabla",
+                    "principal_ingredient": "serrano y queso"
+                  },
+                  "nuggets_de_pollo": {
+                    "price": 950,
+                    "type": "nugget",
+                    "principal_ingredient": "pollo"
+                  },
+                  "tacos": {
+                    "price": 1150,
+                    "type": "taco",
+                    "principal_ingredient": "carne"
+                  },
+                  "brusquetas_mixtas": {
+                    "price": 850,
+                    "type": "brusqueta",
+                    "principal_ingredient": "pan y tomate"
+                  },
+                  "ensalada_de_atun": {
+                    "price": 1100,
+                    "type": "ensalada",
+                    "principal_ingredient": "atún"
+                  },
+                  "ensalada_de_pollo": {
+                    "price": 1100,
+                    "type": "ensalada",
+                    "principal_ingredient": "pollo"
+                  },
+                  "ensalada_del_mar": {
+                    "price": 1300,
+                    "type": "ensalada",
+                    "principal_ingredient": "mariscos"
+                  }
+                },
+                "main": {
+                  
+                },
+                "fittings": {},
+                "pastas": {},
+                "pizzas": {},
+                "additions": {},
+                "dessert": {},
+                "drinks": {
+                  "general": {
+                    "agua_natural": {
+                      "price": 300,
+                      "type": "agua",
+                      "principal_ingredient": "agua"
+                    },
+                    "refresco_importado": {
+                      "price": 380,
+                      "type": "refresco importado",
+                      "principal_ingredient": "azúcar y gas"
+                    },
+                    "jugo_natural": {
+                      "price": 390,
+                      "type": "jugo",
+                      "principal_ingredient": "fruta"
+                    }
+                  },
+                  "cafes": {},
+                  "alcoholics": {
+                    "caipirinha": {
+                      "price": 580,
+                      "type": "coctel",
+                      "principal_ingredient": "cachaza y fruta"
+                    },
+                    "caipiroska": {
+                      "price": 580,
+                      "type": "coctel",
+                      "principal_ingredient": "vodka y fruta"
+                    },
+                    "gin_tonic": {
+                      "price": 650,
+                      "type": "coctel",
+                      "principal_ingredient": "gin y tónica"
+                    },
+                    "sangria": {
+                      "price": 650,
+                      "type": "coctel",
+                      "principal_ingredient": "vino tinto y fruta"
+                    },
+                    "mojito": {
+                      "price": 580,
+                      "type": "coctel",
+                      "principal_ingredient": "ron y menta"
+                    },
+                    "cuba_libre": {
+                      "price": 580,
+                      "type": "coctel",
+                      "principal_ingredient": "ron y cola"
+                    },
+                    "vodka_tonic": {
+                      "price": 650,
+                      "type": "coctel",
+                      "principal_ingredient": "vodka y tónica"
+                    },
+                    "cerveza": {
+                      "price": 450,
+                      "type": "cerveza",
+                      "principal_ingredient": "malta"
+                    },
+                    "cerveza_cristal_heineken_corona": {
+                      "price": 650,
+                      "type": "cerveza",
+                      "principal_ingredient": "malta"
+                    },
+                    "servicio_michelada": {
+                      "price": 250,
+                      "type": "cerveza",
+                      "principal_ingredient": "cerveza y jugo de limón"
+                    }
+                  }
+                
+              }
+              
+        }
+    }
+}

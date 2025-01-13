@@ -1,0 +1,366 @@
+{
+    "name": "Pizzas VIP",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/groups/815170015661151/?locale=sr_RS",
+        "telephone_number": ["52844312"]
+    },
+    "location": {
+        "municipality": "Guanabacoa",
+        "direction": "",
+        "coordinates": ""
+    },
+    "valoration": {
+        "quality": "",
+        "google": null,
+        "cant_g": null,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "10:00",
+            "tue": "10:00",
+            "wed": "10:00",
+            "thu": "10:00",
+            "fri": "10:00",
+            "sat": "10:00",
+            "sun": "10:00"
+        },
+        "close": {
+            "mon": "22:00",
+            "tue": "22:00",
+            "wed": "22:00",
+            "thu": "22:00",
+            "fri": "22:00",
+            "sat": "22:00",
+            "sun": "22:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": false,
+        "parking": false,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": null
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "croquetas_de_la_casa": {
+                    "price": 400.0,
+                    "type": "croqueta",
+                    "principal_ingredient": "masa"
+                },
+                "fritura_de_malanga": {
+                    "price": 300.0,
+                    "type": "fritura",
+                    "principal_ingredient": "malanga"
+                },
+                "bolita_de_queso": {
+                    "price": 650.0,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "fajita_de_pechuga": {
+                    "price": 1100.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pechuga"
+                },
+                "ensalada_fria": {
+                    "price": 370.0,
+                    "type": "ensalada",
+                    "principal_ingredient": "mixto"
+                },
+                "papa_frita": {
+                    "price": 580.0,
+                    "type": "fritura",
+                    "principal_ingredient": "papa"
+                },
+                "fajita_de_cerdo": {
+                    "price": 1200.0,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "crema_de_queso": {
+                    "price": 500.0,
+                    "type": "crema",
+                    "principal_ingredient": "queso"
+                },
+                "crema_virginia": {
+                    "price": 550.0,
+                    "type": "crema",
+                    "principal_ingredient": "mixto"
+                },
+                "crema_aurora": {
+                    "price": 520.0,
+                    "type": "crema",
+                    "principal_ingredient": "mixto"
+                },
+                "crema_mixta": {
+                    "price": 600.0,
+                    "type": "crema",
+                    "principal_ingredient": "mixto"
+                },
+                "tacos_de_jamon": {
+                    "price": 1030.0,
+                    "type": "tacos",
+                    "principal_ingredient": "jamon"
+                },
+                "tacos_de_res": {
+                    "price": 1350.0,
+                    "type": "tacos",
+                    "principal_ingredient": "res"
+                },
+                "tacos_de_cangrejo": {
+                    "price": 1380.0,
+                    "type": "tacos",
+                    "principal_ingredient": "cangrejo"
+                }
+            },
+            "main": {},
+            "pizzas": {
+                "pizza_de_queso": {
+                    "price": 800.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso"
+                },
+                "pizza_de_cebolla": {
+                    "price": 1000.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                },
+                "pizza_de_pimiento": {
+                    "price": 1000.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "pimiento"
+                },
+                "pizza_de_jamon": {
+                    "price": 1100.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamon"
+                },
+                "pizza_de_chorizo": {
+                    "price": 1050.0,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "pizza_de_hawaiana": {
+                    "price": 1260.0,
+                    "type": "hawaiana",
+                    "principal_ingredient": "piña"
+                },
+                "pizza_de_bacon": {
+                    "price": 1240.0,
+                    "type": "embutido",
+                    "principal_ingredient": "bacon"
+                },
+                "pizza_doble_queso": {
+                    "price": 1250.0,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "pizza_de_camaron": {
+                    "price": 1700.0,
+                    "type": "mariscos",
+                    "principal_ingredient": "camaron"
+                },
+                "pizza_de_res": {
+                    "price": 1300.0,
+                    "type": "carne",
+                    "principal_ingredient": "res"
+                },
+                "pizza_de_atun_con_cebolla": {
+                    "price": 1450.0,
+                    "type": "pescado",
+                    "principal_ingredient": "atun"
+                },
+                "pizza_de_jamon_serrano": {
+                    "price": 1570.0,
+                    "type": "embutido",
+                    "principal_ingredient": "jamon serrano"
+                },
+                "pizza_de_aceituna": {
+                    "price": 1200.0,
+                    "type": "vegetal",
+                    "principal_ingredient": "aceituna"
+                }
+            },
+            "pastas": {
+                "espaguetis_napolitano": {
+                    "price": 720.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "salsa napolitana"
+                },
+                "espaguetis_bolonesa": {
+                    "price": 1350.0,
+                    "type": "bolonesa",
+                    "principal_ingredient": "carne molida"
+                },
+                "espaguetis_carbonara": {
+                    "price": 1350.0,
+                    "type": "carbonara",
+                    "principal_ingredient": "crema"
+                },
+                "espaguetis_alfredo": {
+                    "price": 1150.0,
+                    "type": "alfredo",
+                    "principal_ingredient": "queso"
+                },
+                "espaguetis_de_atun": {
+                    "price": 1270.0,
+                    "type": "pescado",
+                    "principal_ingredient": "atún"
+                },
+                "espaguetis_pollo": {
+                    "price": 1120.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "espaguetis_de_camarones": {
+                    "price": 1400.0,
+                    "type": "mariscos",
+                    "principal_ingredient": "camarones"
+                },
+                "espaguetis_chorizo": {
+                    "price": 1150.0,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "espaguetis_negro_di_mare": {
+                    "price": 1500.0,
+                    "type": "mariscos",
+                    "principal_ingredient": "tinta de calamar"
+                }
+            },
+            "fittings": {},
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "pomitos_de_agua": {
+                        "price": 150.0,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "refresco_de_pomito": {
+                        "price": 180.0,
+                        "type": "refresco",
+                        "principal_ingredient": "saborizado"
+                    },
+                    "refresco_de_lata": {
+                        "price": 220.0,
+                        "type": "refresco",
+                        "principal_ingredient": "saborizado"
+                    },
+                    "malta": {
+                        "price": 300.0,
+                        "type": "malta",
+                        "principal_ingredient": "cebada"
+                    },
+                    "jugos_de_lata": {
+                        "price": 280.0,
+                        "type": "jugo",
+                        "principal_ingredient": "fruta"
+                    },
+                    "jugos_de_cajita": {
+                        "price": 180.0,
+                        "type": "jugo",
+                        "principal_ingredient": "fruta"
+                    },
+                    "tigon": {
+                        "price": 300.0,
+                        "type": "energizante",
+                        "principal_ingredient": "vitaminas"
+                    },
+                    "refresco_importado": {
+                        "price": 280.0,
+                        "type": "refresco importado",
+                        "principal_ingredient": "saborizado"
+                    },
+                    "malta_importada": {
+                        "price": 270.0,
+                        "type": "malta",
+                        "principal_ingredient": "cebada"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "henike": {
+                        "price": 360.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    },
+                    "cerveza_importada": {
+                        "price": 250.0,
+                        "type": "cerveza importada",
+                        "principal_ingredient": "cebada"
+                    },
+                    "cerveza_de_lata_cristal": {
+                        "price": 300.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    },
+                    "cerveza_de_botella": {
+                        "price": 300.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    }
+                }
+            }
+        }
+    }
+}

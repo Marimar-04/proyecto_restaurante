@@ -1,0 +1,297 @@
+{
+    "name": "Rico Rico",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/ricoricopizzeria/",
+        "facebook": "https://www.facebook.com/RicoRicopizzeria/",
+        "telephone_number": ["78701632"]
+    },
+    "location": {
+        "municipality": "Cerro",
+        "direction": "Calle Ayestarán entre Perfecto Lacoste y Aranguren",
+        "coordinates": "23.124760503261236, -82.37944931838334"
+    },
+    "valoration": {
+        "quality": "regular",
+        "google": 2.4,
+        "cant_g": 8,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["italiana"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "09:00",
+            "tue": "09:00",
+            "wed": "09:00",
+            "thu": "09:00",
+            "fri": "09:00",
+            "sat": "09:00",
+            "sun": "09:00"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": true,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": null,
+        "parking": true,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": false
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "ensalada_fria_de_atun_pequena": {
+                    "price": 645,
+                    "type": "ensalada",
+                    "principal_ingredient": "atun"
+                },
+                "ensalada_fria_de_atun_mediana": {
+                    "price": 1200,
+                    "type": "ensalada",
+                    "principal_ingredient": "atun"
+                },
+                "ensalada_fria_de_atun_grande": {
+                    "price": 2205,
+                    "type": "ensalada",
+                    "principal_ingredient": "atun"
+                },
+                "ensalada_fria_de_jamon_y_queso_pequena": {
+                    "price": 495,
+                    "type": "ensalada",
+                    "principal_ingredient": "jamon y queso"
+                },
+                "pizzeta_de_napole": {
+                    "price": 230,
+                    "type": "pizza",
+                    "principal_ingredient": "queso"
+                },
+                "pizzeta_de_chorizo": {
+                    "price": 325,
+                    "type": "pizza",
+                    "principal_ingredient": "chorizo"
+                },
+                "bastones_de_queso": {
+                    "price": 780,
+                    "type": "bastones",
+                    "principal_ingredient": "queso"
+                },
+                "empanadas_gallegas": {
+                    "price": 380,
+                    "type": "empanada",
+                    "principal_ingredient": "atun"
+                },
+                "tequenos": {
+                    "price": 350,
+                    "type": "tequeno",
+                    "principal_ingredient": "queso"
+                }
+            },
+            "main": {},
+            "fittings": {},
+            "pastas": {
+                "pasta_napoles": {
+                    "price": 920,
+                    "type": "napolitana",
+                    "principal_ingredient": "salsa napolitana"
+                },
+                "pasta_carbonara": {
+                    "price": 1000,
+                    "type": "carbonara",
+                    "principal_ingredient": "bacon"
+                },
+                "calzone_napoles": {
+                    "price": 1090,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso"
+                },
+                "megacalzone": {
+                    "price": 1440,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso"
+                },
+                "lasana_bolonesa": {
+                    "price": 1550,
+                    "type": "bolonesa",
+                    "principal_ingredient": "carne molida"
+                },
+                "lasana_de_jamon": {
+                    "price": 1490,
+                    "type": "jamon",
+                    "principal_ingredient": "jamon"
+                }
+            },
+            "pizzas": {
+                "pizza_napoles": {
+                    "price": 920,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso"
+                }
+            },
+            "additions": {
+                "aceitunas": {
+                    "price": 220,
+                    "type": "vegetal",
+                    "principal_ingredient": "aceitunas"
+                },
+                "pina": {
+                    "price": 220,
+                    "type": "fruta",
+                    "principal_ingredient": "pina"
+                },
+                "cebolla": {
+                    "price": 400,
+                    "type": "vegetal",
+                    "principal_ingredient": "cebolla"
+                },
+                "atun": {
+                    "price": 550,
+                    "type": "pescado",
+                    "principal_ingredient": "atun"
+                },
+                "chorizo": {
+                    "price": 2390,
+                    "type": "embutido",
+                    "principal_ingredient": "chorizo"
+                },
+                "bacon": {
+                    "price": 360,
+                    "type": "embutido",
+                    "principal_ingredient": "bacon"
+                },
+                "jamon": {
+                    "price": 320,
+                    "type": "embutido",
+                    "principal_ingredient": "jamon"
+                },
+                "jamon_serrano": {
+                    "price": 480,
+                    "type": "embutido",
+                    "principal_ingredient": "jamon serrano"
+                },
+                "parmesano": {
+                    "price": 350,
+                    "type": "queso",
+                    "principal_ingredient": "parmesano"
+                },
+                "gouda": {
+                    "price": 360,
+                    "type": "queso",
+                    "principal_ingredient": "gouda"
+                },
+                "lomo_ahumado": {
+                    "price": 380,
+                    "type": "carne",
+                    "principal_ingredient": "lomo ahumado"
+                },
+                "queso_azul": {
+                    "price": 300,
+                    "type": "queso",
+                    "principal_ingredient": "queso azul"
+                }
+            },
+            "dessert": {
+                "pastelito_de_ojaldre_de_guayaba_o_coco": {
+                    "price": 260,
+                    "type": "pastel",
+                    "principal_ingredient": "guayaba o coco"
+                },
+                "pastelito_de_ojaldre_de_jamon_y_queso": {
+                    "price": 280,
+                    "type": "pastel",
+                    "principal_ingredient": "jamon y queso"
+                },
+                "flan": {
+                    "price": 590,
+                    "type": "flan",
+                    "principal_ingredient": "huevo y leche"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "frappi_rico": {
+                        "price": 180,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas"
+                    },
+                    "bati_frutas": {
+                        "price": 675,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas"
+                    },
+                    "mega_bati_bati": {
+                        "price": 990,
+                        "type": "coctel",
+                        "principal_ingredient": "frutas"
+                    },
+                    "super_bati_bati": {
+                        "price": 785,
+                        "type": "coctel",
+                        "principal_ingredient": "frutas"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

@@ -1,0 +1,713 @@
+{
+    "name": "Aroma de Cafe",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/explore/locations/340125519184861/aroma-de-cafe/",
+        "facebook": "",
+        "telephone_number": ["53397639"]
+    },
+    "location": {
+        "municipality": "La Lisa",
+        "direction": "calle 244 #5106 entre calle 51 y calle 61, San Agustín, la lisa",
+        "coordinates": "23.051661782506784, -82.45995349879772"
+    },
+    "valoration": {
+        "quality": "",
+        "google": 4.9,
+        "cant_g": 17,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": 20,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": null,
+        "delivery": null,
+        "delibery_m": null,
+        "generator": null,
+        "wifi": false,
+        "parking": true,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {
+                "sandwich_de_jamon_y_queso_blanco": {
+                    "price": 320,
+                    "type": "sandwich",
+                    "principal_ingredient": "jamon y queso"
+                },
+                "sandwich_de_jamon_y_queso_gouda": {
+                    "price": 360,
+                    "type": "sandwich",
+                    "principal_ingredient": "jamon y queso"
+                },
+                "sandwich_de_jamon": {
+                    "price": 360,
+                    "type": "sandwich",
+                    "principal_ingredient": "jamon"
+                },
+                "sandwich_de_queso_blanco": {
+                    "price": 320,
+                    "type": "sandwich",
+                    "principal_ingredient": "queso"
+                },
+                "sandwich_de_queso_gouda": {
+                    "price": 360,
+                    "type": "sandwich",
+                    "principal_ingredient": "queso"
+                },
+                "sandwich_de_pollo": {
+                    "price": 370,
+                    "type": "sandwich",
+                    "principal_ingredient": "pollo"
+                },
+                "sandwich_de_atun": {
+                    "price": 480,
+                    "type": "sandwich",
+                    "principal_ingredient": "atun"
+                },
+                "sandwich_hawaiano_con_queso_blanco": {
+                    "price": 380,
+                    "type": "sandwich",
+                    "principal_ingredient": "jamon y queso"
+                },
+                "sandwich_hawaiano_con_queso_gouda": {
+                    "price": 430,
+                    "type": "sandwich",
+                    "principal_ingredient": "jamon y queso"
+                },
+                "hamburguesa_sencilla": {
+                    "price": 450,
+                    "type": "hamburguesa",
+                    "principal_ingredient": "carne de res"
+                }
+            },
+            "starters": {
+                "nachos_con_salsa": {
+                    "price": 200,
+                    "type": "tortilla",
+                    "principal_ingredient": "maiz"
+                },
+                "croquetas": {
+                    "price": 320,
+                    "type": "croqueta",
+                    "principal_ingredient": "harina"
+                },
+                "picadera_aroma": {
+                    "price": 550,
+                    "type": "variedad",
+                    "principal_ingredient": "mixto"
+                },
+                "tacos_mexicanos_de_pollo": {
+                    "price": 500,
+                    "type": "taco",
+                    "principal_ingredient": "pollo"
+                },
+                "tacos_mexicanos_de_cangrejo": {
+                    "price": 600,
+                    "type": "taco",
+                    "principal_ingredient": "cangrejo"
+                },
+                "tacos_mexicanos_de_cerdo": {
+                    "price": 620,
+                    "type": "taco",
+                    "principal_ingredient": "cerdo"
+                },
+                "tacos_mexicanos_de_ropa_vieja": {
+                    "price": 750,
+                    "type": "taco",
+                    "principal_ingredient": "carne de res"
+                },
+                "tacos_mexicanos_de_jamon_pierna": {
+                    "price": 750,
+                    "type": "taco",
+                    "principal_ingredient": "jamon pierna"
+                },
+                "tostones_rellenos_con_jamon_y_queso": {
+                    "price": 380,
+                    "type": "toston",
+                    "principal_ingredient": "platano"
+                },
+                "tostones_rellenos_con_atun": {
+                    "price": 400,
+                    "type": "toston",
+                    "principal_ingredient": "platano"
+                },
+                "tostones_rellenos_con_ropa_vieja": {
+                    "price": 500,
+                    "type": "toston",
+                    "principal_ingredient": "platano"
+                },
+                "papas_fritas": {
+                    "price": 400,
+                    "type": "papas",
+                    "principal_ingredient": "papa"
+                },
+                "garbanzos_fritos": {
+                    "price": 600,
+                    "type": "legumbre",
+                    "principal_ingredient": "garbanzo"
+                },
+                "eperlan_de_pescado": {
+                    "price": 700,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "enchilado_de_cangrejo": {
+                    "price": 600,
+                    "type": "marisco",
+                    "principal_ingredient": "cangrejo"
+                },
+                "fajitas_de_cerdo": {
+                    "price": 600,
+                    "type": "carne",
+                    "principal_ingredient": "cerdo"
+                }
+            },
+            "main": {},
+            "fittings": {},
+            "pastas": {},
+            "pizzas": {},
+            "additions": {
+                "jamon": {
+                    "price": 220,
+                    "type": "embutido",
+                    "principal_ingredient": "cerdo"
+                },
+                "queso_blanco": {
+                    "price": 200,
+                    "type": "queso",
+                    "principal_ingredient": "leche"
+                },
+                "queso_gouda": {
+                    "price": 220,
+                    "type": "queso",
+                    "principal_ingredient": "leche"
+                },
+                "aceitunas": {
+                    "price": 200,
+                    "type": "vegetal",
+                    "principal_ingredient": "aceituna"
+                },
+                "pina": {
+                    "price": 170,
+                    "type": "fruta",
+                    "principal_ingredient": "pina"
+                },
+                "atun": {
+                    "price": 250,
+                    "type": "pescado",
+                    "principal_ingredient": "atun"
+                }
+            },
+            "dessert": {
+                "donas": {
+                    "price": 200,
+                    "type": "dulce",
+                    "principal_ingredient": "harina"
+                },
+                "helado_con_galletas": {
+                    "price": 320,
+                    "type": "postre",
+                    "principal_ingredient": "leche"
+                },
+                "bolas_de_helado": {
+                    "price": 140,
+                    "type": "helado",
+                    "principal_ingredient": "leche"
+                },
+                "dulce_aroma": {
+                    "price": 350,
+                    "type": "dulce",
+                    "principal_ingredient": "azucar"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "jugo_natural": {
+                        "price": 100,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas"
+                    },
+                    "limonada": {
+                        "price": 180,
+                        "type": "jugo",
+                        "principal_ingredient": "limón"
+                    },
+                    "batido_de_chocolate": {
+                        "price": 280,
+                        "type": "batido",
+                        "principal_ingredient": "chocolate"
+                    },
+                    "batido_de_frutas": {
+                        "price": 330,
+                        "type": "batido",
+                        "principal_ingredient": "frutas"
+                    },
+                    "batido_de_helado": {
+                        "price": 380,
+                        "type": "batido",
+                        "principal_ingredient": "helado"
+                    },
+                    "batido_de_helado_plus": {
+                        "price": 550,
+                        "type": "batido",
+                        "principal_ingredient": "helado"
+                    },
+                    "malteada": {
+                        "price": 450,
+                        "type": "malteada",
+                        "principal_ingredient": "leche"
+                    },
+                    "refresco_importado": {
+                        "price": 210,
+                        "type": "refresco importado",
+                        "principal_ingredient": "carbonatado"
+                    },
+                    "malta": {
+                        "price": 250,
+                        "type": "malta",
+                        "principal_ingredient": "malta"
+                    },
+                    "agua_natural": {
+                        "price": 150,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "jugo_de_caja_pequeno": {
+                        "price": 190,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas"
+                    },
+                    "jugo_de_caja_grande": {
+                        "price": 450,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas"
+                    },
+                    "pomo_de_refresco": {
+                        "price": 500,
+                        "type": "refresco",
+                        "principal_ingredient": "carbonatado"
+                    }
+                },
+                "cafes": {
+                    "cafe_expresso": {
+                        "price": 100,
+                        "type": "espresso",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cappuccino": {
+                        "price": 150,
+                        "type": "cappuccino",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_cortadito": {
+                        "price": 120,
+                        "type": "cortado",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_moka": {
+                        "price": 180,
+                        "type": "moka",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_aroma": {
+                        "price": 180,
+                        "type": "moka",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_carajillo": {
+                        "price": 110,
+                        "type": "carajillo",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_especiado": {
+                        "price": 115,
+                        "type": "especiado",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_americano": {
+                        "price": 110,
+                        "type": "americano",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_bombon": {
+                        "price": 300,
+                        "type": "bombon",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_cremoso": {
+                        "price": 250,
+                        "type": "cremoso",
+                        "principal_ingredient": "cafe"
+                    },
+                    "frappuccino": {
+                        "price": 280,
+                        "type": "frappuccino",
+                        "principal_ingredient": "cafe"
+                    },
+                    "frappuccino_moka": {
+                        "price": 300,
+                        "type": "frappuccino",
+                        "principal_ingredient": "cafe"
+                    },
+                    "frappuccino_aroma": {
+                        "price": 300,
+                        "type": "frappuccino",
+                        "principal_ingredient": "cafe"
+                    },
+                    "frappuccino_sorpresa": {
+                        "price": 350,
+                        "type": "frappuccino",
+                        "principal_ingredient": "cafe"
+                    },
+                    "frappuccino_mousse": {
+                        "price": 380,
+                        "type": "frappuccino",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_capricho": {
+                        "price": 350,
+                        "type": "capricho",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_affogato": {
+                        "price": 350,
+                        "type": "affogato",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_enamorado": {
+                        "price": 300,
+                        "type": "enamorado",
+                        "principal_ingredient": "cafe"
+                    }
+                },
+                "alcoholics": {
+                    "michelada_mexicana": {
+                        "price": 250,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "caiprinha": {
+                        "price": 250,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "daiquiri": {
+                        "price": 250,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "caipiroska": {
+                        "price": 280,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "caipirissima": {
+                        "price": 280,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "screwdriver": {
+                        "price": 280,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "mojito": {
+                        "price": 300,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "mojito_ruso": {
+                        "price": 300,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "cremas_de_tequila": {
+                        "price": 320,
+                        "type": "tequila",
+                        "principal_ingredient": "tequila"
+                    },
+                    "pina_colada": {
+                        "price": 350,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "martini": {
+                        "price": 300,
+                        "type": "coctel",
+                        "principal_ingredient": "gin"
+                    },
+                    "copa_de_vino": {
+                        "price": 300,
+                        "type": "vino",
+                        "principal_ingredient": "uva"
+                    },
+                    "gin_tonic": {
+                        "price": 350,
+                        "type": "coctel",
+                        "principal_ingredient": "gin"
+                    },
+                    "sex_on_the_beach": {
+                        "price": 320,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "sangria": {
+                        "price": 350,
+                        "type": "coctel",
+                        "principal_ingredient": "vino"
+                    },
+                    "margarita": {
+                        "price": 350,
+                        "type": "coctel",
+                        "principal_ingredient": "tequila"
+                    },
+                    "orgasmo": {
+                        "price": 350,
+                        "type": "coctel",
+                        "principal_ingredient": "licor"
+                    },
+                    "michelada": {
+                        "price": 200,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "chelada": {
+                        "price": 100,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza"
+                    },
+                    "libido": {
+                        "price": 250,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "vodka_tonic_de_mandarina": {
+                        "price": 300,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "caipiroska_de_frambuesa": {
+                        "price": 300,
+                        "type": "coctel",
+                        "principal_ingredient": "vodka"
+                    },
+                    "coffee_tonic": {
+                        "price": 350,
+                        "type": "coctel",
+                        "principal_ingredient": "cafe"
+                    },
+                    "red_ging_tonic": {
+                        "price": 350,
+                        "type": "coctel",
+                        "principal_ingredient": "gin"
+                    },
+                    "zumo_de_cafe": {
+                        "price": 350,
+                        "type": "coctel",
+                        "principal_ingredient": "cafe"
+                    },
+                    "zombie_repa": {
+                        "price": 400,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "coffee_negroni": {
+                        "price": 400,
+                        "type": "coctel",
+                        "principal_ingredient": "cafe"
+                    },
+                    "x2": {
+                        "price": 500,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "antes_y_despues": {
+                        "price": 650,
+                        "type": "coctel",
+                        "principal_ingredient": "licor"
+                    },
+                    "long_island_aroma_tea": {
+                        "price": 700,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "havana_club_3_anos": {
+                        "price": 250,
+                        "type": "ron",
+                        "principal_ingredient": "caña"
+                    },
+                    "havana_club_especial": {
+                        "price": 280,
+                        "type": "ron",
+                        "principal_ingredient": "caña"
+                    },
+                    "havana_club_reserva": {
+                        "price": 300,
+                        "type": "ron",
+                        "principal_ingredient": "caña"
+                    },
+                    "havana_club_7_anos": {
+                        "price": 350,
+                        "type": "ron",
+                        "principal_ingredient": "caña"
+                    },
+                    "havana_club_smoky": {
+                        "price": 350,
+                        "type": "ron",
+                        "principal_ingredient": "caña"
+                    },
+                    "selaccion_de_maestros": {
+                        "price": 600,
+                        "type": "ron",
+                        "principal_ingredient": "caña"
+                    },
+                    "pacto_navio": {
+                        "price": 600,
+                        "type": "ron",
+                        "principal_ingredient": "caña"
+                    },
+                    "black_tears_super_dry": {
+                        "price": 250,
+                        "type": "ron",
+                        "principal_ingredient": "caña"
+                    },
+                    "black_tears_roble_superior": {
+                        "price": 300,
+                        "type": "ron",
+                        "principal_ingredient": "caña"
+                    },
+                    "jameson": {
+                        "price": 450,
+                        "type": "whiskey",
+                        "principal_ingredient": "cebada"
+                    },
+                    "ballantines": {
+                        "price": 300,
+                        "type": "whiskey",
+                        "principal_ingredient": "cebada"
+                    },
+                    "chivas_regal_12": {
+                        "price": 500,
+                        "type": "whiskey",
+                        "principal_ingredient": "cebada"
+                    },
+                    "red_label": {
+                        "price": 450,
+                        "type": "whiskey",
+                        "principal_ingredient": "cebada"
+                    },
+                    "black_label": {
+                        "price": 500,
+                        "type": "whiskey",
+                        "principal_ingredient": "cebada"
+                    },
+                    "buchanans": {
+                        "price": 500,
+                        "type": "whiskey",
+                        "principal_ingredient": "cebada"
+                    },
+                    "tequila_olmeca": {
+                        "price": 300,
+                        "type": "tequila",
+                        "principal_ingredient": "agave"
+                    },
+                    "crema_baileys": {
+                        "price": 300,
+                        "type": "licor",
+                        "principal_ingredient": "leche"
+                    },
+                    "jaggermeister": {
+                        "price": 380,
+                        "type": "licor",
+                        "principal_ingredient": "hierbas"
+                    },
+                    "vodka": {
+                        "price": 250,
+                        "type": "vodka",
+                        "principal_ingredient": "grano"
+                    },
+                    "ciroc": {
+                        "price": 400,
+                        "type": "vodka",
+                        "principal_ingredient": "uva"
+                    },
+                    "cervezas_importadas": {
+                        "price": 230,
+                        "type": "cerveza importada",
+                        "principal_ingredient": "cebada"
+                    }
+                }
+            }
+        }
+    }
+}

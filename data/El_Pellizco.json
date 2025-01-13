@@ -1,0 +1,246 @@
+{
+    "name": "El Pellizco",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/explore/locations/690805761062352/ranchon-el-pellizco/nearby/?next=%2Fm00dsky%2F&hl=es-la",
+        "facebook": "https://www.facebook.com/groups/ConozcaRestaurantesdeCuba/posts/4732516403521060/",
+        "telephone_number": []
+    },
+    "location": {
+        "municipality": "Guanabacoa",
+        "direction": "Ctra Monumental Km 19,5 Guanabacoa",
+        "coordinates": "23.058203990392705, -82.22582531231693"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": 3.6,
+        "cant_g": 80,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "11:00",
+            "tue": "11:00",
+            "wed": "11:00",
+            "thu": "11:00",
+            "fri": "11:00",
+            "sat": "11:00",
+            "sun": "11:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": false,
+        "parking": false,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": null
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {},
+            "main": {
+                "bistec_de_higado": {
+                    "price": 400.0,
+                    "type": "bistec",
+                    "principal_ingredient": "higado"
+                },
+                "higado_a_la_italiana": {
+                    "price": 450.0,
+                    "type": "higado",
+                    "principal_ingredient": "higado"
+                },
+                "bistec_de_cerdo": {
+                    "price": 600.0,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "masa_de_cerdo": {
+                    "price": 650.0,
+                    "type": "masa",
+                    "principal_ingredient": "cerdo"
+                },
+                "chuleta_de_cerdo": {
+                    "price": 650.0,
+                    "type": "chuleta",
+                    "principal_ingredient": "cerdo"
+                },
+                "lomo_ahumado": {
+                    "price": 650.0,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                },
+                "lonjas_de_cerdo_asada": {
+                    "price": 600.0,
+                    "type": "lonjas",
+                    "principal_ingredient": "cerdo"
+                },
+                "pollo_asado": {
+                    "price": 450.0,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "costilla_asada": {
+                    "price": 650.0,
+                    "type": "costilla",
+                    "principal_ingredient": "cerdo"
+                },
+                "ropa_vieja_de_cerdo": {
+                    "price": 650.0,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "cerdo"
+                },
+                "fricase_de_costilla": {
+                    "price": 650.0,
+                    "type": "fricase",
+                    "principal_ingredient": "cerdo"
+                }
+            },
+            "fittings": {
+                "racion_de_chicharron": {
+                    "price": 150.0,
+                    "type": "chicharron",
+                    "principal_ingredient": "cerdo"
+                },
+                "racion_de_empella": {
+                    "price": 100.0,
+                    "type": "empella",
+                    "principal_ingredient": "cerdo"
+                },
+                "caldoza_de_la_casa": {
+                    "price": 250.0,
+                    "type": "caldo",
+                    "principal_ingredient": "variado"
+                },
+                "racion_de_tostones": {
+                    "price": 80.0,
+                    "type": "tostones",
+                    "principal_ingredient": "platano"
+                },
+                "racion_de_mariquitas": {
+                    "price": 80.0,
+                    "type": "mariquitas",
+                    "principal_ingredient": "platano"
+                },
+                "platano_maduro_frito": {
+                    "price": 80.0,
+                    "type": "platano_maduro",
+                    "principal_ingredient": "platano"
+                }
+            },
+            "pastas": {},
+            "pizzas": {
+                "pizza_napolitana": {
+                    "price": 200.0,
+                    "type": "napolitana",
+                    "principal_ingredient": "queso"
+                }
+            },
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "jugo_de_caja": {
+                        "price": 150.0,
+                        "type": "jugo",
+                        "principal_ingredient": "fruta"
+                    },
+                    "jugo_de_botella": {
+                        "price": 120.0,
+                        "type": "jugo",
+                        "principal_ingredient": "fruta"
+                    },
+                    "malta": {
+                        "price": 150.0,
+                        "type": "malta",
+                        "principal_ingredient": "cebada"
+                    },
+                    "agua_natural": {
+                        "price": 100.0,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "energizante": {
+                        "price": 220.0,
+                        "type": "energizante",
+                        "principal_ingredient": "variado"
+                    }
+                },
+                "cafes": {},
+                "alcoholics": {
+                    "cerveza_nacional": {
+                        "price": 220.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    },
+                    "cerveza_importada": {
+                        "price": 220.0,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    }
+                }
+            }
+        }
+    }
+}

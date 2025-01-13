@@ -1,0 +1,332 @@
+{
+    "name": "Dona Carmela",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/p/Do%C3%B1a-Carmela-Restaurant-100063881632587/?locale=pt_PT",
+        "telephone_number": ["77911397"]
+    },
+    "location": {
+        "municipality": "Habana del Este",
+        "direction": "Casa #10, Comunidad 1, Complejo Morro Cabana, Via Monumental",
+        "coordinates": "23.15061990853812, -82.34918222024874"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": 3.4,
+        "cant_g": 200,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": 3.5,
+        "cant_t": 362
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["internacional", "criolla"],
+        "capacity": 25,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": null,
+        "wifi": false,
+        "parking": true,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": null
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "frituras_de_malanga_y_miel": {
+                    "price": 600,
+                    "type": "fritura",
+                    "principal_ingredient": "malanga"
+                },
+                "croquetas_de_la_casa": {
+                    "price": 600,
+                    "type": "croqueta",
+                    "principal_ingredient": "pollo"
+                },
+                "caldo_de_pescado": {
+                    "price": 600,
+                    "type": "caldo",
+                    "principal_ingredient": "pescado"
+                },
+                "caldo_de_pollo": {
+                    "price": 600,
+                    "type": "caldo",
+                    "principal_ingredient": "pollo"
+                },
+                "caldo_de_mariscos": {
+                    "price": 700,
+                    "type": "caldo",
+                    "principal_ingredient": "mariscos"
+                },
+                "coctel_de_camarones": {
+                    "price": 1000,
+                    "type": "coctel",
+                    "principal_ingredient": "camarones"
+                },
+                "coctel_de_pescado": {
+                    "price": 900,
+                    "type": "coctel",
+                    "principal_ingredient": "pescado"
+                },
+                "pulpitos_para_picar": {
+                    "price": 1200,
+                    "type": "pulpo",
+                    "principal_ingredient": "pulpo"
+                }
+            },
+            "main": {
+                "pollo_asado": {
+                    "price": 1800,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_frito": {
+                    "price": 1800,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "bistec_de_cerdo_encebollado": {
+                    "price": 2200,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "costillas_fritas": {
+                    "price": 2400,
+                    "type": "costilla",
+                    "principal_ingredient": "cerdo"
+                },
+                "milanesa_de_cerdo": {
+                    "price": 2500,
+                    "type": "milanesa",
+                    "principal_ingredient": "cerdo"
+                },
+                "ropa_vieja_de_cerdo": {
+                    "price": 2200,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "cerdo"
+                },
+                "filete_de_pescado_grille": {
+                    "price": 2200,
+                    "type": "filete",
+                    "principal_ingredient": "pescado"
+                },
+                "filete_de_pescado_gratinado": {
+                    "price": 2400,
+                    "type": "filete",
+                    "principal_ingredient": "pescado"
+                },
+                "camaron_al_ajillo": {
+                    "price": 2500,
+                    "type": "camaron",
+                    "principal_ingredient": "camarones"
+                },
+                "camaron_a_la_criolla": {
+                    "price": 2500,
+                    "type": "camaron",
+                    "principal_ingredient": "camarones"
+                },
+                "pulpo_al_ajillo": {
+                    "price": 2700,
+                    "type": "pulpo",
+                    "principal_ingredient": "pulpo"
+                },
+                "pulpo_a_la_criolla": {
+                    "price": 2700,
+                    "type": "pulpo",
+                    "principal_ingredient": "pulpo"
+                },
+                "combinacion_carmela": {
+                    "price": 4000,
+                    "type": "combinacion",
+                    "principal_ingredient": "varios"
+                },
+                "cordero_al_gusto": {
+                    "price": 3000,
+                    "type": "cordero",
+                    "principal_ingredient": "cordero"
+                },
+                "langosta_al_gusto": {
+                    "price": 6000,
+                    "type": "langosta",
+                    "principal_ingredient": "langosta"
+                },
+                "mariscada": {
+                    "price": 6000,
+                    "type": "mariscada",
+                    "principal_ingredient": "mariscos"
+                }
+            },
+            "fittings": {},
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {
+                "postre_del_dia": {
+                    "price": 1000,
+                    "type": "postre",
+                    "principal_ingredient": "varios"
+                }
+            },
+            "drinks": {
+                "general": {
+                    "refrescos_nacionales": {
+                        "price": 350,
+                        "type": "refresco",
+                        "principal_ingredient": "azucar"
+                    },
+                    "refrescos_importados": {
+                        "price": 350,
+                        "type": "refresco importado",
+                        "principal_ingredient": "azucar"
+                    },
+                    "agua_natural_de_500ml": {
+                        "price": 250,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "agua_natural_de_1.5l": {
+                        "price": 600,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    }
+                },
+                "cafes": {
+                    "cappuccino": {
+                        "price": 350,
+                        "type": "cappuccino",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_cortado": {
+                        "price": 250,
+                        "type": "cortado",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_expresso": {
+                        "price": 200,
+                        "type": "espresso",
+                        "principal_ingredient": "cafe"
+                    },
+                    "cafe_con_leche": {
+                        "price": 300,
+                        "type": "con leche",
+                        "principal_ingredient": "cafe"
+                    }
+                },
+                "alcoholics": {
+                    "cervezas": {
+                        "price": 500,
+                        "type": "cerveza",
+                        "principal_ingredient": "cebada"
+                    },
+                    "mojito_natural": {
+                        "price": 700,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "mojito_de_la_casa": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "cuba_libre": {
+                        "price": 700,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "sangria": {
+                        "price": 800,
+                        "type": "coctel",
+                        "principal_ingredient": "vino"
+                    },
+                    "cubata": {
+                        "price": 700,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "pina_colada": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "daiquiri_natural": {
+                        "price": 700,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "daiquiri": {
+                        "price": 800,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    }
+                }
+            }
+        }
+    }
+}

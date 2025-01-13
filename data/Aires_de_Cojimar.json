@@ -1,0 +1,330 @@
+{
+    "name": "Aires de Cojimar",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/aires_decojimar/",
+        "facebook": "https://www.facebook.com/groups/750679669616425/",
+        "telephone_number": ["77666890", "58385050"]
+    },
+    "location": {
+        "municipality": "Habana del Este",
+        "direction": "Pezuela #3e05 entre RUA y Espartero, Cojimar",
+        "coordinates": "23.161985432767157, -82.29343034721393"
+    },
+    "valoration": {
+        "quality": "excelente",
+        "google": 4.4,
+        "cant_g": 13,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": 4.5,
+        "cant_t": 13
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": ["familiar"],
+        "specialty": ["internacional", "criolla"],
+        "capacity": 15,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "12:00",
+            "tue": "12:00",
+            "wed": "12:00",
+            "thu": "12:00",
+            "fri": "12:00",
+            "sat": "12:00",
+            "sun": "12:00"
+        },
+        "close": {
+            "mon": "24:00",
+            "tue": "24:00",
+            "wed": "24:00",
+            "thu": "24:00",
+            "fri": "24:00",
+            "sat": "24:00",
+            "sun": "24:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": true,
+        "wifi": false,
+        "parking": true,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "coctel_de_pescado": {
+                    "price": 550,
+                    "type": "coctel",
+                    "principal_ingredient": "pescado"
+                },
+                "ensalada_mixta": {
+                    "price": 400,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                },
+                "picadera_mixta": {
+                    "price": 1200,
+                    "type": "picadera",
+                    "principal_ingredient": "mixto"
+                },
+                "coctel_bella_mar": {
+                    "price": 750,
+                    "type": "coctel marisco",
+                    "principal_ingredient": "mariscos"
+                },
+                "ceviche_aires_de_cojimar": {
+                    "price": 850,
+                    "type": "ceviche",
+                    "principal_ingredient": "pescado"
+                },
+                "lomo_de_pescado_en_escabeche": {
+                    "price": 950,
+                    "type": "lomo",
+                    "principal_ingredient": "pescado"
+                },
+                "bolitas_de_queso": {
+                    "price": 550,
+                    "type": "queso",
+                    "principal_ingredient": "queso"
+                },
+                "eperlan": {
+                    "price": 950,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "frituras_de_malanga": {
+                    "price": 550,
+                    "type": "fritura",
+                    "principal_ingredient": "malanga"
+                },
+                "tapas_caprichosas": {
+                    "price": 425,
+                    "type": "tapas",
+                    "principal_ingredient": "mixto"
+                },
+                "surtido_de_croquetas": {
+                    "price": 450,
+                    "type": "croqueta",
+                    "principal_ingredient": "mixto"
+                },
+                "tostones_al_ajo": {
+                    "price": 350,
+                    "type": "tostones",
+                    "principal_ingredient": "platano"
+                },
+                "sopon_de_mariscos": {
+                    "price": 750,
+                    "type": "sopa",
+                    "principal_ingredient": "mariscos"
+                },
+                "sopa_de_pollo_y_vegetales": {
+                    "price": 550,
+                    "type": "sopa",
+                    "principal_ingredient": "pollo"
+                },
+                "crema_de_calabaza_y_queso": {
+                    "price": 500,
+                    "type": "crema",
+                    "principal_ingredient": "calabaza"
+                },
+                "crema_de_queso": {
+                    "price": 500,
+                    "type": "crema",
+                    "principal_ingredient": "queso"
+                },
+                "crema_de_mariscos": {
+                    "price": 600,
+                    "type": "crema",
+                    "principal_ingredient": "mariscos"
+                }
+            },
+            "main": {
+                "costillas_de_cerdo_fritas": {
+                    "price": 1950,
+                    "type": "costilla",
+                    "principal_ingredient": "cerdo"
+                },
+                "arroz_con_camarones": {
+                    "price": 1450,
+                    "type": "arroz",
+                    "principal_ingredient": "camarones"
+                },
+                "milanesa_a_la_napolitana": {
+                    "price": 1450,
+                    "type": "milanesa",
+                    "principal_ingredient": "carne"
+                },
+                "uruguayo_de_cerdo": {
+                    "price": 1750,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                },
+                "camaron_al_ajillo": {
+                    "price": 1550,
+                    "type": "mariscos",
+                    "principal_ingredient": "camarones"
+                },
+                "langosta_varadero": {
+                    "price": 1950,
+                    "type": "langosta",
+                    "principal_ingredient": "langosta"
+                },
+                "langosta_busito": {
+                    "price": 2000,
+                    "type": "langosta",
+                    "principal_ingredient": "langosta"
+                },
+                "langosta_aires_de_cojimar": {
+                    "price": 5500,
+                    "type": "langosta",
+                    "principal_ingredient": "langosta"
+                },
+                "pulpo_al_vino_tinto": {
+                    "price": 2850,
+                    "type": "pulpo",
+                    "principal_ingredient": "pulpo"
+                },
+                "pulpo_al_ajillo": {
+                    "price": 2850,
+                    "type": "pulpo",
+                    "principal_ingredient": "pulpo"
+                },
+                "filete_de_pescado_grille": {
+                    "price": 1250,
+                    "type": "filete",
+                    "principal_ingredient": "pescado"
+                },
+                "filete_de_pescado_en_salsa_de_romero_y_limon": {
+                    "price": 1350,
+                    "type": "filete",
+                    "principal_ingredient": "pescado"
+                },
+                "filete_de_pescado_con_camarones_al_graten": {
+                    "price": 1650,
+                    "type": "filete",
+                    "principal_ingredient": "pescado"
+                },
+                "filete_de_pescado_canciller": {
+                    "price": 1650,
+                    "type": "filete",
+                    "principal_ingredient": "pescado"
+                },
+                "camarones_tropicales": {
+                    "price": 1550,
+                    "type": "mariscos",
+                    "principal_ingredient": "camarones"
+                },
+                "enchilado_de_camarones": {
+                    "price": 1450,
+                    "type": "enchilado",
+                    "principal_ingredient": "camarones"
+                },
+                "camarones_al_sesamo": {
+                    "price": 1450,
+                    "type": "mariscos",
+                    "principal_ingredient": "camarones"
+                },
+                "caldereta_dona_blanca": {
+                    "price": 3500,
+                    "type": "caldereta",
+                    "principal_ingredient": "mariscos"
+                },
+                "dados_de_cerdo_a_la_cojimera": {
+                    "price": 1400,
+                    "type": "cerdo",
+                    "principal_ingredient": "cerdo"
+                },
+                "bistec_de_cerdo_al_mojo_criollo": {
+                    "price": 1400,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "pollo_con_camarones_al_graten": {
+                    "price": 1450,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "pollo_hawaiano": {
+                    "price": 1150,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "sabor_del_cielo": {
+                    "price": 1550,
+                    "type": "mixto",
+                    "principal_ingredient": "mixto"
+                }
+            },
+            "fittings": {
+                "ensalada_mixta": {
+                    "price": 400,
+                    "type": "ensalada",
+                    "principal_ingredient": "vegetales"
+                }
+            },
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {
+                "dulces_finos": {
+                    "price": 450,
+                    "type": "postre",
+                    "principal_ingredient": "dulce"
+                }
+            },
+            "drinks": {
+                "general": {},
+                "cafes": {},
+                "alcoholics": {}
+            }
+        }
+    }
+}

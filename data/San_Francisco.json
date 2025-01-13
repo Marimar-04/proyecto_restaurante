@@ -1,0 +1,550 @@
+{
+    "name": "San Francisco",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "",
+        "facebook": "",
+        "telephone_number": [""]
+    },
+    "location": {
+        "municipality": "Habana del Este",
+        "direction": "",
+        "coordinates": ""
+    },
+    "valoration": {
+        "quality": "",
+        "google": null,
+        "cant_g": null,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "principal_ingredient": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": 42,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "08:00",
+            "tue": "08:00",
+            "wed": "08:00",
+            "thu": "08:00",
+            "fri": "08:00",
+            "sat": "08:00",
+            "sun": "08:00"
+        },
+        "close": {
+            "mon": "23:00",
+            "tue": "23:00",
+            "wed": "23:00",
+            "thu": "23:00",
+            "fri": "23:00",
+            "sat": "23:00",
+            "sun": "23:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": null,
+        "delivery": null,
+        "delibery_m": null,
+        "generator": null,
+        "wifi": false,
+        "parking": false,
+        "for_kids": true,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": null
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "Antipasto_di_Montagna_Maxi": {
+                    "price": 3500,
+                    "type": "antipasto",
+                    "principal_ingredient": "montaña"
+                },
+                "Bruschetta": {
+                    "price": 850,
+                    "type": "bruschetta",
+                    "principal_ingredient": "pan, tomate"
+                },
+                "Bruschetta_di_Pate": {
+                    "price": 900,
+                    "type": "bruschetta",
+                    "principal_ingredient": "pate"
+                },
+                "Prosciuto_Crudo": {
+                    "price": 2500,
+                    "type": "prosciuto",
+                    "principal_ingredient": "jamón crudo"
+                },
+                "Raz_Pane": {
+                    "price": 450,
+                    "type": "pan",
+                    "principal_ingredient": "pan"
+                },
+                "Frittata": {
+                    "price": 700,
+                    "type": "frittata",
+                    "principal_ingredient": "huevo"
+                },
+                "Frittata_con_Cipolle": {
+                    "price": 750,
+                    "type": "frittata",
+                    "principal_ingredient": "huevo, cebolla"
+                },
+                "Tostones": {
+                    "price": 700,
+                    "type": "tostones",
+                    "principal_ingredient": "plátano"
+                },
+                "Tostones_Especiales": {
+                    "price": 1500,
+                    "type": "tostones",
+                    "principal_ingredient": "plátano"
+                }
+            },
+            "main": {
+                "Chuleta_de_Cerdo_Segun_Gramaje_del_Plato": {
+                    "price": 2600,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "Pollo_con_Salciccia": {
+                    "price": 2400,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo, salchicha"
+                },
+                "Aragosta_Maxi": {
+                    "price": 3800,
+                    "type": "mariscos",
+                    "principal_ingredient": "langosta"
+                },
+                "Camaron_en_Salsa": {
+                    "price": 2200,
+                    "type": "mariscos",
+                    "principal_ingredient": "camarón"
+                },
+                "Fajitas_de_Pollo": {
+                    "price": 1850,
+                    "type": "tacos",
+                    "principal_ingredient": "pollo"
+                },
+                "Ropa_Vieja_de_Cerdo": {
+                    "price": 2100,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "cerdo"
+                },
+                "Gamberetti": {
+                    "price": 2200,
+                    "type": "mariscos",
+                    "principal_ingredient": "gambas"
+                },
+                "Salciccia": {
+                    "price": 2100,
+                    "type": "embutido",
+                    "principal_ingredient": "salchicha"
+                },
+                "Pollo_Frito": {
+                    "price": 1800,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "Pollo_Asado": {
+                    "price": 1800,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "Fajitas_de_Pollo_con_Vegetales": {
+                    "price": 2100,
+                    "type": "tacos",
+                    "principal_ingredient": "pollo, vegetales"
+                }
+            },
+            "fittings": {
+                "Chicharritas": {
+                    "price": 0,
+                    "type": "tostones",
+                    "principal_ingredient": "maíz"
+                },
+                "Insalata Verde": {
+                    "price": 0,
+                    "type": "ensalada",
+                    "principal_ingredient": "lechuga"
+                }
+            },
+            "pastas": {
+                "Spaghetti_Napoli": {
+                    "price": 1500,
+                    "type": "napolitana",
+                    "principal_ingredient": "tomate"
+                },
+                "Spaghetti_Jamon_Vicky": {
+                    "price": 1600,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "Spaghetti_Tonno": {
+                    "price": 1700,
+                    "type": "atun",
+                    "principal_ingredient": "atún"
+                },
+                "Spaghetti_Jamon_Serrano": {
+                    "price": 1800,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón serrano"
+                },
+                "Spaghetti_Pomodoro_e_Basilico": {
+                    "price": 1550,
+                    "type": "napolitana",
+                    "principal_ingredient": "tomate, albahaca"
+                },
+                "Spaghetti_Aglio_Olio_Peperoncino": {
+                    "price": 1350,
+                    "type": "napolitana",
+                    "principal_ingredient": "ajo, aceite, guindilla"
+                },
+                "Spaghetti_Al_Pesto": {
+                    "price": 1600,
+                    "type": "pesto",
+                    "principal_ingredient": "pesto"
+                },
+                "Spaghetti_Puttanesca": {
+                    "price": 1900,
+                    "type": "puttanesca",
+                    "principal_ingredient": "tomate, aceitunas, alcaparras"
+                },
+                "Spaghetti_Amatriciana": {
+                    "price": 1700,
+                    "type": "amatriciana",
+                    "principal_ingredient": "tocino"
+                },
+                "Spaghetti_Carbonara": {
+                    "price": 1700,
+                    "type": "carbonara",
+                    "principal_ingredient": "huevo, tocino"
+                },
+                "Spaghetti_con_Gamberetti": {
+                    "price": 2600,
+                    "type": "mariscos",
+                    "principal_ingredient": "gambas"
+                },
+                "Pasta_con_Verdure": {
+                    "price": 1500,
+                    "type": "vegetal",
+                    "principal_ingredient": "verduras"
+                },
+                "Pasta_Risotto_Bolognese": {
+                    "price": 1700,
+                    "type": "bolonesa",
+                    "principal_ingredient": "carne molida"
+                },
+                "Pasta_Risotto_Fruti_di_Mare": {
+                    "price": 3200,
+                    "type": "mariscos",
+                    "principal_ingredient": "mariscos"
+                },
+                "Risotto_Bolognese": {
+                    "price": 1650,
+                    "type": "bolonesa",
+                    "principal_ingredient": "carne molida"
+                },
+                "Risotto_con_Vegetale": {
+                    "price": 1500,
+                    "type": "vegetal",
+                    "principal_ingredient": "verduras"
+                },
+                "Pasta_con_Salciccia": {
+                    "price": 1800,
+                    "type": "embutido",
+                    "principal_ingredient": "salchicha"
+                },
+                "Pasta_con_Salciccia_e_Funghi": {
+                    "price": 2000,
+                    "type": "embutido",
+                    "principal_ingredient": "salchicha, champiñones"
+                },
+                "Raz_di_Rizo": {
+                    "price": 600,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "Raz_di_Pane": {
+                    "price": 550,
+                    "type": "arroz",
+                    "principal_ingredient": "pan"
+                }
+            },
+            "pizzas": {
+                "Pizza_Gorgonzola": {
+                    "price": 1700,
+                    "type": "queso",
+                    "principal_ingredient": "gorgonzola"
+                },
+                "Pizza_Fior_di_Latte": {
+                    "price": 1900,
+                    "type": "queso",
+                    "principal_ingredient": "fior di latte"
+                },
+                "Pizza_Fior_di_Latte_e_Prosciutto": {
+                    "price": 2100,
+                    "type": "queso",
+                    "principal_ingredient": "fior di latte, prosciutto"
+                },
+                "Pizza_Frutti_di_Mare": {
+                    "price": 2600,
+                    "type": "mariscos",
+                    "principal_ingredient": "mariscos"
+                },
+                "Pizza_Pomodoro_e_Basilico": {
+                    "price": 1400,
+                    "type": "napolitana",
+                    "principal_ingredient": "tomate, albahaca"
+                },
+                "Pizza_Prosciutto_Crudo": {
+                    "price": 1900,
+                    "type": "prosciuto",
+                    "principal_ingredient": "prosciuto crudo"
+                },
+                "Pizza_Margherita": {
+                    "price": 1400,
+                    "type": "margarita",
+                    "principal_ingredient": "tomate, queso"
+                },
+                "Pizza_Capricciosa": {
+                    "price": 2000,
+                    "type": "queso",
+                    "principal_ingredient": "jamón, champiñones"
+                },
+                "Pizza_con_Jamon_Vicky": {
+                    "price": 1700,
+                    "type": "embutido",
+                    "principal_ingredient": "jamón"
+                },
+                "Pizza_con_Atun": {
+                    "price": 1900,
+                    "type": "atun",
+                    "principal_ingredient": "atún"
+                },
+                "Pizza_con_Camarones": {
+                    "price": 2100,
+                    "type": "mariscos",
+                    "principal_ingredient": "camarones"
+                },
+                "Pizza_con_Salciccia": {
+                    "price": 1900,
+                    "type": "embutido",
+                    "principal_ingredient": "salchicha"
+                },
+                "Pizza_Hawaiana": {
+                    "price": 1800,
+                    "type": "hawaiana",
+                    "principal_ingredient": "jamón, piña"
+                },
+                "Pizza_con_Vegetales": {
+                    "price": 1700,
+                    "type": "vegetal",
+                    "principal_ingredient": "verduras"
+                },
+                "Focaccia": {
+                    "price": 1300,
+                    "type": "pan",
+                    "principal_ingredient": "pan"
+                },
+                "Focaccia_con_Prosciutto_Crudo": {
+                    "price": 1700,
+                    "type": "pan",
+                    "principal_ingredient": "prosciutto crudo"
+                }
+            },
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "Refrescos Importados": {
+                        "price": 350,
+                        "type": "refresco importado",
+                        "principal_ingredient": "agua con gas"
+                    },
+                    "Red Bull": {
+                        "price": 400,
+                        "type": "energizante",
+                        "principal_ingredient": "agua, azúcar, cafeína"
+                    },
+                    "Refrescos Energizantes": {
+                        "price": 400,
+                        "type": "energizante",
+                        "principal_ingredient": "agua, azúcar, cafeína"
+                    },
+                    "Maltas": {
+                        "price": 400,
+                        "type": "malta",
+                        "principal_ingredient": "malta"
+                    },
+                    "Limonada Frappe": {
+                        "price": 500,
+                        "type": "jugo",
+                        "principal_ingredient": "limón"
+                    }
+                },
+                "cafes": {
+                    "Caffe Miscela Illy Kimbo": {
+                        "price": 350,
+                        "type": "espresso",
+                        "principal_ingredient": "café"
+                    },
+                    "Cafe Cortado": {
+                        "price": 380,
+                        "type": "cortado",
+                        "principal_ingredient": "café, leche"
+                    },
+                    "Cafe Americano": {
+                        "price": 500,
+                        "type": "americano",
+                        "principal_ingredient": "café"
+                    }
+                },
+                "alcoholics": {
+                    "Cerveza Cristal": {
+                        "price": 350,
+                        "type": "cerveza",
+                        "principal_ingredient": "malta, cebada"
+                    },
+                    "Cerveza Bucanero": {
+                        "price": 400,
+                        "type": "cerveza",
+                        "principal_ingredient": "malta, cebada"
+                    },
+                    "Cervezas Importadas": {
+                        "price": 350,
+                        "type": "cerveza importada",
+                        "principal_ingredient": "malta, cebada"
+                    },
+                    "Copa de Vino de la Casa": {
+                        "price": 1200,
+                        "type": "vino",
+                        "principal_ingredient": "uva"
+                    },
+                    "Whisky": {
+                        "price": 900,
+                        "type": "vodka",
+                        "principal_ingredient": "maíz, cebada"
+                    },
+                    "Trago de Ron": {
+                        "price": 600,
+                        "type": "ron",
+                        "principal_ingredient": "caña de azúcar"
+                    },
+                    "Sambuca": {
+                        "price": 800,
+                        "type": "licor",
+                        "principal_ingredient": "anís"
+                    },
+                    "Mojito": {
+                        "price": 850,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "Cuba Libre": {
+                        "price": 800,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "Cubanito": {
+                        "price": 800,
+                        "type": "coctel",
+                        "principal_ingredient": "ron"
+                    },
+                    "Piña Colada": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "piña, ron"
+                    },
+                    "Michelada": {
+                        "price": 1200,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza, limón"
+                    },
+                    "Chelada": {
+                        "price": 800,
+                        "type": "cerveza",
+                        "principal_ingredient": "cerveza, limón"
+                    },
+                    "Limoncello": {
+                        "price": 900,
+                        "type": "licor",
+                        "principal_ingredient": "limón"
+                    },
+                    "Tequila": {
+                        "price": 900,
+                        "type": "tequila",
+                        "principal_ingredient": "agave"
+                    },
+                    "Daiquiri": {
+                        "price": 900,
+                        "type": "coctel",
+                        "principal_ingredient": "ron, limón"
+                    },
+                    "Grappa": {
+                        "price": 900,
+                        "type": "licor",
+                        "principal_ingredient": "uva"
+                    },
+
+                    "500ml": {
+                        "price": 350,
+                        "type": "cerveza",
+                        "principal_ingredient": "malta, cebada"
+                    },
+                    "3_litros": {
+                        "price": 2000,
+                        "type": "cerveza",
+                        "principal_ingredient": "malta, cebada"
+                    }
+                }
+            }
+        }
+    }
+}

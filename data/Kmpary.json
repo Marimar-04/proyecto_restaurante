@@ -1,0 +1,653 @@
+{
+    "name": "Kampary",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/kmpary_bar_restaurant/",
+        "facebook": "",
+        "telephone_number": ["52766526"]
+    },
+    "location": {
+        "municipality": "Boyeros",
+        "direction": "Calle 184, #28511, e/ 285 A y 289, Baluarte, Boyeros",
+        "coordinates": "23.006660231951066, -82.39317150065425"
+    },
+    "valoration": {
+        "quality": "buena",
+        "google": 3.7,
+        "cant_g": 31,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["rapida", "internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": true,
+            "outside": true,
+            "bar": null,
+            "bathroom": true,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "22:00",
+            "tue": "22:00",
+            "wed": "22:00",
+            "thu": "22:00",
+            "fri": "22:00",
+            "sat": "22:00",
+            "sun": "22:00"
+        },
+        "close": {
+            "mon": "05:00",
+            "tue": "05:00",
+            "wed": "05:00",
+            "thu": "05:00",
+            "fri": "05:00",
+            "sat": "05:00",
+            "sun": "05:00"
+        }
+    },
+    "logistics": {
+        "full_staff": true,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": false,
+        "show": [],
+        "karaoke": false,
+        "plays": []
+    },
+    "extras": {
+        "reservation": true,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": false,
+        "parking": true,
+        "for_kids": false,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": true
+    },
+    "menu": {
+        "digital_menu": false,
+        "others_languages": false,
+        "grammage": false,
+        "plate_description": false,
+        "most_popular": "",
+        "card": {
+            "breakfasts": {},
+            "breads": {},
+            "starters": {
+                "croquetas": {
+                    "price": 700,
+                    "type": "croqueta",
+                    "principal_ingredient": "jamon"
+                },
+                "frituras_d_malanga": {
+                    "price": 500,
+                    "type": "fritura",
+                    "principal_ingredient": "malanga"
+                },
+                "fajitas_d_pollo": {
+                    "price": 1020,
+                    "type": "fajita",
+                    "principal_ingredient": "pollo"
+                },
+                "fajitas_d_cerdo": {
+                    "price": 1400,
+                    "type": "fajita",
+                    "principal_ingredient": "cerdo"
+                },
+                "eperlan_d_pescado": {
+                    "price": 1150,
+                    "type": "fritura",
+                    "principal_ingredient": "pescado"
+                },
+                "brusquetas": {
+                    "price": 450,
+                    "type": "brusqueta",
+                    "principal_ingredient": "pan"
+                },
+                "brusquetas_d_atun": {
+                    "price": 800,
+                    "type": "brusqueta",
+                    "principal_ingredient": "atun"
+                },
+                "ensalada_fria_d_jamon": {
+                    "price": 690,
+                    "type": "ensalada",
+                    "principal_ingredient": "jamon"
+                },
+                "ensalada_fria_d_atun": {
+                    "price": 780,
+                    "type": "ensalada",
+                    "principal_ingredient": "atun"
+                },
+                "aros_de_cebolla_rebosado": {
+                    "price": 550,
+                    "type": "aros",
+                    "principal_ingredient": "cebolla"
+                },
+                "coctel_de_camarones": {
+                    "price": 1600,
+                    "type": "coctel",
+                    "principal_ingredient": "camarones"
+                },
+                "camaron_rebosado": {
+                    "price": 2050,
+                    "type": "rebosado",
+                    "principal_ingredient": "camaron"
+                },
+                "papas_fritas": {
+                    "price": 700,
+                    "type": "papas",
+                    "principal_ingredient": "papa"
+                },
+                "picadera_km": {
+                    "price": 2800,
+                    "type": "picadera",
+                    "principal_ingredient": "mixto"
+                },
+                "bolitas_d_queso": {
+                    "price": 850,
+                    "type": "bolitas",
+                    "principal_ingredient": "queso"
+                },
+                "entremes_surtido": {
+                    "price": 1150,
+                    "type": "entremes",
+                    "principal_ingredient": "mixto"
+                },
+                "maripositas_chinas": {
+                    "price": 470,
+                    "type": "maripositas",
+                    "principal_ingredient": "harina"
+                },
+                "tostones_natural": {
+                    "price": 550,
+                    "type": "tostones",
+                    "principal_ingredient": "platano"
+                },
+                "tostones_r_jamon": {
+                    "price": 670,
+                    "type": "tostones",
+                    "principal_ingredient": "jamon"
+                },
+                "tostones_r_res": {
+                    "price": 780,
+                    "type": "tostones",
+                    "principal_ingredient": "res"
+                },
+                "tostones_r_atun": {
+                    "price": 920,
+                    "type": "tostones",
+                    "principal_ingredient": "atun"
+                },
+                "ceviche_de_peruano": {
+                    "price": 1200,
+                    "type": "ceviche",
+                    "principal_ingredient": "pescado"
+                },
+                "ceviche_km": {
+                    "price": 1700,
+                    "type": "ceviche",
+                    "principal_ingredient": "camaron y pescado"
+                },
+                "finos_cortes_de_jamon_serrano": {
+                    "price": 1700,
+                    "type": "jamon",
+                    "principal_ingredient": "jamon serrano"
+                },
+                "carpacio_de_pulpo": {
+                    "price": 3000,
+                    "type": "carpacio",
+                    "principal_ingredient": "pulpo"
+                }
+            },
+            "main": {
+                "tamal_de_res_km": {
+                    "price": 1800,
+                    "type": "tamal",
+                    "principal_ingredient": "res"
+                },
+                "bruschetta_de_cerdo": {
+                    "price": 2500,
+                    "type": "brusqueta",
+                    "principal_ingredient": "cerdo"
+                },
+                "cazuela_de_marisco": {
+                    "price": 4000,
+                    "type": "cazuela",
+                    "principal_ingredient": "marisco"
+                },
+                "mar_y_tierra": {
+                    "price": 5700,
+                    "type": "mixto",
+                    "principal_ingredient": "res y camarones"
+                },
+                
+                "lonjas_de_cerdo_asada": {
+                    "price": 2000,
+                    "type": "lonjas",
+                    "principal_ingredient": "cerdo"
+                },
+                "corte_wagyu_con_queso_azul": {
+                    "price": 3050,
+                    "type": "wagyu",
+                    "principal_ingredient": "wagyu"
+                },
+                "corte_wagyu_a_la_pimienta": {
+                    "price": 2800,
+                    "type": "wagyu",
+                    "principal_ingredient": "wagyu"
+                },
+                "corte_wagyu_al_grill": {
+                    "price": 2800,
+                    "type": "wagyu",
+                    "principal_ingredient": "wagyu"
+                },
+                "corte_wagyu_al_vino": {
+                    "price": 2800,
+                    "type": "wagyu",
+                    "principal_ingredient": "wagyu"
+                },
+                "entrecot": {
+                    "price": 3900,
+                    "type": "entrecot",
+                    "principal_ingredient": "res"
+                },
+                "churrasco_de_res": {
+                    "price": 3850,
+                    "type": "bistec",
+                    "principal_ingredient": "res"
+                },
+                "chatteubriano": {
+                    "price": 3500,
+                    "type": "bistec",
+                    "principal_ingredient": "res"
+                },
+                "sirloin": {
+                    "price": 3000,
+                    "type": "sirloin",
+                    "principal_ingredient": "res"
+                },
+                "bistec_de_cerdo_encebollado": {
+                    "price": 1800,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "camaron_enchilado": {
+                    "price": 2300,
+                    "type": "marisco",
+                    "principal_ingredient": "camarón"
+                },
+                "camaron_al_ajillo": {
+                    "price": 2300,
+                    "type": "marisco",
+                    "principal_ingredient": "camarón"
+                },
+                "gordon_blue": {
+                    "price": 2200,
+                    "type": "bistec",
+                    "principal_ingredient": "pollo"
+                },
+                "filete_d_pescado_canciller": {
+                    "price": 2200,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "uruguayo": {
+                    "price": 2300,
+                    "type": "bistec",
+                    "principal_ingredient": "res"
+                },
+                "bistec_de_filete_de_cerdo": {
+                    "price": 2300,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "solomillo_de_cerdo": {
+                    "price": 2300,
+                    "type": "solomillo",
+                    "principal_ingredient": "cerdo"
+                },
+                "fricase_de_cerdo": {
+                    "price": 1850,
+                    "type": "guiso",
+                    "principal_ingredient": "cerdo"
+                },
+                "chuleta_de_cerdo": {
+                    "price": 2500,
+                    "type": "chuleta",
+                    "principal_ingredient": "cerdo"
+                },
+                "papilot_de_pescado": {
+                    "price": 1820,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "rollo_de_filete_de_cerdo_relleno": {
+                    "price": 2800,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "vaca_frita_de_res": {
+                    "price": 1950,
+                    "type": "vaca frita",
+                    "principal_ingredient": "res"
+                },
+                "masa_de_cerdo_frita": {
+                    "price": 1980,
+                    "type": "masas",
+                    "principal_ingredient": "cerdo"
+                },
+                "ropa_vieja_de_res": {
+                    "price": 1700,
+                    "type": "ropa vieja",
+                    "principal_ingredient": "res"
+                },
+                "filete_de_pescado_grille": {
+                    "price": 1390,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "bistec_de_rinconada_encebollado": {
+                    "price": 1800,
+                    "type": "bistec",
+                    "principal_ingredient": "res"
+                },
+                "pechuga_grille_encebollada": {
+                    "price": 1400,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "pechuga_al_curri": {
+                    "price": 1260,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "pechuga_a_la_crema_c_chocolate": {
+                    "price": 1280,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "filete_de_cerdo_salteado": {
+                    "price": 1600,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "filete_de_cerdo_a_la_doch": {
+                    "price": 1800,
+                    "type": "bistec",
+                    "principal_ingredient": "cerdo"
+                },
+                "rollo_de_pechuga_rellena": {
+                    "price": 1850,
+                    "type": "pollo",
+                    "principal_ingredient": "pollo"
+                },
+                "filete_de_pescado": {
+                    "price": 1390,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "filete_de_pescado_napado": {
+                    "price": 1700,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "grillada_mixta": {
+                    "price": 5700,
+                    "type": "asado",
+                    "principal_ingredient": "res, cerdo, pollo"
+                },
+                "filete_jonville": {
+                    "price": 2300,
+                    "type": "bistec",
+                    "principal_ingredient": "res"
+                },
+                "lomo_de_cerdo_ahumado": {
+                    "price": 1800,
+                    "type": "lomo",
+                    "principal_ingredient": "cerdo"
+                },
+                "rueda_pescado_plancha": {
+                    "price": 1760,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "rueda_pescado_ajillo": {
+                    "price": 1870,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "rueda_pescado_en_salsa_criolla": {
+                    "price": 1870,
+                    "type": "pescado",
+                    "principal_ingredient": "pescado"
+                },
+                "langosta_batabano": {
+                    "price": 2800,
+                    "type": "marisco",
+                    "principal_ingredient": "langosta"
+                },
+                "langosta_grille": {
+                    "price": 2300,
+                    "type": "marisco",
+                    "principal_ingredient": "langosta"
+                },
+                "langosta_termidor": {
+                    "price": 2800,
+                    "type": "marisco",
+                    "principal_ingredient": "langosta"
+                },
+                "langosta_jonville": {
+                    "price": 3400,
+                    "type": "marisco",
+                    "principal_ingredient": "langosta"
+                },
+                "langosta_enchilada": {
+                    "price": 2400,
+                    "type": "marisco",
+                    "principal_ingredient": "langosta"
+                },
+                "garbanzo_frito": {
+                    "price": 1550,
+                    "type": "garbanzo",
+                    "principal_ingredient": "garbanzo"
+                },
+                "tamal_en_casuela": {
+                    "price": 1150,
+                    "type": "tamal",
+                    "principal_ingredient": "masa de maíz"
+                },
+                "tamal_con_carne": {
+                    "price": 1500,
+                    "type": "tamal",
+                    "principal_ingredient": "carne"
+                },
+                "tacos_de_cerdo": {
+                    "price": 1300,
+                    "type": "taco",
+                    "principal_ingredient": "cerdo"
+                },
+                "tacos_de_res": {
+                    "price": 1400,
+                    "type": "taco",
+                    "principal_ingredient": "res"
+                },
+                "tacos_de_camarones": {
+                    "price": 1800,
+                    "type": "taco",
+                    "principal_ingredient": "camarón"
+                },
+                "arroz_frito": {
+                    "price": 1300,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "arroz_frito_especial": {
+                    "price": 2050,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                }
+            },
+            "fittings": {
+                "Arroz_Blanco": {
+                    "price": 170,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                },
+                "Arroz_Moro": {
+                    "price": 340,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz, frijoles"
+                },
+                "Arroz_Pilaf": {
+                    "price": 380,
+                    "type": "arroz",
+                    "principal_ingredient": "arroz"
+                }
+            },
+            "pastas": {},
+            "pizzas": {},
+            "additions": {},
+            "dessert": {},
+            "drinks": {
+                "general": {
+                    "Agua_Natural": {
+                        "price": 250,
+                        "type": "agua",
+                        "principal_ingredient": "agua"
+                    },
+                    "Agua_Tonica": {
+                        "price": 230,
+                        "type": "agua tonica",
+                        "principal_ingredient": "agua, quinina"
+                    },
+                    "Refresco_Nacional": {
+                        "price": 305,
+                        "type": "refresco",
+                        "principal_ingredient": "azúcar, agua, saborizantes"
+                    },
+                    "Refresco_Importado": {
+                        "price": 370,
+                        "type": "refresco importado",
+                        "principal_ingredient": "azúcar, agua, saborizantes"
+                    },
+                    "Jugo_de_frutas": {
+                        "price": 155,
+                        "type": "jugo",
+                        "principal_ingredient": "frutas"
+                    },
+                    "Jugo_de_caja": {
+                        "price": 280,
+                        "type": "jugo",
+                        "principal_ingredient": "concentrado de jugo"
+                    },
+                    "Kermato": {
+                        "price": 560,
+                        "type": "kermato",
+                        "principal_ingredient": "agua, saborizantes"
+                    },
+                    "Limonada": {
+                        "price": 560,
+                        "type": "limonada",
+                        "principal_ingredient": "limón, azúcar, agua"
+                    },
+                    "Malta_Bucanero": {
+                        "price": 370,
+                        "type": "malta",
+                        "principal_ingredient": "malta, agua, azúcar"
+                    },
+                    "Malta_Importada": {
+                        "price": 370,
+                        "type": "malta importada",
+                        "principal_ingredient": "malta, agua, azúcar"
+                    },
+                    "Malteada": {
+                        "price": 280,
+                        "type": "batido",
+                        "principal_ingredient": "leche, helado"
+                    },
+                    "Batido_de_Helado": {
+                        "price": 830,
+                        "type": "batido",
+                        "principal_ingredient": "helado, leche"
+                    },
+                    "Leche_Condensada_Malteada": {
+                        "price": 255,
+                        "type": "batido",
+                        "principal_ingredient": "leche condensada, helado"
+                    },
+                    "Red_Bull": {
+                        "price": 700,
+                        "type": "energizante",
+                        "principal_ingredient": "agua, azúcar, cafeína"
+                    }
+                },
+                "cafes": {
+                    "Café_Expreso": {
+                        "price": 100,
+                        "type": "espresso",
+                        "principal_ingredient": "café"
+                    },
+                    "Café_Cortado": {
+                        "price": 130,
+                        "type": "cortado",
+                        "principal_ingredient": "café, leche"
+                    },
+                    "Café_con_Leche": {
+                        "price": 280,
+                        "type": "con leche",
+                        "principal_ingredient": "café, leche"
+                    }
+                },
+                "alcoholics": {
+                    "Cerveza_Cristal": {
+                        "price": 420,
+                        "type": "cerveza",
+                        "principal_ingredient": "agua, cebada"
+                    },
+                    "Cerveza_Blue": {
+                        "price": 300,
+                        "type": "cerveza",
+                        "principal_ingredient": "agua, cebada"
+                    },
+                    "Cerveza_Sol": {
+                        "price": 700,
+                        "type": "cerveza importada",
+                        "principal_ingredient": "agua, cebada"
+                    },
+                    "Cerveza_Corona": {
+                        "price": 700,
+                        "type": "cerveza importada",
+                        "principal_ingredient": "agua, cebada"
+                    }
+                }
+            }
+        }
+    }
+}

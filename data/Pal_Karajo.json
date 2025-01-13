@@ -1,0 +1,250 @@
+{
+    "name": "Pal'Karajo",
+    "sector": "privado",
+    "information": {
+        "website": "",
+        "instagram": "https://www.instagram.com/explore/locations/105972984834455/pal-karajo/?locale=es_ES%2F",
+        "facebook": "https://www.facebook.com/people/Pal-Karajo/100080342357924/",
+        "telephone_number": []
+    },
+    "location": {
+        "municipality": "Cotorro",
+        "direction": "Ave 101 #1601 %16 y 18 centro cotorro, Cotorro, Cuba",
+        "coordinates": ""
+    },
+    "valoration": {
+        "quality": "",
+        "google": null,
+        "cant_g": null,
+        "web": null,
+        "cant_w": null,
+        "tripadvisor": null,
+        "cant_t": null
+    },
+    "description": {
+        "type_of_restaurant": [],
+        "specialty": ["internacional"],
+        "capacity": null,
+        "areas": {
+            "inside": null,
+            "outside": null,
+            "bar": null,
+            "bathroom": null,
+            "waiting_room": null
+        },
+        "time_of_service": null
+    },
+    "schedule": {
+        "24_hours": false,
+        "open": {
+            "mon": "10:00",
+            "tue": "10:00",
+            "wed": "10:00",
+            "thu": "10:00",
+            "fri": "10:00",
+            "sat": "10:00",
+            "sun": "10:00"
+        },
+        "close": {
+            "mon": "22:00",
+            "tue": "22:00",
+            "wed": "22:00",
+            "thu": "22:00",
+            "fri": "22:00",
+            "sat": "22:00",
+            "sun": "22:00"
+        }
+    },
+    "logistics": {
+        "full_staff": null,
+        "average_salary": null
+    },
+    "sustainability": {
+        "product": {
+            "import": null,
+            "local": null
+        },
+        "ecological": null
+    },
+    "experiences": {
+        "live_music": null,
+        "show": [],
+        "karaoke": null,
+        "plays": []
+    },
+    "extras": {
+        "reservation": false,
+        "delivery": false,
+        "delibery_m": false,
+        "generator": false,
+        "wifi": false,
+        "parking": false,
+        "for_kids": null,
+        "others_extras": []
+    },
+    "pay": {
+        "cash": {
+            "cup": true,
+            "other": true
+        },
+        "transfer": true,
+        "10%": null
+    },
+    "menu": {
+        "digital_menu": null,
+        "others_languages": null,
+        "grammage": null,
+        "plate_description": null,
+        "most_popular": "",
+        "card": {
+            
+                "breakfasts": {},
+                "breads": {
+                  "pan_Pal_Karajo": {
+                    "price": 790,
+                    "type": "pan",
+                    "principal_ingredient": "pan"
+                  },
+                  "pan_con_lechon": {
+                    "price": 450,
+                    "type": "pan",
+                    "principal_ingredient": "lechón"
+                  },
+                  "pan_con_jamon": {
+                    "price": 300,
+                    "type": "pan",
+                    "principal_ingredient": "jamón"
+                  },
+                  "pan_con_chorizo": {
+                    "price": 250,
+                    "type": "pan",
+                    "principal_ingredient": "chorizo"
+                  },
+                  "pan_con_jamon_y_chorizo": {
+                    "price": 400,
+                    "type": "pan",
+                    "principal_ingredient": "jamón y chorizo"
+                  }
+                },
+                "starters": {
+                  "chicarrita_de_boniato": {
+                    "price": 200,
+                    "type": "tostones",
+                    "principal_ingredient": "boniato"
+                  }
+                },
+                "main": {
+                  "tacos_de_cerdo_mechados": {
+                    "price": 890,
+                    "type": "tacos",
+                    "principal_ingredient": "cerdo mechado"
+                  },
+                  "tacos_de_cerdo_estofados": {
+                    "price": 990,
+                    "type": "tacos",
+                    "principal_ingredient": "cerdo estofado"
+                  }
+                },
+                "fittings": {},
+                "pastas": {},
+                "pizzas": {},
+                "additions": {},
+                "dessert": {},
+                "drinks": {
+                  "general": {
+                    "jugo_de_mango": {
+                      "price": 200,
+                      "type": "jugo",
+                      "principal_ingredient": "mango"
+                    },
+                    "jugo_de_pina": {
+                      "price": 200,
+                      "type": "jugo",
+                      "principal_ingredient": "piña"
+                    },
+                    "batido_de_mango": {
+                      "price": 380,
+                      "type": "batido",
+                      "principal_ingredient": "mango"
+                    },
+                    "batido_de_mamey": {
+                      "price": 400,
+                      "type": "batido",
+                      "principal_ingredient": "mamey"
+                    },
+                    "batido_de_trigo": {
+                      "price": 380,
+                      "type": "batido",
+                      "principal_ingredient": "trigo"
+                    },
+                    "batido_de_mani": {
+                      "price": 400,
+                      "type": "batido",
+                      "principal_ingredient": "maní"
+                    },
+                    "batido_de_mani_con_chocolate": {
+                      "price": 450,
+                      "type": "batido",
+                      "principal_ingredient": "maní y chocolate"
+                    },
+                    "pina_colada": {
+                      "price": 400,
+                      "type": "coctel",
+                      "principal_ingredient": "piña y ron"
+                    },
+                    "malteada": {
+                      "price": 500,
+                      "type": "batido",
+                      "principal_ingredient": "leche"
+                    },
+                    "limonada": {
+                      "price": 400,
+                      "type": "refresco",
+                      "principal_ingredient": "limón"
+                    }
+                  },
+                  "cafes": {
+                    "expresso": {
+                      "price": 100,
+                      "type": "espresso",
+                      "principal_ingredient": "café"
+                    },
+                    "cortado": {
+                      "price": 150,
+                      "type": "cortado",
+                      "principal_ingredient": "café y leche"
+                    },
+                    "capuccino": {
+                      "price": 300,
+                      "type": "capuccino",
+                      "principal_ingredient": "café y leche"
+                    },
+                    "frapuccino": {
+                      "price": 400,
+                      "type": "frapuccino",
+                      "principal_ingredient": "café, hielo y leche"
+                    },
+                    "bombon": {
+                      "price": 300,
+                      "type": "bombon",
+                      "principal_ingredient": "café con leche condensada"
+                    }
+                  },
+                  "alcoholics": {
+                    "michelada_con_cristal": {
+                      "price": 550,
+                      "type": "coctel",
+                      "principal_ingredient": "cerveza cristal y salsa"
+                    },
+                    "chelada_con_cristal": {
+                      "price": 550,
+                      "type": "coctel",
+                      "principal_ingredient": "cerveza cristal y limón"
+                    }
+                  }
+                
+              }
+              
+        }
+    }
+}
